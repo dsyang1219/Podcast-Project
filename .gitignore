@@ -3,3 +3,5 @@ queue/
 *.log
 processed.txt
 cookies.txt
+*.mp3
+*.mp4
