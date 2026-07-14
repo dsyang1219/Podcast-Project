@@ -1,0 +1,881 @@
+collection_id,show_name,publisher,window_months,n_episodes,total_hours,median_ep_minutes,feed_truncated
+1192761536,Pod Save America,Pod Save America,12,150,206.45,82.3,False
+1192761536,Pod Save America,Pod Save America,18,218,298.1,82.1,False
+1192761536,Pod Save America,Pod Save America,24,305,389.05,76.0,False
+1192761536,Pod Save America,Pod Save America,36,444,530.65,71.6,False
+1510240831,The MeidasTouch Podcast,MeidasTouch Network,12,1772,801.23,21.5,False
+1510240831,The MeidasTouch Podcast,MeidasTouch Network,18,2503,1096.99,21.1,False
+1510240831,The MeidasTouch Podcast,MeidasTouch Network,24,3020,1316.89,20.9,False
+1510240831,The MeidasTouch Podcast,MeidasTouch Network,36,3601,1635.03,20.5,False
+1794450472,Bulwark Takes,The Bulwark,12,500,236.07,23.3,True
+1794450472,Bulwark Takes,The Bulwark,18,500,236.07,23.3,True
+1794450472,Bulwark Takes,The Bulwark,24,500,236.07,23.3,True
+1794450472,Bulwark Takes,The Bulwark,36,500,236.07,23.3,True
+1447684472,The Bulwark Podcast,The Bulwark,12,257,247.02,56.9,True
+1447684472,The Bulwark Podcast,The Bulwark,18,382,368.28,56.9,True
+1447684472,The Bulwark Podcast,The Bulwark,24,500,466.81,54.7,True
+1447684472,The Bulwark Podcast,The Bulwark,36,500,466.81,54.7,True
+1730358737,Letters from an American,Heather Cox Richardson,12,351,70.15,12.1,False
+1730358737,Letters from an American,Heather Cox Richardson,18,523,105.86,12.2,False
+1730358737,Letters from an American,Heather Cox Richardson,24,683,135.67,11.9,False
+1730358737,Letters from an American,Heather Cox Richardson,36,823,159.58,11.6,False
+1750591415,Candace,Candace Owens,12,165,177.4,62.4,True
+1750591415,Candace,Candace Owens,18,262,267.11,59.2,True
+1750591415,Candace,Candace Owens,24,377,375.11,56.8,True
+1750591415,Candace,Candace Owens,36,402,391.92,56.0,True
+1617887885,The President's Daily Brief,The First TV,12,578,228.49,22.5,False
+1617887885,The President's Daily Brief,The First TV,18,866,331.31,21.4,False
+1617887885,The President's Daily Brief,The First TV,24,1156,427.64,19.6,False
+1617887885,The President's Daily Brief,The First TV,36,1570,538.7,17.7,False
+1050430296,The New Yorker Radio Hour,WNYC Studios and The New Yorker,12,105,51.61,27.2,False
+1050430296,The New Yorker Radio Hour,WNYC Studios and The New Yorker,18,157,74.98,27.0,False
+1050430296,The New Yorker Radio Hour,WNYC Studios and The New Yorker,24,212,100.35,26.9,False
+1050430296,The New Yorker Radio Hour,WNYC Studios and The New Yorker,36,320,149.62,26.8,False
+1057255460,The NPR Politics Podcast,NPR,12,268,87.12,18.4,False
+1057255460,The NPR Politics Podcast,NPR,18,400,123.34,17.5,False
+1057255460,The NPR Politics Podcast,NPR,24,535,161.23,17.1,False
+1057255460,The NPR Politics Podcast,NPR,36,802,236.39,16.6,False
+1865794721,Real Baron Podcast,Baron Coleman,12,143,459.93,202.2,True
+1865794721,Real Baron Podcast,Baron Coleman,18,143,459.93,202.2,True
+1865794721,Real Baron Podcast,Baron Coleman,24,143,459.93,202.2,True
+1865794721,Real Baron Podcast,Baron Coleman,36,143,459.93,202.2,True
+1495601614,Verdict with Ted Cruz,Premiere Networks,12,407,238.18,33.9,False
+1495601614,Verdict with Ted Cruz,Premiere Networks,18,588,342.16,33.7,False
+1495601614,Verdict with Ted Cruz,Premiere Networks,24,698,412.84,34.3,False
+1495601614,Verdict with Ted Cruz,Premiere Networks,36,902,546.64,35.6,False
+1645614328,Fast Politics with Molly Jong-Fast,iHeartPodcasts,12,208,164.7,47.6,False
+1645614328,Fast Politics with Molly Jong-Fast,iHeartPodcasts,18,312,244.92,47.2,False
+1645614328,Fast Politics with Molly Jong-Fast,iHeartPodcasts,24,406,319.59,47.1,False
+1645614328,Fast Politics with Molly Jong-Fast,iHeartPodcasts,36,566,452.41,48.2,False
+1640311112,The Necessary Conversation,The Necessary Conversation,12,90,84.59,61.6,False
+1640311112,The Necessary Conversation,The Necessary Conversation,18,115,111.9,62.8,False
+1640311112,The Necessary Conversation,The Necessary Conversation,24,139,135.47,62.3,False
+1640311112,The Necessary Conversation,The Necessary Conversation,36,176,170.3,61.0,False
+1647085571,The Next Level,The Bulwark,12,100,82.08,51.1,False
+1647085571,The Next Level,The Bulwark,18,126,111.2,60.8,False
+1647085571,The Next Level,The Bulwark,24,162,140.09,57.2,False
+1647085571,The Next Level,The Bulwark,36,290,229.69,49.3,False
+1258635512,Radio Atlantic,The Atlantic,12,63,32.29,30.4,False
+1258635512,Radio Atlantic,The Atlantic,18,93,47.31,30.5,False
+1258635512,Radio Atlantic,The Atlantic,24,122,62.08,30.7,False
+1258635512,Radio Atlantic,The Atlantic,36,176,88.36,30.0,False
+268213039,The Political Scene | The New Yorker,The New Yorker,12,135,92.02,41.6,True
+268213039,The Political Scene | The New Yorker,The New Yorker,18,150,101.71,41.5,True
+268213039,The Political Scene | The New Yorker,The New Yorker,24,150,101.71,41.5,True
+268213039,The Political Scene | The New Yorker,The New Yorker,36,150,101.71,41.5,True
+1535384390,Ruthless Podcast,"Josh Holmes, Comfortably Smug, Michael Duncan and John Ashbrook",12,158,216.01,81.2,False
+1535384390,Ruthless Podcast,"Josh Holmes, Comfortably Smug, Michael Duncan and John Ashbrook",18,213,292.03,81.2,False
+1535384390,Ruthless Podcast,"Josh Holmes, Comfortably Smug, Michael Duncan and John Ashbrook",24,273,368.74,80.3,False
+1535384390,Ruthless Podcast,"Josh Holmes, Comfortably Smug, Michael Duncan and John Ashbrook",36,387,532.61,81.0,False
+1408796715,Runaway Country with Alex Wagner,Runaway Country with Alex Wagner,12,37,40.52,69.5,False
+1408796715,Runaway Country with Alex Wagner,Runaway Country with Alex Wagner,18,37,40.52,69.5,False
+1408796715,Runaway Country with Alex Wagner,Runaway Country with Alex Wagner,24,40,43.06,67.6,False
+1408796715,Runaway Country with Alex Wagner,Runaway Country with Alex Wagner,36,46,47.95,66.2,False
+1774505095,Raging Moderates with Scott Galloway and Jessica Tarlov,Vox Media Podcast Network,12,138,94.71,39.8,True
+1774505095,Raging Moderates with Scott Galloway and Jessica Tarlov,Vox Media Podcast Network,18,184,135.91,41.9,True
+1774505095,Raging Moderates with Scott Galloway and Jessica Tarlov,Vox Media Podcast Network,24,203,151.37,43.2,True
+1774505095,Raging Moderates with Scott Galloway and Jessica Tarlov,Vox Media Podcast Network,36,203,151.37,43.2,True
+1570045623,Breaking Points with Krystal and Saagar,iHeartPodcasts,12,448,460.6,59.4,False
+1570045623,Breaking Points with Krystal and Saagar,iHeartPodcasts,18,637,682.38,60.5,False
+1570045623,Breaking Points with Krystal and Saagar,iHeartPodcasts,24,781,859.61,60.8,False
+1570045623,Breaking Points with Krystal and Saagar,iHeartPodcasts,36,1092,1240.89,62.7,False
+1317481380,UnJustified,MSW Media,12,55,57.8,62.9,False
+1317481380,UnJustified,MSW Media,18,87,92.47,63.0,False
+1317481380,UnJustified,MSW Media,24,119,126.89,63.6,False
+1317481380,UnJustified,MSW Media,36,175,191.1,65.4,False
+73330715,On the Media,WNYC Studios,12,104,64.06,45.5,False
+73330715,On the Media,WNYC Studios,18,156,97.63,48.6,False
+73330715,On the Media,WNYC Studios,24,208,131.03,49.6,False
+73330715,On the Media,WNYC Studios,36,313,194.51,50.0,False
+1200016351,Pod Save the World,Pod Save the World,12,55,84.63,95.8,False
+1200016351,Pod Save the World,Pod Save the World,18,85,127.14,94.5,False
+1200016351,Pod Save the World,Pod Save the World,24,116,166.12,91.0,False
+1200016351,Pod Save the World,Pod Save the World,36,183,242.26,83.4,False
+1692806415,The Briefing with Jen Psaki,"MS NOW, Jen Psaki",12,202,143.19,41.5,False
+1692806415,The Briefing with Jen Psaki,"MS NOW, Jen Psaki",18,272,192.74,41.6,False
+1692806415,The Briefing with Jen Psaki,"MS NOW, Jen Psaki",24,319,225.53,41.6,False
+1692806415,The Briefing with Jen Psaki,"MS NOW, Jen Psaki",36,404,284.78,41.5,False
+1551206847,#SistersInLaw,Politicon,12,76,63.9,57.5,False
+1551206847,#SistersInLaw,Politicon,18,102,91.12,58.8,False
+1551206847,#SistersInLaw,Politicon,24,130,119.59,59.8,False
+1551206847,#SistersInLaw,Politicon,36,182,174.33,60.2,False
+1485351658,Bannon`s War Room,WarRoom.org,12,1119,1561.22,81.6,False
+1485351658,Bannon`s War Room,WarRoom.org,18,1680,2352.13,82.3,False
+1485351658,Bannon`s War Room,WarRoom.org,24,2223,3099.36,82.6,False
+1485351658,Bannon`s War Room,WarRoom.org,36,3333,4637.71,82.8,False
+1507444393,X22 Report,X22 Report,12,294,439.82,93.7,True
+1507444393,X22 Report,X22 Report,18,328,490.21,93.3,True
+1507444393,X22 Report,X22 Report,24,328,490.21,93.3,True
+1507444393,X22 Report,X22 Report,36,328,490.21,93.3,True
+1314170606,All In with Chris Hayes,"MS NOW, Chris Hayes",12,198,141.48,42.1,True
+1314170606,All In with Chris Hayes,"MS NOW, Chris Hayes",18,232,165.67,42.1,True
+1314170606,All In with Chris Hayes,"MS NOW, Chris Hayes",24,232,165.67,42.1,True
+1314170606,All In with Chris Hayes,"MS NOW, Chris Hayes",36,232,165.67,42.1,True
+1795032531,The Jim Acosta Show,Jim Acosta,12,135,128.58,56.5,True
+1795032531,The Jim Acosta Show,Jim Acosta,18,261,229.84,55.9,True
+1795032531,The Jim Acosta Show,Jim Acosta,24,261,229.84,55.9,True
+1795032531,The Jim Acosta Show,Jim Acosta,36,261,229.84,55.9,True
+1367201919,Deadline: White House,"Nicolle Wallace, MS NOW",12,459,340.36,42.4,False
+1367201919,Deadline: White House,"Nicolle Wallace, MS NOW",18,459,340.36,42.4,False
+1367201919,Deadline: White House,"Nicolle Wallace, MS NOW",24,462,343.18,42.4,False
+1367201919,Deadline: White House,"Nicolle Wallace, MS NOW",36,469,349.99,42.4,False
+75462585,NBC Nightly News with Tom Llamas,NBC News,12,347,112.74,20.1,False
+75462585,NBC Nightly News with Tom Llamas,NBC News,18,525,169.43,20.0,False
+75462585,NBC Nightly News with Tom Llamas,NBC News,24,705,229.99,20.3,False
+75462585,NBC Nightly News with Tom Llamas,NBC News,36,890,289.88,20.3,False
+1674095262,The Wright Report,Bryan Dean Wright,12,261,137.64,32.9,False
+1674095262,The Wright Report,Bryan Dean Wright,18,391,202.61,31.8,False
+1674095262,The Wright Report,Bryan Dean Wright,24,522,264.65,30.8,False
+1674095262,The Wright Report,Bryan Dean Wright,36,786,391.23,30.4,False
+1456045551,Talking Feds,Harry Litman,12,107,87.17,53.5,False
+1456045551,Talking Feds,Harry Litman,18,164,132.59,53.9,False
+1456045551,Talking Feds,Harry Litman,24,212,173.16,54.1,False
+1456045551,Talking Feds,Harry Litman,36,269,228.59,55.5,False
+1876034889,Breaking News from Pod Save America,Crooked Media,12,210,80.06,21.6,True
+1876034889,Breaking News from Pod Save America,Crooked Media,18,241,90.95,21.4,True
+1876034889,Breaking News from Pod Save America,Crooked Media,24,241,90.95,21.4,True
+1876034889,Breaking News from Pod Save America,Crooked Media,36,241,90.95,21.4,True
+1551582052,The Lincoln Project,The Lincoln Project,12,105,68.21,37.8,False
+1551582052,The Lincoln Project,The Lincoln Project,18,161,92.55,33.6,False
+1551582052,The Lincoln Project,The Lincoln Project,24,241,131.05,32.6,False
+1551582052,The Lincoln Project,The Lincoln Project,36,344,195.28,33.5,False
+158004641,Political Gabfest,Slate Podcasts,12,64,62.17,61.7,False
+158004641,Political Gabfest,Slate Podcasts,18,96,92.82,62.1,False
+158004641,Political Gabfest,Slate Podcasts,24,128,121.38,60.6,False
+158004641,Political Gabfest,Slate Podcasts,36,204,184.16,58.2,False
+1303660358,The Fox News Rundown,FOX News Podcasts,12,841,355.17,25.0,True
+1303660358,The Fox News Rundown,FOX News Podcasts,18,1200,504.86,24.5,True
+1303660358,The Fox News Rundown,FOX News Podcasts,24,1200,504.86,24.5,True
+1303660358,The Fox News Rundown,FOX News Podcasts,36,1200,504.86,24.5,True
+1743030473,The Rest Is Politics: US,Goalhanger,12,118,77.95,42.1,True
+1743030473,The Rest Is Politics: US,Goalhanger,18,165,112.8,42.9,True
+1743030473,The Rest Is Politics: US,Goalhanger,24,211,146.77,43.4,True
+1743030473,The Rest Is Politics: US,Goalhanger,36,225,156.25,43.4,True
+1490993194,Advisory Opinions,The Dispatch,12,104,115.78,66.4,False
+1490993194,Advisory Opinions,The Dispatch,18,157,176.24,66.5,False
+1490993194,Advisory Opinions,The Dispatch,24,206,232.82,67.2,False
+1490993194,Advisory Opinions,The Dispatch,36,310,358.01,68.9,False
+1586423406,The Focus Group Podcast,The Bulwark,12,50,45.61,52.6,False
+1586423406,The Focus Group Podcast,The Bulwark,18,75,68.02,53.1,False
+1586423406,The Focus Group Podcast,The Bulwark,24,97,88.5,53.6,False
+1586423406,The Focus Group Podcast,The Bulwark,36,138,121.47,52.2,False
+91959525,This Week with George Stephanopoulos,ABC News,12,57,47.14,50.6,True
+91959525,This Week with George Stephanopoulos,ABC News,18,60,49.64,50.6,True
+91959525,This Week with George Stephanopoulos,ABC News,24,60,49.64,50.6,True
+91959525,This Week with George Stephanopoulos,ABC News,36,60,49.64,50.6,True
+1529346075,Impolitic with John Heilemann,Audacy | Puck,12,107,126.63,71.4,False
+1529346075,Impolitic with John Heilemann,Audacy | Puck,18,161,191.53,71.7,False
+1529346075,Impolitic with John Heilemann,Audacy | Puck,24,224,264.61,71.3,False
+1529346075,Impolitic with John Heilemann,Audacy | Puck,36,237,277.0,71.0,False
+1788738240,It’s That Part,Jesse Lee Hammonds,12,13,6.57,32.9,True
+1788738240,It’s That Part,Jesse Lee Hammonds,18,28,12.3,23.8,True
+1788738240,It’s That Part,Jesse Lee Hammonds,24,28,12.3,23.8,True
+1788738240,It’s That Part,Jesse Lee Hammonds,36,28,12.3,23.8,True
+1515399733,No Lie with Brian Tyler Cohen,Brian Tyler Cohen,12,79,76.09,59.5,False
+1515399733,No Lie with Brian Tyler Cohen,Brian Tyler Cohen,18,105,101.04,59.2,False
+1515399733,No Lie with Brian Tyler Cohen,Brian Tyler Cohen,24,136,121.02,54.3,False
+1515399733,No Lie with Brian Tyler Cohen,Brian Tyler Cohen,36,188,145.67,46.3,False
+1169056746,The Playbook Podcast,POLITICO,12,289,92.98,14.7,False
+1169056746,The Playbook Podcast,POLITICO,18,417,118.69,14.0,False
+1169056746,The Playbook Podcast,POLITICO,24,529,137.64,13.2,False
+1169056746,The Playbook Podcast,POLITICO,36,768,171.44,10.8,False
+1495251160,John Solomon Reports,John Solomon,12,358,250.27,40.5,False
+1495251160,John Solomon Reports,John Solomon,18,538,379.42,41.0,False
+1495251160,John Solomon Reports,John Solomon,24,719,511.76,41.6,False
+1495251160,John Solomon Reports,John Solomon,36,1085,775.26,42.1,False
+1549272440,The Daily Punch,Punchbowl News,12,344,87.98,13.0,False
+1549272440,The Daily Punch,Punchbowl News,18,512,124.78,13.2,False
+1549272440,The Daily Punch,Punchbowl News,24,645,151.84,13.0,False
+1549272440,The Daily Punch,Punchbowl News,36,903,204.99,12.8,False
+1291144720,The Remnant with Jonah Goldberg,The Dispatch,12,157,189.46,74.7,False
+1291144720,The Remnant with Jonah Goldberg,The Dispatch,18,237,287.2,74.7,False
+1291144720,The Remnant with Jonah Goldberg,The Dispatch,24,313,379.02,74.6,False
+1291144720,The Remnant with Jonah Goldberg,The Dispatch,36,470,576.01,74.7,False
+1725387804,The Illegal News with Sarah Longwell,The Bulwark,12,51,47.93,56.5,True
+1725387804,The Illegal News with Sarah Longwell,The Bulwark,18,76,68.54,52.9,True
+1725387804,The Illegal News with Sarah Longwell,The Bulwark,24,96,83.79,50.9,True
+1725387804,The Illegal News with Sarah Longwell,The Bulwark,36,120,100.03,47.9,True
+1810218232,Next Up with Mark Halperin,MK Media,12,101,117.18,70.8,True
+1810218232,Next Up with Mark Halperin,MK Media,18,123,141.55,70.3,True
+1810218232,Next Up with Mark Halperin,MK Media,24,123,141.55,70.3,True
+1810218232,Next Up with Mark Halperin,MK Media,36,123,141.55,70.3,True
+78911087,Face the Nation with Margaret Brennan,CBS News,12,73,49.18,45.9,False
+78911087,Face the Nation with Margaret Brennan,CBS News,18,109,73.07,46.0,False
+78911087,Face the Nation with Margaret Brennan,CBS News,24,139,94.81,46.0,False
+78911087,Face the Nation with Margaret Brennan,CBS News,36,199,138.45,46.0,False
+597919007,The Young Turks,TYT Network,12,256,457.49,129.6,False
+597919007,The Young Turks,TYT Network,18,390,596.06,67.3,False
+597919007,The Young Turks,TYT Network,24,517,726.55,65.1,False
+597919007,The Young Turks,TYT Network,36,774,991.94,63.0,False
+1314368109,The 11th Hour with Ali Velshi,"MS NOW, Ali Velshi",12,145,101.38,42.4,False
+1314368109,The 11th Hour with Ali Velshi,"MS NOW, Ali Velshi",18,145,101.38,42.4,False
+1314368109,The 11th Hour with Ali Velshi,"MS NOW, Ali Velshi",24,147,102.26,42.4,False
+1314368109,The 11th Hour with Ali Velshi,"MS NOW, Ali Velshi",36,147,102.26,42.4,False
+1536169792,Talkin‘ Politics & Religion Without Killin‘ Each Other,"Scan Media, LLC",12,109,101.87,65.9,False
+1536169792,Talkin‘ Politics & Religion Without Killin‘ Each Other,"Scan Media, LLC",18,162,156.33,65.8,False
+1536169792,Talkin‘ Politics & Religion Without Killin‘ Each Other,"Scan Media, LLC",24,213,207.97,65.5,False
+1536169792,Talkin‘ Politics & Religion Without Killin‘ Each Other,"Scan Media, LLC",36,290,288.55,65.4,False
+929121341,Louder with Crowder,Louder with Crowder,12,201,227.31,64.2,False
+929121341,Louder with Crowder,Louder with Crowder,18,310,348.82,63.6,False
+929121341,Louder with Crowder,Louder with Crowder,24,396,467.0,63.8,False
+929121341,Louder with Crowder,Louder with Crowder,36,570,672.83,64.1,False
+1386375601,The Ben Ferguson Podcast,iHeartPodcasts,12,885,389.69,29.3,False
+1386375601,The Ben Ferguson Podcast,iHeartPodcasts,18,1324,577.24,29.1,False
+1386375601,The Ben Ferguson Podcast,iHeartPodcasts,24,1625,754.06,30.1,False
+1386375601,The Ben Ferguson Podcast,iHeartPodcasts,36,2200,1074.54,30.4,False
+1818418128,Pod Force One,New York Post,12,104,64.26,31.9,True
+1818418128,Pod Force One,New York Post,18,111,68.71,38.8,True
+1818418128,Pod Force One,New York Post,24,111,68.71,38.8,True
+1818418128,Pod Force One,New York Post,36,111,68.71,38.8,True
+402050558,The David Pakman Show,David Pakman,12,274,297.07,67.1,False
+402050558,The David Pakman Show,David Pakman,18,412,443.56,66.0,False
+402050558,The David Pakman Show,David Pakman,24,543,591.07,66.5,False
+402050558,The David Pakman Show,David Pakman,36,805,872.54,65.5,False
+219258773,Brian Kilmeade Show,FOX News Podcasts,12,615,644.89,41.5,False
+219258773,Brian Kilmeade Show,FOX News Podcasts,18,876,956.31,42.2,False
+219258773,Brian Kilmeade Show,FOX News Podcasts,24,1081,1234.68,42.2,False
+219258773,Brian Kilmeade Show,FOX News Podcasts,36,1500,1808.1,122.2,False
+1265845136,Stay Tuned with Preet,Preet Bharara,12,98,67.47,52.5,False
+1265845136,Stay Tuned with Preet,Preet Bharara,18,162,109.79,42.1,False
+1265845136,Stay Tuned with Preet,Preet Bharara,24,230,155.68,36.1,False
+1265845136,Stay Tuned with Preet,Preet Bharara,36,377,249.4,32.3,False
+1474001390,TRUE ANON TRUTH FEED,TrueAnon,12,93,92.65,73.8,False
+1474001390,TRUE ANON TRUTH FEED,TrueAnon,18,126,138.4,85.5,False
+1474001390,TRUE ANON TRUTH FEED,TrueAnon,24,158,175.23,84.8,False
+1474001390,TRUE ANON TRUTH FEED,TrueAnon,36,232,247.73,76.7,False
+1506127536,Making the Argument with Nick Freitas,Nick Freitas,12,185,193.47,59.5,True
+1506127536,Making the Argument with Nick Freitas,Nick Freitas,18,238,270.23,67.0,True
+1506127536,Making the Argument with Nick Freitas,Nick Freitas,24,290,359.37,70.1,True
+1506127536,Making the Argument with Nick Freitas,Nick Freitas,36,300,373.89,71.4,True
+1681586867,The Warning with Steve Schmidt,iHeartPodcasts,12,384,134.02,9.4,False
+1681586867,The Warning with Steve Schmidt,iHeartPodcasts,18,548,187.9,9.7,False
+1681586867,The Warning with Steve Schmidt,iHeartPodcasts,24,699,225.17,10.0,False
+1681586867,The Warning with Steve Schmidt,iHeartPodcasts,36,936,304.71,10.9,False
+1873028393,Politics Chat,Heather Cox Richardson,12,48,37.89,47.4,True
+1873028393,Politics Chat,Heather Cox Richardson,18,48,37.89,47.4,True
+1873028393,Politics Chat,Heather Cox Richardson,24,48,37.89,47.4,True
+1873028393,Politics Chat,Heather Cox Richardson,36,48,37.89,47.4,True
+1679657705,Main Justice,"MS NOW, Andrew Weissmann, Mary McCord",12,63,50.79,54.2,False
+1679657705,Main Justice,"MS NOW, Andrew Weissmann, Mary McCord",18,94,77.87,54.5,False
+1679657705,Main Justice,"MS NOW, Andrew Weissmann, Mary McCord",24,124,101.67,53.0,False
+1679657705,Main Justice,"MS NOW, Andrew Weissmann, Mary McCord",36,210,172.78,50.3,False
+1138657182,Liberty Lockdown,Clint Russell,12,83,70.14,44.8,False
+1138657182,Liberty Lockdown,Clint Russell,18,124,116.52,49.0,False
+1138657182,Liberty Lockdown,Clint Russell,24,159,160.17,52.9,False
+1138657182,Liberty Lockdown,Clint Russell,36,239,255.6,58.7,False
+402306412,The Majority Report with Sam Seder,Sam Seder,12,25,32.89,78.3,True
+402306412,The Majority Report with Sam Seder,Sam Seder,18,25,32.89,78.3,True
+402306412,The Majority Report with Sam Seder,Sam Seder,24,25,32.89,78.3,True
+402306412,The Majority Report with Sam Seder,Sam Seder,36,25,32.89,78.3,True
+1364113251,The Beat with Ari Melber,"Ari Melber, MS NOW",12,256,173.87,41.3,False
+1364113251,The Beat with Ari Melber,"Ari Melber, MS NOW",18,389,266.16,41.3,False
+1364113251,The Beat with Ari Melber,"Ari Melber, MS NOW",24,504,346.84,41.4,False
+1364113251,The Beat with Ari Melber,"Ari Melber, MS NOW",36,772,539.12,41.4,False
+1854256395,America First with Nicholas J. Fuentes Repost,WANGHAF,12,100,215.56,127.7,True
+1854256395,America First with Nicholas J. Fuentes Repost,WANGHAF,18,100,215.56,127.7,True
+1854256395,America First with Nicholas J. Fuentes Repost,WANGHAF,24,100,215.56,127.7,True
+1854256395,America First with Nicholas J. Fuentes Repost,WANGHAF,36,100,215.56,127.7,True
+354628391,Renegade Talk Radio,Renegade Talk Radio,12,963,1414.5,92.3,False
+354628391,Renegade Talk Radio,Renegade Talk Radio,18,1477,2136.35,88.5,False
+354628391,Renegade Talk Radio,Renegade Talk Radio,24,2014,2874.83,94.0,False
+354628391,Renegade Talk Radio,Renegade Talk Radio,36,3080,4338.31,101.4,False
+1595408601,The PoliticsGirl Podcast,"Meidas Media Network, Leigh McGowan",12,53,45.05,52.4,False
+1595408601,The PoliticsGirl Podcast,"Meidas Media Network, Leigh McGowan",18,80,68.72,52.4,False
+1595408601,The PoliticsGirl Podcast,"Meidas Media Network, Leigh McGowan",24,107,90.2,51.8,False
+1595408601,The PoliticsGirl Podcast,"Meidas Media Network, Leigh McGowan",36,159,136.34,52.1,False
+1467297559,Hacks On Tap,Vox Media,12,49,53.34,65.4,False
+1467297559,Hacks On Tap,Vox Media,18,76,80.49,63.7,False
+1467297559,Hacks On Tap,Vox Media,24,103,107.98,63.6,False
+1467297559,Hacks On Tap,Vox Media,36,152,156.39,62.8,False
+1728152109,THE DAILY BLAST with Greg Sargent,Greg Sargent,12,236,92.03,23.3,True
+1728152109,THE DAILY BLAST with Greg Sargent,Greg Sargent,18,362,140.37,23.2,True
+1728152109,THE DAILY BLAST with Greg Sargent,Greg Sargent,24,472,187.46,23.5,True
+1728152109,THE DAILY BLAST with Greg Sargent,Greg Sargent,36,586,240.38,24.0,True
+1484862164,Politics War Room with James Carville & Al Hunt,Politicon,12,61,65.48,71.3,False
+1484862164,Politics War Room with James Carville & Al Hunt,Politicon,18,87,93.29,66.7,False
+1484862164,Politics War Room with James Carville & Al Hunt,Politicon,24,121,127.39,65.5,False
+1484862164,Politics War Room with James Carville & Al Hunt,Politicon,36,174,190.11,66.8,False
+1452065072,Newt's World,Gingrich 360,12,141,79.49,33.4,False
+1452065072,Newt's World,Gingrich 360,18,212,118.95,32.5,False
+1452065072,Newt's World,Gingrich 360,24,285,158.48,32.4,False
+1452065072,Newt's World,Gingrich 360,36,426,240.24,33.2,False
+1790957194,The 47 Morning Update with Ben Ferguson,Premiere Networks,12,518,200.38,17.3,False
+1790957194,The 47 Morning Update with Ben Ferguson,Premiere Networks,18,774,296.17,17.0,False
+1790957194,The 47 Morning Update with Ben Ferguson,Premiere Networks,24,884,366.85,20.0,False
+1790957194,The 47 Morning Update with Ben Ferguson,Premiere Networks,36,1088,500.65,30.4,False
+1462703434,Know Your Enemy,Matthew Sitman,12,49,37.98,61.2,False
+1462703434,Know Your Enemy,Matthew Sitman,18,73,57.26,60.8,False
+1462703434,Know Your Enemy,Matthew Sitman,24,100,75.67,59.7,False
+1462703434,Know Your Enemy,Matthew Sitman,36,141,108.87,61.2,False
+1886801652,Sidebar with Katie Phang,Katie Phang,12,132,53.27,21.1,True
+1886801652,Sidebar with Katie Phang,Katie Phang,18,132,53.27,21.1,True
+1886801652,Sidebar with Katie Phang,Katie Phang,24,132,53.27,21.1,True
+1886801652,Sidebar with Katie Phang,Katie Phang,36,132,53.27,21.1,True
+1584730781,The Benny Show,Benny Johnson,12,200,347.15,101.5,False
+1584730781,The Benny Show,Benny Johnson,18,313,599.44,109.4,False
+1584730781,The Benny Show,Benny Johnson,24,406,769.56,107.9,False
+1584730781,The Benny Show,Benny Johnson,36,605,1034.43,94.7,False
+1517313007,The Hugh Hewitt Show: Highly Concentrated,Salem Podcast Network,12,100,115.72,70.0,True
+1517313007,The Hugh Hewitt Show: Highly Concentrated,Salem Podcast Network,18,100,115.72,70.0,True
+1517313007,The Hugh Hewitt Show: Highly Concentrated,Salem Podcast Network,24,100,115.72,70.0,True
+1517313007,The Hugh Hewitt Show: Highly Concentrated,Salem Podcast Network,36,100,115.72,70.0,True
+1441649707,Straight White American Jesus,Bradley Onishi + Daniel Miller,12,191,150.68,44.4,False
+1441649707,Straight White American Jesus,Bradley Onishi + Daniel Miller,18,288,219.85,42.9,False
+1441649707,Straight White American Jesus,Bradley Onishi + Daniel Miller,24,384,286.27,41.2,False
+1441649707,Straight White American Jesus,Bradley Onishi + Daniel Miller,36,555,410.63,40.8,False
+1195206601,The Intercept Briefing,The Intercept,12,58,37.47,38.8,False
+1195206601,The Intercept Briefing,The Intercept,18,86,55.85,38.8,False
+1195206601,The Intercept Briefing,The Intercept,24,97,61.39,37.9,False
+1195206601,The Intercept Briefing,The Intercept,36,139,96.67,41.0,False
+1889550138,The Loren Piretra Show,Loren Piretra,12,103,22.74,12.5,True
+1889550138,The Loren Piretra Show,Loren Piretra,18,103,22.74,12.5,True
+1889550138,The Loren Piretra Show,Loren Piretra,24,103,22.74,12.5,True
+1889550138,The Loren Piretra Show,Loren Piretra,36,103,22.74,12.5,True
+1538788132,Tangle,Isaac Saul,12,308,186.22,29.8,False
+1538788132,Tangle,Isaac Saul,18,463,268.7,29.9,False
+1538788132,Tangle,Isaac Saul,24,596,345.17,29.7,False
+1538788132,Tangle,Isaac Saul,36,824,474.72,29.2,False
+1294461271,GZERO World with Ian Bremmer,GZERO Media,12,48,24.16,28.2,False
+1294461271,GZERO World with Ian Bremmer,GZERO Media,18,75,37.43,28.3,False
+1294461271,GZERO World with Ian Bremmer,GZERO Media,24,103,52.92,29.4,False
+1294461271,GZERO World with Ian Bremmer,GZERO Media,36,149,76.17,29.8,False
+1585243541,Human Events Daily with Jack Posobiec,Human Events with Jack Posobiec,12,318,274.07,48.2,False
+1585243541,Human Events Daily with Jack Posobiec,Human Events with Jack Posobiec,18,475,391.07,48.0,False
+1585243541,Human Events Daily with Jack Posobiec,Human Events with Jack Posobiec,24,616,514.13,48.2,False
+1585243541,Human Events Daily with Jack Posobiec,Human Events with Jack Posobiec,36,933,799.95,48.8,False
+1253076699,The Michael Berry Show,KTRH (KTRH-AM),12,1471,761.68,32.4,True
+1253076699,The Michael Berry Show,KTRH (KTRH-AM),18,2158,1138.1,32.5,True
+1253076699,The Michael Berry Show,KTRH (KTRH-AM),24,2754,1458.17,32.7,True
+1253076699,The Michael Berry Show,KTRH (KTRH-AM),36,2754,1458.17,32.7,True
+1635418897,The Chris Cuomo Project,Chris Cuomo,12,114,94.52,47.9,False
+1635418897,The Chris Cuomo Project,Chris Cuomo,18,171,140.63,47.7,False
+1635418897,The Chris Cuomo Project,Chris Cuomo,24,226,179.21,45.9,False
+1635418897,The Chris Cuomo Project,Chris Cuomo,36,333,243.18,40.7,False
+969924303,The Skepticrat,"Puzzle in a Thunderstorm, LLC",12,23,19.99,52.0,False
+969924303,The Skepticrat,"Puzzle in a Thunderstorm, LLC",18,36,30.29,50.0,False
+969924303,The Skepticrat,"Puzzle in a Thunderstorm, LLC",24,46,38.42,49.8,False
+969924303,The Skepticrat,"Puzzle in a Thunderstorm, LLC",36,71,55.87,47.7,False
+1623855270,The Foreign Affairs Interview,Foreign Affairs Magazine,12,53,51.01,58.1,True
+1623855270,The Foreign Affairs Interview,Foreign Affairs Magazine,18,74,69.34,56.7,True
+1623855270,The Foreign Affairs Interview,Foreign Affairs Magazine,24,89,79.5,54.4,True
+1623855270,The Foreign Affairs Interview,Foreign Affairs Magazine,36,100,87.17,53.5,True
+73331636,The Brian Lehrer Show,WNYC,12,1066,522.09,26.2,True
+73331636,The Brian Lehrer Show,WNYC,18,1584,777.04,26.1,True
+73331636,The Brian Lehrer Show,WNYC,24,2000,1007.28,26.6,True
+73331636,The Brian Lehrer Show,WNYC,36,2000,1007.28,26.6,True
+1822142909,Glenn Diesen - Greater Eurasia Podcast,Glenn Diesen,12,544,425.49,47.4,True
+1822142909,Glenn Diesen - Greater Eurasia Podcast,Glenn Diesen,18,812,621.51,46.4,True
+1822142909,Glenn Diesen - Greater Eurasia Podcast,Glenn Diesen,24,820,627.89,46.4,True
+1822142909,Glenn Diesen - Greater Eurasia Podcast,Glenn Diesen,36,820,627.89,46.4,True
+1072469956,Fox Across America w/ Jimmy Failla,FOX News Podcasts,12,529,604.2,21.5,False
+1072469956,Fox Across America w/ Jimmy Failla,FOX News Podcasts,18,726,887.97,122.7,False
+1072469956,Fox Across America w/ Jimmy Failla,FOX News Podcasts,24,885,1162.08,122.7,False
+1072469956,Fox Across America w/ Jimmy Failla,FOX News Podcasts,36,1199,1710.39,122.7,False
+1218054701,Rev Left Radio,Revolutionary Left Radio,12,75,128.25,106.2,False
+1218054701,Rev Left Radio,Revolutionary Left Radio,18,167,283.36,102.3,False
+1218054701,Rev Left Radio,Revolutionary Left Radio,24,200,333.68,99.8,False
+1218054701,Rev Left Radio,Revolutionary Left Radio,36,277,451.08,96.8,False
+1456850698,The Graham Allen Show,Graham Allen,12,289,322.41,63.3,False
+1456850698,The Graham Allen Show,Graham Allen,18,531,605.96,64.4,False
+1456850698,The Graham Allen Show,Graham Allen,24,681,799.37,66.5,False
+1456850698,The Graham Allen Show,Graham Allen,36,886,1027.71,66.6,False
+1805186512,Going Rogue with Lara Logan,Lara Logan,12,62,90.94,84.7,True
+1805186512,Going Rogue with Lara Logan,Lara Logan,18,88,130.02,86.0,True
+1805186512,Going Rogue with Lara Logan,Lara Logan,24,88,130.02,86.0,True
+1805186512,Going Rogue with Lara Logan,Lara Logan,36,88,130.02,86.0,True
+1509826894,RealClearPolitics Podcast,"RealClearPolitics, Carl Cannon, Tom Bevan",12,248,200.25,50.0,True
+1509826894,RealClearPolitics Podcast,"RealClearPolitics, Carl Cannon, Tom Bevan",18,377,297.48,45.1,True
+1509826894,RealClearPolitics Podcast,"RealClearPolitics, Carl Cannon, Tom Bevan",24,505,393.81,45.1,True
+1509826894,RealClearPolitics Podcast,"RealClearPolitics, Carl Cannon, Tom Bevan",36,600,461.66,45.1,True
+716825890,The Tom Woods Show,Tom Woods,12,110,94.06,50.0,False
+716825890,The Tom Woods Show,Tom Woods,18,185,150.84,47.8,False
+716825890,The Tom Woods Show,Tom Woods,24,261,211.62,47.6,False
+716825890,The Tom Woods Show,Tom Woods,36,415,327.82,46.4,False
+1820648828,The Joy Reid Show,Joy-Ann Reid,12,158,290.86,122.4,True
+1820648828,The Joy Reid Show,Joy-Ann Reid,18,178,308.07,121.9,True
+1820648828,The Joy Reid Show,Joy-Ann Reid,24,178,308.07,121.9,True
+1820648828,The Joy Reid Show,Joy-Ann Reid,36,178,308.07,121.9,True
+1889705401,Nobody Knows Anything,Narrowcast Media,12,27,26.79,59.2,True
+1889705401,Nobody Knows Anything,Narrowcast Media,18,27,26.79,59.2,True
+1889705401,Nobody Knows Anything,Narrowcast Media,24,27,26.79,59.2,True
+1889705401,Nobody Knows Anything,Narrowcast Media,36,27,26.79,59.2,True
+1573813504,The Smerconish Podcast,SiriusXM,12,496,179.56,19.8,False
+1573813504,The Smerconish Podcast,SiriusXM,18,755,276.0,20.0,False
+1573813504,The Smerconish Podcast,SiriusXM,24,1001,345.14,19.2,False
+1573813504,The Smerconish Podcast,SiriusXM,36,1447,470.91,18.9,False
+1696974077,The Source with Kaitlan Collins,CNN Podcasts,12,246,195.38,46.9,False
+1696974077,The Source with Kaitlan Collins,CNN Podcasts,18,372,293.08,46.4,False
+1696974077,The Source with Kaitlan Collins,CNN Podcasts,24,490,384.54,46.4,False
+1696974077,The Source with Kaitlan Collins,CNN Podcasts,36,724,554.57,45.9,False
+1574741668,American Prestige,Daniel Bessner & Derek Davison,12,96,59.39,46.4,True
+1574741668,American Prestige,Daniel Bessner & Derek Davison,18,96,59.39,46.4,True
+1574741668,American Prestige,Daniel Bessner & Derek Davison,24,96,59.39,46.4,True
+1574741668,American Prestige,Daniel Bessner & Derek Davison,36,96,59.39,46.4,True
+1669610956,System Update with Glenn Greenwald,Rumble,12,116,130.31,71.6,False
+1669610956,System Update with Glenn Greenwald,Rumble,18,217,259.02,75.5,False
+1669610956,System Update with Glenn Greenwald,Rumble,24,319,398.57,78.6,False
+1669610956,System Update with Glenn Greenwald,Rumble,36,510,656.65,79.8,False
+1548554104,Volts,David Roberts,12,86,94.04,65.7,False
+1548554104,Volts,David Roberts,18,135,143.38,65.3,False
+1548554104,Volts,David Roberts,24,170,181.4,65.0,False
+1548554104,Volts,David Roberts,36,253,270.31,64.2,False
+1647025876,Wendy Bell Radio Podcast,Wendy Bell,12,387,244.68,38.0,True
+1647025876,Wendy Bell Radio Podcast,Wendy Bell,18,387,244.68,38.0,True
+1647025876,Wendy Bell Radio Podcast,Wendy Bell,24,387,244.68,38.0,True
+1647025876,Wendy Bell Radio Podcast,Wendy Bell,36,387,244.68,38.0,True
+1378389941,Uncommon Knowledge,Hoover Institution,12,22,24.31,65.0,False
+1378389941,Uncommon Knowledge,Hoover Institution,18,33,36.14,64.2,False
+1378389941,Uncommon Knowledge,Hoover Institution,24,44,46.54,63.9,False
+1378389941,Uncommon Knowledge,Hoover Institution,36,66,66.83,61.5,False
+1896576050,Brian Tyler Cohen,Brian Tyler Cohen Network,12,138,30.35,11.7,True
+1896576050,Brian Tyler Cohen,Brian Tyler Cohen Network,18,138,30.35,11.7,True
+1896576050,Brian Tyler Cohen,Brian Tyler Cohen Network,24,138,30.35,11.7,True
+1896576050,Brian Tyler Cohen,Brian Tyler Cohen Network,36,138,30.35,11.7,True
+1494037881,Checks and Balance from The Economist,The Economist,12,2,0.08,2.4,False
+1494037881,Checks and Balance from The Economist,The Economist,18,3,0.14,3.5,False
+1494037881,Checks and Balance from The Economist,The Economist,24,8,3.55,26.3,False
+1494037881,Checks and Balance from The Economist,The Economist,36,18,10.34,48.5,False
+1715894000,Trump's Terms,NPR,12,219,21.23,5.0,True
+1715894000,Trump's Terms,NPR,18,328,31.65,5.1,True
+1715894000,Trump's Terms,NPR,24,379,37.6,5.1,True
+1715894000,Trump's Terms,NPR,36,462,53.94,5.2,True
+1587492577,The Mel K Show,Mel K,12,100,140.01,95.2,True
+1587492577,The Mel K Show,Mel K,18,100,140.01,95.2,True
+1587492577,The Mel K Show,Mel K,24,100,140.01,95.2,True
+1587492577,The Mel K Show,Mel K,36,100,140.01,95.2,True
+1660317917,Defending Democracy with Marc Elias,Democracy Docket,12,131,86.63,41.2,False
+1660317917,Defending Democracy with Marc Elias,Democracy Docket,18,162,104.93,38.5,False
+1660317917,Defending Democracy with Marc Elias,Democracy Docket,24,187,121.08,38.5,False
+1660317917,Defending Democracy with Marc Elias,Democracy Docket,36,225,142.87,38.0,False
+1635446643,The Coffee Klatch with Robert Reich,Robert Reich,12,60,43.03,43.4,False
+1635446643,The Coffee Klatch with Robert Reich,Robert Reich,18,88,62.12,42.5,False
+1635446643,The Coffee Klatch with Robert Reich,Robert Reich,24,118,76.8,40.1,False
+1635446643,The Coffee Klatch with Robert Reich,Robert Reich,36,168,97.57,36.1,False
+1722246285,The Breakdown,Alberto fo sho,12,832,695.89,45.6,True
+1722246285,The Breakdown,Alberto fo sho,18,907,737.68,44.8,True
+1722246285,The Breakdown,Alberto fo sho,24,958,772.96,44.6,True
+1722246285,The Breakdown,Alberto fo sho,36,1000,802.28,44.4,True
+506779862,Lectures in History,C-SPAN,12,55,63.21,69.4,False
+506779862,Lectures in History,C-SPAN,18,80,95.66,70.7,False
+506779862,Lectures in History,C-SPAN,24,111,132.19,69.4,False
+506779862,Lectures in History,C-SPAN,36,166,192.02,68.4,False
+1147092464,Opening Arguments,Opening Arguments Media LLC,12,152,159.89,59.2,False
+1147092464,Opening Arguments,Opening Arguments Media LLC,18,226,229.21,57.4,False
+1147092464,Opening Arguments,Opening Arguments Media LLC,24,305,300.83,55.9,False
+1147092464,Opening Arguments,Opening Arguments Media LLC,36,461,449.51,56.8,False
+1695205478,What Really Matters with Walter Russell Mead,Tablet Magazine,12,43,26.74,33.6,False
+1695205478,What Really Matters with Walter Russell Mead,Tablet Magazine,18,65,40.98,34.7,False
+1695205478,What Really Matters with Walter Russell Mead,Tablet Magazine,24,84,52.37,34.9,False
+1695205478,What Really Matters with Walter Russell Mead,Tablet Magazine,36,134,81.72,34.6,False
+1263295815,The Pete Quiñones Show,Peter R Quiñones,12,857,3617.38,215.5,True
+1263295815,The Pete Quiñones Show,Peter R Quiñones,18,1000,4186.69,215.5,True
+1263295815,The Pete Quiñones Show,Peter R Quiñones,24,1000,4186.69,215.5,True
+1263295815,The Pete Quiñones Show,Peter R Quiñones,36,1000,4186.69,215.5,True
+1728340033,Mission Implausible,iHeartPodcasts,12,50,33.79,38.9,True
+1728340033,Mission Implausible,iHeartPodcasts,18,69,44.49,38.2,True
+1728340033,Mission Implausible,iHeartPodcasts,24,94,58.97,37.1,True
+1728340033,Mission Implausible,iHeartPodcasts,36,124,73.06,36.1,True
+1636762428,Dad Saves America,John Papola,12,70,138.48,125.1,False
+1636762428,Dad Saves America,John Papola,18,98,188.85,116.0,False
+1636762428,Dad Saves America,John Papola,24,122,229.91,113.6,False
+1636762428,Dad Saves America,John Papola,36,162,288.19,111.0,False
+1798460240,10 Minute Drill,Matt Whitlock,12,160,34.59,13.5,True
+1798460240,10 Minute Drill,Matt Whitlock,18,200,42.78,13.2,True
+1798460240,10 Minute Drill,Matt Whitlock,24,200,42.78,13.2,True
+1798460240,10 Minute Drill,Matt Whitlock,36,200,42.78,13.2,True
+1471411980,American Thought Leaders,The Epoch Times,12,139,119.92,51.1,True
+1471411980,American Thought Leaders,The Epoch Times,18,200,173.76,51.7,True
+1471411980,American Thought Leaders,The Epoch Times,24,200,173.76,51.7,True
+1471411980,American Thought Leaders,The Epoch Times,36,200,173.76,51.7,True
+1714879044,The Tony Kinnett Cast,The Daily Signal,12,242,329.13,82.5,True
+1714879044,The Tony Kinnett Cast,The Daily Signal,18,368,458.57,74.6,True
+1714879044,The Tony Kinnett Cast,The Daily Signal,24,474,538.27,68.5,True
+1714879044,The Tony Kinnett Cast,The Daily Signal,36,618,640.82,61.7,True
+1579061364,Head in the Office,HITO Media LLC,12,105,148.87,85.9,False
+1579061364,Head in the Office,HITO Media LLC,18,142,206.97,86.9,False
+1579061364,Head in the Office,HITO Media LLC,24,170,250.51,87.3,False
+1579061364,Head in the Office,HITO Media LLC,36,224,327.56,86.9,False
+1093260018,Slate News,Slate Podcasts,12,549,315.54,28.2,False
+1093260018,Slate News,Slate Podcasts,18,828,470.01,27.4,False
+1093260018,Slate News,Slate Podcasts,24,1101,617.39,27.1,False
+1093260018,Slate News,Slate Podcasts,36,1636,911.41,26.8,False
+925428680,Conversations with Bill Kristol,Bill Kristol,12,21,23.46,65.6,False
+925428680,Conversations with Bill Kristol,Bill Kristol,18,33,36.53,67.0,False
+925428680,Conversations with Bill Kristol,Bill Kristol,24,44,48.88,67.7,False
+925428680,Conversations with Bill Kristol,Bill Kristol,36,70,77.56,66.9,False
+1462195742,The Al Franken Podcast,The Al Franken Podcast,12,52,43.05,49.0,False
+1462195742,The Al Franken Podcast,The Al Franken Podcast,18,77,61.8,48.2,False
+1462195742,The Al Franken Podcast,The Al Franken Podcast,24,104,82.03,47.2,False
+1462195742,The Al Franken Podcast,The Al Franken Podcast,36,160,125.55,46.5,False
+1576614213,American Conservative University,American Conservative University,12,376,285.9,36.7,True
+1576614213,American Conservative University,American Conservative University,18,569,438.13,38.3,True
+1576614213,American Conservative University,American Conservative University,24,800,624.88,39.1,True
+1576614213,American Conservative University,American Conservative University,36,800,624.88,39.1,True
+1696250206,HasanAbi,HasanAbi,12,42,23.74,20.7,True
+1696250206,HasanAbi,HasanAbi,18,42,23.74,20.7,True
+1696250206,HasanAbi,HasanAbi,24,42,23.74,20.7,True
+1696250206,HasanAbi,HasanAbi,36,42,23.74,20.7,True
+1467993804,What the Hell Is Going On,AEI Podcasts,12,56,54.29,58.0,False
+1467993804,What the Hell Is Going On,AEI Podcasts,18,83,77.4,56.0,False
+1467993804,What the Hell Is Going On,AEI Podcasts,24,116,104.3,54.8,False
+1467993804,What the Hell Is Going On,AEI Podcasts,36,172,155.96,55.0,False
+1877144831,Paul Krugman Podcast,Paul Krugman,12,62,20.61,8.1,True
+1877144831,Paul Krugman Podcast,Paul Krugman,18,77,31.02,20.0,True
+1877144831,Paul Krugman Podcast,Paul Krugman,24,77,31.02,20.0,True
+1877144831,Paul Krugman Podcast,Paul Krugman,36,77,31.02,20.0,True
+1849994842,Deseret Voices,Deseret News,12,41,23.71,33.3,True
+1849994842,Deseret Voices,Deseret News,18,41,23.71,33.3,True
+1849994842,Deseret Voices,Deseret News,24,41,23.71,33.3,True
+1849994842,Deseret Voices,Deseret News,36,41,23.71,33.3,True
+1709994511,UNGOVERNED,Shawn Farash,12,100,102.05,58.8,True
+1709994511,UNGOVERNED,Shawn Farash,18,100,102.05,58.8,True
+1709994511,UNGOVERNED,Shawn Farash,24,100,102.05,58.8,True
+1709994511,UNGOVERNED,Shawn Farash,36,100,102.05,58.8,True
+73329719,KQED's Forum,KQED,12,515,469.51,54.8,False
+73329719,KQED's Forum,KQED,18,774,710.47,55.6,False
+73329719,KQED's Forum,KQED,24,1029,947.47,55.7,False
+73329719,KQED's Forum,KQED,36,1537,1415.74,55.7,False
+1785081636,The Mary Trump Podcast,Mary Trump Media,12,516,164.11,15.8,True
+1785081636,The Mary Trump Podcast,Mary Trump Media,18,725,227.06,16.9,True
+1785081636,The Mary Trump Podcast,Mary Trump Media,24,749,231.97,16.5,True
+1785081636,The Mary Trump Podcast,Mary Trump Media,36,749,231.97,16.5,True
+1432118523,The Damage Report with John Iadarola,TYT Network,12,251,230.94,55.2,False
+1432118523,The Damage Report with John Iadarola,TYT Network,18,377,346.96,55.2,False
+1432118523,The Damage Report with John Iadarola,TYT Network,24,502,460.52,55.2,False
+1432118523,The Damage Report with John Iadarola,TYT Network,36,752,684.07,55.2,False
+1896897095,Wired In,The Daily Wire,12,18,18.83,65.6,True
+1896897095,Wired In,The Daily Wire,18,18,18.83,65.6,True
+1896897095,Wired In,The Daily Wire,24,18,18.83,65.6,True
+1896897095,Wired In,The Daily Wire,36,18,18.83,65.6,True
+791564318,Jacobin Radio,Jacobin,12,170,194.25,53.1,False
+791564318,Jacobin Radio,Jacobin,18,259,298.3,53.1,False
+791564318,Jacobin Radio,Jacobin,24,343,400.72,53.9,False
+791564318,Jacobin Radio,Jacobin,36,524,604.25,53.5,False
+1843478428,Owen Report,Owen Shroyer,12,174,544.92,184.9,True
+1843478428,Owen Report,Owen Shroyer,18,174,544.92,184.9,True
+1843478428,Owen Report,Owen Shroyer,24,174,544.92,184.9,True
+1843478428,Owen Report,Owen Shroyer,36,174,544.92,184.9,True
+1531192509,Bad Faith,Briahna Joy Gray,12,100,87.34,30.0,True
+1531192509,Bad Faith,Briahna Joy Gray,18,100,87.34,30.0,True
+1531192509,Bad Faith,Briahna Joy Gray,24,100,87.34,30.0,True
+1531192509,Bad Faith,Briahna Joy Gray,36,100,87.34,30.0,True
+1702202187,Perino on Politics,FOX News Podcasts,12,54,25.66,27.3,True
+1702202187,Perino on Politics,FOX News Podcasts,18,81,39.34,27.5,True
+1702202187,Perino on Politics,FOX News Podcasts,24,111,54.52,28.9,True
+1702202187,Perino on Politics,FOX News Podcasts,36,163,81.18,29.8,True
+1568505052,MOATS with George Galloway,Molucca Media Ltd,12,103,179.34,104.2,False
+1568505052,MOATS with George Galloway,Molucca Media Ltd,18,154,256.53,98.7,False
+1568505052,MOATS with George Galloway,Molucca Media Ltd,24,210,331.2,95.2,False
+1568505052,MOATS with George Galloway,Molucca Media Ltd,36,363,535.99,88.5,False
+380996798,"The Bob Cesca Show | Politics Podcast, News & Commentary",Bob Cesca,12,155,171.32,66.0,False
+380996798,"The Bob Cesca Show | Politics Podcast, News & Commentary",Bob Cesca,18,233,257.24,66.2,False
+380996798,"The Bob Cesca Show | Politics Podcast, News & Commentary",Bob Cesca,24,305,343.78,67.5,False
+380996798,"The Bob Cesca Show | Politics Podcast, News & Commentary",Bob Cesca,36,458,522.88,68.2,False
+1172546141,The President’s Inbox,Council on Foreign Relations,12,51,30.64,35.8,True
+1172546141,The President’s Inbox,Council on Foreign Relations,18,79,46.8,35.3,True
+1172546141,The President’s Inbox,Council on Foreign Relations,24,100,60.21,35.4,True
+1172546141,The President’s Inbox,Council on Foreign Relations,36,100,60.21,35.4,True
+1043245989,The Dig,Daniel Denvir,12,41,72.16,113.5,False
+1043245989,The Dig,Daniel Denvir,18,64,120.31,116.5,False
+1043245989,The Dig,Daniel Denvir,24,85,164.29,117.7,False
+1043245989,The Dig,Daniel Denvir,36,128,238.95,115.0,False
+1535255041,Unf*cking The Republic,UNFTR Media,12,86,64.91,27.7,False
+1535255041,Unf*cking The Republic,UNFTR Media,18,117,89.46,29.3,False
+1535255041,Unf*cking The Republic,UNFTR Media,24,143,111.36,34.2,False
+1535255041,Unf*cking The Republic,UNFTR Media,36,222,190.63,45.9,False
+387042247,Washington Today,C-SPAN,12,52,43.89,57.0,True
+387042247,Washington Today,C-SPAN,18,52,43.89,57.0,True
+387042247,Washington Today,C-SPAN,24,52,43.89,57.0,True
+387042247,Washington Today,C-SPAN,36,52,43.89,57.0,True
+682478916,War on the Rocks,Ryan Evans,12,32,20.97,36.4,False
+682478916,War on the Rocks,Ryan Evans,18,53,31.36,31.2,False
+682478916,War on the Rocks,Ryan Evans,24,66,38.54,30.9,False
+682478916,War on the Rocks,Ryan Evans,36,117,66.47,31.4,False
+983782306,Federalist Radio Hour,Radio America,12,206,177.95,48.1,False
+983782306,Federalist Radio Hour,Radio America,18,286,244.58,47.1,False
+983782306,Federalist Radio Hour,Radio America,24,366,309.45,46.7,False
+983782306,Federalist Radio Hour,Radio America,36,624,514.63,46.2,False
+1111319839,The Conversation with Dasha Burns,POLITICO,12,51,38.18,43.5,False
+1111319839,The Conversation with Dasha Burns,POLITICO,18,73,51.77,42.1,False
+1111319839,The Conversation with Dasha Burns,POLITICO,24,99,69.61,42.0,False
+1111319839,The Conversation with Dasha Burns,POLITICO,36,148,105.91,42.2,False
+1476110521,Useful Idiots with Katie Halper and Aaron Maté,"Useful Idiots, LLC",12,99,97.29,60.7,False
+1476110521,Useful Idiots with Katie Halper and Aaron Maté,"Useful Idiots, LLC",18,125,124.44,60.7,False
+1476110521,Useful Idiots with Katie Halper and Aaron Maté,"Useful Idiots, LLC",24,152,151.48,60.0,False
+1476110521,Useful Idiots with Katie Halper and Aaron Maté,"Useful Idiots, LLC",36,206,201.44,56.5,False
+1549624070,Amarica's Constitution,Akhil Reed Amar,12,52,69.69,81.0,False
+1549624070,Amarica's Constitution,Akhil Reed Amar,18,76,107.46,83.4,False
+1549624070,Amarica's Constitution,Akhil Reed Amar,24,101,142.84,84.4,False
+1549624070,Amarica's Constitution,Akhil Reed Amar,36,153,223.23,87.8,False
+1289062927,ChinaTalk,Jordan Schneider,12,127,144.87,64.4,False
+1289062927,ChinaTalk,Jordan Schneider,18,173,195.41,65.6,False
+1289062927,ChinaTalk,Jordan Schneider,24,198,225.36,67.4,False
+1289062927,ChinaTalk,Jordan Schneider,36,265,297.51,65.1,False
+1570380458,The Victor Davis Hanson Show,Victor Davis Hanson and Jack Fowler,12,47,55.52,71.3,False
+1570380458,The Victor Davis Hanson Show,Victor Davis Hanson and Jack Fowler,18,153,186.14,73.5,False
+1570380458,The Victor Davis Hanson Show,Victor Davis Hanson and Jack Fowler,24,263,316.64,73.2,False
+1570380458,The Victor Davis Hanson Show,Victor Davis Hanson and Jack Fowler,36,471,550.54,70.4,False
+1356662668,Politically Georgia,The Atlanta Journal-Constitution,12,209,109.85,31.4,False
+1356662668,Politically Georgia,The Atlanta Journal-Constitution,18,320,182.66,32.2,False
+1356662668,Politically Georgia,The Atlanta Journal-Constitution,24,447,295.39,34.1,False
+1356662668,Politically Georgia,The Atlanta Journal-Constitution,36,670,496.72,52.5,False
+1725442221,Hawk Podcasts,Hawk,12,139,60.91,22.8,True
+1725442221,Hawk Podcasts,Hawk,18,145,65.84,23.6,True
+1725442221,Hawk Podcasts,Hawk,24,165,82.35,25.4,True
+1725442221,Hawk Podcasts,Hawk,36,192,101.44,26.9,True
+1721813926,Bad Hasbara - The World's Most Moral Podcast,Matt Lieb,12,75,109.5,99.5,True
+1721813926,Bad Hasbara - The World's Most Moral Podcast,Matt Lieb,18,122,163.61,97.0,True
+1721813926,Bad Hasbara - The World's Most Moral Podcast,Matt Lieb,24,162,215.78,98.0,True
+1721813926,Bad Hasbara - The World's Most Moral Podcast,Matt Lieb,36,202,273.04,94.6,True
+1439837349,The Political Orphanage,Andrew Heaton,12,70,76.95,67.5,False
+1439837349,The Political Orphanage,Andrew Heaton,18,100,110.19,67.4,False
+1439837349,The Political Orphanage,Andrew Heaton,24,133,147.88,67.4,False
+1439837349,The Political Orphanage,Andrew Heaton,36,193,224.75,68.8,False
+1671451793,Maiden Mother Matriarch with Louise Perry,Louise Perry,12,98,65.64,35.4,False
+1671451793,Maiden Mother Matriarch with Louise Perry,Louise Perry,18,134,96.62,46.6,False
+1671451793,Maiden Mother Matriarch with Louise Perry,Louise Perry,24,165,123.35,49.5,False
+1671451793,Maiden Mother Matriarch with Louise Perry,Louise Perry,36,245,185.77,49.3,False
+1502568407,SGT Report’s The Propaganda Antidote,SGT Report,12,100,92.72,56.4,True
+1502568407,SGT Report’s The Propaganda Antidote,SGT Report,18,100,92.72,56.4,True
+1502568407,SGT Report’s The Propaganda Antidote,SGT Report,24,100,92.72,56.4,True
+1502568407,SGT Report’s The Propaganda Antidote,SGT Report,36,100,92.72,56.4,True
+1875402719,Make It Make Sense,The Washington Post,12,42,23.96,34.2,True
+1875402719,Make It Make Sense,The Washington Post,18,42,23.96,34.2,True
+1875402719,Make It Make Sense,The Washington Post,24,42,23.96,34.2,True
+1875402719,Make It Make Sense,The Washington Post,36,42,23.96,34.2,True
+1607829807,Mark Kaye Saves The Republic,Kayetriot Media,12,254,273.66,66.2,True
+1607829807,Mark Kaye Saves The Republic,Kayetriot Media,18,361,408.25,69.1,True
+1607829807,Mark Kaye Saves The Republic,Kayetriot Media,24,488,559.63,69.8,True
+1607829807,Mark Kaye Saves The Republic,Kayetriot Media,36,490,559.81,69.8,True
+545045867,Scott Horton Show - Just the Interviews,Scott Horton,12,78,63.92,46.1,False
+545045867,Scott Horton Show - Just the Interviews,Scott Horton,18,112,93.26,46.4,False
+545045867,Scott Horton Show - Just the Interviews,Scott Horton,24,171,135.6,42.0,False
+545045867,Scott Horton Show - Just the Interviews,Scott Horton,36,326,238.74,36.8,False
+1317356120,The Peter McCormack Show,Peter McCormack,12,110,177.39,96.2,False
+1317356120,The Peter McCormack Show,Peter McCormack,18,164,269.26,98.8,False
+1317356120,The Peter McCormack Show,Peter McCormack,24,224,370.51,97.8,False
+1317356120,The Peter McCormack Show,Peter McCormack,36,381,595.36,91.2,False
+1570432345,Firing Line with Margaret Hoover,Firing Line With Margaret Hoover,12,41,30.23,42.0,False
+1570432345,Firing Line with Margaret Hoover,Firing Line With Margaret Hoover,18,61,45.17,43.0,False
+1570432345,Firing Line with Margaret Hoover,Firing Line With Margaret Hoover,24,82,59.59,42.9,False
+1570432345,Firing Line with Margaret Hoover,Firing Line With Margaret Hoover,36,122,93.71,46.0,False
+1818658022,"Life, Liberty & Levin Podcast",FOX News Podcasts,12,103,80.51,46.8,True
+1818658022,"Life, Liberty & Levin Podcast",FOX News Podcasts,18,113,88.35,46.8,True
+1818658022,"Life, Liberty & Levin Podcast",FOX News Podcasts,24,113,88.35,46.8,True
+1818658022,"Life, Liberty & Levin Podcast",FOX News Podcasts,36,113,88.35,46.8,True
+1634341981,Antiwar News With Dave DeCamp,Dave DeCamp,12,242,128.28,31.5,False
+1634341981,Antiwar News With Dave DeCamp,Dave DeCamp,18,370,196.38,31.9,False
+1634341981,Antiwar News With Dave DeCamp,Dave DeCamp,24,499,264.61,31.9,False
+1634341981,Antiwar News With Dave DeCamp,Dave DeCamp,36,741,382.65,31.0,False
+474763182,The Globalist,Monocle,12,100,98.46,58.9,True
+474763182,The Globalist,Monocle,18,100,98.46,58.9,True
+474763182,The Globalist,Monocle,24,100,98.46,58.9,True
+474763182,The Globalist,Monocle,36,100,98.46,58.9,True
+1871628261,The Harry Sisson Show,Harry Sisson,12,667,114.04,9.7,False
+1871628261,The Harry Sisson Show,Harry Sisson,18,682,118.98,9.7,False
+1871628261,The Harry Sisson Show,Harry Sisson,24,682,118.98,9.7,False
+1871628261,The Harry Sisson Show,Harry Sisson,36,682,118.98,9.7,False
+1788891712,It's A Numbers Game with Ryan Girdusky,iHeartPodcasts,12,139,87.47,37.3,True
+1788891712,It's A Numbers Game with Ryan Girdusky,iHeartPodcasts,18,179,112.88,38.0,True
+1788891712,It's A Numbers Game with Ryan Girdusky,iHeartPodcasts,24,181,113.16,37.8,True
+1788891712,It's A Numbers Game with Ryan Girdusky,iHeartPodcasts,36,181,113.16,37.8,True
+1654162813,The Kyle Seraphin Show,Kyle Seraphin,12,246,417.2,99.1,False
+1654162813,The Kyle Seraphin Show,Kyle Seraphin,18,391,611.95,86.6,False
+1654162813,The Kyle Seraphin Show,Kyle Seraphin,24,510,748.78,79.3,False
+1654162813,The Kyle Seraphin Show,Kyle Seraphin,36,761,1053.6,73.3,False
+1480605295,POLITICO Energy,POLITICO,12,173,37.15,10.2,False
+1480605295,POLITICO Energy,POLITICO,18,293,58.44,10.0,False
+1480605295,POLITICO Energy,POLITICO,24,402,76.91,9.7,False
+1480605295,POLITICO Energy,POLITICO,36,640,112.34,9.1,False
+1763234285,Autocracy in America,The Atlantic,12,19,10.68,34.9,True
+1763234285,Autocracy in America,The Atlantic,18,22,11.72,33.6,True
+1763234285,Autocracy in America,The Atlantic,24,29,15.1,33.4,True
+1763234285,Autocracy in America,The Atlantic,36,29,15.1,33.4,True
+1648125917,Stay Free with Russell Brand,Stay Free with Russell Brand,12,137,157.12,64.3,False
+1648125917,Stay Free with Russell Brand,Stay Free with Russell Brand,18,226,258.06,64.1,False
+1648125917,Stay Free with Russell Brand,Stay Free with Russell Brand,24,333,373.73,63.6,False
+1648125917,Stay Free with Russell Brand,Stay Free with Russell Brand,36,543,542.77,62.4,False
+1612691018,THE WEEKEND SHOW,Evergreen Podcasts,12,53,61.33,70.3,False
+1612691018,THE WEEKEND SHOW,Evergreen Podcasts,18,79,93.45,71.0,False
+1612691018,THE WEEKEND SHOW,Evergreen Podcasts,24,105,127.85,71.5,False
+1612691018,THE WEEKEND SHOW,Evergreen Podcasts,36,157,194.58,74.7,False
+1880163995,The Kyle Kulinski Show,Kyle Kulinski,12,231,364.26,94.8,False
+1880163995,The Kyle Kulinski Show,Kyle Kulinski,18,335,527.85,94.8,False
+1880163995,The Kyle Kulinski Show,Kyle Kulinski,24,437,661.79,90.7,False
+1880163995,The Kyle Kulinski Show,Kyle Kulinski,36,640,912.26,86.4,False
+1536984072,The Dishcast with Andrew Sullivan,Andrew Sullivan,12,50,40.33,49.5,False
+1536984072,The Dishcast with Andrew Sullivan,Andrew Sullivan,18,76,62.84,50.1,False
+1536984072,The Dishcast with Andrew Sullivan,Andrew Sullivan,24,98,80.51,49.9,False
+1536984072,The Dishcast with Andrew Sullivan,Andrew Sullivan,36,145,115.98,47.9,False
+1309354521,Majority 54,Majority 54,12,56,60.59,66.6,False
+1309354521,Majority 54,Majority 54,18,99,109.51,67.3,False
+1309354521,Majority 54,Majority 54,24,125,137.45,66.7,False
+1309354521,Majority 54,Majority 54,36,180,193.83,65.0,False
+1362265400,Timcast News,Timcast Media,12,195,243.31,72.8,False
+1362265400,Timcast News,Timcast Media,18,302,406.25,74.8,False
+1362265400,Timcast News,Timcast Media,24,409,591.02,82.2,False
+1362265400,Timcast News,Timcast Media,36,613,867.24,81.8,False
+1874174561,Hope For America with Heather Delaney Reese,Heather Delaney Reese,12,164,48.28,17.5,True
+1874174561,Hope For America with Heather Delaney Reese,Heather Delaney Reese,18,164,48.28,17.5,True
+1874174561,Hope For America with Heather Delaney Reese,Heather Delaney Reese,24,164,48.28,17.5,True
+1874174561,Hope For America with Heather Delaney Reese,Heather Delaney Reese,36,164,48.28,17.5,True
+124960485,"Best of the Left - Leftist Perspectives on Progressive Politics, News, Culture, Economics and Democracy","Best of the Left: Perspectives on Politics, Culture, and Economics",12,128,327.76,186.8,False
+124960485,"Best of the Left - Leftist Perspectives on Progressive Politics, News, Culture, Economics and Democracy","Best of the Left: Perspectives on Politics, Culture, and Economics",18,198,474.9,178.9,False
+124960485,"Best of the Left - Leftist Perspectives on Progressive Politics, News, Culture, Economics and Democracy","Best of the Left: Perspectives on Politics, Culture, and Economics",24,271,587.31,150.9,False
+124960485,"Best of the Left - Leftist Perspectives on Progressive Politics, News, Culture, Economics and Democracy","Best of the Left: Perspectives on Politics, Culture, and Economics",36,407,722.43,73.0,False
+1587936366,The Inside Story Podcast,Al Jazeera,12,359,146.89,24.7,True
+1587936366,The Inside Story Podcast,Al Jazeera,18,500,204.57,24.7,True
+1587936366,The Inside Story Podcast,Al Jazeera,24,500,204.57,24.7,True
+1587936366,The Inside Story Podcast,Al Jazeera,36,500,204.57,24.7,True
+1594728054,The Great America Show,Fawcett Strategies,12,473,220.49,32.3,False
+1594728054,The Great America Show,Fawcett Strategies,18,748,371.61,33.0,False
+1594728054,The Great America Show,Fawcett Strategies,24,956,480.08,33.6,False
+1594728054,The Great America Show,Fawcett Strategies,36,1607,667.64,28.7,False
+1767877239,No Gods No Mayors,The Office of the Mayor,12,53,38.25,14.4,True
+1767877239,No Gods No Mayors,The Office of the Mayor,18,79,56.61,14.4,True
+1767877239,No Gods No Mayors,The Office of the Mayor,24,98,70.42,36.6,True
+1767877239,No Gods No Mayors,The Office of the Mayor,36,98,70.42,36.6,True
+1549502623,Cleanup on Aisle 45 with AG & Harry Dunn,MSW Media,12,52,39.5,45.6,False
+1549502623,Cleanup on Aisle 45 with AG & Harry Dunn,MSW Media,18,78,63.01,48.2,False
+1549502623,Cleanup on Aisle 45 with AG & Harry Dunn,MSW Media,24,106,89.25,50.5,False
+1549502623,Cleanup on Aisle 45 with AG & Harry Dunn,MSW Media,36,158,143.21,54.8,False
+956270301,Rational Security,The Lawfare Institute,12,47,60.87,77.8,False
+956270301,Rational Security,The Lawfare Institute,18,71,92.0,77.3,False
+956270301,Rational Security,The Lawfare Institute,24,95,121.65,76.5,False
+956270301,Rational Security,The Lawfare Institute,36,147,183.59,74.7,False
+1548086514,The Arena,Father Josiah Trenham,12,116,38.87,15.3,False
+1548086514,The Arena,Father Josiah Trenham,18,166,56.07,15.8,False
+1548086514,The Arena,Father Josiah Trenham,24,225,78.49,18.0,False
+1548086514,The Arena,Father Josiah Trenham,36,267,95.86,19.4,False
+1155629323,The Reason Roundtable,The Reason Roundtable,12,57,65.33,68.4,True
+1155629323,The Reason Roundtable,The Reason Roundtable,18,83,94.57,68.3,True
+1155629323,The Reason Roundtable,The Reason Roundtable,24,100,113.21,67.3,True
+1155629323,The Reason Roundtable,The Reason Roundtable,36,100,113.21,67.3,True
+1868807558,Batya!,Batya,12,51,33.12,39.9,True
+1868807558,Batya!,Batya,18,51,33.12,39.9,True
+1868807558,Batya!,Batya,24,51,33.12,39.9,True
+1868807558,Batya!,Batya,36,51,33.12,39.9,True
+1592116227,The Breitbart News Daily Podcast,SiriusXM,12,220,182.5,50.2,False
+1592116227,The Breitbart News Daily Podcast,SiriusXM,18,339,278.75,49.6,False
+1592116227,The Breitbart News Daily Podcast,SiriusXM,24,452,370.64,49.1,False
+1592116227,The Breitbart News Daily Podcast,SiriusXM,36,675,547.07,49.0,False
+1809246826,The Keith Edwards Show,Keith Edwards,12,694,121.76,9.9,True
+1809246826,The Keith Edwards Show,Keith Edwards,18,750,132.98,9.8,True
+1809246826,The Keith Edwards Show,Keith Edwards,24,750,132.98,9.8,True
+1809246826,The Keith Edwards Show,Keith Edwards,36,750,132.98,9.8,True
+1060110806,The Nation Podcasts,The Nation Magazine,12,296,248.48,48.2,False
+1060110806,The Nation Podcasts,The Nation Magazine,18,428,351.93,47.8,False
+1060110806,The Nation Podcasts,The Nation Magazine,24,552,448.27,47.0,False
+1060110806,The Nation Podcasts,The Nation Magazine,36,745,594.41,45.9,False
+702998658,Week In Review,KUOW News and Information,12,49,42.5,51.9,False
+702998658,Week In Review,KUOW News and Information,18,74,63.99,51.7,False
+702998658,Week In Review,KUOW News and Information,24,97,84.36,51.7,False
+702998658,Week In Review,KUOW News and Information,36,146,126.68,51.5,False
+1493858530,Hood Politics with Prop,Cool Zone Media and iHeartPodcasts,12,104,49.16,23.0,False
+1493858530,Hood Politics with Prop,Cool Zone Media and iHeartPodcasts,18,142,73.57,33.8,False
+1493858530,Hood Politics with Prop,Cool Zone Media and iHeartPodcasts,24,168,97.1,40.2,False
+1493858530,Hood Politics with Prop,Cool Zone Media and iHeartPodcasts,36,220,135.5,41.4,False
+1485186805,Timothy Gordon Rules for Retrogrades Podcast,Timothy Gordon,12,101,139.45,74.5,False
+1485186805,Timothy Gordon Rules for Retrogrades Podcast,Timothy Gordon,18,155,213.02,77.0,False
+1485186805,Timothy Gordon Rules for Retrogrades Podcast,Timothy Gordon,24,198,263.38,75.2,False
+1485186805,Timothy Gordon Rules for Retrogrades Podcast,Timothy Gordon,36,309,393.77,71.5,False
+1567204040,The Drill Down with Peter Schweizer,Government Accountability Institute,12,51,23.83,27.3,False
+1567204040,The Drill Down with Peter Schweizer,Government Accountability Institute,18,77,36.34,27.9,False
+1567204040,The Drill Down with Peter Schweizer,Government Accountability Institute,24,101,48.29,28.3,False
+1567204040,The Drill Down with Peter Schweizer,Government Accountability Institute,36,153,72.01,27.9,False
+1869456664,What's The Plan? with Leah Greenberg and Ezra Levin,Indivisible,12,26,26.86,64.8,True
+1869456664,What's The Plan? with Leah Greenberg and Ezra Levin,Indivisible,18,26,26.86,64.8,True
+1869456664,What's The Plan? with Leah Greenberg and Ezra Levin,Indivisible,24,26,26.86,64.8,True
+1869456664,What's The Plan? with Leah Greenberg and Ezra Levin,Indivisible,36,26,26.86,64.8,True
+1599294971,Extremely American,NPR,12,2,0.11,3.4,False
+1599294971,Extremely American,NPR,18,3,1.53,5.0,False
+1599294971,Extremely American,NPR,24,9,4.65,29.5,False
+1599294971,Extremely American,NPR,36,14,6.91,30.2,False
+1614844654,Week In Review,FITSNews,12,48,44.95,53.7,False
+1614844654,Week In Review,FITSNews,18,73,69.5,56.8,False
+1614844654,Week In Review,FITSNews,24,96,90.33,54.9,False
+1614844654,Week In Review,FITSNews,36,145,128.62,50.5,False
+1751785203,Brad vs Everyone,iHeartPodcasts,12,236,129.83,32.0,True
+1751785203,Brad vs Everyone,iHeartPodcasts,18,358,191.4,30.3,True
+1751785203,Brad vs Everyone,iHeartPodcasts,24,476,247.0,29.9,True
+1751785203,Brad vs Everyone,iHeartPodcasts,36,501,256.84,29.6,True
+1871930209,Essential Minnesota,Minnesota Star Tribune,12,30,11.2,24.6,True
+1871930209,Essential Minnesota,Minnesota Star Tribune,18,30,11.2,24.6,True
+1871930209,Essential Minnesota,Minnesota Star Tribune,24,30,11.2,24.6,True
+1871930209,Essential Minnesota,Minnesota Star Tribune,36,30,11.2,24.6,True
+1599891719,Seattle Nice,"David Hyde, Erica Barnett, and Sandeep Kaushik",12,46,31.16,42.7,False
+1599891719,Seattle Nice,"David Hyde, Erica Barnett, and Sandeep Kaushik",18,76,49.76,41.4,False
+1599891719,Seattle Nice,"David Hyde, Erica Barnett, and Sandeep Kaushik",24,103,67.19,41.2,False
+1599891719,Seattle Nice,"David Hyde, Erica Barnett, and Sandeep Kaushik",36,141,87.35,37.5,False
+1368074498,The Lars Larson Show Pacific Northwest Podcast,Lars Larson,12,50,79.79,96.5,True
+1368074498,The Lars Larson Show Pacific Northwest Podcast,Lars Larson,18,50,79.79,96.5,True
+1368074498,The Lars Larson Show Pacific Northwest Podcast,Lars Larson,24,50,79.79,96.5,True
+1368074498,The Lars Larson Show Pacific Northwest Podcast,Lars Larson,36,50,79.79,96.5,True
+1800671132,Destiny,Destiny,12,432,604.16,66.0,True
+1800671132,Destiny,Destiny,18,511,737.4,70.1,True
+1800671132,Destiny,Destiny,24,511,737.4,70.1,True
+1800671132,Destiny,Destiny,36,511,737.4,70.1,True
+1801103648,The Nerd Reich,nerdreich,12,11,8.63,46.8,True
+1801103648,The Nerd Reich,nerdreich,18,20,15.65,46.9,True
+1801103648,The Nerd Reich,nerdreich,24,20,15.65,46.9,True
+1801103648,The Nerd Reich,nerdreich,36,20,15.65,46.9,True
+1208232103,The Buck Sexton Show,Premiere Networks,12,113,30.86,15.6,False
+1208232103,The Buck Sexton Show,Premiere Networks,18,175,48.23,15.8,False
+1208232103,The Buck Sexton Show,Premiere Networks,24,249,71.05,16.2,False
+1208232103,The Buck Sexton Show,Premiere Networks,36,563,200.35,19.0,False
+1485021241,The Reason Interview With Nick Gillespie,The Reason Interview With Nick Gillespie,12,65,60.73,58.1,True
+1485021241,The Reason Interview With Nick Gillespie,The Reason Interview With Nick Gillespie,18,95,91.22,58.0,True
+1485021241,The Reason Interview With Nick Gillespie,The Reason Interview With Nick Gillespie,24,100,95.97,58.1,True
+1485021241,The Reason Interview With Nick Gillespie,The Reason Interview With Nick Gillespie,36,100,95.97,58.1,True
+1884144340,Get Angry,"Bryan Andrews, ItsLuke",12,18,11.02,37.3,True
+1884144340,Get Angry,"Bryan Andrews, ItsLuke",18,18,11.02,37.3,True
+1884144340,Get Angry,"Bryan Andrews, ItsLuke",24,18,11.02,37.3,True
+1884144340,Get Angry,"Bryan Andrews, ItsLuke",36,18,11.02,37.3,True
+1606834013,The Josh Hammer Show,The Josh Hammer Show,12,100,70.48,42.2,True
+1606834013,The Josh Hammer Show,The Josh Hammer Show,18,100,70.48,42.2,True
+1606834013,The Josh Hammer Show,The Josh Hammer Show,24,100,70.48,42.2,True
+1606834013,The Josh Hammer Show,The Josh Hammer Show,36,100,70.48,42.2,True
+1714009198,Mea Culpa,Michael Cohen,12,83,94.0,69.0,False
+1714009198,Mea Culpa,Michael Cohen,18,135,155.7,70.1,False
+1714009198,Mea Culpa,Michael Cohen,24,187,224.59,72.4,False
+1714009198,Mea Culpa,Michael Cohen,36,268,318.95,73.8,False
+1839861250,The Moment with Jorge Ramos and Paola Ramos,iHeartPodcasts,12,43,33.33,47.4,True
+1839861250,The Moment with Jorge Ramos and Paola Ramos,iHeartPodcasts,18,43,33.33,47.4,True
+1839861250,The Moment with Jorge Ramos and Paola Ramos,iHeartPodcasts,24,43,33.33,47.4,True
+1839861250,The Moment with Jorge Ramos and Paola Ramos,iHeartPodcasts,36,43,33.33,47.4,True
+1659250199,"Mueller, She Wrote - When the Facts Were Fresh",MSW Media,12,0,0.0,0.0,False
+1659250199,"Mueller, She Wrote - When the Facts Were Fresh",MSW Media,18,0,0.0,0.0,False
+1659250199,"Mueller, She Wrote - When the Facts Were Fresh",MSW Media,24,0,0.0,0.0,False
+1659250199,"Mueller, She Wrote - When the Facts Were Fresh",MSW Media,36,0,0.0,0.0,False
+1449848509,I Don't Speak German,IDSG,12,23,30.43,80.0,False
+1449848509,I Don't Speak German,IDSG,18,35,44.06,77.7,False
+1449848509,I Don't Speak German,IDSG,24,52,61.79,74.7,False
+1449848509,I Don't Speak German,IDSG,36,73,83.21,74.4,False
+1556687660,Candace Owens,The Daily Wire,12,0,0.0,0.0,False
+1556687660,Candace Owens,The Daily Wire,18,0,0.0,0.0,False
+1556687660,Candace Owens,The Daily Wire,24,0,0.0,0.0,False
+1556687660,Candace Owens,The Daily Wire,36,123,82.52,34.8,False
+1633301179,Countdown with Keith Olbermann,iHeartPodcasts,12,91,86.64,58.9,False
+1633301179,Countdown with Keith Olbermann,iHeartPodcasts,18,149,141.08,59.0,False
+1633301179,Countdown with Keith Olbermann,iHeartPodcasts,24,244,216.92,54.4,False
+1633301179,Countdown with Keith Olbermann,iHeartPodcasts,36,471,396.53,50.5,False
+1482179882,The Mona Charen Show,The Bulwark,12,55,48.4,54.7,False
+1482179882,The Mona Charen Show,The Bulwark,18,81,73.64,55.7,False
+1482179882,The Mona Charen Show,The Bulwark,24,104,98.73,57.0,False
+1482179882,The Mona Charen Show,The Bulwark,36,157,155.8,60.9,False
+1112258664,Russian Roulette,Center for Strategic and International Studies,12,28,21.71,46.1,False
+1112258664,Russian Roulette,Center for Strategic and International Studies,18,44,34.73,46.6,False
+1112258664,Russian Roulette,Center for Strategic and International Studies,24,56,43.23,45.4,False
+1112258664,Russian Roulette,Center for Strategic and International Studies,36,82,63.99,45.4,False
+1871531782,Uncertain with DL Hughley,DL Hughley,12,26,19.48,46.3,True
+1871531782,Uncertain with DL Hughley,DL Hughley,18,26,19.48,46.3,True
+1871531782,Uncertain with DL Hughley,DL Hughley,24,26,19.48,46.3,True
+1871531782,Uncertain with DL Hughley,DL Hughley,36,26,19.48,46.3,True
+1721969693,Politix,Politix,12,51,33.0,39.0,True
+1721969693,Politix,Politix,18,77,49.55,38.7,True
+1721969693,Politix,Politix,24,102,66.83,38.9,True
+1721969693,Politix,Politix,36,134,86.69,38.7,True
+1351411911,The TPM Show with Josh and Kate,Talking Points Memo,12,51,48.16,57.4,False
+1351411911,The TPM Show with Josh and Kate,Talking Points Memo,18,75,71.24,58.2,False
+1351411911,The TPM Show with Josh and Kate,Talking Points Memo,24,101,98.78,60.1,False
+1351411911,The TPM Show with Josh and Kate,Talking Points Memo,36,170,167.54,60.1,False

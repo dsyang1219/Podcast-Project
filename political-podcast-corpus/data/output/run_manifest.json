@@ -1,0 +1,22 @@
+{
+  "started_utc": "2026-07-14T18:31:04.928912+00:00",
+  "finished_utc": "2026-07-14T18:31:24.742722+00:00",
+  "chart_date": "20260713",
+  "chart_url": "https://itunes.apple.com/WebObjects/MZStoreServices.woa/ws/charts?g=1527&name=Podcasts&limit=250&cc=us",
+  "min_hours": 10.0,
+  "fuzzy_accept": 90,
+  "fuzzy_review": 75,
+  "brookings_csv": "/home/dsyang/Podcast-Project/political-podcast-corpus/data/external/full-dataset-2026-07-13.csv",
+  "brookings_joined": false,
+  "n_frame": 250,
+  "n_excluded": 30,
+  "n_corpus": 220,
+  "total_hours": 132378.1,
+  "exclusions_by_rule": {
+    "R5_non_us_politics": 14,
+    "R6_insufficient_catalog": 12,
+    "R1_no_feed_url": 2,
+    "R3_feed_unparseable": 1,
+    "R2_feed_unreachable": 1
+  }
+}

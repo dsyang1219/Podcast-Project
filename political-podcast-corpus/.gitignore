@@ -1,0 +1,29 @@
+# Regenerable HTTP cache (rebuilt from the frozen chart + live feeds)
+data/cache/
+
+# Generated outputs (rebuilt by `python -m pipeline.run`). The small
+# deliverables are committed for convenience; the large, fully-regenerable
+# per-episode file is not.
+# NOTE: the parent repo's root .gitignore has a broad `output/` rule for an
+# unrelated project; re-include this project's data/output/ explicitly.
+!/data/output/
+data/output/episodes.csv.gz
+
+# External Brookings export — third-party data, drop in locally.
+# The frozen Apple chart under data/raw/ IS committed (reproducible frame).
+data/external/*
+!data/external/.gitkeep
+
+# Downloaded audio (hundreds of GB) and transcribed text — regenerable from
+# data/output/sample_out/ + transcription/, not suitable for git.
+data/audio_queue/
+data/transcripts/
+
+# Local Python environment
+.venv/
+
+# Fetch/download logs
+transcription/download_audio.log
+
+__pycache__/
+*.pyc

@@ -1,0 +1,31 @@
+rank,collection_id,show_name,publisher,rule,evidence,hours_available
+14,1375568988,TRIGGERnometry,TRIGGERnometry,R5_non_us_politics,"curated list: TRIGGERnometry — UK-produced (Kisin/Foster, London); judgment call: culture-war interview show, non-US frame",932.83
+45,1493229344,The Dispatch Podcast,The Dispatch,R3_feed_unparseable,"XML parse error: not well-formed (invalid token): line 5158, column 441",0.0
+49,1212380212,The Five,FOX News Podcasts,R6_insufficient_catalog,2.31 h available < 10.0 h threshold,2.31
+59,1611374685,The Rest Is Politics,Goalhanger,R5_non_us_politics,curated list: The Rest Is Politics (Goalhanger) — UK politics,438.26
+72,1835450563,Sources & Methods,NPR,R6_insufficient_catalog,2.6 h available < 10.0 h threshold,2.6
+79,159752078,This Morning With Gordon Deal,Compass Media Networks,R6_insufficient_catalog,0.0 h available < 10.0 h threshold,0.0
+80,418152882,Fox News Sunday Audio,FOX News Podcasts,R6_insufficient_catalog,2.63 h available < 10.0 h threshold,2.63
+85,1665265193,The Rest Is Politics: Leading,Goalhanger,R5_non_us_politics,curated list: The Rest Is Politics: Leading (Goalhanger) — UK-frame interviews,196.92
+105,1896805652,NARITAS,Yanis AHMADI,R5_non_us_politics,rss_language='fr' (non-English feed),2.64
+106,1896918330,Tocqueville Road Trip from The Economist,The Economist,R6_insufficient_catalog,1.61 h available < 10.0 h threshold,1.61
+110,114345000,PBS News Hour - Brooks and Capehart,PBS News,R6_insufficient_catalog,4.3 h available < 10.0 h threshold,4.3
+117,155974141,Common Sense with Dan Carlin,Dan Carlin,R6_insufficient_catalog,8.22 h available < 10.0 h threshold,8.22
+122,1504713161,El hilo,My Cultura and iHeartPodcasts,R5_non_us_politics,rss_language='es' (non-English feed),195.74
+129,1473150244,Americast,BBC News,R5_non_us_politics,publisher matches blocklist term 'bbc' (BBC News),336.66
+132,1796721454,,,R1_no_feed_url,no feedUrl in Apple lookup,0.0
+133,1857136176,SPN LIVE - The Stew Peters Network,Stew Peters,R2_feed_unreachable,HTTP 404,0.0
+154,6787978198,Super Tuesdays with Chris Cillizza and Chuck Todd,iHeartPodcast,R6_insufficient_catalog,2.48 h available < 10.0 h threshold,2.48
+158,1625856906,不明白播客,袁莉和她的朋友们,R5_non_us_politics,rss_language='zh' (non-English feed),230.66
+159,1882059409,The Sunday Story,NPR,R6_insufficient_catalog,1.85 h available < 10.0 h threshold,1.85
+196,1001507547,Novara Media,Novara Media,R5_non_us_politics,publisher matches blocklist term 'novara media' (Novara Media),405.52
+203,1610749444,Politics Weekly America,The Guardian,R5_non_us_politics,publisher matches blocklist term 'the guardian' (The Guardian),122.52
+208,1562652774,DW News Brief,DW,R6_insufficient_catalog,0.13 h available < 10.0 h threshold,0.13
+216,1818530979,Frontline: The War in Ukraine and Global Security,Times Radio,R5_non_us_politics,publisher matches blocklist term 'times radio' (Times Radio),63.38
+218,1733640626,,,R1_no_feed_url,no feedUrl in Apple lookup,0.0
+220,1703785141,The Rest Is Money,Goalhanger,R5_non_us_politics,publisher matches blocklist term 'goalhanger' (Goalhanger),204.31
+227,330326320,Es la Mañana de Federico,esRadio,R5_non_us_politics,rss_language='es-ES' (non-English feed),22.12
+228,6784324944,Accountability,KABC | CMLS Los Angeles,R6_insufficient_catalog,1.24 h available < 10.0 h threshold,1.24
+239,1896939049,On Couch with Kelly & Clint,Man UnMade Podcast,R6_insufficient_catalog,2.85 h available < 10.0 h threshold,2.85
+243,1700432142,RONZHEIMER.,Paul Ronzheimer,R5_non_us_politics,rss_language='de' (non-English feed),558.79
+247,1639875478,Azad | آزاد,Azad | آزاد,R5_non_us_politics,rss_language='fa' (non-English feed),461.24

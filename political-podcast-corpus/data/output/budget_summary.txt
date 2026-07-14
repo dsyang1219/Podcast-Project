@@ -1,0 +1,34 @@
+======================================================================
+TRANSCRIPT HOURS BUDGET (H) — ANALYSIS
+======================================================================
+corpus shows: 220 | reference date: 2026-07-13 | focus window: 24mo
+episodes with byte-estimated duration: 4637 | missing/unparseable (excluded): 18
+shows whose feed is truncated before the 36mo cutoff: 83 (their wide-window hours are lower bounds)
+
+SURVIVAL (shows with >= H hours):
+   H | 12mo | 18mo | 24mo | 36mo | 24mo corpus-hrs
+   5 |  216 |  216 |  216 |  219 |   1,080
+  10 |  214 |  216 |  216 |  218 |   2,160
+  15 |  211 |  212 |  213 |  214 |   3,195
+  20 |  208 |  209 |  209 |  210 |   4,180
+  25 |  196 |  205 |  205 |  206 |   5,125
+  30 |  192 |  203 |  203 |  204 |   6,090
+  40 |  171 |  188 |  194 |  198 |   7,760
+  50 |  155 |  174 |  185 |  193 |   9,250
+
+DIAGNOSTICS (24mo window):
+  hours/show: min 0.0 | p25 76.9 | median 140.1 | p75 344.1 | max 4186.7
+  bottom quartile (<= 76.9h, n=55) vs rest (n=165):
+     median ep length : 37.3 min  vs  54.3 min
+     median episodes  : 60      vs  241
+  bottleneck (lowest 5): Candace Owens (0h), Mueller, She Wrote - When the Facts Were Fresh (0h), Checks and Balance from The Economist (4h), Extremely American (5h), Get Angry (11h)
+
+RECOMMENDATION:
+  2 shows are dormant in the 24mo window (0 in-window episodes) and are lost at ANY H>0 — the retention ceiling is 218/220 (99%).
+  Largest grid H still retaining >= 90% (24mo): H = 30h -> 203/220 (92%).
+  No sharp knee at 24mo: loss is near-uniform (~0.7 shows/hr across the grid), so H here is density-constrained, not knee-constrained.
+  (Contrast: the 12mo window HAS a cliff — 2.4 shows/hr lost just above H = 20h — so 25h is only cheap on the wider window.)
+  Your density floor H = 25h retains 205/220 (93%) — ABOVE the 90% target, so the density requirement and retention target do NOT conflict.
+  >>> Recommended H = 25h: satisfies the density floor and retains 93% of shows on the 24mo window. Compute estimate ~= 5,125 transcript-hours (205 shows x 25h).
+  Going higher (30-40h) barely raises density but starts shedding shows; going lower doesn't help retention (already at 93%).
+======================================================================
