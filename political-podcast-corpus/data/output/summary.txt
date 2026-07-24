@@ -2,20 +2,26 @@
 POLITICAL PODCAST CORPUS — RUN SUMMARY
 ====================================================================
 chart: Apple Podcasts US / News > Politics (genre 1527), frozen frame 20260713
-run started: 2026-07-14T18:31:04.928912+00:00
+run started: 2026-07-14T20:02:27.665364+00:00
 min-hours threshold: 10.0
 
 shows in sampling frame:   250
-shows excluded:            30
+shows excluded:            31
     R5_non_us_politics           14
     R6_insufficient_catalog      12
     R1_no_feed_url               2
+    R2_feed_unreachable          2
     R3_feed_unparseable          1
-    R2_feed_unreachable          1
-shows in final corpus:     220
+shows in final corpus:     219
 
-total hours available:     132,378 h
+total hours available:     132,163 h
 hours per show:
-    min 10.4 | p25 117.9 | median 320.0 | p75 635.6 | max 10717.3
+    min 10.4 | p25 117.2 | median 320.6 | p75 637.3 | max 10717.3
 shows with any byte-estimated durations: 5 (mean estimated share 0.6%)
+
+external lean labels (Brookings): 29 matched, 42 for review, 33 ambiguous, 115 unmatched
+    More Liberal         13
+    More Conservative    13
+    Moderate             2
+    Unknown              1
 ====================================================================
