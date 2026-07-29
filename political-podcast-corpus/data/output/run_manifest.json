@@ -1,22 +1,23 @@
 {
-  "started_utc": "2026-07-14T18:31:04.928912+00:00",
-  "finished_utc": "2026-07-14T18:31:24.742722+00:00",
+  "started_utc": "2026-07-14T20:02:27.665364+00:00",
+  "finished_utc": "2026-07-24T03:47:15.083981+00:00",
   "chart_date": "20260713",
   "chart_url": "https://itunes.apple.com/WebObjects/MZStoreServices.woa/ws/charts?g=1527&name=Podcasts&limit=250&cc=us",
   "min_hours": 10.0,
   "fuzzy_accept": 90,
   "fuzzy_review": 75,
   "brookings_csv": "/home/dsyang/Podcast-Project/political-podcast-corpus/data/external/full-dataset-2026-07-13.csv",
-  "brookings_joined": false,
+  "brookings_joined": true,
   "n_frame": 250,
-  "n_excluded": 30,
-  "n_corpus": 220,
-  "total_hours": 132378.1,
+  "n_excluded": 31,
+  "n_corpus": 219,
+  "total_hours": 132162.6,
   "exclusions_by_rule": {
     "R5_non_us_politics": 14,
     "R6_insufficient_catalog": 12,
     "R1_no_feed_url": 2,
-    "R3_feed_unparseable": 1,
-    "R2_feed_unreachable": 1
-  }
+    "R2_feed_unreachable": 2,
+    "R3_feed_unparseable": 1
+  },
+  "regenerated_note": "reports regenerated 2026-07-23 from on-disk corpus.csv/exclusions.csv after a manual dead-feed exclusion (America First w/ Nicholas J. Fuentes Repost, R2_feed_unreachable) was applied outside a full pipeline.run"
 }
