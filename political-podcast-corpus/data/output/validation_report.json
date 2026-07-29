@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T20:43:48.615950+00:00",
+  "generated_at": "2026-07-29T20:46:54.838169+00:00",
   "n_gold_rows": 249,
   "n_scored": 249,
   "n_unfilled_skipped": 0,
@@ -51,5 +51,911 @@
     }
   },
   "pew_benchmark_f1": 0.77,
-  "vs_pew": "meets or beats Pew's raw F1~=0.77"
+  "vs_pew": "meets or beats Pew's raw F1~=0.77",
+  "error_dump": {
+    "n_episode_level_errors": 20,
+    "n_name_level_errors": 41,
+    "episode_level": [
+      {
+        "type": "false_positive",
+        "episode_id": "8614ebd5424695e0",
+        "title": "Trump Campaign Manager Chris LaCivita doesn't rule out debating Harris",
+        "tier": "tier2_title",
+        "model_said": [
+          "Chris LaCivita"
+        ],
+        "gold_said": []
+      },
+      {
+        "type": "false_negative",
+        "episode_id": "cff86d719f6de6e6",
+        "title": "The Political Gabfest: The \"Would You Like a Ride in My Ferrari?\" Edition",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "David Plotz",
+          "John Dickerson",
+          "Emily Bazelon"
+        ]
+      },
+      {
+        "type": "false_negative",
+        "episode_id": "99a0e516dcdbe02a",
+        "title": "Bonus: Daily Review with Clay and Buck - Oct 21 2025",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Clay Travis",
+          "Buck Sexton"
+        ]
+      },
+      {
+        "type": "false_negative",
+        "episode_id": "a1c8ffbf0cda1f0a",
+        "title": "Episode 3555: Democrats And MSM In Full Panic Mode Over Tucker Carlson Documentary",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Owen Shroyer"
+        ]
+      },
+      {
+        "type": "false_negative",
+        "episode_id": "3e40b45e1120f62d",
+        "title": "Peak Oil: It's a Crude, Crude World.",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Milton Friedman"
+        ]
+      },
+      {
+        "type": "false_negative",
+        "episode_id": "f568ff5827316dee",
+        "title": "95. Trump, Iran & The Ceasefire Collapse: What Happens Now?",
+        "tier": "tier3_description",
+        "model_said": [],
+        "gold_said": [
+          "Katty Kay",
+          "Anthony Scaramucci"
+        ]
+      },
+      {
+        "type": "false_negative",
+        "episode_id": "6486c34d85fff4b3",
+        "title": "You're Wrong' With Mollie Hemingway And David Harsanyi, Ep. 147: The First 100 Days",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Mollie Hemingway",
+          "David Harsanyi"
+        ]
+      },
+      {
+        "type": "false_positive",
+        "episode_id": "2c60cdd63a7bc705",
+        "title": "Howie Hawkins",
+        "tier": "tier3_description",
+        "model_said": [
+          "Howie Hawkins"
+        ],
+        "gold_said": []
+      },
+      {
+        "type": "false_positive",
+        "episode_id": "47c1d679938a865c",
+        "title": "Episode 187 | Nowhere Close to Finished",
+        "tier": "tier3_description",
+        "model_said": [
+          "Allison Gill"
+        ],
+        "gold_said": []
+      },
+      {
+        "type": "false_positive",
+        "episode_id": "229ca7aadda0d461",
+        "title": "Sen. John Thune: No excuse for disagreements to spill over into violence",
+        "tier": "tier2_title",
+        "model_said": [
+          "John Thune"
+        ],
+        "gold_said": []
+      },
+      {
+        "type": "false_negative",
+        "episode_id": "47c4b5964354a2db",
+        "title": "Hunter Strikes Back",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Jason Kander",
+          "Ravi Gupta"
+        ]
+      },
+      {
+        "type": "false_positive",
+        "episode_id": "b80e2929df267f44",
+        "title": "27-Apr-17",
+        "tier": "tier3_description",
+        "model_said": [
+          "Donald Trump"
+        ],
+        "gold_said": []
+      },
+      {
+        "type": "false_negative",
+        "episode_id": "659dc5f0aa2a470a",
+        "title": "TV | Hold The Line w/ Buck Sexton - 12-06-21",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Buck Sexton"
+        ]
+      },
+      {
+        "type": "false_negative",
+        "episode_id": "b116fe5b76cc2e52",
+        "title": "Robert F. Kennedy, Jr., Could Swing the Election. Who Should Be More Worried—Biden or Trump?",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Jane Mayer",
+          "Evan Osnos",
+          "Susan B. Glasser"
+        ]
+      },
+      {
+        "type": "false_positive",
+        "episode_id": "63d3ceaa3d9f7835",
+        "title": "#1526 A History of Political Violence in the US (Throwback)",
+        "tier": "tier3_description",
+        "model_said": [
+          "Luke Mogelson"
+        ],
+        "gold_said": []
+      },
+      {
+        "type": "false_negative",
+        "episode_id": "f3811f2b5cd64729",
+        "title": "Hour 2: The Most Interesting Part of That MN Fraud Hearing",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": []
+      },
+      {
+        "type": "false_positive",
+        "episode_id": "5948d35f9c6726d0",
+        "title": "The Court Sides With Dictatorship — and Chaos",
+        "tier": "tier3_description",
+        "model_said": [
+          "Lisa Cook"
+        ],
+        "gold_said": []
+      },
+      {
+        "type": "false_positive",
+        "episode_id": "09f37eab4cbf36a8",
+        "title": "The Life and Teaching of St. Maximos by Father Maximos (Simonopetritis)",
+        "tier": "tier3_description",
+        "model_said": [
+          "Father Maximos (Simonopetritis)"
+        ],
+        "gold_said": []
+      },
+      {
+        "type": "false_negative",
+        "episode_id": "a9b4f006a370b881",
+        "title": "“Search and rescue underway in Iran for U.S. Airman”",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Ayman Mohyeldin"
+        ]
+      },
+      {
+        "type": "false_negative",
+        "episode_id": "6a94b14815959da9",
+        "title": "Ups and Downs in New York",
+        "tier": "tier3_description",
+        "model_said": [],
+        "gold_said": [
+          "Andrew Weissmann",
+          "Mary McCord"
+        ]
+      }
+    ],
+    "name_level": [
+      {
+        "episode_id": "03299067a68f2874",
+        "title": "Week in Review: Washington GOP, Dave Reichert, and density",
+        "tier": "tier2_title",
+        "model_said": [
+          "Dave Reichert"
+        ],
+        "gold_said": [
+          "Bill Finkbeiner",
+          "Brian Callanan",
+          "Rich Smith"
+        ],
+        "extra_names": [
+          "Dave Reichert"
+        ],
+        "missed_names": [
+          "Bill Finkbeiner",
+          "Brian Callanan",
+          "Rich Smith"
+        ]
+      },
+      {
+        "episode_id": "8614ebd5424695e0",
+        "title": "Trump Campaign Manager Chris LaCivita doesn't rule out debating Harris",
+        "tier": "tier2_title",
+        "model_said": [
+          "Chris LaCivita"
+        ],
+        "gold_said": [],
+        "extra_names": [
+          "Chris LaCivita"
+        ],
+        "missed_names": []
+      },
+      {
+        "episode_id": "cff86d719f6de6e6",
+        "title": "The Political Gabfest: The \"Would You Like a Ride in My Ferrari?\" Edition",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "David Plotz",
+          "John Dickerson",
+          "Emily Bazelon"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "David Plotz",
+          "John Dickerson",
+          "Emily Bazelon"
+        ]
+      },
+      {
+        "episode_id": "634f0ebaac354839",
+        "title": "Wired In: Inner Workings of the Trump White House EXPOSED",
+        "tier": "tier3_description",
+        "model_said": [
+          "Jonathan Swan",
+          "Andy Ogles",
+          "Dr. Matthew Spalding"
+        ],
+        "gold_said": [
+          "Jonathan Swans"
+        ],
+        "extra_names": [
+          "Andy Ogles",
+          "Dr. Matthew Spalding"
+        ],
+        "missed_names": []
+      },
+      {
+        "episode_id": "1644bbfd4697e7f3",
+        "title": "127: Flip Flop Mode Squad, with Narcy",
+        "tier": "tier2_title",
+        "model_said": [
+          "Narcy"
+        ],
+        "gold_said": [
+          "Yassin Alsalman"
+        ],
+        "extra_names": [
+          "Narcy"
+        ],
+        "missed_names": [
+          "Yassin Alsalman"
+        ]
+      },
+      {
+        "episode_id": "4e612d1e7e84d528",
+        "title": "The Release of the Hostages",
+        "tier": "tier3_description",
+        "model_said": [
+          "David Craig"
+        ],
+        "gold_said": [
+          "Andrew Walworth",
+          "Tom Bevan",
+          "Carl Cannon"
+        ],
+        "extra_names": [
+          "David Craig"
+        ],
+        "missed_names": [
+          "Andrew Walworth",
+          "Tom Bevan",
+          "Carl Cannon"
+        ]
+      },
+      {
+        "episode_id": "99a0e516dcdbe02a",
+        "title": "Bonus: Daily Review with Clay and Buck - Oct 21 2025",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Clay Travis",
+          "Buck Sexton"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Clay Travis",
+          "Buck Sexton"
+        ]
+      },
+      {
+        "episode_id": "a1c8ffbf0cda1f0a",
+        "title": "Episode 3555: Democrats And MSM In Full Panic Mode Over Tucker Carlson Documentary",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Owen Shroyer"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Owen Shroyer"
+        ]
+      },
+      {
+        "episode_id": "30b0c44dd8042f7b",
+        "title": "What Next - The Next Housing Crisis",
+        "tier": "tier3_description",
+        "model_said": [
+          "Jenny Schuetz"
+        ],
+        "gold_said": [
+          "Henry Graber",
+          "Jenny Schuetz"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Henry Graber"
+        ]
+      },
+      {
+        "episode_id": "3960f324d25cb163",
+        "title": "Aimee Mann Live, with Atul Gawande",
+        "tier": "tier2_title",
+        "model_said": [
+          "Atul Gawande"
+        ],
+        "gold_said": [
+          "Aimee Mann",
+          "Atul Gawande"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Aimee Mann"
+        ]
+      },
+      {
+        "episode_id": "3c54180979d748ae",
+        "title": "The Weaponization of the Justice Department",
+        "tier": "tier3_description",
+        "model_said": [
+          "Dana Perino"
+        ],
+        "gold_said": [
+          "Andrew Walworth",
+          "Tom Bevan",
+          "Carl Cannon"
+        ],
+        "extra_names": [
+          "Dana Perino"
+        ],
+        "missed_names": [
+          "Andrew Walworth",
+          "Tom Bevan",
+          "Carl Cannon"
+        ]
+      },
+      {
+        "episode_id": "da61acd494c38d81",
+        "title": "The Politics And Faith Of Pope Francis",
+        "tier": "tier3_description",
+        "model_said": [
+          "Maggie Miller",
+          "Joel Kotkin"
+        ],
+        "gold_said": [
+          "Andrew Walworth",
+          "Tom Beva",
+          "Carl Cannon",
+          "Maggie Miller",
+          "Joel Kotkin"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Andrew Walworth",
+          "Tom Beva",
+          "Carl Cannon"
+        ]
+      },
+      {
+        "episode_id": "846da420fffa8819",
+        "title": "LIVE: State of the Union Coverage From the Bulwark (W/ Pete Buttigieg)",
+        "tier": "tier2_title",
+        "model_said": [
+          "Pete Buttigieg"
+        ],
+        "gold_said": [
+          "Sam Stein",
+          "Tim Miller",
+          "Andrew Egger Joe Perticone",
+          "Pete Buttigieg"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Sam Stein",
+          "Tim Miller",
+          "Andrew Egger Joe Perticone"
+        ]
+      },
+      {
+        "episode_id": "3e40b45e1120f62d",
+        "title": "Peak Oil: It's a Crude, Crude World.",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Milton Friedman"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Milton Friedman"
+        ]
+      },
+      {
+        "episode_id": "f682e1c327e82a1a",
+        "title": "PREVIEW: Kwame Kilpatrick with Joe Kassabian",
+        "tier": "tier2_title",
+        "model_said": [
+          "Kwame Kilpatrick"
+        ],
+        "gold_said": [
+          "Joe Kassabian"
+        ],
+        "extra_names": [
+          "Kwame Kilpatrick"
+        ],
+        "missed_names": [
+          "Joe Kassabian"
+        ]
+      },
+      {
+        "episode_id": "f568ff5827316dee",
+        "title": "95. Trump, Iran & The Ceasefire Collapse: What Happens Now?",
+        "tier": "tier3_description",
+        "model_said": [],
+        "gold_said": [
+          "Katty Kay",
+          "Anthony Scaramucci"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Katty Kay",
+          "Anthony Scaramucci"
+        ]
+      },
+      {
+        "episode_id": "6486c34d85fff4b3",
+        "title": "You're Wrong' With Mollie Hemingway And David Harsanyi, Ep. 147: The First 100 Days",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Mollie Hemingway",
+          "David Harsanyi"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Mollie Hemingway",
+          "David Harsanyi"
+        ]
+      },
+      {
+        "episode_id": "2c60cdd63a7bc705",
+        "title": "Howie Hawkins",
+        "tier": "tier3_description",
+        "model_said": [
+          "Howie Hawkins"
+        ],
+        "gold_said": [],
+        "extra_names": [
+          "Howie Hawkins"
+        ],
+        "missed_names": []
+      },
+      {
+        "episode_id": "47c1d679938a865c",
+        "title": "Episode 187 | Nowhere Close to Finished",
+        "tier": "tier3_description",
+        "model_said": [
+          "Allison Gill"
+        ],
+        "gold_said": [],
+        "extra_names": [
+          "Allison Gill"
+        ],
+        "missed_names": []
+      },
+      {
+        "episode_id": "8e54637af09c4909",
+        "title": "Why is Pakistan deporting Afghan refugees?",
+        "tier": "tier3_description",
+        "model_said": [
+          "Waleed Karyab",
+          "Horia Mosadiq",
+          "Imtiaz Gul"
+        ],
+        "gold_said": [
+          "Waleed Karyab",
+          "Horia Mosadiq, Imtiaz Gul",
+          "James Bays"
+        ],
+        "extra_names": [
+          "Horia Mosadiq"
+        ],
+        "missed_names": [
+          "James Bays"
+        ]
+      },
+      {
+        "episode_id": "6b8ab5c0ca6adf48",
+        "title": "Spirit & Power Episode 6: Election Predictions for November 5th (and beyond)",
+        "tier": "tier3_description",
+        "model_said": [
+          "Elle Hardy",
+          "Dr. Flavio Hickel Jr."
+        ],
+        "gold_said": [
+          "Elle Hardy",
+          "Flavio Hickel Jr.",
+          "Erica Bryand Ramirez",
+          "Karrie Gaspard-Hogewood",
+          "Leah Payne"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Erica Bryand Ramirez",
+          "Karrie Gaspard-Hogewood",
+          "Leah Payne"
+        ]
+      },
+      {
+        "episode_id": "b3a8fc0a72f547ee",
+        "title": "Political Experts React To Weird Trump AI Video, Graham Platner and Zohran Mamdani",
+        "tier": "tier2_title",
+        "model_said": [
+          "Graham Platner",
+          "Zohran Mamdani"
+        ],
+        "gold_said": [
+          "Dan Pfeiffer",
+          "Jon Favreau"
+        ],
+        "extra_names": [
+          "Graham Platner",
+          "Zohran Mamdani"
+        ],
+        "missed_names": [
+          "Dan Pfeiffer",
+          "Jon Favreau"
+        ]
+      },
+      {
+        "episode_id": "229ca7aadda0d461",
+        "title": "Sen. John Thune: No excuse for disagreements to spill over into violence",
+        "tier": "tier2_title",
+        "model_said": [
+          "John Thune"
+        ],
+        "gold_said": [],
+        "extra_names": [
+          "John Thune"
+        ],
+        "missed_names": []
+      },
+      {
+        "episode_id": "47c4b5964354a2db",
+        "title": "Hunter Strikes Back",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Jason Kander",
+          "Ravi Gupta"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Jason Kander",
+          "Ravi Gupta"
+        ]
+      },
+      {
+        "episode_id": "1e3e0d75518c6d66",
+        "title": "“Leave no survivors”",
+        "tier": "tier3_description",
+        "model_said": [
+          "Andrew Weissmann",
+          "Claire McCaskill"
+        ],
+        "gold_said": [
+          "Nicolle Wallace"
+        ],
+        "extra_names": [
+          "Andrew Weissmann",
+          "Claire McCaskill"
+        ],
+        "missed_names": [
+          "Nicolle Wallace"
+        ]
+      },
+      {
+        "episode_id": "b80e2929df267f44",
+        "title": "27-Apr-17",
+        "tier": "tier3_description",
+        "model_said": [
+          "Donald Trump"
+        ],
+        "gold_said": [],
+        "extra_names": [
+          "Donald Trump"
+        ],
+        "missed_names": []
+      },
+      {
+        "episode_id": "659dc5f0aa2a470a",
+        "title": "TV | Hold The Line w/ Buck Sexton - 12-06-21",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Buck Sexton"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Buck Sexton"
+        ]
+      },
+      {
+        "episode_id": "d51c76e5af366d00",
+        "title": "Mollie Hemingway And Chris Bedford On Key Races And Bad Polling",
+        "tier": "tier2_title",
+        "model_said": [
+          "Mollie Hemingway",
+          "Chris Bedford"
+        ],
+        "gold_said": [
+          "Mollie Hemingway",
+          "Christopher Bedford",
+          "Emily Jashinsky"
+        ],
+        "extra_names": [
+          "Chris Bedford"
+        ],
+        "missed_names": [
+          "Christopher Bedford",
+          "Emily Jashinsky"
+        ]
+      },
+      {
+        "episode_id": "b116fe5b76cc2e52",
+        "title": "Robert F. Kennedy, Jr., Could Swing the Election. Who Should Be More Worried—Biden or Trump?",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Jane Mayer",
+          "Evan Osnos",
+          "Susan B. Glasser"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Jane Mayer",
+          "Evan Osnos",
+          "Susan B. Glasser"
+        ]
+      },
+      {
+        "episode_id": "63d3ceaa3d9f7835",
+        "title": "#1526 A History of Political Violence in the US (Throwback)",
+        "tier": "tier3_description",
+        "model_said": [
+          "Luke Mogelson"
+        ],
+        "gold_said": [],
+        "extra_names": [
+          "Luke Mogelson"
+        ],
+        "missed_names": []
+      },
+      {
+        "episode_id": "53d59b4af0e958a3",
+        "title": "Week in Review: shelters, taxes, and Starbucks",
+        "tier": "tier3_description",
+        "model_said": [
+          "Hannah Murphy Winter",
+          "Joni Balter",
+          "Joe Nguyen"
+        ],
+        "gold_said": [
+          "Hannah Murphy Winter",
+          "Joni Balter",
+          "Joe Nyugen"
+        ],
+        "extra_names": [
+          "Joe Nguyen"
+        ],
+        "missed_names": [
+          "Joe Nyugen"
+        ]
+      },
+      {
+        "episode_id": "cf1aabaf3cb302d0",
+        "title": "Rep. Harriet Hageman breaks down recent evidence of IRS use of Artificial Intelligence to spy on US taxpayers",
+        "tier": "tier2_title",
+        "model_said": [
+          "Rep. Harriet Hageman"
+        ],
+        "gold_said": [
+          "Harriet Hageman",
+          "Jim Jordan"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Jim Jordan"
+        ]
+      },
+      {
+        "episode_id": "5948d35f9c6726d0",
+        "title": "The Court Sides With Dictatorship — and Chaos",
+        "tier": "tier3_description",
+        "model_said": [
+          "Lisa Cook"
+        ],
+        "gold_said": [],
+        "extra_names": [
+          "Lisa Cook"
+        ],
+        "missed_names": []
+      },
+      {
+        "episode_id": "ec9762046e0d0ea4",
+        "title": "False Positive ft. Steve Deace",
+        "tier": "tier2_title",
+        "model_said": [
+          "Steve Deace"
+        ],
+        "gold_said": [
+          "Michael Knowles",
+          "Steve Deace"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Michael Knowles"
+        ]
+      },
+      {
+        "episode_id": "09f37eab4cbf36a8",
+        "title": "The Life and Teaching of St. Maximos by Father Maximos (Simonopetritis)",
+        "tier": "tier3_description",
+        "model_said": [
+          "Father Maximos (Simonopetritis)"
+        ],
+        "gold_said": [],
+        "extra_names": [
+          "Father Maximos (Simonopetritis)"
+        ],
+        "missed_names": []
+      },
+      {
+        "episode_id": "7631f01ef4c82c61",
+        "title": "Abby Phillip on Jesse Jackson, Black Power, and Wild Debate TV | The Joy Reid Show Bonus Episode",
+        "tier": "tier2_title",
+        "model_said": [
+          "Abby Phillip"
+        ],
+        "gold_said": [
+          "Joy Reid",
+          "Abby  Philip"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Joy Reid"
+        ]
+      },
+      {
+        "episode_id": "562a8c7e40c09b83",
+        "title": "Will Pakistan's land trade routes with Iran undermine the US?",
+        "tier": "tier3_description",
+        "model_said": [
+          "Mushahid Hussain Syed",
+          "Setareh Sadeqi",
+          "Ross Harrison"
+        ],
+        "gold_said": [
+          "Mushahid Hussain Syed",
+          "Setareh Sadeqi",
+          "Ross Harrison",
+          "James Bays"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "James Bays"
+        ]
+      },
+      {
+        "episode_id": "c608c39859c5e69e",
+        "title": "Will Steve Hilton or Spencer Pratt win in CA?",
+        "tier": "tier3_description",
+        "model_said": [
+          "Scott Turner",
+          "John Ashbrook",
+          "James Lileks",
+          "David Drucker",
+          "Dan Sullivan",
+          "Matthew Continetti"
+        ],
+        "gold_said": [
+          "Alex Marlow",
+          "Scott Turner",
+          "John Ashbrook",
+          "James Lileks",
+          "David Drucker",
+          "Dan Sullivan",
+          "Matthew Continetti"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Alex Marlow"
+        ]
+      },
+      {
+        "episode_id": "a9b4f006a370b881",
+        "title": "“Search and rescue underway in Iran for U.S. Airman”",
+        "tier": "none",
+        "model_said": [],
+        "gold_said": [
+          "Ayman Mohyeldin"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Ayman Mohyeldin"
+        ]
+      },
+      {
+        "episode_id": "6a94b14815959da9",
+        "title": "Ups and Downs in New York",
+        "tier": "tier3_description",
+        "model_said": [],
+        "gold_said": [
+          "Andrew Weissmann",
+          "Mary McCord"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Andrew Weissmann",
+          "Mary McCord"
+        ]
+      },
+      {
+        "episode_id": "78fb6a979ffd705e",
+        "title": "Episode #7 - 4 August 2019 - The MOATS Podcast Archive",
+        "tier": "tier3_description",
+        "model_said": [
+          "Andrew Patrick"
+        ],
+        "gold_said": [
+          "Andrew Patrick",
+          "Leisl Gernholtz",
+          "Adam Garrie"
+        ],
+        "extra_names": [],
+        "missed_names": [
+          "Leisl Gernholtz",
+          "Adam Garrie"
+        ]
+      }
+    ]
+  }
 }
