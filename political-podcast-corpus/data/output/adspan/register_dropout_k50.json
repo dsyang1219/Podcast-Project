@@ -1,0 +1,175 @@
+{
+  "generated_at": "2026-08-05T07:05:00.452716+00:00",
+  "corpus": "clean",
+  "corpus_label": "ad-span-cleaned corpus",
+  "k": 50,
+  "drop_sets": {
+    "register_core": {
+      "topics": [
+        15,
+        32,
+        34,
+        39
+      ],
+      "why": "pure speech register: profanity (15), food/lifestyle chatter (32), host pleasantries (34), discourse filler (39)"
+    },
+    "register_plus": {
+      "topics": [
+        8,
+        10,
+        15,
+        20,
+        28,
+        32,
+        34,
+        35,
+        39
+      ],
+      "why": "register_core plus non-political content: entertainment (8), books/writing (10), local incidents+weather (20), news-bulletin format (28), personal narrative (35)"
+    }
+  },
+  "kept_deliberately": {
+    "47": "evidence/reporting language -- genuine content",
+    "49": "sports -- genuine content"
+  },
+  "n_random_draws": 20,
+  "results": [
+    {
+      "condition": "full",
+      "target": "host_only",
+      "n_dropped": 0,
+      "n": 84,
+      "r2": 0.29910346702281543,
+      "ci_95": [
+        0.11788789330494644,
+        0.43661160073620786
+      ],
+      "permutation_r2": -0.21857813228908118,
+      "y_sd": 1.1312213635898336
+    },
+    {
+      "condition": "full",
+      "target": "extended_all",
+      "n_dropped": 0,
+      "n": 204,
+      "r2": 0.4163966430267986,
+      "ci_95": [
+        0.32129812232773264,
+        0.5022860230735624
+      ],
+      "permutation_r2": -0.011683771042138247,
+      "y_sd": 0.8409690310079899
+    },
+    {
+      "condition": "full",
+      "target": "guest_only",
+      "n_dropped": 0,
+      "n": 202,
+      "r2": 0.5306885459957733,
+      "ci_95": [
+        0.4532233139001901,
+        0.5964584585182734
+      ],
+      "permutation_r2": -0.030242640528010067,
+      "y_sd": 0.598741867267109
+    },
+    {
+      "condition": "register_core",
+      "target": "host_only",
+      "n_dropped": 4,
+      "n": 84,
+      "r2": 0.27488860202181875,
+      "ci_95": [
+        0.07801182971516485,
+        0.41397205413335636
+      ],
+      "permutation_r2": -0.21094773669507827,
+      "y_sd": 1.1312213635898336
+    },
+    {
+      "condition": "register_core",
+      "target": "extended_all",
+      "n_dropped": 4,
+      "n": 204,
+      "r2": 0.39405141457798654,
+      "ci_95": [
+        0.29994020874278227,
+        0.47756443758892797
+      ],
+      "permutation_r2": -0.011341166076785258,
+      "y_sd": 0.8409690310079899
+    },
+    {
+      "condition": "register_core",
+      "target": "guest_only",
+      "n_dropped": 4,
+      "n": 202,
+      "r2": 0.5039455692070524,
+      "ci_95": [
+        0.42307574763784195,
+        0.5723495015146937
+      ],
+      "permutation_r2": -0.012243989051404558,
+      "y_sd": 0.598741867267109
+    },
+    {
+      "condition": "register_plus",
+      "target": "host_only",
+      "n_dropped": 9,
+      "n": 84,
+      "r2": 0.21468157891759743,
+      "ci_95": [
+        0.014804712991677942,
+        0.35950906987383796
+      ],
+      "permutation_r2": -0.12866398671215062,
+      "y_sd": 1.1312213635898336
+    },
+    {
+      "condition": "register_plus",
+      "target": "extended_all",
+      "n_dropped": 9,
+      "n": 204,
+      "r2": 0.36991972405277485,
+      "ci_95": [
+        0.27506170982412365,
+        0.45322524251346935
+      ],
+      "permutation_r2": -0.010820991116017309,
+      "y_sd": 0.8409690310079899
+    },
+    {
+      "condition": "register_plus",
+      "target": "guest_only",
+      "n_dropped": 9,
+      "n": 202,
+      "r2": 0.4963427064342204,
+      "ci_95": [
+        0.3989781217702478,
+        0.580375590166364
+      ],
+      "permutation_r2": -0.008042107470816795,
+      "y_sd": 0.598741867267109
+    }
+  ],
+  "random_null": {
+    "register_core": {
+      "n_dropped": 4,
+      "random_mean": 0.40582777674759274,
+      "random_p5": 0.37470029853539927,
+      "random_p95": 0.4192054993817008,
+      "observed": 0.39405141457798654,
+      "pct_of_random_draws_at_or_below_observed": 0.2,
+      "verdict": "INSIDE the random null -- indistinguishable from losing n arbitrary topics"
+    },
+    "register_plus": {
+      "n_dropped": 9,
+      "random_mean": 0.388733826882779,
+      "random_p5": 0.32312893896785094,
+      "random_p95": 0.4207660383327225,
+      "observed": 0.36991972405277485,
+      "pct_of_random_draws_at_or_below_observed": 0.15,
+      "verdict": "INSIDE the random null -- indistinguishable from losing n arbitrary topics"
+    }
+  }
+}

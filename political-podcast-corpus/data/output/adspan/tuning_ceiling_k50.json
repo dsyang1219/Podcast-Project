@@ -1,0 +1,584 @@
+{
+  "generated_at": "2026-08-05T07:35:58.559384+00:00",
+  "WARNING": "EXPLORATORY. Every variant was scored on the same LOSO-CV R2 used to rank them. The maximum is an upper bound produced by outcome selection, NOT a reportable result. Nested CV would land lower.",
+  "selected_by_outcome": true,
+  "corpus": "clean",
+  "k": 50,
+  "target": "extended_all",
+  "baseline_mean_clr_ridge": 0.4163966430267986,
+  "n_variants": 80,
+  "winner": {
+    "agg": "mean",
+    "transform": "clr",
+    "estimator": "svr_rbf",
+    "r2": 0.4382046906821482,
+    "n": 204,
+    "ci_95": [
+      0.3426144017459527,
+      0.5222092023747409
+    ],
+    "permutation_r2": -0.15163939269025728
+  },
+  "all_variants": [
+    {
+      "agg": "mean",
+      "transform": "clr",
+      "estimator": "ridge",
+      "r2": 0.4163966430267986,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "clr",
+      "estimator": "krr_rbf",
+      "r2": 0.41824608680973585,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "clr",
+      "estimator": "elasticnet",
+      "r2": 0.4183135891053852,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "clr",
+      "estimator": "svr_rbf",
+      "r2": 0.4382046906821482,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "clr",
+      "estimator": "pls",
+      "r2": 0.4143569967244167,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "clr",
+      "estimator": "knn",
+      "r2": 0.2673070350082827,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "clr",
+      "estimator": "rf",
+      "r2": 0.3155285610319768,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "clr",
+      "estimator": "gbr",
+      "r2": 0.29469716000680446,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "raw",
+      "estimator": "ridge",
+      "r2": 0.06110712199943291,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "raw",
+      "estimator": "krr_rbf",
+      "r2": 0.3217608045345677,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "raw",
+      "estimator": "elasticnet",
+      "r2": 0.09371472533814151,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "raw",
+      "estimator": "svr_rbf",
+      "r2": 0.3335539681374219,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "raw",
+      "estimator": "pls",
+      "r2": 0.02054286944047723,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "raw",
+      "estimator": "knn",
+      "r2": 0.22582041643386352,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "raw",
+      "estimator": "rf",
+      "r2": 0.2782070431828696,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "raw",
+      "estimator": "gbr",
+      "r2": 0.2926745660520691,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "sqrt",
+      "estimator": "ridge",
+      "r2": 0.38076801196094745,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "sqrt",
+      "estimator": "krr_rbf",
+      "r2": 0.32926399905395864,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "sqrt",
+      "estimator": "elasticnet",
+      "r2": 0.34838791297556615,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "sqrt",
+      "estimator": "svr_rbf",
+      "r2": 0.4003568951153662,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "sqrt",
+      "estimator": "pls",
+      "r2": 0.33372968577713735,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "sqrt",
+      "estimator": "knn",
+      "r2": 0.28007448232677035,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "sqrt",
+      "estimator": "rf",
+      "r2": 0.27943148473618473,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "sqrt",
+      "estimator": "gbr",
+      "r2": 0.29035141789027585,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "log",
+      "estimator": "ridge",
+      "r2": 0.41869955188253494,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "log",
+      "estimator": "krr_rbf",
+      "r2": 0.4167380429900377,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "log",
+      "estimator": "elasticnet",
+      "r2": 0.41190624709657675,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "log",
+      "estimator": "svr_rbf",
+      "r2": 0.40575267068898924,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "log",
+      "estimator": "pls",
+      "r2": 0.425907478399151,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "log",
+      "estimator": "knn",
+      "r2": 0.33831107152731843,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "log",
+      "estimator": "rf",
+      "r2": 0.2791401566215652,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "log",
+      "estimator": "gbr",
+      "r2": 0.28727790321148505,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "logit",
+      "estimator": "ridge",
+      "r2": 0.4182114300634736,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "logit",
+      "estimator": "krr_rbf",
+      "r2": 0.4162758734435942,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "logit",
+      "estimator": "elasticnet",
+      "r2": 0.41259189644879546,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "logit",
+      "estimator": "svr_rbf",
+      "r2": 0.41228058134512746,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "logit",
+      "estimator": "pls",
+      "r2": 0.42528643158776747,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "logit",
+      "estimator": "knn",
+      "r2": 0.33161813370835636,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "logit",
+      "estimator": "rf",
+      "r2": 0.27902132143732605,
+      "n": 204
+    },
+    {
+      "agg": "mean",
+      "transform": "logit",
+      "estimator": "gbr",
+      "r2": 0.28727790321148505,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "clr",
+      "estimator": "ridge",
+      "r2": -0.0003836545110988965,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "clr",
+      "estimator": "krr_rbf",
+      "r2": 0.19283023384983622,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "clr",
+      "estimator": "elasticnet",
+      "r2": 0.11847953264745759,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "clr",
+      "estimator": "svr_rbf",
+      "r2": 0.2181837558972567,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "clr",
+      "estimator": "pls",
+      "r2": 0.059133399691424615,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "clr",
+      "estimator": "knn",
+      "r2": 0.13007672320578767,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "clr",
+      "estimator": "rf",
+      "r2": 0.20152398466673704,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "clr",
+      "estimator": "gbr",
+      "r2": 0.17812201299122554,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "raw",
+      "estimator": "ridge",
+      "r2": -109.65851534101571,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "raw",
+      "estimator": "krr_rbf",
+      "r2": 0.14649245071157735,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "raw",
+      "estimator": "elasticnet",
+      "r2": 0.11149741441380467,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "raw",
+      "estimator": "svr_rbf",
+      "r2": 0.1177939905017672,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "raw",
+      "estimator": "pls",
+      "r2": -108.06372513939084,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "raw",
+      "estimator": "knn",
+      "r2": 0.0651902099470354,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "raw",
+      "estimator": "rf",
+      "r2": 0.16413742946728738,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "raw",
+      "estimator": "gbr",
+      "r2": 0.02954850995110825,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "sqrt",
+      "estimator": "ridge",
+      "r2": -0.33189339290933395,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "sqrt",
+      "estimator": "krr_rbf",
+      "r2": 0.10665859135161593,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "sqrt",
+      "estimator": "elasticnet",
+      "r2": -0.34389593481215397,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "sqrt",
+      "estimator": "svr_rbf",
+      "r2": 0.20267960615952307,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "sqrt",
+      "estimator": "pls",
+      "r2": -2.705268542360199,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "sqrt",
+      "estimator": "knn",
+      "r2": 0.21957901745938713,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "sqrt",
+      "estimator": "rf",
+      "r2": 0.1584035982333557,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "sqrt",
+      "estimator": "gbr",
+      "r2": 0.03574628207275099,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "log",
+      "estimator": "ridge",
+      "r2": 0.06839236506500912,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "log",
+      "estimator": "krr_rbf",
+      "r2": 0.17877408983580423,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "log",
+      "estimator": "elasticnet",
+      "r2": -0.14695703608042,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "log",
+      "estimator": "svr_rbf",
+      "r2": 0.2263626184280385,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "log",
+      "estimator": "pls",
+      "r2": 0.07920106382471703,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "log",
+      "estimator": "knn",
+      "r2": 0.12718948685961362,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "log",
+      "estimator": "rf",
+      "r2": 0.15733910188211309,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "log",
+      "estimator": "gbr",
+      "r2": 0.03477177759945027,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "logit",
+      "estimator": "ridge",
+      "r2": 0.06892471720373694,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "logit",
+      "estimator": "krr_rbf",
+      "r2": 0.17068215481210613,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "logit",
+      "estimator": "elasticnet",
+      "r2": -0.1643859175210507,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "logit",
+      "estimator": "svr_rbf",
+      "r2": 0.22738585039305848,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "logit",
+      "estimator": "pls",
+      "r2": 0.08144687929727945,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "logit",
+      "estimator": "knn",
+      "r2": 0.11493603990781232,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "logit",
+      "estimator": "rf",
+      "r2": 0.1581583555995848,
+      "n": 204
+    },
+    {
+      "agg": "median",
+      "transform": "logit",
+      "estimator": "gbr",
+      "r2": 0.03450897452066015,
+      "n": 204
+    }
+  ]
+}

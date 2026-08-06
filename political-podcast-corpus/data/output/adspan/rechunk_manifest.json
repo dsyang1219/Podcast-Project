@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-08-05T06:22:40.417301+00:00",
+  "source": "/home/dsyang/Podcast-Project/political-podcast-corpus/data/output/adspan/cleaned_transcripts.jsonl.gz",
+  "target_words": 500,
+  "min_stub_words": 300,
+  "lemmatize": false,
+  "min_token_len": 2,
+  "boilerplate_ngrams_on_cleaned": 19346,
+  "n_episodes": 7626,
+  "n_shows": 204,
+  "n_sentences_after_cleaning": 3594696,
+  "n_passages": 37942,
+  "n_passages_contaminated_baseline": 40242,
+  "mean_content_words": 492.2753940224553
+}

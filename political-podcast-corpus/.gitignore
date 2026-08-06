@@ -22,8 +22,31 @@ data/transcripts/
 # Local Python environment
 .venv/
 
+# API keys / secrets
+.env
+
 # Fetch/download logs
 transcription/download_audio.log
 
 __pycache__/
 *.pyc
+
+# Large regenerable model artifacts (added 2026-08-05). data/output/ is
+# re-included above, so without these every derived matrix shows up as
+# untracked and a blanket `git add` would try to push ~14GB -- past GitHub's
+# 100MB-per-file hard limit. All of these are rebuilt by their own scripts;
+# the small result JSON/CSV and the figures alongside them ARE committed.
+*.npy
+*.rds
+*.pkl
+data/output/chunks_*.csv
+data/output/sentences_*.csv
+data/output/lda_doctopic_*.csv
+data/output/adspan/chunks_*.csv
+data/output/adspan/doctopic_*.csv
+data/output/adspan/*.jsonl.gz
+data/output/guests_raw*.jsonl
+__pycache__/
+*.pyc
+r/lib/
+.venv-tlda/

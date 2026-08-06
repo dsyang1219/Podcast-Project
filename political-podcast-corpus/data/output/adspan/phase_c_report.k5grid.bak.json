@@ -1,0 +1,154 @@
+{
+  "generated_at": "2026-08-05T08:19:39.259323+00:00",
+  "corpus": "clean",
+  "corpus_label": "ad-span-cleaned corpus",
+  "is_preview": false,
+  "regime": "moderate",
+  "k_grid": [
+    30,
+    50,
+    75,
+    100,
+    150
+  ],
+  "selection": {
+    "criterion": "topic coherence (c_v), outcome-independent",
+    "rule": "smallest K with c_v >= peak - 1SE  (peak=0.6733 at K=75, SE=0.0132 over 75 per-topic scores, threshold=0.6601)",
+    "chosen_k": 30,
+    "peak_cv_k": 75,
+    "peak_cv": 0.673251526216666,
+    "se": 0.013168990720824851,
+    "threshold": 0.6600825354958411,
+    "warning": "c_v peaks at K=75 but c_npmi peaks at K=150; metrics disagree on the best-K region -- preferring the smaller K (75) per the pre-fixed rule",
+    "note": "ideology R2 played no role in selecting K; it is measured at every K and reported after selection"
+  },
+  "coherence_table": [
+    {
+      "k": 30,
+      "c_v": 0.6719942205647628,
+      "c_npmi": 0.11754685452496409,
+      "u_mass": -1.4326249462772318,
+      "vocab_size": 38008
+    },
+    {
+      "k": 50,
+      "c_v": 0.6611630215197802,
+      "c_npmi": 0.11659914757731028,
+      "u_mass": -1.529369890222989,
+      "vocab_size": 38008
+    },
+    {
+      "k": 75,
+      "c_v": 0.673251526216666,
+      "c_npmi": 0.12657971746963703,
+      "u_mass": -1.6329051067638944,
+      "vocab_size": 38008
+    },
+    {
+      "k": 100,
+      "c_v": 0.6636187139153481,
+      "c_npmi": 0.13061059052713297,
+      "u_mass": -1.739870333727404,
+      "vocab_size": 38008
+    },
+    {
+      "k": 150,
+      "c_v": 0.6474093315067391,
+      "c_npmi": 0.13684917147582254,
+      "u_mass": -1.853309514845764,
+      "vocab_size": 38008
+    }
+  ],
+  "ideology_across_k": [
+    {
+      "k": 30,
+      "r2": 0.2703615456770877,
+      "ci_95": [
+        0.12593058836413554,
+        0.3893062138474449
+      ],
+      "permutation_r2": -0.011370497858175233,
+      "n_contaminant_topics": 0
+    },
+    {
+      "k": 50,
+      "r2": 0.4163966427667575,
+      "ci_95": [
+        0.3212981217961426,
+        0.5022860260687358
+      ],
+      "permutation_r2": -0.011683770896037116,
+      "n_contaminant_topics": 0
+    },
+    {
+      "k": 75,
+      "r2": 0.45202519827869336,
+      "ci_95": [
+        0.3402914741430483,
+        0.5404331483468708
+      ],
+      "permutation_r2": -0.012127560218705424,
+      "n_contaminant_topics": 0
+    },
+    {
+      "k": 100,
+      "r2": 0.3947977089711314,
+      "ci_95": [
+        0.26053357400132154,
+        0.5036587748303192
+      ],
+      "permutation_r2": -0.013027362248859031,
+      "n_contaminant_topics": 1
+    },
+    {
+      "k": 150,
+      "r2": 0.35517053166371826,
+      "ci_95": [
+        0.19544184431019576,
+        0.48161751370145084
+      ],
+      "permutation_r2": -0.009709575240688606,
+      "n_contaminant_topics": 0
+    }
+  ],
+  "ideology_r2_range_across_k": [
+    0.2703615456770877,
+    0.45202519827869336
+  ],
+  "headline_at_coherence_selected_k": {
+    "n_shows": 204,
+    "loso_cv_r2": 0.2703615456770877,
+    "ci_95": [
+      0.12593058836413554,
+      0.3893062138474449
+    ],
+    "permutation_r2": -0.011370497858175233
+  },
+  "reference_old_ideology_selected_k75": {
+    "n_shows": 204,
+    "loso_cv_r2": 0.45202519827869336,
+    "ci_95": [
+      0.3402914741430483,
+      0.5404331483468708
+    ],
+    "permutation_r2": -0.012127560218705424,
+    "note": "the PREVIOUSLY USED K, selected on ideology R2 (outcome-selected -- reported for comparison only)"
+  },
+  "coherence_vs_ideology_k": {
+    "coherence_selected_k": 30,
+    "ideology_optimal_k": 75,
+    "agree": false,
+    "note": "coherence selects K=30 but ideology R2 peaks at K=75 -- informative about how ideology relates to topic granularity, not a defect"
+  },
+  "n_contaminant_topics_chosen_k": 0,
+  "contaminant_topics_chosen_k": [],
+  "before_after_chain": {
+    "moderate_raw_contaminated_k75_ideology_selected": 0.451,
+    "drop_ads_meta_topics_k75": 0.3953,
+    "drop_all_flagged_topics_k75": 0.3756,
+    "this_run_at_coherence_selected_k": 0.2703615456770877,
+    "this_run_at_k75": 0.45202519827869336,
+    "corpus": "clean",
+    "valid_as_final": true
+  }
+}

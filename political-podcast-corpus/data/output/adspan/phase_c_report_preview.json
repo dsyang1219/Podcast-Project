@@ -1,0 +1,199 @@
+{
+  "generated_at": "2026-08-05T04:05:00.478396+00:00",
+  "corpus": "preview",
+  "corpus_label": "PREVIEW -- pre-ad-clean corpus (contamination-inflated; rerun on ad-cleaned corpus required)",
+  "is_preview": true,
+  "regime": "moderate",
+  "k_grid": [
+    30,
+    50,
+    75,
+    100,
+    150
+  ],
+  "selection": {
+    "criterion": "topic coherence (c_v), outcome-independent",
+    "rule": "smallest K with c_v >= peak - 1SE  (peak=0.6802 at K=100, SE=0.0103 over 100 per-topic scores, threshold=0.6699)",
+    "chosen_k": 30,
+    "peak_cv_k": 100,
+    "peak_cv": 0.6801711203940212,
+    "se": 0.010272458213360144,
+    "threshold": 0.6698986621806611,
+    "warning": "c_v peaks at K=100 but c_npmi peaks at K=150; metrics disagree on the best-K region -- preferring the smaller K (100) per the pre-fixed rule",
+    "note": "ideology R2 played no role in selecting K; it is measured at every K and reported after selection"
+  },
+  "coherence_table": [
+    {
+      "k": 30,
+      "c_v": 0.6715746288746595,
+      "c_npmi": 0.10823817120435784,
+      "u_mass": -1.4840088725440774,
+      "vocab_size": 39760
+    },
+    {
+      "k": 50,
+      "c_v": 0.6734896539449692,
+      "c_npmi": 0.12259915500804393,
+      "u_mass": -1.5963340359442955,
+      "vocab_size": 39760
+    },
+    {
+      "k": 75,
+      "c_v": 0.6786065596702199,
+      "c_npmi": 0.12250111008754078,
+      "u_mass": -1.653827770676178,
+      "vocab_size": 39760
+    },
+    {
+      "k": 100,
+      "c_v": 0.6801711203940212,
+      "c_npmi": 0.13299738044397524,
+      "u_mass": -1.6858270097562618,
+      "vocab_size": 39760
+    },
+    {
+      "k": 150,
+      "c_v": 0.6641926970034837,
+      "c_npmi": 0.13500421736979387,
+      "u_mass": -1.8318750991861317,
+      "vocab_size": 39760
+    }
+  ],
+  "ideology_across_k": [
+    {
+      "k": 30,
+      "r2": 0.09924055549826505,
+      "ci_95": [
+        -0.07253773230600576,
+        0.22293237206008257
+      ],
+      "permutation_r2": -0.019348004002474495,
+      "n_contaminant_topics": 2
+    },
+    {
+      "k": 50,
+      "r2": 0.2946593359725457,
+      "ci_95": [
+        0.16343835963580092,
+        0.3916291145704714
+      ],
+      "permutation_r2": -0.01011731476310973,
+      "n_contaminant_topics": 3
+    },
+    {
+      "k": 75,
+      "r2": 0.45100006116433866,
+      "ci_95": [
+        0.34542568589533484,
+        0.5326786275446395
+      ],
+      "permutation_r2": -0.01174768332160725,
+      "n_contaminant_topics": 3
+    },
+    {
+      "k": 100,
+      "r2": 0.4072863557339643,
+      "ci_95": [
+        0.2735208920893019,
+        0.5101762431052196
+      ],
+      "permutation_r2": -0.011685468787104192,
+      "n_contaminant_topics": 4
+    },
+    {
+      "k": 150,
+      "r2": 0.4275128895859628,
+      "ci_95": [
+        0.2923627911847841,
+        0.5362380472388417
+      ],
+      "permutation_r2": -0.011203046760278168,
+      "n_contaminant_topics": 5
+    }
+  ],
+  "ideology_r2_range_across_k": [
+    0.09924055549826505,
+    0.45100006116433866
+  ],
+  "headline_at_coherence_selected_k": {
+    "n_shows": 204,
+    "loso_cv_r2": 0.09924055549826505,
+    "ci_95": [
+      -0.07253773230600576,
+      0.22293237206008257
+    ],
+    "permutation_r2": -0.019348004002474495
+  },
+  "reference_old_ideology_selected_k75": {
+    "n_shows": 204,
+    "loso_cv_r2": 0.45100006116433866,
+    "ci_95": [
+      0.34542568589533484,
+      0.5326786275446395
+    ],
+    "permutation_r2": -0.01174768332160725,
+    "note": "the PREVIOUSLY USED K, selected on ideology R2 (outcome-selected -- reported for comparison only)"
+  },
+  "coherence_vs_ideology_k": {
+    "coherence_selected_k": 30,
+    "ideology_optimal_k": 75,
+    "agree": false,
+    "note": "coherence selects K=30 but ideology R2 peaks at K=75 -- informative about how ideology relates to topic granularity, not a defect"
+  },
+  "n_contaminant_topics_chosen_k": 2,
+  "contaminant_topics_chosen_k": [
+    {
+      "topic": 12,
+      "top_words": [
+        "com",
+        "code",
+        "slash",
+        "sleep",
+        "quince",
+        "summer",
+        "free",
+        "body",
+        "use",
+        "chicken"
+      ],
+      "n_filler": 0,
+      "n_ad": 4,
+      "n_meta": 0,
+      "flagged_as": [
+        "ad"
+      ],
+      "is_contaminant": true
+    },
+    {
+      "topic": 28,
+      "top_words": [
+        "money",
+        "com",
+        "gold",
+        "free",
+        "slash",
+        "business",
+        "use",
+        "company",
+        "crypto",
+        "today"
+      ],
+      "n_filler": 0,
+      "n_ad": 3,
+      "n_meta": 0,
+      "flagged_as": [
+        "ad"
+      ],
+      "is_contaminant": true
+    }
+  ],
+  "before_after_chain": {
+    "moderate_raw_contaminated_k75_ideology_selected": 0.451,
+    "drop_ads_meta_topics_k75": 0.3953,
+    "drop_all_flagged_topics_k75": 0.3756,
+    "this_run_at_coherence_selected_k": 0.09924055549826505,
+    "this_run_at_k75": 0.45100006116433866,
+    "corpus": "preview",
+    "valid_as_final": false
+  }
+}

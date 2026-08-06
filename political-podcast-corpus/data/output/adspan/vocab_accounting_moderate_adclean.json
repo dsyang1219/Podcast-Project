@@ -1,0 +1,27 @@
+{
+  "vocab_before": 143386,
+  "vocab_after": 38008,
+  "tokens_before": 18585488,
+  "tokens_after": 15508372,
+  "min_docfreq": 10,
+  "max_docfreq_prop": 0.5,
+  "n_docs": 37942,
+  "regime": "moderate",
+  "n_empty_docs": 0,
+  "toggles": {
+    "lowercase": true,
+    "remove_punct": true,
+    "remove_numbers": true,
+    "remove_symbols": true,
+    "stopwords": true,
+    "ngrams": false,
+    "infrequent_terms": true,
+    "lemmatize": false,
+    "stem": false,
+    "pos_filter": false,
+    "disfluency": true,
+    "min_docfreq": 10,
+    "max_docfreq_prop": 0.5
+  },
+  "source": "/home/dsyang/Podcast-Project/political-podcast-corpus/data/output/adspan/chunks_500_nolemma_adclean.csv"
+}

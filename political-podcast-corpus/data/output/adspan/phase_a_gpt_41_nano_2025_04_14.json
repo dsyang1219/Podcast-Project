@@ -1,0 +1,918 @@
+{
+  "model": "gpt-4.1-nano-2025-04-14",
+  "n_windows": 26,
+  "n_sentences": 886,
+  "elapsed_sec": 13.806052923202515,
+  "confusion": {
+    "ad_sponsor->ad_sponsor": 51,
+    "ad_sponsor->meta_boilerplate": 18,
+    "ad_sponsor->content": 164,
+    "meta_boilerplate->ad_sponsor": 0,
+    "meta_boilerplate->meta_boilerplate": 0,
+    "meta_boilerplate->content": 115,
+    "content->ad_sponsor": 1,
+    "content->meta_boilerplate": 0,
+    "content->content": 537
+  },
+  "metrics": {
+    "ad_sponsor": {
+      "precision": 0.9807692307692307,
+      "recall": 0.21888412017167383,
+      "f1": 0.3578947368421052,
+      "tp": 51,
+      "fp": 1,
+      "fn": 182
+    },
+    "meta_boilerplate": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": NaN,
+      "tp": 0,
+      "fp": 18,
+      "fn": 115
+    },
+    "removed_union": {
+      "precision": 0.9857142857142858,
+      "recall": 0.19827586206896552,
+      "f1": 0.33014354066985646,
+      "tp": 69,
+      "fp": 1,
+      "fn": 279
+    }
+  },
+  "n_content_sentences": 538,
+  "content_false_positives": 1,
+  "content_false_positive_rate": 0.0018587360594795538,
+  "substantive_content_false_positives": 0,
+  "content_false_positive_detail": [
+    {
+      "window_id": "e1dba5dca89b1e1e::w4",
+      "show_name": "The Wright Report",
+      "stratum": "host_read_sponsor",
+      "sentence_index": 29,
+      "predicted": "ad_sponsor",
+      "text": "at jase.com and do this today because good lord there is no telling what tomorrow might bring welcome back to the right reports let's continue with our briefs this morning with a pivot towards domestic news with a international flavor first up president trump is facing his first big challenge with china following his announcement this week that the u.s will remain coupled economically with beijing Of course, he and his team announced on Monday that they are going to roll back the tariffs on China to 30%, but that might actually go higher to 55%.",
+      "substantive": false
+    }
+  ],
+  "n_false_negatives": 279,
+  "boundary": {
+    "n_gold_spans": 28,
+    "n_matched": 13,
+    "n_exact_both_edges": 4,
+    "mean_abs_start_offset": 8.923076923076923,
+    "mean_abs_end_offset": 1.0769230769230769,
+    "detail": [
+      {
+        "gold": [
+          0,
+          16
+        ],
+        "pred": [
+          13,
+          15
+        ],
+        "label": "ad_sponsor",
+        "matched": true,
+        "start_offset": 13,
+        "end_offset": -1,
+        "overlap": 3,
+        "gold_len": 17,
+        "window_id": "1215a0347580ec17::w7"
+      },
+      {
+        "gold": [
+          0,
+          34
+        ],
+        "label": "ad_sponsor",
+        "matched": false,
+        "window_id": "94c252b6ff6b97aa::w3"
+      },
+      {
+        "gold": [
+          35,
+          35
+        ],
+        "label": "meta_boilerplate",
+        "matched": false,
+        "window_id": "94c252b6ff6b97aa::w3"
+      },
+      {
+        "gold": [
+          5,
+          35
+        ],
+        "pred": [
+          33,
+          35
+        ],
+        "label": "ad_sponsor",
+        "matched": true,
+        "start_offset": 28,
+        "end_offset": 0,
+        "overlap": 3,
+        "gold_len": 31,
+        "window_id": "6935b885ca5af952::w4"
+      },
+      {
+        "gold": [
+          3,
+          32
+        ],
+        "pred": [
+          25,
+          29
+        ],
+        "label": "ad_sponsor",
+        "matched": true,
+        "start_offset": 22,
+        "end_offset": -3,
+        "overlap": 5,
+        "gold_len": 30,
+        "window_id": "7eb1cedaeed845fc::w1"
+      },
+      {
+        "gold": [
+          14,
+          15
+        ],
+        "label": "meta_boilerplate",
+        "matched": false,
+        "window_id": "e1dba5dca89b1e1e::w4"
+      },
+      {
+        "gold": [
+          16,
+          28
+        ],
+        "pred": [
+          16,
+          29
+        ],
+        "label": "ad_sponsor",
+        "matched": true,
+        "start_offset": 0,
+        "end_offset": 1,
+        "overlap": 13,
+        "gold_len": 13,
+        "window_id": "e1dba5dca89b1e1e::w4"
+      },
+      {
+        "gold": [
+          4,
+          35
+        ],
+        "pred": [
+          29,
+          32
+        ],
+        "label": "ad_sponsor",
+        "matched": true,
+        "start_offset": 25,
+        "end_offset": -3,
+        "overlap": 4,
+        "gold_len": 32,
+        "window_id": "f0705d733c910eed::w8"
+      },
+      {
+        "gold": [
+          0,
+          28
+        ],
+        "pred": [
+          24,
+          28
+        ],
+        "label": "ad_sponsor",
+        "matched": true,
+        "start_offset": 24,
+        "end_offset": 0,
+        "overlap": 5,
+        "gold_len": 29,
+        "window_id": "2e7f6e8004ae5834::w10"
+      },
+      {
+        "gold": [
+          28,
+          33
+        ],
+        "label": "meta_boilerplate",
+        "matched": false,
+        "window_id": "8d8565623a2d11b5::w23"
+      },
+      {
+        "gold": [
+          34,
+          35
+        ],
+        "pred": [
+          34,
+          35
+        ],
+        "label": "ad_sponsor",
+        "matched": true,
+        "start_offset": 0,
+        "end_offset": 0,
+        "overlap": 2,
+        "gold_len": 2,
+        "window_id": "8d8565623a2d11b5::w23"
+      },
+      {
+        "gold": [
+          13,
+          16
+        ],
+        "label": "meta_boilerplate",
+        "matched": false,
+        "window_id": "28836d7e830486e3::w22"
+      },
+      {
+        "gold": [
+          17,
+          26
+        ],
+        "pred": [
+          18,
+          20
+        ],
+        "label": "ad_sponsor",
+        "matched": true,
+        "start_offset": 1,
+        "end_offset": -6,
+        "overlap": 3,
+        "gold_len": 10,
+        "window_id": "28836d7e830486e3::w22"
+      },
+      {
+        "gold": [
+          1,
+          9
+        ],
+        "pred": [
+          2,
+          9
+        ],
+        "label": "ad_sponsor",
+        "matched": true,
+        "start_offset": 1,
+        "end_offset": 0,
+        "overlap": 8,
+        "gold_len": 9,
+        "window_id": "7eb5649188b4efc8::w6"
+      },
+      {
+        "gold": [
+          9,
+          16
+        ],
+        "pred": [
+          9,
+          16
+        ],
+        "label": "ad_sponsor",
+        "matched": true,
+        "start_offset": 0,
+        "end_offset": 0,
+        "overlap": 8,
+        "gold_len": 8,
+        "window_id": "2b714fbd6f921bb3::w3"
+      },
+      {
+        "gold": [
+          17,
+          35
+        ],
+        "label": "meta_boilerplate",
+        "matched": false,
+        "window_id": "2b714fbd6f921bb3::w3"
+      },
+      {
+        "gold": [
+          4,
+          10
+        ],
+        "label": "meta_boilerplate",
+        "matched": false,
+        "window_id": "90dc3a494aebce83::w8"
+      },
+      {
+        "gold": [
+          11,
+          15
+        ],
+        "pred": [
+          13,
+          15
+        ],
+        "label": "ad_sponsor",
+        "matched": true,
+        "start_offset": 2,
+        "end_offset": 0,
+        "overlap": 3,
+        "gold_len": 5,
+        "window_id": "90dc3a494aebce83::w8"
+      },
+      {
+        "gold": [
+          0,
+          4
+        ],
+        "label": "meta_boilerplate",
+        "matched": false,
+        "window_id": "160e948096084680::w0"
+      },
+      {
+        "gold": [
+          0,
+          16
+        ],
+        "label": "meta_boilerplate",
+        "matched": false,
+        "window_id": "740cd7f80eb7c286::w0"
+      },
+      {
+        "gold": [
+          22,
+          27
+        ],
+        "label": "meta_boilerplate",
+        "matched": false,
+        "window_id": "740cd7f80eb7c286::w0"
+      },
+      {
+        "gold": [
+          3,
+          10
+        ],
+        "label": "meta_boilerplate",
+        "matched": false,
+        "window_id": "cefae2b188c59dfd::w23"
+      },
+      {
+        "gold": [
+          29,
+          35
+        ],
+        "pred": [
+          29,
+          35
+        ],
+        "label": "ad_sponsor",
+        "matched": true,
+        "start_offset": 0,
+        "end_offset": 0,
+        "overlap": 7,
+        "gold_len": 7,
+        "window_id": "fe105d0a558707e7::w33"
+      },
+      {
+        "gold": [
+          25,
+          26
+        ],
+        "label": "meta_boilerplate",
+        "matched": false,
+        "window_id": "392656e2dbd5f96e::w12"
+      },
+      {
+        "gold": [
+          0,
+          14
+        ],
+        "label": "meta_boilerplate",
+        "matched": false,
+        "window_id": "80590ae2c706ed05::w0"
+      },
+      {
+        "gold": [
+          15,
+          19
+        ],
+        "pred": [
+          15,
+          19
+        ],
+        "label": "ad_sponsor",
+        "matched": true,
+        "start_offset": 0,
+        "end_offset": 0,
+        "overlap": 5,
+        "gold_len": 5,
+        "window_id": "80590ae2c706ed05::w0"
+      },
+      {
+        "gold": [
+          20,
+          31
+        ],
+        "label": "meta_boilerplate",
+        "matched": false,
+        "window_id": "80590ae2c706ed05::w0"
+      },
+      {
+        "gold": [
+          10,
+          20
+        ],
+        "label": "meta_boilerplate",
+        "matched": false,
+        "window_id": "a4d5d48f24d77f9e::w8"
+      }
+    ]
+  },
+  "tokens_in": 36585,
+  "tokens_out": 509,
+  "cost_usd": 0.0038621000000000003,
+  "tokens_in_per_sentence": 41.292325056433405,
+  "tokens_out_per_sentence": 0.5744920993227991,
+  "per_window": [
+    {
+      "window_id": "1215a0347580ec17::w7",
+      "stratum": "host_read_sponsor",
+      "show_name": "American Prestige",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 0,
+          "end": 16,
+          "label": "ad_sponsor"
+        }
+      ],
+      "pred_spans": [
+        {
+          "start": 13,
+          "end": 15,
+          "label": "ad_sponsor",
+          "confidence": 1.0
+        }
+      ],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "94c252b6ff6b97aa::w3",
+      "stratum": "host_read_sponsor",
+      "show_name": "The Joy Reid Show",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 0,
+          "end": 34,
+          "label": "ad_sponsor"
+        },
+        {
+          "start": 35,
+          "end": 35,
+          "label": "meta_boilerplate"
+        }
+      ],
+      "pred_spans": [],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "6935b885ca5af952::w4",
+      "stratum": "host_read_sponsor",
+      "show_name": "The Lincoln Project",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 5,
+          "end": 35,
+          "label": "ad_sponsor"
+        }
+      ],
+      "pred_spans": [
+        {
+          "start": 33,
+          "end": 35,
+          "label": "ad_sponsor",
+          "confidence": 1.0
+        }
+      ],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "7eb1cedaeed845fc::w1",
+      "stratum": "host_read_sponsor",
+      "show_name": "Verdict with Ted Cruz",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 3,
+          "end": 32,
+          "label": "ad_sponsor"
+        }
+      ],
+      "pred_spans": [
+        {
+          "start": 25,
+          "end": 29,
+          "label": "ad_sponsor",
+          "confidence": 0.95
+        }
+      ],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "e1dba5dca89b1e1e::w4",
+      "stratum": "host_read_sponsor",
+      "show_name": "The Wright Report",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 14,
+          "end": 15,
+          "label": "meta_boilerplate"
+        },
+        {
+          "start": 16,
+          "end": 28,
+          "label": "ad_sponsor"
+        }
+      ],
+      "pred_spans": [
+        {
+          "start": 16,
+          "end": 29,
+          "label": "ad_sponsor",
+          "confidence": 0.95
+        }
+      ],
+      "n_content_fp": 1
+    },
+    {
+      "window_id": "f0705d733c910eed::w8",
+      "stratum": "host_read_sponsor",
+      "show_name": "The Skepticrat",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 4,
+          "end": 35,
+          "label": "ad_sponsor"
+        }
+      ],
+      "pred_spans": [
+        {
+          "start": 29,
+          "end": 32,
+          "label": "ad_sponsor",
+          "confidence": 1.0
+        }
+      ],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "2e7f6e8004ae5834::w10",
+      "stratum": "host_read_sponsor",
+      "show_name": "Hacks On Tap",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 0,
+          "end": 28,
+          "label": "ad_sponsor"
+        }
+      ],
+      "pred_spans": [
+        {
+          "start": 24,
+          "end": 28,
+          "label": "ad_sponsor",
+          "confidence": 1.0
+        }
+      ],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "8d8565623a2d11b5::w23",
+      "stratum": "network_dynamic_insert",
+      "show_name": "The Focus Group Podcast",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 28,
+          "end": 33,
+          "label": "meta_boilerplate"
+        },
+        {
+          "start": 34,
+          "end": 35,
+          "label": "ad_sponsor"
+        }
+      ],
+      "pred_spans": [
+        {
+          "start": 34,
+          "end": 35,
+          "label": "meta_boilerplate",
+          "confidence": 0.9
+        }
+      ],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "28836d7e830486e3::w22",
+      "stratum": "network_dynamic_insert",
+      "show_name": "The Al Franken Podcast",
+      "n_sentences": 27,
+      "gold_spans": [
+        {
+          "start": 13,
+          "end": 16,
+          "label": "meta_boilerplate"
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "label": "ad_sponsor"
+        }
+      ],
+      "pred_spans": [
+        {
+          "start": 18,
+          "end": 20,
+          "label": "ad_sponsor",
+          "confidence": 0.9
+        }
+      ],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "7eb5649188b4efc8::w6",
+      "stratum": "network_dynamic_insert",
+      "show_name": "Politics War Room with James Carville & Al Hunt",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 1,
+          "end": 9,
+          "label": "ad_sponsor"
+        }
+      ],
+      "pred_spans": [
+        {
+          "start": 2,
+          "end": 9,
+          "label": "meta_boilerplate",
+          "confidence": 0.95
+        }
+      ],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "2b714fbd6f921bb3::w3",
+      "stratum": "network_dynamic_insert",
+      "show_name": "Pod Save the World",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 9,
+          "end": 16,
+          "label": "ad_sponsor"
+        },
+        {
+          "start": 17,
+          "end": 35,
+          "label": "meta_boilerplate"
+        }
+      ],
+      "pred_spans": [
+        {
+          "start": 9,
+          "end": 16,
+          "label": "meta_boilerplate",
+          "confidence": 0.95
+        }
+      ],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "90dc3a494aebce83::w8",
+      "stratum": "meta_boilerplate",
+      "show_name": "POLITICO Energy",
+      "n_sentences": 16,
+      "gold_spans": [
+        {
+          "start": 4,
+          "end": 10,
+          "label": "meta_boilerplate"
+        },
+        {
+          "start": 11,
+          "end": 15,
+          "label": "ad_sponsor"
+        }
+      ],
+      "pred_spans": [
+        {
+          "start": 13,
+          "end": 15,
+          "label": "ad_sponsor",
+          "confidence": 0.9
+        }
+      ],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "160e948096084680::w0",
+      "stratum": "meta_boilerplate",
+      "show_name": "Federalist Radio Hour",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 0,
+          "end": 4,
+          "label": "meta_boilerplate"
+        }
+      ],
+      "pred_spans": [],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "740cd7f80eb7c286::w0",
+      "stratum": "meta_boilerplate",
+      "show_name": "The Lars Larson Show Pacific Northwest Podcast",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 0,
+          "end": 16,
+          "label": "meta_boilerplate"
+        },
+        {
+          "start": 22,
+          "end": 27,
+          "label": "meta_boilerplate"
+        }
+      ],
+      "pred_spans": [],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "cefae2b188c59dfd::w23",
+      "stratum": "meta_boilerplate",
+      "show_name": "On the Media",
+      "n_sentences": 15,
+      "gold_spans": [
+        {
+          "start": 3,
+          "end": 10,
+          "label": "meta_boilerplate"
+        }
+      ],
+      "pred_spans": [],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "fe105d0a558707e7::w33",
+      "stratum": "ambiguous_product",
+      "show_name": "The Peter McCormack Show",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 29,
+          "end": 35,
+          "label": "ad_sponsor"
+        }
+      ],
+      "pred_spans": [
+        {
+          "start": 29,
+          "end": 35,
+          "label": "ad_sponsor",
+          "confidence": 0.95
+        }
+      ],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "cde14df9d499924d::w7",
+      "stratum": "ambiguous_product",
+      "show_name": "RealClearPolitics Podcast",
+      "n_sentences": 36,
+      "gold_spans": [],
+      "pred_spans": [],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "392656e2dbd5f96e::w12",
+      "stratum": "ambiguous_product",
+      "show_name": "This Week with George Stephanopoulos",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 25,
+          "end": 26,
+          "label": "meta_boilerplate"
+        }
+      ],
+      "pred_spans": [],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "3be579538a97e212::w3",
+      "stratum": "ambiguous_product",
+      "show_name": "American Thought Leaders",
+      "n_sentences": 36,
+      "gold_spans": [],
+      "pred_spans": [],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "1b0fa15320658da6::w3",
+      "stratum": "ambiguous_product",
+      "show_name": "Russian Roulette",
+      "n_sentences": 36,
+      "gold_spans": [],
+      "pred_spans": [],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "99fff03d1cc3281e::w11",
+      "stratum": "ambiguous_product",
+      "show_name": "The Kyle Kulinski Show",
+      "n_sentences": 36,
+      "gold_spans": [],
+      "pred_spans": [],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "bc3259bb4a1e5438::w2",
+      "stratum": "pure_content",
+      "show_name": "What the Hell Is Going On",
+      "n_sentences": 36,
+      "gold_spans": [],
+      "pred_spans": [],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "80590ae2c706ed05::w0",
+      "stratum": "pure_content",
+      "show_name": "Trump's Terms",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 0,
+          "end": 14,
+          "label": "meta_boilerplate"
+        },
+        {
+          "start": 15,
+          "end": 19,
+          "label": "ad_sponsor"
+        },
+        {
+          "start": 20,
+          "end": 31,
+          "label": "meta_boilerplate"
+        }
+      ],
+      "pred_spans": [
+        {
+          "start": 15,
+          "end": 19,
+          "label": "ad_sponsor",
+          "confidence": 0.95
+        }
+      ],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "a4d5d48f24d77f9e::w8",
+      "stratum": "pure_content",
+      "show_name": "Deadline: White House",
+      "n_sentences": 36,
+      "gold_spans": [
+        {
+          "start": 10,
+          "end": 20,
+          "label": "meta_boilerplate"
+        }
+      ],
+      "pred_spans": [],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "241f9ce1fa3dd6e0::w1",
+      "stratum": "pure_content",
+      "show_name": "The Rest Is Politics: US",
+      "n_sentences": 36,
+      "gold_spans": [],
+      "pred_spans": [],
+      "n_content_fp": 0
+    },
+    {
+      "window_id": "f9faa984274187b7::w20",
+      "stratum": "pure_content",
+      "show_name": "Pod Force One",
+      "n_sentences": 36,
+      "gold_spans": [],
+      "pred_spans": [],
+      "n_content_fp": 0
+    }
+  ],
+  "gate_ad_precision_ok": true,
+  "gate_content_fp_ok": true,
+  "gate_pass": true
+}

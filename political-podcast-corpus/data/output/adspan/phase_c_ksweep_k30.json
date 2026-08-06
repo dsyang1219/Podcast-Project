@@ -1,0 +1,658 @@
+{
+  "k": 30,
+  "coherence": {
+    "c_v": 0.6719942205647628,
+    "c_npmi": 0.11754685452496409,
+    "u_mass": -1.4326249462772318
+  },
+  "per_topic_cv": [
+    0.7329856872558593,
+    0.7407168507575989,
+    0.7056471198797226,
+    0.4787104338407516,
+    0.7257133796811104,
+    0.6304255247116088,
+    0.796422353386879,
+    0.4192420065402985,
+    0.5042946189641953,
+    0.5385392397642136,
+    0.7202476143836976,
+    0.8214562952518463,
+    0.4473587185144424,
+    0.8423472583293915,
+    0.8069680035114288,
+    0.8542240679264068,
+    0.6574827194213867,
+    0.5218091815710068,
+    0.7838834464550019,
+    0.7863220810890198,
+    0.7301127016544342,
+    0.677579715847969,
+    0.6300423741340637,
+    0.5681730270385742,
+    0.8015041887760163,
+    0.5006322294473649,
+    0.7870685756206512,
+    0.5156192749738693,
+    0.6851500838994979,
+    0.7491478443145752
+  ],
+  "coherence_cv": 0.6719942205647628,
+  "vocab_size": 38008,
+  "ideology": {
+    "n_shows": 204,
+    "loso_cv_r2": 0.2703615456770877,
+    "ci_95": [
+      0.12593058836413554,
+      0.3893062138474449
+    ],
+    "permutation_r2": -0.011370497858175233
+  },
+  "n_contaminant_topics": 0,
+  "topics": [
+    {
+      "topic": 0,
+      "top_words": [
+        "state",
+        "election",
+        "vote",
+        "states",
+        "voting",
+        "elections",
+        "republicans",
+        "democrats",
+        "texas",
+        "voters"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 1,
+      "top_words": [
+        "health",
+        "care",
+        "medical",
+        "covid",
+        "vaccine",
+        "food",
+        "children",
+        "cancer",
+        "vaccines",
+        "doctor"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 2,
+      "top_words": [
+        "venezuela",
+        "states",
+        "united",
+        "oil",
+        "cuba",
+        "mexico",
+        "maduro",
+        "america",
+        "greenland",
+        "drug"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 3,
+      "top_words": [
+        "i've",
+        "great",
+        "day",
+        "tell",
+        "let's",
+        "everybody",
+        "let",
+        "went",
+        "i'll",
+        "getting"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 4,
+      "top_words": [
+        "court",
+        "supreme",
+        "law",
+        "case",
+        "justice",
+        "constitution",
+        "executive",
+        "congress",
+        "federal",
+        "states"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 5,
+      "top_words": [
+        "donald",
+        "biden",
+        "trump's",
+        "white",
+        "house",
+        "joe",
+        "administration",
+        "obama",
+        "vance",
+        "office"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 6,
+      "top_words": [
+        "epstein",
+        "files",
+        "jeffrey",
+        "donald",
+        "release",
+        "documents",
+        "sex",
+        "released",
+        "information",
+        "maxwell"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 7,
+      "top_words": [
+        "america",
+        "american",
+        "world",
+        "believe",
+        "thank",
+        "day",
+        "americans",
+        "great",
+        "power",
+        "fight"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 8,
+      "top_words": [
+        "war",
+        "history",
+        "world",
+        "american",
+        "british",
+        "th",
+        "book",
+        "america",
+        "south",
+        "united"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 9,
+      "top_words": [
+        "fucking",
+        "man",
+        "she's",
+        "shit",
+        "bad",
+        "yes",
+        "believe",
+        "says",
+        "crazy",
+        "person"
+      ],
+      "n_filler": 2,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 10,
+      "top_words": [
+        "school",
+        "women",
+        "kids",
+        "book",
+        "life",
+        "men",
+        "young",
+        "family",
+        "children",
+        "parents"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 11,
+      "top_words": [
+        "economy",
+        "tariffs",
+        "prices",
+        "market",
+        "economic",
+        "trade",
+        "inflation",
+        "price",
+        "jobs",
+        "oil"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 12,
+      "top_words": [
+        "different",
+        "question",
+        "sense",
+        "bit",
+        "ways",
+        "idea",
+        "terms",
+        "important",
+        "fact",
+        "we've"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 13,
+      "top_words": [
+        "god",
+        "church",
+        "christian",
+        "jesus",
+        "pope",
+        "catholic",
+        "religious",
+        "life",
+        "bible",
+        "faith"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 14,
+      "top_words": [
+        "ukraine",
+        "russia",
+        "china",
+        "war",
+        "united",
+        "states",
+        "putin",
+        "russian",
+        "chinese",
+        "europe"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 15,
+      "top_words": [
+        "israel",
+        "gaza",
+        "israeli",
+        "hamas",
+        "jewish",
+        "war",
+        "netanyahu",
+        "palestinian",
+        "palestinians",
+        "jews"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 16,
+      "top_words": [
+        "military",
+        "intelligence",
+        "fbi",
+        "national",
+        "security",
+        "cia",
+        "war",
+        "defense",
+        "hegseth",
+        "director"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 17,
+      "top_words": [
+        "political",
+        "left",
+        "power",
+        "movement",
+        "party",
+        "white",
+        "society",
+        "politics",
+        "black",
+        "rights"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 18,
+      "top_words": [
+        "iran",
+        "war",
+        "nuclear",
+        "iranian",
+        "regime",
+        "deal",
+        "states",
+        "military",
+        "israel",
+        "united"
+      ],
+      "n_filler": 0,
+      "n_ad": 1,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 19,
+      "top_words": [
+        "party",
+        "democrats",
+        "harris",
+        "democratic",
+        "voters",
+        "kamala",
+        "campaign",
+        "win",
+        "she's",
+        "election"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 20,
+      "top_words": [
+        "ai",
+        "energy",
+        "data",
+        "companies",
+        "technology",
+        "climate",
+        "company",
+        "power",
+        "tech",
+        "industry"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 21,
+      "top_words": [
+        "money",
+        "government",
+        "tax",
+        "dollars",
+        "million",
+        "musk",
+        "billion",
+        "elon",
+        "pay",
+        "federal"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 22,
+      "top_words": [
+        "city",
+        "york",
+        "mayor",
+        "housing",
+        "california",
+        "state",
+        "seattle",
+        "council",
+        "local",
+        "live"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 23,
+      "top_words": [
+        "movie",
+        "love",
+        "great",
+        "game",
+        "sports",
+        "music",
+        "world",
+        "podcast",
+        "story",
+        "play"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 1,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 24,
+      "top_words": [
+        "case",
+        "justice",
+        "attorney",
+        "department",
+        "judge",
+        "law",
+        "court",
+        "evidence",
+        "federal",
+        "criminal"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 25,
+      "top_words": [
+        "news",
+        "week",
+        "quote",
+        "today",
+        "morning",
+        "house",
+        "white",
+        "day",
+        "days",
+        "th"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 26,
+      "top_words": [
+        "republicans",
+        "democrats",
+        "house",
+        "senate",
+        "bill",
+        "congress",
+        "republican",
+        "vote",
+        "senator",
+        "party"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 27,
+      "top_words": [
+        "media",
+        "news",
+        "social",
+        "times",
+        "speech",
+        "fox",
+        "story",
+        "post",
+        "york",
+        "free"
+      ],
+      "n_filler": 0,
+      "n_ad": 1,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 28,
+      "top_words": [
+        "charlie",
+        "police",
+        "violence",
+        "kirk",
+        "shot",
+        "gun",
+        "killed",
+        "happened",
+        "death",
+        "shooting"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    },
+    {
+      "topic": 29,
+      "top_words": [
+        "ice",
+        "immigration",
+        "border",
+        "law",
+        "administration",
+        "illegal",
+        "federal",
+        "enforcement",
+        "immigrants",
+        "agents"
+      ],
+      "n_filler": 0,
+      "n_ad": 0,
+      "n_meta": 0,
+      "flagged_as": [],
+      "is_contaminant": false
+    }
+  ],
+  "fit_seconds": 238.52706,
+  "tomotopy_workers": 8,
+  "n_iter": 500,
+  "seed": 0
+}
