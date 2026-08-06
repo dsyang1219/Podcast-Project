@@ -1,0 +1,21 @@
+k,driver,transform,method,register,target,n,rank,rank_label,abs_r,ci_low,ci_high,pct_var,register_anchored,on_pc1_or_pc2,r_loso_cv
+75,default,clr,unsupervised,none,extended_all,204,5,PC5,0.281,-0.403,-0.149,5.13,False,False,
+75,A_transform,ilr,unsupervised,none,extended_all,204,5,PC5,0.281,0.149,0.403,5.13,,False,
+75,A_transform,zscore,unsupervised,none,extended_all,204,9,PC9,0.423,-0.53,-0.304,2.58,False,False,
+75,B_supervised,clr,supervised_pls1,none,extended_all,204,6,supervised (would insert at #6),0.625,-0.702,-0.534,4.97,False,False,-0.523
+75,B_supervised,clr,supervised_ridge,none,extended_all,204,14,supervised (would insert at #14),0.833,0.785,0.871,1.51,True,False,0.691
+75,C_register,clr,unsupervised,drop_core,extended_all,204,5,PC5,0.299,-0.419,-0.169,5.22,False,False,
+75,C_register,clr,unsupervised,drop_broad,extended_all,204,5,PC5,0.298,-0.418,-0.167,5.28,False,False,
+75,C_register,clr,unsupervised,residualize,extended_all,204,5,PC5,0.357,-0.471,-0.231,5.45,False,False,
+75,D_target,clr,unsupervised,none,host_only,84,3,PC3,0.332,0.126,0.51,8.33,False,False,
+75,D_target,clr,unsupervised,none,guest_only,202,6,PC6,0.309,0.179,0.429,3.82,True,False,
+30,default,clr,unsupervised,none,extended_all,204,2,PC2,0.145,-0.277,-0.008,18.67,True,True,
+30,A_transform,ilr,unsupervised,none,extended_all,204,2,PC2,0.145,-0.277,-0.008,18.67,,True,
+30,A_transform,zscore,unsupervised,none,extended_all,204,2,PC2,0.172,0.036,0.302,10.65,True,True,
+30,B_supervised,clr,supervised_pls1,none,extended_all,204,4,supervised (would insert at #4),0.391,0.268,0.501,8.95,False,False,0.284
+30,B_supervised,clr,supervised_ridge,none,extended_all,204,13,supervised (would insert at #13),0.664,0.58,0.735,1.59,False,False,0.535
+30,C_register,clr,unsupervised,drop_core,extended_all,204,2,PC2,0.137,-0.001,0.269,18.19,False,True,
+30,C_register,clr,unsupervised,drop_broad,extended_all,204,2,PC2,0.142,0.005,0.274,18.67,False,True,
+30,C_register,clr,unsupervised,residualize,extended_all,204,3,PC3,0.136,-0.001,0.269,9.93,False,False,
+30,D_target,clr,unsupervised,none,host_only,84,2,PC2,0.239,-0.432,-0.026,17.5,False,True,
+30,D_target,clr,unsupervised,none,guest_only,202,3,PC3,0.17,0.033,0.301,10.84,True,False,

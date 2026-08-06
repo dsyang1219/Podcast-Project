@@ -1,0 +1,26 @@
+{
+  "model": "gpt-4o-mini-2024-07-18",
+  "n_windows_returned": 131463,
+  "n_batch_error_lines": 0,
+  "n_parse_errors": 2,
+  "n_spans_raw": 51675,
+  "n_spans_merged": 35500,
+  "n_episodes": 7626,
+  "n_words_before": 53041031,
+  "n_words_after": 49887250,
+  "removed_share_overall": 0.05945927031471164,
+  "tokens_in": 185548602,
+  "tokens_out": 2018877,
+  "actual_batch_cost_usd": 14.521808249999998,
+  "per_show_removed_share_describe": {
+    "count": 204.0,
+    "mean": 0.057319868261628625,
+    "std": 0.04298240557793388,
+    "min": 0.002752164484248514,
+    "25%": 0.02547873939968946,
+    "50%": 0.048727146625237305,
+    "75%": 0.07847690247717379,
+    "max": 0.22308700963255915
+  },
+  "shows_above_30pct": []
+}

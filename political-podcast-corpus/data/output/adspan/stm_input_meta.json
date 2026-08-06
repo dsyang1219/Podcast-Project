@@ -1,0 +1,24 @@
+{
+  "n_passages": 37942,
+  "n_shows": 204,
+  "tercile_cuts": [
+    -0.6157948717948718,
+    0.16218163580246742
+  ],
+  "group_counts_shows": {
+    "Liberal": 68,
+    "Moderate": 68,
+    "Conservative": 68
+  },
+  "group_counts_passages": {
+    "Moderate": 12852,
+    "Liberal": 12703,
+    "Conservative": 12387
+  },
+  "ideology_range": [
+    -1.331,
+    2.394
+  ],
+  "unit": "passage (nested within show -- CIs anti-conservative)",
+  "text_field": "clean_text (already tokenized/pruned; disable all textProcessor cleaning in R)"
+}
