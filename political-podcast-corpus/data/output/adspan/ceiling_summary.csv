@@ -1,0 +1,27 @@
+arm,k,target,model,r2,ci_low,ci_high,n,beats_topics_only,note,delta_r2,wilcoxon_p_holm
+1,75,extended_all,ridge,0.4599450542290636,0.34408116655846815,0.5519137154626732,204,,estimator comparison at fixed CLR-topic features,,
+1,75,extended_all,elasticnet,0.35707674933175915,0.22923975225873117,0.460273369234007,204,,estimator comparison at fixed CLR-topic features,-0.10286830489730447,
+1,75,extended_all,random_forest,0.33923659008574536,0.2453505108270947,0.4167686160324385,204,,estimator comparison at fixed CLR-topic features,-0.12070846414331826,
+1,75,extended_all,grad_boost,0.3792374373598857,0.254981810239446,0.4845797774480721,204,,estimator comparison at fixed CLR-topic features,-0.08070761686917793,
+1,75,extended_all,mlp,0.4564058164413368,0.3308162363240475,0.5586872112323928,204,,estimator comparison at fixed CLR-topic features,-0.003539237787726801,
+1,75,host_only,ridge,0.36396760904631775,0.20219377180731157,0.4888534176699817,84,,estimator comparison at fixed CLR-topic features,,
+1,75,host_only,elasticnet,0.4805312664214364,0.3506268933957197,0.5866274364313818,84,,estimator comparison at fixed CLR-topic features,0.11656365737511865,
+1,75,host_only,random_forest,0.3563594893724402,0.19918601881007844,0.4685960048291521,84,,estimator comparison at fixed CLR-topic features,-0.007608119673877534,
+1,75,host_only,grad_boost,0.3220167734898777,0.09910280709134099,0.49274926289188864,84,,estimator comparison at fixed CLR-topic features,-0.04195083555644008,
+1,75,host_only,mlp,0.114264039027828,-0.008303804239845006,0.2173919942654495,84,,estimator comparison at fixed CLR-topic features,-0.24970357001848975,
+2,75,extended_all,topics_only,0.4599450542290636,0.34408116655846815,0.5519137154626732,204,,representation comparison at fixed ridge -- the claim-relevant arm,,
+2,75,extended_all,embeddings_only,0.32934315595408425,0.21785753995332144,0.4263957803690633,204,False,representation comparison at fixed ridge -- the claim-relevant arm,-0.13060189827497937,0.0010170779609044126
+2,75,extended_all,tfidf_only,0.41443917250326834,0.30430409770093536,0.5033144854717432,204,False,representation comparison at fixed ridge -- the claim-relevant arm,-0.04550588172579528,0.6746316556277228
+2,75,extended_all,register_only,0.04530549104298354,-0.031674780383930054,0.11328088493755445,204,False,representation comparison at fixed ridge -- the claim-relevant arm,-0.4146395631860801,9.828710405757113e-12
+2,75,extended_all,topics+embeddings,0.4494326670595685,0.32636969114993597,0.5535435501741204,204,False,representation comparison at fixed ridge -- the claim-relevant arm,-0.010512387169495097,0.6473143503093275
+2,75,extended_all,topics+register,0.4413979355333365,0.32903231673044325,0.5414625703389785,204,False,representation comparison at fixed ridge -- the claim-relevant arm,-0.018547118695727116,0.10864893803410734
+2,75,extended_all,topics+embeddings+register,0.43218559770338116,0.30357818244670065,0.5441805277434447,204,False,representation comparison at fixed ridge -- the claim-relevant arm,-0.027759456525682458,0.7214299393081942
+2,75,host_only,topics_only,0.36396760904631775,0.20219377180731157,0.4888534176699817,84,,representation comparison at fixed ridge -- the claim-relevant arm,,
+2,75,host_only,embeddings_only,0.24983234045717762,0.06008868780450643,0.3929974472680299,84,False,representation comparison at fixed ridge -- the claim-relevant arm,-0.11413526858914014,0.22747155218821247
+2,75,host_only,tfidf_only,0.2662085916683995,0.12481992210562237,0.37337875231891887,84,False,representation comparison at fixed ridge -- the claim-relevant arm,-0.09775901737791826,0.06826670675650519
+2,75,host_only,register_only,0.06751577649220142,-0.08194992686050956,0.17776087621456635,84,False,representation comparison at fixed ridge -- the claim-relevant arm,-0.29645183255411633,0.0007521349527918271
+2,75,host_only,topics+embeddings,0.367455424623917,0.18416349427283957,0.5109295242500436,84,False,representation comparison at fixed ridge -- the claim-relevant arm,0.0034878155775992514,0.7224819773475972
+2,75,host_only,topics+register,0.331631253251786,0.14084483629923103,0.47657676105072133,84,False,representation comparison at fixed ridge -- the claim-relevant arm,-0.03233635579453176,1.0
+2,75,host_only,topics+embeddings+register,0.33645451105164426,0.1326510959581001,0.49279958466692314,84,False,representation comparison at fixed ridge -- the claim-relevant arm,-0.027513097994673497,1.0
+3_wordscores,75,extended_all,wordscores,0.34610038229421225,0.2212894733954191,0.44449116162374885,204,,SUPERVISED recoverability; not comparable to arms 1-2,,
+3_wordscores,75,host_only,wordscores,0.27451043989879786,0.0815268816299048,0.4160337593394149,84,,SUPERVISED recoverability; not comparable to arms 1-2,,
