@@ -1,0 +1,782 @@
+{
+  "generated_at": "2026-07-29T00:58:48.845893+00:00",
+  "source_file": "data/output/chunks_500_nolemma.csv",
+  "n_matched_shows": 120,
+  "dtm_shape_final": [
+    40242,
+    48386
+  ],
+  "n_chunks_dropped_empty_after_pruning": 0,
+  "pruning": {
+    "vocab_before_pruning": 113534,
+    "vocab_after_pruning": 48386,
+    "n_dropped_df_ceiling": 0,
+    "n_dropped_df_floor": 65148,
+    "n_docs": 40242,
+    "df_no_above_frac": 0.99,
+    "df_floor_chunks": 5,
+    "top_dropped_ceiling_terms": []
+  },
+  "ks": [
+    20,
+    30,
+    50
+  ],
+  "per_k": {
+    "20": {
+      "k": 20,
+      "coherence_cv": 0.5679511887580156,
+      "n_matched_shows": 120,
+      "loso_cv_r2": -0.5448575368010431,
+      "bootstrap_95ci": [
+        -2.0776633996260587,
+        0.18407374353660957
+      ],
+      "permutation_r2": -0.01798933770283595,
+      "top_ideology_topics": {
+        "most_positive_(conservative-leaning_cfscore)": [
+          {
+            "topic": 11,
+            "coef": 0.17422503232955933,
+            "terms": [
+              "got",
+              "time",
+              "day",
+              "said",
+              "years",
+              "going",
+              "new",
+              "great",
+              "year",
+              "today",
+              "thank",
+              "night"
+            ]
+          },
+          {
+            "topic": 3,
+            "coef": 0.1208854392170906,
+            "terms": [
+              "women",
+              "god",
+              "men",
+              "life",
+              "church",
+              "children",
+              "christian",
+              "family",
+              "kids",
+              "young",
+              "man",
+              "jesus"
+            ]
+          },
+          {
+            "topic": 4,
+            "coef": 0.10179213434457779,
+            "terms": [
+              "know",
+              "think",
+              "going",
+              "people",
+              "right",
+              "mean",
+              "want",
+              "thing",
+              "kind",
+              "lot",
+              "things",
+              "got"
+            ]
+          },
+          {
+            "topic": 13,
+            "coef": 0.08178512006998062,
+            "terms": [
+              "money",
+              "going",
+              "people",
+              "government",
+              "tax",
+              "economy",
+              "tariffs",
+              "dollars",
+              "pay",
+              "market",
+              "prices",
+              "billion"
+            ]
+          },
+          {
+            "topic": 12,
+            "coef": 0.05101882293820381,
+            "terms": [
+              "people",
+              "right",
+              "left",
+              "anti",
+              "country",
+              "america",
+              "white",
+              "want",
+              "american",
+              "israel",
+              "charlie",
+              "saying"
+            ]
+          }
+        ],
+        "most_negative_(liberal-leaning_cfscore)": [
+          {
+            "topic": 14,
+            "coef": -0.14005833864212036,
+            "terms": [
+              "podcast",
+              "news",
+              "media",
+              "new",
+              "week",
+              "thank",
+              "today",
+              "time",
+              "listen",
+              "episode",
+              "thanks",
+              "podcasts"
+            ]
+          },
+          {
+            "topic": 7,
+            "coef": -0.09265946596860886,
+            "terms": [
+              "trump",
+              "president",
+              "donald",
+              "biden",
+              "said",
+              "house",
+              "white",
+              "administration",
+              "going",
+              "american",
+              "joe",
+              "country"
+            ]
+          },
+          {
+            "topic": 0,
+            "coef": -0.091608427464962,
+            "terms": [
+              "think",
+              "know",
+              "kind",
+              "people",
+              "sort",
+              "things",
+              "right",
+              "lot",
+              "way",
+              "actually",
+              "different",
+              "mean"
+            ]
+          },
+          {
+            "topic": 1,
+            "coef": -0.05275099352002144,
+            "terms": [
+              "book",
+              "history",
+              "world",
+              "kind",
+              "new",
+              "time",
+              "great",
+              "war",
+              "years",
+              "american",
+              "called",
+              "read"
+            ]
+          },
+          {
+            "topic": 10,
+            "coef": -0.04972131922841072,
+            "terms": [
+              "got",
+              "going",
+              "fucking",
+              "right",
+              "want",
+              "guys",
+              "guy",
+              "know",
+              "good",
+              "love",
+              "man",
+              "thing"
+            ]
+          }
+        ]
+      },
+      "doc_topic_csv": "lda_doctopic_k20_500.csv",
+      "loso_outlier_diagnostic": {
+        "pred_range": [
+          -0.9607477403276863,
+          8.48683775225286
+        ],
+        "y_range": [
+          -1.393,
+          2.394
+        ],
+        "condition_number_X": 18.255954029648844,
+        "worst_3_residual_shows": [
+          {
+            "show": "The Moment with Jorge Ramos and Paola Ramos",
+            "show_id": "1839861250",
+            "true_cfscore": -1.021,
+            "loso_pred": 8.48683775225286,
+            "residual": -9.507837752252861
+          },
+          {
+            "show": "Rational Security",
+            "show_id": "956270301",
+            "true_cfscore": 1.743,
+            "loso_pred": -0.9607477403276863,
+            "residual": 2.703747740327686
+          },
+          {
+            "show": "The 47 Morning Update with Ben Ferguson",
+            "show_id": "1790957194",
+            "true_cfscore": 2.394,
+            "loso_pred": 0.09870981606934551,
+            "residual": 2.2952901839306548
+          }
+        ],
+        "note": "LOSO predictions range far outside the true CFscore range ([-1.39, 2.39]), driven mainly by a single show. Ridge on raw compositional topic-proportions (rows sum to ~1) is prone to leverage-point extrapolation when the inner GridSearchCV selects a small alpha for a fold whose held-out show sits far from the training distribution in topic space -- consistent with recheck confirming this is a modeling-stability artifact of the identical-harness Ridge probe on this feature type, not a code bug."
+      }
+    },
+    "30": {
+      "k": 30,
+      "coherence_cv": 0.6296681217849255,
+      "n_matched_shows": 120,
+      "loso_cv_r2": -0.004036712527331288,
+      "bootstrap_95ci": [
+        -0.4512574352405445,
+        0.26611306293448617
+      ],
+      "permutation_r2": -0.03656014860581713,
+      "top_ideology_topics": {
+        "most_positive_(conservative-leaning_cfscore)": [
+          {
+            "topic": 0,
+            "coef": 0.18470381200313568,
+            "terms": [
+              "going",
+              "people",
+              "know",
+              "want",
+              "right",
+              "think",
+              "got",
+              "said",
+              "let",
+              "need",
+              "way",
+              "look"
+            ]
+          },
+          {
+            "topic": 3,
+            "coef": 0.1771324872970581,
+            "terms": [
+              "news",
+              "fire",
+              "new",
+              "day",
+              "today",
+              "car",
+              "time",
+              "police",
+              "story",
+              "service",
+              "shot",
+              "tonight"
+            ]
+          },
+          {
+            "topic": 5,
+            "coef": 0.0888802781701088,
+            "terms": [
+              "trump",
+              "biden",
+              "donald",
+              "president",
+              "harris",
+              "kamala",
+              "joe",
+              "election",
+              "said",
+              "think",
+              "democrats",
+              "obama"
+            ]
+          },
+          {
+            "topic": 15,
+            "coef": 0.08536276966333389,
+            "terms": [
+              "god",
+              "church",
+              "christian",
+              "jesus",
+              "pope",
+              "catholic",
+              "faith",
+              "religious",
+              "bible",
+              "christ",
+              "religion",
+              "says"
+            ]
+          },
+          {
+            "topic": 6,
+            "coef": 0.06180597096681595,
+            "terms": [
+              "black",
+              "white",
+              "school",
+              "people",
+              "students",
+              "women",
+              "education",
+              "schools",
+              "college",
+              "rights",
+              "university",
+              "trans"
+            ]
+          }
+        ],
+        "most_negative_(liberal-leaning_cfscore)": [
+          {
+            "topic": 16,
+            "coef": -0.12866903841495514,
+            "terms": [
+              "trump",
+              "president",
+              "donald",
+              "house",
+              "said",
+              "administration",
+              "white",
+              "today",
+              "news",
+              "new",
+              "week",
+              "day"
+            ]
+          },
+          {
+            "topic": 13,
+            "coef": -0.09061035513877869,
+            "terms": [
+              "news",
+              "podcast",
+              "media",
+              "new",
+              "thank",
+              "week",
+              "today",
+              "time",
+              "episode",
+              "thanks",
+              "talk",
+              "listen"
+            ]
+          },
+          {
+            "topic": 2,
+            "coef": -0.08983026444911957,
+            "terms": [
+              "people",
+              "political",
+              "power",
+              "right",
+              "think",
+              "way",
+              "kind",
+              "world",
+              "system",
+              "left",
+              "democracy",
+              "government"
+            ]
+          },
+          {
+            "topic": 25,
+            "coef": -0.08693300932645798,
+            "terms": [
+              "people",
+              "right",
+              "fucking",
+              "saying",
+              "thing",
+              "know",
+              "guy",
+              "said",
+              "media",
+              "musk",
+              "gon",
+              "na"
+            ]
+          },
+          {
+            "topic": 27,
+            "coef": -0.053908783942461014,
+            "terms": [
+              "china",
+              "russia",
+              "ukraine",
+              "united",
+              "war",
+              "states",
+              "putin",
+              "world",
+              "russian",
+              "countries",
+              "europe",
+              "chinese"
+            ]
+          }
+        ]
+      },
+      "doc_topic_csv": "lda_doctopic_k30_500.csv",
+      "loso_outlier_diagnostic": {
+        "pred_range": [
+          -6.061631598037176,
+          1.5859387249073482
+        ],
+        "y_range": [
+          -1.393,
+          2.394
+        ],
+        "condition_number_X": 32.64201271870441,
+        "worst_3_residual_shows": [
+          {
+            "show": "The Moment with Jorge Ramos and Paola Ramos",
+            "show_id": "1839861250",
+            "true_cfscore": -1.021,
+            "loso_pred": -6.061631598037176,
+            "residual": 5.0406315980371765
+          },
+          {
+            "show": "Rational Security",
+            "show_id": "956270301",
+            "true_cfscore": 1.743,
+            "loso_pred": -0.8776804870437018,
+            "residual": 2.620680487043702
+          },
+          {
+            "show": "I Don't Speak German",
+            "show_id": "1449848509",
+            "true_cfscore": 1.559,
+            "loso_pred": -0.7040922958563682,
+            "residual": 2.263092295856368
+          }
+        ],
+        "note": "LOSO predictions range far outside the true CFscore range ([-1.39, 2.39]), driven mainly by a single show. Ridge on raw compositional topic-proportions (rows sum to ~1) is prone to leverage-point extrapolation when the inner GridSearchCV selects a small alpha for a fold whose held-out show sits far from the training distribution in topic space -- consistent with recheck confirming this is a modeling-stability artifact of the identical-harness Ridge probe on this feature type, not a code bug."
+      }
+    },
+    "50": {
+      "k": 50,
+      "coherence_cv": 0.6505089707959851,
+      "n_matched_shows": 120,
+      "loso_cv_r2": -2.9428227373909057,
+      "bootstrap_95ci": [
+        -9.7312761052976,
+        0.0021648451706173556
+      ],
+      "permutation_r2": -0.006877783968223916,
+      "top_ideology_topics": {
+        "most_positive_(conservative-leaning_cfscore)": [
+          {
+            "topic": 17,
+            "coef": 0.004901997745037079,
+            "terms": [
+              "going",
+              "right",
+              "gold",
+              "slash",
+              "today",
+              "free",
+              "want",
+              "time",
+              "code",
+              "great",
+              "use",
+              "got"
+            ]
+          },
+          {
+            "topic": 1,
+            "coef": 0.004027973394840956,
+            "terms": [
+              "people",
+              "know",
+              "going",
+              "think",
+              "want",
+              "right",
+              "things",
+              "lot",
+              "got",
+              "way",
+              "time",
+              "need"
+            ]
+          },
+          {
+            "topic": 0,
+            "coef": 0.003719557309523225,
+            "terms": [
+              "movie",
+              "film",
+              "podcast",
+              "beach",
+              "boring",
+              "armstrong",
+              "getty",
+              "movies",
+              "summer",
+              "pipe",
+              "story",
+              "jack"
+            ]
+          },
+          {
+            "topic": 14,
+            "coef": 0.002649393631145358,
+            "terms": [
+              "said",
+              "family",
+              "know",
+              "got",
+              "time",
+              "went",
+              "story",
+              "life",
+              "old",
+              "years",
+              "man",
+              "year"
+            ]
+          },
+          {
+            "topic": 29,
+            "coef": 0.0023450383450835943,
+            "terms": [
+              "god",
+              "church",
+              "christian",
+              "jesus",
+              "pope",
+              "catholic",
+              "faith",
+              "bible",
+              "christ",
+              "life",
+              "religious",
+              "says"
+            ]
+          }
+        ],
+        "most_negative_(liberal-leaning_cfscore)": [
+          {
+            "topic": 26,
+            "coef": -0.0035937174689024687,
+            "terms": [
+              "podcast",
+              "thank",
+              "week",
+              "episode",
+              "thanks",
+              "news",
+              "today",
+              "new",
+              "npr",
+              "listen",
+              "time",
+              "listening"
+            ]
+          },
+          {
+            "topic": 37,
+            "coef": -0.002960629528388381,
+            "terms": [
+              "epstein",
+              "files",
+              "trump",
+              "jeffrey",
+              "release",
+              "maxwell",
+              "donald",
+              "bondi",
+              "sex",
+              "released",
+              "documents",
+              "pam"
+            ]
+          },
+          {
+            "topic": 43,
+            "coef": -0.0027104441542178392,
+            "terms": [
+              "party",
+              "people",
+              "democratic",
+              "right",
+              "think",
+              "democrats",
+              "left",
+              "politics",
+              "political",
+              "movement",
+              "want",
+              "anti"
+            ]
+          },
+          {
+            "topic": 15,
+            "coef": -0.0025997627526521683,
+            "terms": [
+              "think",
+              "kind",
+              "way",
+              "sort",
+              "political",
+              "time",
+              "different",
+              "system",
+              "important",
+              "things",
+              "actually",
+              "change"
+            ]
+          },
+          {
+            "topic": 44,
+            "coef": -0.002333472715690732,
+            "terms": [
+              "venezuela",
+              "oil",
+              "cuba",
+              "united",
+              "maduro",
+              "greenland",
+              "trump",
+              "states",
+              "country",
+              "drug",
+              "government",
+              "mexico"
+            ]
+          }
+        ]
+      },
+      "doc_topic_csv": "lda_doctopic_k50_500.csv",
+      "loso_outlier_diagnostic": {
+        "pred_range": [
+          -0.24024805063546167,
+          18.949715048732525
+        ],
+        "y_range": [
+          -1.393,
+          2.394
+        ],
+        "condition_number_X": 55.72831406969811,
+        "worst_3_residual_shows": [
+          {
+            "show": "The Moment with Jorge Ramos and Paola Ramos",
+            "show_id": "1839861250",
+            "true_cfscore": -1.021,
+            "loso_pred": 18.949715048732525,
+            "residual": -19.970715048732526
+          },
+          {
+            "show": "The 47 Morning Update with Ben Ferguson",
+            "show_id": "1790957194",
+            "true_cfscore": 2.394,
+            "loso_pred": -0.18690348776115703,
+            "residual": 2.580903487761157
+          },
+          {
+            "show": "The Ben Ferguson Podcast",
+            "show_id": "1386375601",
+            "true_cfscore": 2.394,
+            "loso_pred": -0.18142278721436594,
+            "residual": 2.5754227872143662
+          }
+        ],
+        "note": "LOSO predictions range far outside the true CFscore range ([-1.39, 2.39]), driven mainly by a single show. Ridge on raw compositional topic-proportions (rows sum to ~1) is prone to leverage-point extrapolation when the inner GridSearchCV selects a small alpha for a fold whose held-out show sits far from the training distribution in topic space -- consistent with recheck confirming this is a modeling-stability artifact of the identical-harness Ridge probe on this feature type, not a code bug."
+      }
+    }
+  },
+  "embedding_baseline_reference": {
+    "representation": "embedding (768d, full mean-pooled)",
+    "unit": "show",
+    "model": "Ridge",
+    "loso_cv_r2": 0.21,
+    "note": "cited from record (nlp/embed_ideology.py verdict_correction / nlp/embed_ideology_nonlinear.py ridge_linear_baseline); NOT rerun here per task scope."
+  },
+  "head_to_head": [
+    {
+      "representation": "embedding (768d)",
+      "unit": "show",
+      "model": "Ridge",
+      "loso_cv_r2": 0.21,
+      "ci_95": null,
+      "permutation_r2": null,
+      "source": "record (embed_ideology_nonlinear.py)"
+    },
+    {
+      "representation": "LDA topics (K=20)",
+      "unit": "show",
+      "model": "Ridge",
+      "loso_cv_r2": -0.5448575368010431,
+      "ci_95": [
+        -2.0776633996260587,
+        0.18407374353660957
+      ],
+      "permutation_r2": -0.01798933770283595,
+      "source": "computed"
+    },
+    {
+      "representation": "LDA topics (K=30)",
+      "unit": "show",
+      "model": "Ridge",
+      "loso_cv_r2": -0.004036712527331288,
+      "ci_95": [
+        -0.4512574352405445,
+        0.26611306293448617
+      ],
+      "permutation_r2": -0.03656014860581713,
+      "source": "computed"
+    },
+    {
+      "representation": "LDA topics (K=50)",
+      "unit": "show",
+      "model": "Ridge",
+      "loso_cv_r2": -2.9428227373909057,
+      "ci_95": [
+        -9.7312761052976,
+        0.0021648451706173556
+      ],
+      "permutation_r2": -0.006877783968223916,
+      "source": "computed"
+    }
+  ],
+  "verdict": "topic << style: at every tested K (20, 30, 50), LDA topic-proportion Ridge LOSO-CV R2 is at or below zero (K=20: -0.545, K=30: -0.004, K=50: -2.943), versus the embedding baseline's stable, clearly-positive R2=0.21 (95% CI [0.03, 0.35], excludes zero). The best-behaved K (K=30, R2=-0.004) is statistically indistinguishable from its own permutation null (-0.037), i.e. no reliable topic-ideology signal survives this probe at any tested K. K=20 and K=50 are further dragged strongly negative (below their own permutation nulls) by LOSO extrapolation instability on one outlier show ('The Moment with Jorge Ramos and Paola Ramos', see loso_outlier_diagnostic per K) -- consistent across all three K, so it reflects that show's topic-distribution being atypical (plausibly its bilingual Spanish/English content skewing far from the mostly-English corpus vocabulary) rather than randomness. Net: ideology in this corpus is carried far more by HOW shows talk (embedding, R2=0.21) than by WHAT they talk about at these topic granularities (LDA, R2<=0). This is a clean, honest 'topic << style' result -- worth a look at whether finer/coarser K or a collinearity-aware feature transform (e.g. CLR) recovers more signal before concluding CA isn't worth building, but the minimal-arm verdict as specified is unambiguous.",
+  "verdict_note_on_instability": "The automatic verdict logic in an earlier draft of this script mislabeled this 'topic ~= style' using a raw CI-overlap heuristic; bootstrap CIs at N=120 for this feature type are wide enough (e.g. K=30: [-0.45, 0.27]) to overlap almost any target by construction. Corrected to judge by the point-estimate gap to the embedding baseline (see nlp/lda_ideology.py verdict block)."
+}

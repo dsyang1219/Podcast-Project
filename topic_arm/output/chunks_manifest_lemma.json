@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-07-21T21:51:22.456682+00:00",
+  "lemmatize": true,
+  "min_token_len": 2,
+  "target_words": [
+    300,
+    500,
+    800
+  ],
+  "min_stub_words": 300,
+  "boilerplate_ngram_size": 8,
+  "boilerplate_min_shows": 4,
+  "boilerplate_coverage": 0.5,
+  "boilerplate_loss_flag_threshold": 0.15,
+  "filler_words": [
+    "alright",
+    "erm",
+    "hmm",
+    "huh",
+    "like",
+    "mhm",
+    "mm-hmm",
+    "nah",
+    "ok",
+    "okay",
+    "uh",
+    "uh-huh",
+    "uhh",
+    "um",
+    "umm",
+    "yeah",
+    "yep",
+    "yup"
+  ],
+  "two_char_stoplist": [
+    "eh",
+    "ha",
+    "hm",
+    "oh"
+  ],
+  "stage3_df_no_above": 0.99,
+  "n_episodes": 4510,
+  "n_shows": 205,
+  "n_sentences_after_cleaning": 2286225,
+  "chunks_files": {
+    "300": "chunks_300_lemma.csv",
+    "500": "chunks_500_lemma.csv",
+    "800": "chunks_800_lemma.csv"
+  }
+}

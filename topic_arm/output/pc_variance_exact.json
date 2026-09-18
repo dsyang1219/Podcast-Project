@@ -1,0 +1,29 @@
+{
+  "method": "exact total variance = sum of squared entries of centered chunk embedding matrix (trace of X^T X, no eigendecomposition approximation); per-PC eigenvalue via randomized_svd(n_components=22, n_iter=4, seed=0) on the same centered matrix used throughout this task (variant=centered, target=500).",
+  "n_chunks": 40242,
+  "dim": 768,
+  "total_sumsq_exact": 4225.848173824225,
+  "eigenvalues": {
+    "PC1": 396.8540344238281,
+    "PC2": 314.1553649902344,
+    "PC3": 265.2111511230469,
+    "PC4": 201.179443359375,
+    "PC5": 185.72433471679688,
+    "PC22": 36.88519287109375
+  },
+  "pct_of_total_variance": {
+    "PC1": 9.391109466552734,
+    "PC2": 7.43413782119751,
+    "PC3": 6.2759270668029785,
+    "PC4": 4.760687828063965,
+    "PC5": 4.394959926605225,
+    "PC22": 0.8728470802307129
+  },
+  "ratio_vs_PC22": {
+    "PC1_over_PC22": 10.759169251125243,
+    "PC2_over_PC22": 8.517113695600038,
+    "PC3_over_PC22": 7.190179366979279,
+    "PC4_over_PC22": 5.454206052686353,
+    "PC5_over_PC22": 5.035200353128912
+  }
+}

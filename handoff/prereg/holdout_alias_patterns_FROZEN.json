@@ -1,0 +1,12 @@
+{
+ "The Joe Rogan Experience": "^(the )?joe rogan( experience| podcast| show)?$|^rogan$|^jre$|^joe rogan experience podcast$",
+ "The Ben Shapiro Show": "^(the )?ben shapiro( show| podcast)?$|^shapiro$|^(the )?daily ?wire$|^dailywire$",
+ "The Glenn Beck Program": "^(the )?glenn beck( program| show| podcast)?$|^glenn beck radio$|^(the )?blaze$|^blaze ?tv$|^blaze media$",
+ "The Tucker Carlson Show": "^(the )?tucker( carlson)?( show| network| podcast)?$|^tcn$|^tucker carlson network$",
+ "The Daily (NYT)": "^the daily$|^the daily podcast$|^(nyt|ny times|new york times) the daily$|^the daily \\(?(nyt|new york times)\\)?$|^the daily by the new york times$",
+ "The Parnas Perspective": "^aaron parnas$|^parnas$|^(the )?parnas perspective$|^aaron parnas podcast$",
+ "The Charlie Kirk Show": "^(the )?charlie kirk( show| podcast)?$|^charlie kirk$",
+ "The Megyn Kelly Show": "^(the )?megyn kelly( show| podcast)?$",
+ "The Shawn Ryan Show": "^(the )?shawn ryan( show| podcast)?$|^srs$",
+ "The Dan Bongino Show": "^(the )?(dan )?bongino( show| podcast| report)?$"
+}

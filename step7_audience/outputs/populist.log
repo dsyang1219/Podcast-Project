@@ -1,0 +1,9 @@
+1,366,988 passages; 194 shows merged. per-10k rates — anti-elite median 2.0, people-centric 5.2, media-criticism 1.0
+
+=== A. show-level correlations with directive register and ideology ===
+  anti-elite               vs dir_z r=+0.194 (p=0.0067) | vs DIME r=-0.036 | vs LLM side r=+0.259 | vs insult r=+0.131
+  people-centric           vs dir_z r=+0.206 (p=0.0039) | vs DIME r=+0.057 | vs LLM side r=+0.070 | vs insult r=+0.321
+  populist (elite+people)  vs dir_z r=+0.229 (p=0.0013) | vs DIME r=+0.026 | vs LLM side r=+0.178 | vs insult r=+0.268
+  media criticism          vs dir_z r=+0.313 (p=0.0000) | vs DIME r=+0.038 | vs LLM side r=+0.235 | vs insult r=+0.274
+  most populist-style: The Warning with Ste(L), Wendy Bell Radio Pod(R), Hope For America wit(L), Politics Chat(L), X22 Report(R)
+  most media-critical : The Young Turks(L), Owen Report(R), X22 Report(R), Stay Free with Russe(R), System Update with G(R)

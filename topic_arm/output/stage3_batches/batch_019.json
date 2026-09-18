@@ -1,0 +1,7328 @@
+[
+  {
+    "guest_key": "brown|yvette|yvette nicole",
+    "display_name": "Yvette Nicole Brown",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Trump seeks to avoid prison amid 2024 campaign",
+        "descriptor": "commentator",
+        "topic": "Fallback Friday segment"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "brown, yvette mcgee",
+        "source": "recipient",
+        "party": "328",
+        "state": "OH",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.538"
+      },
+      {
+        "matched_name": "brown, yvette mcgee",
+        "source": "recipient",
+        "party": "100",
+        "state": "OH",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.325"
+      },
+      {
+        "matched_name": "brown, yvette mcgee",
+        "source": "recipient",
+        "party": "100",
+        "state": "OH",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.325"
+      }
+    ]
+  },
+  {
+    "guest_key": "rogers|thomas|tom",
+    "display_name": "Tom Rogers",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Trump could go to prison or White House in 2024",
+        "descriptor": "political analyst",
+        "topic": "GOP's dysfunction in 2023"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "rogers, thomas j",
+        "source": "recipient",
+        "party": "200",
+        "state": "ME",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.153"
+      },
+      {
+        "matched_name": "rogers, tom",
+        "source": "recipient",
+        "party": "328",
+        "state": "PA",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.726"
+      }
+    ]
+  },
+  {
+    "guest_key": "frydman|kenneth|ken",
+    "display_name": "Ken Frydman",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Rudy Giuliani to pay $148 million in Georgia election worker defamation case",
+        "descriptor": "guest",
+        "topic": "Rudy Giuliani, Donald Trump, GOP chaos and abortion"
+      },
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Judge paves way for release of more Trump search info; Trump Org. CFO pleads guilty",
+        "descriptor": "former Rudy Giuliani campaign press secretary",
+        "topic": "DOJ roadmap on Trump's Mar-A-Lago search and Trump Organization CFO Allen Weisselberg's guilty plea"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "frydman, kenneth i",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "source communications",
+        "cfscore": "0.641"
+      },
+      {
+        "matched_name": "frydman, kenneth",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "partner",
+        "employer": "source communications llc",
+        "cfscore": "0.273"
+      },
+      {
+        "matched_name": "frydman, ken",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.641"
+      }
+    ]
+  },
+  {
+    "guest_key": "leader|lauren|lauren",
+    "display_name": "Lauren Leader",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Trump faces trials, but abortion stance may pose largest risk in 2024",
+        "descriptor": "political commentator",
+        "topic": "discussion of abortion within GOP, Elon Musk and Donald Trump's legal battles"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "leader, lauren",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "all in together",
+        "cfscore": "-0.799"
+      },
+      {
+        "matched_name": "leader, lauren",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "non profit",
+        "employer": "ait",
+        "cfscore": "-1.032"
+      }
+    ]
+  },
+  {
+    "guest_key": "johnson|khari|khari",
+    "display_name": "Khari Johnson",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Don Jr. and Eric Trump testify in Trump org fraud trial",
+        "descriptor": "guest",
+        "topic": "civil fraud trial, Israel-Hamas war, artificial intelligence"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "johnson, khari",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.922"
+      },
+      {
+        "matched_name": "johnson, khari",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1"
+      },
+      {
+        "matched_name": "johnson, khari",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "health",
+        "employer": "health care",
+        "cfscore": "-1.026"
+      }
+    ]
+  },
+  {
+    "guest_key": "solis|george|george",
+    "display_name": "George Solis",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Mass shooting in Maine: Trump under fire in multiple coup trials",
+        "descriptor": "commentator",
+        "topic": "political analysis"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "solis, george",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "correctional officer",
+        "employer": "state of california",
+        "cfscore": "0.381"
+      },
+      {
+        "matched_name": "solis, george",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.252"
+      },
+      {
+        "matched_name": "solis, george g",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "security officer",
+        "employer": "luxor casino",
+        "cfscore": "1.393"
+      },
+      {
+        "matched_name": "solis, george",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales",
+        "employer": "pennysaver",
+        "cfscore": "-1.034"
+      },
+      {
+        "matched_name": "solis, george",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "rr empl",
+        "employer": "",
+        "cfscore": "-0.827"
+      },
+      {
+        "matched_name": "solis, george",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "self employed",
+        "cfscore": "-0.604"
+      },
+      {
+        "matched_name": "solis, george",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "media consultant",
+        "employer": "dimes media",
+        "cfscore": "-1.052"
+      },
+      {
+        "matched_name": "solis, george",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "correctional officer",
+        "employer": "state of california",
+        "cfscore": "0.381"
+      }
+    ]
+  },
+  {
+    "guest_key": "barak|ehud|ehud",
+    "display_name": "Ehud Barak",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Day 11 of the Israel-Hamas war: Jim Jordan loses speaker vote",
+        "descriptor": "political figure/analyst",
+        "topic": "Israel-Gaza war and House Speaker fight"
+      },
+      {
+        "show_name": "Politics War Room with James Carville & Al Hunt",
+        "episode_title": "220: Strategy of War with Admiral Stavridis and Ehud Barak",
+        "descriptor": "Former Israeli Prime Minister",
+        "topic": "Strategy of War"
+      },
+      {
+        "show_name": "GZERO World with Ian Bremmer",
+        "episode_title": "The path to a two-state solution for Israel & Palestine: Former Prime Minister Ehud Barak's perspective",
+        "descriptor": "Former Prime Minister",
+        "topic": "The path to a two-state solution for Israel & Palestine"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "barak, ehud",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "conexant",
+        "cfscore": "-0.954"
+      },
+      {
+        "matched_name": "barak, ehud",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "elec eng",
+        "employer": "mostar directional tech",
+        "cfscore": "-0.392"
+      }
+    ]
+  },
+  {
+    "guest_key": "res|barbara|barbara",
+    "display_name": "Barbara Res",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Fallout as judge finds Trump guilty of fraud",
+        "descriptor": "Trump organization executive/commentator",
+        "topic": "Trump's legal battles, Fox News and the Taylor Swift effect in politics"
+      },
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "NY grand jury returns tomorrow",
+        "descriptor": "legal analyst",
+        "topic": "Trump's hush money probe and possible indictment"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "res, barbara",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "engineer",
+        "cfscore": "-0.692"
+      },
+      {
+        "matched_name": "res, barbara",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "construction engineer",
+        "employer": "self employed",
+        "cfscore": "-0.978"
+      }
+    ]
+  },
+  {
+    "guest_key": "stewart|james|james",
+    "display_name": "James Stewart",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Rupert Murdoch retires from Fox News empire",
+        "descriptor": "guest",
+        "topic": "Rupert Murdoch's retirement from Fox News"
+      },
+      {
+        "show_name": "Newt's World",
+        "episode_title": "Episode 552: A True \u201cSuccession\u201d Story \u2013 \u201cUnscripted\u201d",
+        "descriptor": "New York Times best-selling author and columnist for The New York Times",
+        "topic": "Book 'Unscripted: The Epic Battle for a Media Empire and the Redstone Family Legacy' and the Redstone family's battle for control of Paramount Global"
+      },
+      {
+        "show_name": "Slate News",
+        "episode_title": "What Next: TBD | Tech, power, and the future - Why Bands Are Leaving Spotify",
+        "descriptor": "musician in the band Xiu Xiu",
+        "topic": "Spotify's payment practices and Spotify owner Daniel Ek's investment in a German defense contractor"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "stewart, jimmy",
+        "source": "recipient",
+        "party": "200",
+        "state": "OH",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.039"
+      },
+      {
+        "matched_name": "stewart iii, jim",
+        "source": "recipient",
+        "party": "200",
+        "state": "KY",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.412"
+      },
+      {
+        "matched_name": "stewart, james d",
+        "source": "recipient",
+        "party": "200",
+        "state": "MT",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.485"
+      },
+      {
+        "matched_name": "stewart, jimmy r",
+        "source": "recipient",
+        "party": "100",
+        "state": "OH",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.068"
+      },
+      {
+        "matched_name": "stewart, jim",
+        "source": "recipient",
+        "party": "200",
+        "state": "SC",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.086"
+      },
+      {
+        "matched_name": "stewart, jim",
+        "source": "recipient",
+        "party": "328",
+        "state": "MO",
+        "seat": "local:other",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "2.03"
+      },
+      {
+        "matched_name": "stewart, james e jr",
+        "source": "recipient",
+        "party": "328",
+        "state": "SC",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.177"
+      },
+      {
+        "matched_name": "stewart, james jimmy",
+        "source": "recipient",
+        "party": "328",
+        "state": "MS",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.848"
+      }
+    ]
+  },
+  {
+    "guest_key": "salley|john|john",
+    "display_name": "John Salley",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Jack Smith zeroing in on \u201cunhinged\u201d White House meeting",
+        "descriptor": "guest",
+        "topic": "Fallback Friday segment"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "salley, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.965"
+      },
+      {
+        "matched_name": "salley, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "owner agent",
+        "employer": "ky dredging co",
+        "cfscore": "-0.537"
+      },
+      {
+        "matched_name": "salley, john r",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.613"
+      },
+      {
+        "matched_name": "salley, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.191"
+      },
+      {
+        "matched_name": "salley, john l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "exec director",
+        "employer": "bovis inc",
+        "cfscore": "-1.117"
+      },
+      {
+        "matched_name": "salley, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "bovis lend lease",
+        "cfscore": "-0.477"
+      },
+      {
+        "matched_name": "salley, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "salley, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.716"
+      },
+      {
+        "matched_name": "salley, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "estimator",
+        "employer": "dec tam corp",
+        "cfscore": "-0.79"
+      },
+      {
+        "matched_name": "salley, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.577"
+      },
+      {
+        "matched_name": "salley, john ernest",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "michelin",
+        "cfscore": "1.433"
+      },
+      {
+        "matched_name": "salley, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "salley, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "registered nurse",
+        "employer": "knolls west post acute",
+        "cfscore": "-0.991"
+      },
+      {
+        "matched_name": "salley, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.893"
+      }
+    ]
+  },
+  {
+    "guest_key": "woodard|alfre|alfre",
+    "display_name": "Alfre Woodard",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "BONUS: Justice Ketanji Brown Jackson\u2019s Affirmative Action Dissent Read by Actress Alfre Woodard",
+        "descriptor": "Actress",
+        "topic": "Reading Justice Ketanji Brown Jackson's Affirmative Action Dissent"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "woodard, alfre",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "scheduling supply specialist",
+        "employer": "quiktrip corporation",
+        "cfscore": "-0.908"
+      },
+      {
+        "matched_name": "woodard, alfre",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "actor",
+        "employer": "actor",
+        "cfscore": "-1.258"
+      },
+      {
+        "matched_name": "woodard, alfre",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "scheduling supply specialist",
+        "employer": "quiktrip corporation",
+        "cfscore": "-0.935"
+      }
+    ]
+  },
+  {
+    "guest_key": "wojcicki|anne|anne",
+    "display_name": "Anne Wojcicki",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Ari Melber's \"Open Mind\" Series",
+        "descriptor": "billionaire founder of 23andMe",
+        "topic": "using DNA and ancestry to give people more knowledge about their lives"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "wojcicki, anne",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "founder",
+        "employer": "23 and me inc",
+        "cfscore": "-0.794"
+      },
+      {
+        "matched_name": "wojcicki, anne",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "chief executive officer",
+        "employer": "23andme",
+        "cfscore": "1.305"
+      },
+      {
+        "matched_name": "wojcicki, anne",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "venture capitalist",
+        "employer": "passport capital",
+        "cfscore": "-0.775"
+      },
+      {
+        "matched_name": "wojcicki, anne",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "venture capitalist",
+        "employer": "passport capital",
+        "cfscore": "-0.775"
+      }
+    ]
+  },
+  {
+    "guest_key": "ray|robert|robert",
+    "display_name": "Robert Ray",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "DOJ: Trump blew chances to return docs and avoid charges",
+        "descriptor": "former Trump impeachment lawyer",
+        "topic": "Special Counsel Jack Smith's indictment"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ray, robert william",
+        "source": "recipient",
+        "party": "200",
+        "state": "NJ",
+        "seat": "federal:senate",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.653"
+      },
+      {
+        "matched_name": "ray, robert",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.161"
+      },
+      {
+        "matched_name": "ray, robert",
+        "source": "recipient",
+        "party": "100",
+        "state": "TX",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.647"
+      },
+      {
+        "matched_name": "ray, robert g",
+        "source": "recipient",
+        "party": "200",
+        "state": "NJ",
+        "seat": "local:other",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.189"
+      },
+      {
+        "matched_name": "ray, bob",
+        "source": "recipient",
+        "party": "100",
+        "state": "MO",
+        "seat": "local:other",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.461"
+      }
+    ]
+  },
+  {
+    "guest_key": "huth|alexander|alexander",
+    "display_name": "Alexander Huth",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "NYT: New effort to flip aide against Trump",
+        "descriptor": "not specified",
+        "topic": "not specified"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "huth, alexander",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "state of california",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "huth, alex",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales",
+        "employer": "red bull north america",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "huth, alex",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.135"
+      },
+      {
+        "matched_name": "huth, alex",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.952"
+      }
+    ]
+  },
+  {
+    "guest_key": "wilson|rainn|rainn",
+    "display_name": "Rainn Wilson",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Bill Barr\u2019s Russia claims fizzle with new report",
+        "descriptor": "actor from \"The Office\"",
+        "topic": "decline in traditional office life"
+      },
+      {
+        "show_name": "The Chris Cuomo Project",
+        "episode_title": "Rainn Wilson",
+        "descriptor": "actor, \"The Office,\" and author, \"Soul Boom: Why We Need A Spiritual Revolution\"",
+        "topic": "social transformation based on spiritual precepts, pessimism and cynicism, partisan politics, religion and young people"
+      },
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Rainn Wilson from \u2018The Office\u2019 on Why We Need a Spiritual Revolution",
+        "descriptor": "actor from 'The Office'",
+        "topic": "spiritual revolution"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "wilson, rainn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "wilson, rainn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "actor",
+        "employer": "self employed",
+        "cfscore": "-0.778"
+      },
+      {
+        "matched_name": "wilson, rainn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "actor",
+        "employer": "self employed same name",
+        "cfscore": "-1.026"
+      }
+    ]
+  },
+  {
+    "guest_key": "cunningham|brittany|brittany packnett",
+    "display_name": "Brittany Packnett Cunningham",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Bill Barr\u2019s Russia claims fizzle with new report",
+        "descriptor": "political commentator",
+        "topic": "Durham report and decline in traditional office life"
+      },
+      {
+        "show_name": "Sidebar with Katie Phang",
+        "episode_title": "Trump Shocked as Massive Protests Erupt Across US",
+        "descriptor": "civil rights activist and commentator",
+        "topic": "voting rights, gerrymandering, and civil rights activism"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "cunningham, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "hr manager",
+        "employer": "pwc",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "cunningham, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sewer inspector",
+        "employer": "quinter textile",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "cunningham, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.813"
+      },
+      {
+        "matched_name": "cunningham, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "",
+        "cfscore": "-0.677"
+      },
+      {
+        "matched_name": "cunningham, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "educator",
+        "employer": "atlanta public schools",
+        "cfscore": "-0.72"
+      },
+      {
+        "matched_name": "cunningham, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "seamstress",
+        "employer": "self",
+        "cfscore": "-1.003"
+      },
+      {
+        "matched_name": "cunningham, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "educator",
+        "employer": "atlanta public schools",
+        "cfscore": "-0.51"
+      }
+    ]
+  },
+  {
+    "guest_key": "david|ashley|ashley",
+    "display_name": "Ashley David",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Republicans face huge headwinds",
+        "descriptor": "conservative",
+        "topic": "future of the GOP following the Trump presidency and the questions facing American conservatism"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "david, davy or ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "optometrist",
+        "employer": "lamm david eyecare",
+        "cfscore": "1.125"
+      },
+      {
+        "matched_name": "david, davy & ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "optometrist",
+        "employer": "lamm david eyecare",
+        "cfscore": "1.214"
+      },
+      {
+        "matched_name": "david, patrick & ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.167"
+      },
+      {
+        "matched_name": "david, ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "optometrist",
+        "employer": "",
+        "cfscore": "1.125"
+      },
+      {
+        "matched_name": "david, ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "pierce manufacturing",
+        "cfscore": "-1.076"
+      },
+      {
+        "matched_name": "david, ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "artist",
+        "employer": "self",
+        "cfscore": "-0.977"
+      },
+      {
+        "matched_name": "david, ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "artist teacher",
+        "employer": "self hillbrook school",
+        "cfscore": "-1.08"
+      },
+      {
+        "matched_name": "david, ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "registered nurse",
+        "employer": "st clair hospital",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "david, ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "account manager",
+        "employer": "kimberly clark",
+        "cfscore": "-1.094"
+      },
+      {
+        "matched_name": "david, ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "david, ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "mechanical engineer",
+        "employer": "endress hauser",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "david, ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "optometrist",
+        "employer": "",
+        "cfscore": "1.178"
+      },
+      {
+        "matched_name": "david, ashley c",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.169"
+      },
+      {
+        "matched_name": "david, ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "lab manager",
+        "employer": "propath",
+        "cfscore": "-0.881"
+      },
+      {
+        "matched_name": "david, ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "laboratory technologist manager",
+        "employer": "propath",
+        "cfscore": "-1.021"
+      },
+      {
+        "matched_name": "david, ashley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "cpa",
+        "employer": "self employed",
+        "cfscore": "1.659"
+      }
+    ]
+  },
+  {
+    "guest_key": "buck|brennan|brennan",
+    "display_name": "Brennan Buck",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Republicans face huge headwinds",
+        "descriptor": "conservative",
+        "topic": "future of the GOP following the Trump presidency and the questions facing American conservatism"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "buck, brennan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "seattle schools",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "buck, brennan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "architect",
+        "employer": "yale university",
+        "cfscore": "-1.108"
+      }
+    ]
+  },
+  {
+    "guest_key": "sherman|renee|renee bracey",
+    "display_name": "Renee Bracey Sherman",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Criminal Jan. 6 probe eyes Trump\u2019s inner circle",
+        "descriptor": "guest",
+        "topic": "January 6 probe, 2024 election field, Supreme Court abortion pill ruling"
+      },
+      {
+        "show_name": "Defending Democracy with Marc Elias",
+        "episode_title": "The Connection Between Abortion and Voting Rights with Renee Bracey Sherman",
+        "descriptor": "abortion and voting rights advocate",
+        "topic": "The connection between abortion and voting rights"
+      },
+      {
+        "show_name": "Defending Democracy with Marc Elias",
+        "episode_title": "Abortion is More Popular Than Your Favorite Politician with Renee Bracey Sherman",
+        "descriptor": "abortion rights advocate",
+        "topic": "abortion popularity and politics"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "sherman, renee",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.516"
+      },
+      {
+        "matched_name": "sherman, renee a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "unc chapel hill",
+        "cfscore": "-0.391"
+      },
+      {
+        "matched_name": "sherman, renee",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.705"
+      },
+      {
+        "matched_name": "sherman, renee",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "-0.413"
+      },
+      {
+        "matched_name": "sherman, renee",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "service occupations",
+        "employer": "jb hanauer & co",
+        "cfscore": "-0.606"
+      },
+      {
+        "matched_name": "sherman, renee",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "not employed",
+        "cfscore": "-1.026"
+      },
+      {
+        "matched_name": "sherman, renee",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "associate",
+        "employer": "walmart",
+        "cfscore": "-1.093"
+      },
+      {
+        "matched_name": "sherman, renee",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "not employed",
+        "cfscore": "-0.86"
+      },
+      {
+        "matched_name": "sherman, renee bracey",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.759"
+      },
+      {
+        "matched_name": "sherman, renee",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "director",
+        "employer": "westestify",
+        "cfscore": "-1.101"
+      }
+    ]
+  },
+  {
+    "guest_key": "fein|alan|alan",
+    "display_name": "Alan Fein",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Fox News folds: Will pay $787M",
+        "descriptor": "unknown",
+        "topic": "Dominion-Fox settlement and SCOTUS abortion bill"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "fein, alan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.23"
+      },
+      {
+        "matched_name": "fein, alan c",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.973"
+      },
+      {
+        "matched_name": "fein, alan c",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.109"
+      },
+      {
+        "matched_name": "fein, alan c",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.55"
+      },
+      {
+        "matched_name": "fein, alan b",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.289"
+      },
+      {
+        "matched_name": "fein, alan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "self",
+        "cfscore": "-0.044"
+      },
+      {
+        "matched_name": "fein, alan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "stearns, weaver",
+        "employer": "stearns, weaver",
+        "cfscore": "-0.909"
+      },
+      {
+        "matched_name": "fein, alan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "physician",
+        "cfscore": "0.429"
+      },
+      {
+        "matched_name": "fein, alan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician",
+        "employer": "executive health resources",
+        "cfscore": "-0.976"
+      },
+      {
+        "matched_name": "fein, alan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "administrator",
+        "employer": "mit",
+        "cfscore": "-1.038"
+      },
+      {
+        "matched_name": "fein, alan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.195"
+      },
+      {
+        "matched_name": "fein, alan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "managing consultant",
+        "employer": "pm solutions",
+        "cfscore": "-0.997"
+      }
+    ]
+  },
+  {
+    "guest_key": "horwitz|daniel|dan",
+    "display_name": "Dan Horwitz",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Trump pleads not guilty to fraud at arraignment",
+        "descriptor": "legal analyst/commentator",
+        "topic": "Donald Trump's arraignment"
+      },
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Trump indicted and arrested for 2016 election plot",
+        "descriptor": "legal analyst",
+        "topic": "Trump indictment"
+      },
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "NY grand jury returns tomorrow",
+        "descriptor": "legal analyst",
+        "topic": "Trump's hush money probe and possible indictment"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "horwitz, dan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "doc",
+        "employer": "ghc",
+        "cfscore": "-1.102"
+      },
+      {
+        "matched_name": "horwitz, daniel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "self employed",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "horwitz, daniel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.924"
+      },
+      {
+        "matched_name": "horwitz, daniel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.492"
+      },
+      {
+        "matched_name": "horwitz, daniel paul",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "horwitz co",
+        "employer": "horwitz co",
+        "cfscore": "-0.823"
+      },
+      {
+        "matched_name": "horwitz, daniel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "process engineer",
+        "employer": "ctdi",
+        "cfscore": "-1.034"
+      },
+      {
+        "matched_name": "horwitz, dan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "analyst",
+        "employer": "madoff securities",
+        "cfscore": "0.641"
+      },
+      {
+        "matched_name": "horwitz, daniel j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "squadron ellenoff",
+        "cfscore": "-0.751"
+      },
+      {
+        "matched_name": "horwitz, daniel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "vanderbilt university",
+        "cfscore": "-0.658"
+      },
+      {
+        "matched_name": "horwitz, daniel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.819"
+      },
+      {
+        "matched_name": "horwitz, dan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.035"
+      },
+      {
+        "matched_name": "horwitz, daniel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "self employed",
+        "cfscore": "-0.48"
+      },
+      {
+        "matched_name": "horwitz, marsha and dan harri",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.702"
+      }
+    ]
+  },
+  {
+    "guest_key": "mande|joseph|joe",
+    "display_name": "Joe Mande",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "NYT: Trump \u201clikely\u201d to be criminally charged soon",
+        "descriptor": "Comedian",
+        "topic": "Fallback Friday segment"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "mande, joseph",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.983"
+      },
+      {
+        "matched_name": "mande, joe",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "writer",
+        "employer": "self employed",
+        "cfscore": "-1.063"
+      }
+    ]
+  },
+  {
+    "guest_key": "davis|lani|lani",
+    "display_name": "Lani Davis",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "NYT: Trump \u201clikely\u201d to be criminally charged soon",
+        "descriptor": "",
+        "topic": "Episode discussion"
+      },
+      {
+        "show_name": "RealClearPolitics Podcast",
+        "episode_title": "Senator Ted Cruz Maintaining a Lead, Chicago Police Bodycam Shows They Fired 96 Times at Dexter Reed, and Will There be a Presidential Debate this Fall?",
+        "descriptor": "discussed Donald Trump's hush money trial",
+        "topic": "Donald Trump's hush money trial"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "davis, lani chisman",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "banker",
+        "employer": "ole point national bank",
+        "cfscore": "-0.491"
+      },
+      {
+        "matched_name": "davis, lani",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.126"
+      },
+      {
+        "matched_name": "davis, lei lani",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.934"
+      },
+      {
+        "matched_name": "davis, lani",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.055"
+      }
+    ]
+  },
+  {
+    "guest_key": "covey|brian|brian",
+    "display_name": "Brian Covey",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "New evidence puts heat on Fox and \u201cthe big lie\u201d",
+        "descriptor": "",
+        "topic": "various segments"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "covey, brian r",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.138"
+      },
+      {
+        "matched_name": "covey, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.04"
+      },
+      {
+        "matched_name": "covey, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "nightclub manager",
+        "employer": "fantasy nightclub",
+        "cfscore": "-1.037"
+      },
+      {
+        "matched_name": "covey, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.819"
+      },
+      {
+        "matched_name": "covey, brian & michelle",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.695"
+      },
+      {
+        "matched_name": "covey, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.044"
+      },
+      {
+        "matched_name": "covey, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manager",
+        "employer": "the omni group",
+        "cfscore": "-1.028"
+      },
+      {
+        "matched_name": "covey, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.019"
+      },
+      {
+        "matched_name": "covey, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.121"
+      },
+      {
+        "matched_name": "covey, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.549"
+      },
+      {
+        "matched_name": "covey, brian & michell",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.527"
+      }
+    ]
+  },
+  {
+    "guest_key": "ferranto|marcia|marcia",
+    "display_name": "Marcia Ferranto",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "MLK Day: Biden touts MLK's legacy and voting rights push",
+        "descriptor": "of the National Law Enforcement Officers Memorial Fund",
+        "topic": "leading causes of deaths for police in the line of duty"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ferranto, marcia c",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.138"
+      },
+      {
+        "matched_name": "ferranto, marcia",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.123"
+      }
+    ]
+  },
+  {
+    "guest_key": "ackerman|nicholas|nick",
+    "display_name": "Nick Ackerman",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Jan. 6 cmte set to publish final coup report next week",
+        "descriptor": "fmr. Watergate prosecutor",
+        "topic": "Jan. 6 committee's criminal referrals and final report, and DeSantis' vaccine misinformation"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ackerman, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.665"
+      },
+      {
+        "matched_name": "ackerman, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "operations manager",
+        "employer": "moneylion",
+        "cfscore": "-1.076"
+      },
+      {
+        "matched_name": "ackerman, nick",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.051"
+      },
+      {
+        "matched_name": "ackerman, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "bartender",
+        "employer": "airway fun center",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "ackerman, nick",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "ff emt",
+        "employer": "south whatcom fire authority",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "ackerman, nick",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.051"
+      },
+      {
+        "matched_name": "ackerman, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "ackerman, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.092"
+      },
+      {
+        "matched_name": "ackerman, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "cmu",
+        "cfscore": "-1.098"
+      },
+      {
+        "matched_name": "ackerman, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "-1.055"
+      }
+    ]
+  },
+  {
+    "guest_key": "kohn|sally|sally",
+    "display_name": "Sally Kohn",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Texts reveal incoming House leadership pushed \u201cBig Lie\u201d after 2020 election",
+        "descriptor": "activist",
+        "topic": "right-wing backlash to Pres. Biden signing the Respect for Marriage Act"
+      },
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Colorado officials investigating massacre at LGBTQ club",
+        "descriptor": "guest",
+        "topic": "Colorado nightclub massacre"
+      },
+      {
+        "show_name": "The Damage Report with John Iadarola",
+        "episode_title": "Chapelle Shows Up",
+        "descriptor": "Political commentator",
+        "topic": "her book \"The Opposite of Hate\" on bridging the political divide"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "kohn, sally",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "NEW YORK AIDS CONSORTIUM",
+        "cfscore": "-0.799"
+      },
+      {
+        "matched_name": "kohn, sally",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "HEALTH PLANNER",
+        "employer": "GWU",
+        "cfscore": "-0.837"
+      },
+      {
+        "matched_name": "kohn, sally j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "self employed",
+        "cfscore": "1.239"
+      },
+      {
+        "matched_name": "kohn, sally",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "-0.774"
+      },
+      {
+        "matched_name": "kohn, sally",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.035"
+      },
+      {
+        "matched_name": "kohn, sally",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "consultant",
+        "cfscore": "-0.968"
+      }
+    ]
+  },
+  {
+    "guest_key": "abbot|steven|steve",
+    "display_name": "Steve Abbot",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "Trump\u2019s new Jan. 6 nightmare: Right-wing outlets turn on Trump as new evidence is revealed",
+        "descriptor": "Retired Admiral",
+        "topic": "Jan. 6 committee evidence and Trump-related political developments"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "abbot, steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "susan collins",
+        "cfscore": "0.986"
+      },
+      {
+        "matched_name": "abbot, steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "russ|timothy|tim",
+    "display_name": "Tim Russ",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "BONUS: Ending the Drug War & corporate robbery with Russ, hip hop's leading DIY artist",
+        "descriptor": "hip hop's leading DIY artist",
+        "topic": "Ending the Drug War & corporate robbery"
+      },
+      {
+        "show_name": "The Bob Cesca Show | Politics Podcast, News & Commentary",
+        "episode_title": "Interview Replay: Tim Russ is Low Key Fire!",
+        "descriptor": "Interview subject",
+        "topic": "General interview"
+      },
+      {
+        "show_name": "The Bob Cesca Show | Politics Podcast, News & Commentary",
+        "episode_title": "Tim Russ Returns!",
+        "descriptor": "returning guest",
+        "topic": "unknown"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "russ, tim",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "other",
+        "employer": "flame control coatings",
+        "cfscore": "-1.175"
+      },
+      {
+        "matched_name": "russ, tim",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.665"
+      },
+      {
+        "matched_name": "russ, timothy w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.157"
+      },
+      {
+        "matched_name": "russ, timothy brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "test engineer",
+        "employer": "2wire inc",
+        "cfscore": "1.433"
+      },
+      {
+        "matched_name": "russ, timothy d",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "star trekactor",
+        "cfscore": "-0.917"
+      },
+      {
+        "matched_name": "russ, tim",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.006"
+      },
+      {
+        "matched_name": "russ, timothy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.866"
+      },
+      {
+        "matched_name": "russ, timothy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "uniserv director",
+        "employer": "michigan education association",
+        "cfscore": "-1.023"
+      },
+      {
+        "matched_name": "russ, timothy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "executive director",
+        "employer": "costello & mains, llc",
+        "cfscore": "-0.616"
+      },
+      {
+        "matched_name": "russ, timothy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "driver",
+        "employer": "walmart transportation",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "russ, tim",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "budden|joseph|joe",
+    "display_name": "Joe Budden",
+    "examples": [
+      {
+        "show_name": "The Beat with Ari Melber",
+        "episode_title": "BONUS: From Trump's desperation to Drake's 'blackness,' Joe Budden opens up in candid interview",
+        "descriptor": "podcast guest",
+        "topic": "candid interview covering Trump's desperation and Drake's 'blackness'"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "budden, joseph",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "danfoss",
+        "cfscore": "-0.973"
+      },
+      {
+        "matched_name": "budden, joseph",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.949"
+      }
+    ]
+  },
+  {
+    "guest_key": "bell|betsey|betsey",
+    "display_name": "Betsey Bell",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 854: A Hurtless Heart with Betsey Bell",
+        "descriptor": "guest",
+        "topic": "A Hurtless Heart"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 850: The Company You Keep with Betsey Bell",
+        "descriptor": "guest",
+        "topic": "The Company You Keep"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 845: God Has A Funny Bone with Betsey Bell",
+        "descriptor": "guest",
+        "topic": "God Has A Funny Bone"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "bell, betsey",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "keycorp",
+        "cfscore": "0.352"
+      },
+      {
+        "matched_name": "bell, betsey",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.893"
+      },
+      {
+        "matched_name": "bell, betsey",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "jcps",
+        "cfscore": "-0.997"
+      },
+      {
+        "matched_name": "bell, betsey",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "0.919"
+      },
+      {
+        "matched_name": "bell, betsey",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "recruiter",
+        "employer": "legal match",
+        "cfscore": "1.08"
+      },
+      {
+        "matched_name": "bell, betsey",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.988"
+      }
+    ]
+  },
+  {
+    "guest_key": "williams|william|bill",
+    "display_name": "Bill Williams",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 1508: The John Miller Program Birthday Podcast 29th Edition",
+        "descriptor": "comic",
+        "topic": "comedy and music"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "williams jr, billy",
+        "source": "recipient",
+        "party": "328",
+        "state": "AK",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.133"
+      },
+      {
+        "matched_name": "williams, william k bill",
+        "source": "recipient",
+        "party": "200",
+        "state": "AK",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.568"
+      },
+      {
+        "matched_name": "williams, bill",
+        "source": "recipient",
+        "party": "100",
+        "state": "CO",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.937"
+      },
+      {
+        "matched_name": "williams, william g",
+        "source": "recipient",
+        "party": "328",
+        "state": "MD",
+        "seat": "state:unknown",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.864"
+      },
+      {
+        "matched_name": "williams, william e",
+        "source": "recipient",
+        "party": "200",
+        "state": "WV",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.385"
+      },
+      {
+        "matched_name": "williams, william k",
+        "source": "recipient",
+        "party": "328",
+        "state": "WA",
+        "seat": "local:other",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.037"
+      },
+      {
+        "matched_name": "williams, william thomas",
+        "source": "recipient",
+        "party": "100",
+        "state": "KY",
+        "seat": "local:sheriff",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.572"
+      },
+      {
+        "matched_name": "williams, squire will",
+        "source": "recipient",
+        "party": "328",
+        "state": "KY",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.324"
+      },
+      {
+        "matched_name": "williams, william j",
+        "source": "recipient",
+        "party": "328",
+        "state": "GA",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.562"
+      },
+      {
+        "matched_name": "williams, william hillman jr",
+        "source": "recipient",
+        "party": "200",
+        "state": "GA",
+        "seat": "local:commissioner",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.51"
+      },
+      {
+        "matched_name": "williams, billy a jr",
+        "source": "recipient",
+        "party": "328",
+        "state": "SC",
+        "seat": "local:school-board",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.196"
+      },
+      {
+        "matched_name": "williams, billy d",
+        "source": "recipient",
+        "party": "328",
+        "state": "SC",
+        "seat": "local:council",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.18"
+      }
+    ]
+  },
+  {
+    "guest_key": "stone|howard|howard",
+    "display_name": "Howard Stone",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 1508: The John Miller Program Birthday Podcast 29th Edition",
+        "descriptor": "comic",
+        "topic": "comedy and music"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "stone, howard wilbert",
+        "source": "recipient",
+        "party": "328",
+        "state": "MD",
+        "seat": "state:unknown",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.811"
+      },
+      {
+        "matched_name": "stone, howard",
+        "source": "recipient",
+        "party": "200",
+        "state": "KY",
+        "seat": "local:assessor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.173"
+      }
+    ]
+  },
+  {
+    "guest_key": "king|brian|brian",
+    "display_name": "Dr. Brian King",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 1508: The John Miller Program Birthday Podcast 29th Edition",
+        "descriptor": "headliner",
+        "topic": "comedy and music"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 2001: The John Miller Program w/Dr. Brian King",
+        "descriptor": "Doctor",
+        "topic": "Unknown"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 296: The John Miller Program w/Santa vs Scrooge",
+        "descriptor": "played Santa",
+        "topic": "Santa vs Scrooge holiday special"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "king, brian s",
+        "source": "recipient",
+        "party": "100",
+        "state": "UT",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.552"
+      },
+      {
+        "matched_name": "king, brian",
+        "source": "recipient",
+        "party": "328",
+        "state": "NC",
+        "seat": "local:district-attorney",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.23"
+      }
+    ]
+  },
+  {
+    "guest_key": "fata|robert|robert",
+    "display_name": "Robert Fata",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 385: Robert Fata",
+        "descriptor": "guest",
+        "topic": "unknown"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "fata, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "park ranger",
+        "employer": "east bay regional park district",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "fata, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "biochemist",
+        "employer": "ias laboratories",
+        "cfscore": "-1.019"
+      }
+    ]
+  },
+  {
+    "guest_key": "hecker|eric|eric",
+    "display_name": "Eric Hecker",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 170: Alex Jones WEF Puppet Mark Carney Declares War On Trump After Winning Canadian Election As Globalists Intensify Efforts To Crash US Economy",
+        "descriptor": "Raytheon Whistleblower",
+        "topic": "US Secret Earthquake Weapon in Antarctica"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hecker, eric",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "craftsman",
+        "employer": "bevolo",
+        "cfscore": "1.193"
+      },
+      {
+        "matched_name": "hecker, eric",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.637"
+      },
+      {
+        "matched_name": "hecker, eric",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.901"
+      }
+    ]
+  },
+  {
+    "guest_key": "alexander|dallas|dallas",
+    "display_name": "Dallas Alexander",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 6188: Expert SniperAlex Jones  Dallas Alexander Responds To FBI Director\u2019s Claim That Trump May Have Been Hit By \u201cShrapnel\u201d Instead Of A Bullet!",
+        "descriptor": "Expert Sniper",
+        "topic": "Response to FBI Director's claim about Trump assassination attempt"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 6176: Top Sniper Dallas Alexander Who Is On Record With The Farthest Kill At 2.2 Miles \u2014 Joins Alex Jones",
+        "descriptor": "Top Sniper",
+        "topic": "Farthest Kill At 2.2 Miles"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "alexander, dallas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "secretary",
+        "employer": "",
+        "cfscore": "-0.969"
+      },
+      {
+        "matched_name": "alexander, dallas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.881"
+      }
+    ]
+  },
+  {
+    "guest_key": "king|steven|steve",
+    "display_name": "Steve King",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 5538: Roger Stone, Robert Barnes, Steve King, Andrew Meyer and More Will Cover All The Incredible News of Our Time!",
+        "descriptor": "political figure",
+        "topic": "news coverage"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "king, steve",
+        "source": "recipient",
+        "party": "200",
+        "state": "IA",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "king, steven",
+        "source": "recipient",
+        "party": "200",
+        "state": "AL",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.179"
+      },
+      {
+        "matched_name": "king, steve",
+        "source": "recipient",
+        "party": "200",
+        "state": "CO",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.128"
+      },
+      {
+        "matched_name": "king, steve",
+        "source": "recipient",
+        "party": "100",
+        "state": "MI",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.57"
+      },
+      {
+        "matched_name": "king, steve",
+        "source": "recipient",
+        "party": "200",
+        "state": "SC",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.504"
+      },
+      {
+        "matched_name": "king, steven allan",
+        "source": "recipient",
+        "party": "200",
+        "state": "CO",
+        "seat": "local:sheriff",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.111"
+      }
+    ]
+  },
+  {
+    "guest_key": "crowder|steven|steven",
+    "display_name": "Steven Crowder",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 5152: Alex Jones Makes Major Announcement with Steven Crowder in Powerful New Strike Against NWO Censors",
+        "descriptor": "co-guest",
+        "topic": "announcement against NWO censors"
+      },
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Steven Crowder. L.A. Voter Fraud. Trump Assassin Was Secretly Communicating With Police, FBI Hid Evidence. Inside Job Confirmed?!",
+        "descriptor": "podcast guest",
+        "topic": "L.A. Voter Fraud, Trump Assassin Communications, FBI Evidence"
+      },
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Steven Crowder. The Data on Marriage Is Terrifying",
+        "descriptor": "political commentator and podcast host",
+        "topic": "marriage data and statistics"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "crowder, steven",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "entertainer",
+        "employer": "steven crowder",
+        "cfscore": "1.255"
+      },
+      {
+        "matched_name": "crowder, steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "president",
+        "employer": "international polo connections",
+        "cfscore": "-0.885"
+      },
+      {
+        "matched_name": "crowder, steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.125"
+      },
+      {
+        "matched_name": "crowder, steven d",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "system administrator",
+        "employer": "liberty university",
+        "cfscore": "1.433"
+      },
+      {
+        "matched_name": "crowder, steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "polo",
+        "cfscore": "1.008"
+      },
+      {
+        "matched_name": "crowder, r steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sopac exploration inc",
+        "employer": "sopac exploration inc",
+        "cfscore": "-0.105"
+      },
+      {
+        "matched_name": "crowder, steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "oil producer",
+        "cfscore": "0.904"
+      },
+      {
+        "matched_name": "crowder, steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.415"
+      },
+      {
+        "matched_name": "crowder, steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "low voltage",
+        "employer": "self",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "crowder, steven",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "mayor",
+        "employer": "town of paradise",
+        "cfscore": "1.065"
+      },
+      {
+        "matched_name": "crowder, steven",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "construction",
+        "employer": "donohoe",
+        "cfscore": "-0.69"
+      },
+      {
+        "matched_name": "crowder, steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "owner",
+        "employer": "a stitch above",
+        "cfscore": "0.565"
+      }
+    ]
+  },
+  {
+    "guest_key": "laibow|rima|rima",
+    "display_name": "Dr. Rima Laibow",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4875: Alex Jones Renegade Talk Radio",
+        "descriptor": "Whistleblower",
+        "topic": "Globalist depopulation plans and predicted deadly viruses"
+      },
+      {
+        "show_name": "SGT Report\u2019s The Propaganda Antidote",
+        "episode_title": "STOPPING THE RAVENOUS BEAST -- Dr. Rima Laibow",
+        "descriptor": "Dr.",
+        "topic": "Stopping the Ravenous Beast"
+      },
+      {
+        "show_name": "SGT Report\u2019s The Propaganda Antidote",
+        "episode_title": "PLEASE HELP US 'PREVENT GENOCIDE 2030' -- Dr. Rima Laibow",
+        "descriptor": "Dr.",
+        "topic": "Prevent Genocide 2030"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "laibow, rima e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "alexandria institute",
+        "cfscore": "-0.634"
+      },
+      {
+        "matched_name": "laibow, rima e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "PHYSICIAN",
+        "employer": "",
+        "cfscore": "-0.448"
+      }
+    ]
+  },
+  {
+    "guest_key": "ny|gregory|greg from",
+    "display_name": "Greg from NY",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4774: Free Talk Live Renegade Talk Radio",
+        "descriptor": "co-host/participant",
+        "topic": "Various political and social topics including welfare, warfare, Texas independence, civil war, food independence, Austin secession, drug war, cooperation, government, and decentralization"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ny, greg",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "const mgr",
+        "employer": "cbi",
+        "cfscore": "0.715"
+      },
+      {
+        "matched_name": "ny, gregory l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "real estate",
+        "employer": "construction administrators, inc",
+        "cfscore": "0.654"
+      }
+    ]
+  },
+  {
+    "guest_key": "miller|daniel|daniel",
+    "display_name": "Daniel Miller",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4774: Free Talk Live Renegade Talk Radio",
+        "descriptor": "guest discussing Texas independence",
+        "topic": "Texas Independence"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "miller, dan",
+        "source": "recipient",
+        "party": "200",
+        "state": "FL",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.094"
+      },
+      {
+        "matched_name": "miller, dan",
+        "source": "recipient",
+        "party": "100",
+        "state": "PA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.694"
+      },
+      {
+        "matched_name": "miller, daniel",
+        "source": "recipient",
+        "party": "200",
+        "state": "TX",
+        "seat": "state:office",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.158"
+      },
+      {
+        "matched_name": "miller, dan",
+        "source": "recipient",
+        "party": "328",
+        "state": "NY",
+        "seat": "local:council",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.039"
+      },
+      {
+        "matched_name": "miller, daniel h",
+        "source": "recipient",
+        "party": "328",
+        "state": "KY",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.002"
+      },
+      {
+        "matched_name": "miller, danny",
+        "source": "recipient",
+        "party": "100",
+        "state": "KY",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.202"
+      },
+      {
+        "matched_name": "miller, dan m",
+        "source": "recipient",
+        "party": "328",
+        "state": "KY",
+        "seat": "local:mayor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.288"
+      },
+      {
+        "matched_name": "miller, dan",
+        "source": "recipient",
+        "party": "100",
+        "state": "KY",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.289"
+      },
+      {
+        "matched_name": "miller, daniel l",
+        "source": "recipient",
+        "party": "100",
+        "state": "PA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.694"
+      },
+      {
+        "matched_name": "miller, dan",
+        "source": "recipient",
+        "party": "100",
+        "state": "SD",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.992"
+      }
+    ]
+  },
+  {
+    "guest_key": "underwood|ian|ian",
+    "display_name": "Ian Underwood",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4310: Free Talk Live Renegade Talk Radio",
+        "descriptor": "Free Stater",
+        "topic": "Ian Underwood's Book, XIV \u2013 How the Fourteenth Amendment Ate the First Ten"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "underwood, ian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "network engineer",
+        "employer": "eclinicalworks",
+        "cfscore": "1.096"
+      },
+      {
+        "matched_name": "underwood, ian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.854"
+      },
+      {
+        "matched_name": "underwood, ian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.767"
+      },
+      {
+        "matched_name": "underwood, ian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.965"
+      },
+      {
+        "matched_name": "underwood, ian & jody",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.684"
+      },
+      {
+        "matched_name": "underwood, ian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.678"
+      },
+      {
+        "matched_name": "underwood, ian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.778"
+      },
+      {
+        "matched_name": "underwood, ian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.985"
+      },
+      {
+        "matched_name": "underwood, ian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.995"
+      }
+    ]
+  },
+  {
+    "guest_key": "calandrella|stephen|stephen",
+    "display_name": "Stephen Calandrella",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4286: Free Talk Live Renegade Talk Radio",
+        "descriptor": "from Virtual Interactive Technologies",
+        "topic": "Interview at Freedom Fest"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "calandrella, stephen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "1.117"
+      },
+      {
+        "matched_name": "calandrella, stephen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.183"
+      },
+      {
+        "matched_name": "calandrella, stephen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.876"
+      },
+      {
+        "matched_name": "calandrella, stephen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "owner",
+        "employer": "tri valley vending",
+        "cfscore": "1.112"
+      },
+      {
+        "matched_name": "calandrella, stephen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "chairman",
+        "employer": "northstar atm corp",
+        "cfscore": "1.41"
+      }
+    ]
+  },
+  {
+    "guest_key": "rufer|christopher|chris",
+    "display_name": "Chris Rufer",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4286: Free Talk Live Renegade Talk Radio",
+        "descriptor": "from Foundation for Harmony and Prosperity",
+        "topic": "Interview at Freedom Fest"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "rufer, chris r",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "morning star co",
+        "cfscore": "1.399"
+      },
+      {
+        "matched_name": "rufer, chris j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.294"
+      },
+      {
+        "matched_name": "rufer, christopher",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "procurement",
+        "employer": "altech",
+        "cfscore": "1.641"
+      },
+      {
+        "matched_name": "rufer, chris",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "agriculturist",
+        "employer": "morning star co",
+        "cfscore": "1.507"
+      }
+    ]
+  },
+  {
+    "guest_key": "baldwin|kerry|kerry",
+    "display_name": "Kerry Baldwin",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4286: Free Talk Live Renegade Talk Radio",
+        "descriptor": "of Libertarian Christian Institute",
+        "topic": "Interview at Freedom Fest"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "baldwin, kerry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.658"
+      },
+      {
+        "matched_name": "baldwin, kerry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "internet advertising",
+        "employer": "webcom",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "baldwin, kerry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.007"
+      },
+      {
+        "matched_name": "baldwin, kerry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.523"
+      },
+      {
+        "matched_name": "baldwin, kerry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "businessman",
+        "employer": "management associates",
+        "cfscore": "1.282"
+      },
+      {
+        "matched_name": "baldwin, kerry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "internet advertising",
+        "employer": "leadscom",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "baldwin, kerry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.949"
+      },
+      {
+        "matched_name": "baldwin, kerry j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "college shop",
+        "cfscore": "1.026"
+      },
+      {
+        "matched_name": "baldwin, kerry k",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.163"
+      },
+      {
+        "matched_name": "baldwin, kerry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.046"
+      },
+      {
+        "matched_name": "baldwin, kerry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "prefer not to say",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "baldwin, kerry k",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "communications",
+        "employer": "state of arkansas",
+        "cfscore": "1.134"
+      },
+      {
+        "matched_name": "baldwin, kerry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.658"
+      },
+      {
+        "matched_name": "baldwin, kerry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "natural resources superintendent",
+        "employer": "pima county",
+        "cfscore": "-1.007"
+      },
+      {
+        "matched_name": "baldwin, kerry dee",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "farmer",
+        "employer": "self employed",
+        "cfscore": "1.002"
+      }
+    ]
+  },
+  {
+    "guest_key": "livingston|luke|luke",
+    "display_name": "Luke Livingston",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4286: Free Talk Live Renegade Talk Radio",
+        "descriptor": "from Innovation Race",
+        "topic": "Interview at Freedom Fest"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "livingston, william luke",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "media production",
+        "employer": "self employed",
+        "cfscore": "1.354"
+      },
+      {
+        "matched_name": "livingston, h luke",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "executive",
+        "employer": "baxter brewing co, llc",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "livingston, luke",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.987"
+      },
+      {
+        "matched_name": "livingston, luke",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "owner",
+        "employer": "ground floor llc",
+        "cfscore": "1.432"
+      },
+      {
+        "matched_name": "livingston, luke",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "self employed",
+        "cfscore": "1.568"
+      },
+      {
+        "matched_name": "livingston, luke",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "collins aerospace",
+        "cfscore": "1.42"
+      },
+      {
+        "matched_name": "livingston, luke",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "entrepreneur",
+        "employer": "self",
+        "cfscore": "-1.024"
+      },
+      {
+        "matched_name": "livingston, luke",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "bcg",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "kirkpatrick|doug|doug",
+    "display_name": "Doug Kirkpatrick",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4286: Free Talk Live Renegade Talk Radio",
+        "descriptor": "from Self Management Collaborative",
+        "topic": "Interview at Freedom Fest"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "kirkpatrick, doug",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.149"
+      },
+      {
+        "matched_name": "kirkpatrick, doug",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "administrator",
+        "employer": "the morning star co",
+        "cfscore": "1.38"
+      },
+      {
+        "matched_name": "kirkpatrick, doug",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "chiropractor",
+        "employer": "self",
+        "cfscore": "-0.833"
+      },
+      {
+        "matched_name": "kirkpatrick, doug",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "electrician",
+        "employer": "electrician",
+        "cfscore": "-0.168"
+      },
+      {
+        "matched_name": "kirkpatrick, doug",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "self employed",
+        "cfscore": "-0.893"
+      },
+      {
+        "matched_name": "kirkpatrick, doug",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "not employed",
+        "cfscore": "-1.123"
+      },
+      {
+        "matched_name": "kirkpatrick, doug",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "university of calgary",
+        "employer": "professor us history",
+        "cfscore": "-1.215"
+      },
+      {
+        "matched_name": "kirkpatrick, doug",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.061"
+      }
+    ]
+  },
+  {
+    "guest_key": "bailey|kaytlin|kaytlin",
+    "display_name": "Kaytlin Bailey",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4234: Free Talk Live - Renegade Talk Radio",
+        "descriptor": "Old Pros",
+        "topic": "Old Pros"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "bailey, kaytlin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.112"
+      },
+      {
+        "matched_name": "bailey, kaytlin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.757"
+      },
+      {
+        "matched_name": "bailey, kaytlin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "comms director",
+        "employer": "dsw",
+        "cfscore": "-0.577"
+      }
+    ]
+  },
+  {
+    "guest_key": "friesen|richard|richard",
+    "display_name": "Richard Friesen",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4234: Free Talk Live - Renegade Talk Radio",
+        "descriptor": "A Private Conversation with Money",
+        "topic": "A Private Conversation with Money"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "friesen, richard w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "dealer",
+        "employer": "broker",
+        "cfscore": "1.422"
+      },
+      {
+        "matched_name": "friesen, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.462"
+      },
+      {
+        "matched_name": "friesen, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician",
+        "employer": "university of colorado",
+        "cfscore": "-1.062"
+      },
+      {
+        "matched_name": "friesen, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.008"
+      },
+      {
+        "matched_name": "friesen, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "pediatrician",
+        "employer": "seattle childrens hospital",
+        "cfscore": "-0.949"
+      },
+      {
+        "matched_name": "friesen, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.055"
+      },
+      {
+        "matched_name": "friesen, richard & dorothy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.813"
+      },
+      {
+        "matched_name": "friesen, stanley richard frie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "friesen, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.464"
+      },
+      {
+        "matched_name": "friesen, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "author training",
+        "employer": "mind muscles academy",
+        "cfscore": "1.323"
+      },
+      {
+        "matched_name": "friesen, richard e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "system admin",
+        "employer": "cognizant",
+        "cfscore": "-1.074"
+      }
+    ]
+  },
+  {
+    "guest_key": "sheedy|thomas|thomas",
+    "display_name": "Thomas Sheedy",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4234: Free Talk Live - Renegade Talk Radio",
+        "descriptor": "Atheists for Liberty",
+        "topic": "Atheists for Liberty"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "sheedy, tom",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.457"
+      },
+      {
+        "matched_name": "sheedy, thomas m",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "honda east",
+        "cfscore": "1.075"
+      },
+      {
+        "matched_name": "sheedy, thomas j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "safety direc",
+        "employer": "hj martin & son inc",
+        "cfscore": "1.278"
+      },
+      {
+        "matched_name": "sheedy, thomas g",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.606"
+      },
+      {
+        "matched_name": "sheedy, thomas w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "robertson stephens",
+        "cfscore": "1.2"
+      },
+      {
+        "matched_name": "sheedy, thomas w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "managing dir",
+        "employer": "bancamerica robertson stephens",
+        "cfscore": "-0.775"
+      },
+      {
+        "matched_name": "sheedy, tom",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "real estate",
+        "employer": "self employed",
+        "cfscore": "1.573"
+      },
+      {
+        "matched_name": "sheedy, thomas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "managing director",
+        "employer": "compass point research and trading",
+        "cfscore": "1.609"
+      },
+      {
+        "matched_name": "sheedy, tom",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "0.788"
+      }
+    ]
+  },
+  {
+    "guest_key": "castronuova|cara|cara",
+    "display_name": "Cara Castronuova",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4165: Is Donald Planning a 4th of July Gift to America?",
+        "descriptor": "guest",
+        "topic": "culture wars and medical establishment's Covid push"
+      },
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "ELECTION SECURITY EXECUTIVE ORDER, & WAR WITH VENEZUELA? China is Prepping for War",
+        "descriptor": "guest participant",
+        "topic": "Election security and geopolitical analysis"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "castronuova, cara",
+        "source": "recipient",
+        "party": "200",
+        "state": "NY",
+        "seat": "federal:senate",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.387"
+      },
+      {
+        "matched_name": "castronuova, cara j",
+        "source": "recipient",
+        "party": "200",
+        "state": "NY",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.387"
+      }
+    ]
+  },
+  {
+    "guest_key": "lupo|tarrin|tarrin",
+    "display_name": "Tarrin Lupo",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4161: Free Talk Live - Renegade Talk Radio",
+        "descriptor": "speaker about Covid-19",
+        "topic": "Covid-19"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "lupo, tarrin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "self",
+        "cfscore": "1.39"
+      },
+      {
+        "matched_name": "lupo, tarrin p",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.433"
+      }
+    ]
+  },
+  {
+    "guest_key": "roots|roger|roger",
+    "display_name": "Roger Roots",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4153: Free Talk Live - Renegade Talk Radio",
+        "descriptor": "Lysander Spooner University",
+        "topic": "The Bundy Case"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "roots, roger",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "instructor",
+        "employer": "nyit",
+        "cfscore": "1.193"
+      },
+      {
+        "matched_name": "roots, roger",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attempted",
+        "employer": "",
+        "cfscore": "0.948"
+      },
+      {
+        "matched_name": "roots, roger",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "lawyer",
+        "employer": "john pierce law",
+        "cfscore": "1.193"
+      }
+    ]
+  },
+  {
+    "guest_key": "kinsella|stephan|stephan",
+    "display_name": "Stephan Kinsella",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4149: Free Talk Live - Renegade Talk Radio",
+        "descriptor": "guest speaker",
+        "topic": "Porcfest Day Three"
+      },
+      {
+        "show_name": "The Tom Woods Show",
+        "episode_title": "Ep. 2145 Does Intellectual Property Exist?",
+        "descriptor": "libertarian perspective expert",
+        "topic": "copyright, patent, trademarks, trade secrets, and intellectual property"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "kinsella, stephan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "general counsel",
+        "employer": "applied optoelectronics",
+        "cfscore": "1.251"
+      },
+      {
+        "matched_name": "kinsella, stephan a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.434"
+      },
+      {
+        "matched_name": "kinsella, stephan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "applied optoelectronics, inc",
+        "cfscore": "1.263"
+      }
+    ]
+  },
+  {
+    "guest_key": "ruby|jane|jane",
+    "display_name": "Dr. Jane Ruby",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 4116: EXCLUSIVE: Experts Raise Alarm Over Surge of \u201cBlood Clot\u201d Anomalies During LIVE Microscopy Analysis",
+        "descriptor": "medical expert",
+        "topic": "vital & startling revelations"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ruby, jane",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "scientist",
+        "employer": "indivior",
+        "cfscore": "1.556"
+      },
+      {
+        "matched_name": "ruby, jane a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "somc",
+        "cfscore": "0.874"
+      },
+      {
+        "matched_name": "ruby, jane",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.164"
+      },
+      {
+        "matched_name": "ruby, jane",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "designer",
+        "employer": "wellright",
+        "cfscore": "-1.073"
+      },
+      {
+        "matched_name": "ruby, jane",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "healthcare",
+        "employer": "",
+        "cfscore": "1.427"
+      }
+    ]
+  },
+  {
+    "guest_key": "partin|david|david",
+    "display_name": "David Partin",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 3997: America Awakens to the Satanic Ritual Nature of Abortion as Leftists Openly Celebrate the Murder of Children as a Sacrament",
+        "descriptor": "grandson of General Benton K. Partin",
+        "topic": "the life of General Benton K. Partin and his perspective on current times"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "partin, david",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.292"
+      },
+      {
+        "matched_name": "partin, david",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.509"
+      },
+      {
+        "matched_name": "partin, david",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician",
+        "employer": "baptist health",
+        "cfscore": "-1.07"
+      },
+      {
+        "matched_name": "partin, david",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.476"
+      },
+      {
+        "matched_name": "partin, david j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "self employed",
+        "cfscore": "1.38"
+      },
+      {
+        "matched_name": "partin, david",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "partin, david",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "insurance agent",
+        "employer": "",
+        "cfscore": "-0.83"
+      },
+      {
+        "matched_name": "partin, david",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "quality inspection",
+        "employer": "legrand",
+        "cfscore": "-1.073"
+      }
+    ]
+  },
+  {
+    "guest_key": "schull|andrew|drew",
+    "display_name": "Drew Schull",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 3807: World War 3 Emergency Broadcast: Globalists Preparing to Launch Chemical/Biological/Radiological Attacks in Ukraine as Pretext to Initiate Armageddon",
+        "descriptor": "of EvatacPlus.com",
+        "topic": "exclusive intel"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "schull, andrew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "truck driver",
+        "employer": "gnb trucking",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "schull, andrew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "truck driver",
+        "employer": "tread transportation",
+        "cfscore": "-1.096"
+      }
+    ]
+  },
+  {
+    "guest_key": "bob|joseph|joe",
+    "display_name": "Joe Bob",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 3793: Free Talk Live - Renegade Talk Radio",
+        "descriptor": "guest",
+        "topic": "unknown"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "bob, joe",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "work",
+        "employer": "doesnt",
+        "cfscore": "1.606"
+      },
+      {
+        "matched_name": "bob, joe",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "bob, joe",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.302"
+      },
+      {
+        "matched_name": "bob, joe",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.547"
+      },
+      {
+        "matched_name": "bob, joyce, & joe",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "retired",
+        "cfscore": "1.191"
+      },
+      {
+        "matched_name": "bob, joyce, & joe",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "owner",
+        "employer": "crane, joyce",
+        "cfscore": "1.191"
+      }
+    ]
+  },
+  {
+    "guest_key": "muller|mancow|mancow",
+    "display_name": "Mancow Muller",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 3670: Biden Has Officially Put US Under Martial Law! The Federal Government Has Been Completely Captured by Agents of The Great Reset",
+        "descriptor": "special guest running for governor of Illinois",
+        "topic": "gubernatorial campaign"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "muller, mancow m e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "wkqs",
+        "cfscore": "-0.565"
+      },
+      {
+        "matched_name": "muller, mancow e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.474"
+      },
+      {
+        "matched_name": "muller, mancow",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "radio host",
+        "employer": "",
+        "cfscore": "1.318"
+      },
+      {
+        "matched_name": "muller, erich mancow",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.619"
+      },
+      {
+        "matched_name": "muller, m e mancow",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.426"
+      },
+      {
+        "matched_name": "muller, me mancow",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.494"
+      }
+    ]
+  },
+  {
+    "guest_key": "roberts|paul|paul craig",
+    "display_name": "Paul Craig Roberts",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 3655: Monday Emergency Broadcast: Democrats Announce Plan to Put Unvaxxed In \u201cInternment Camps\u201d as Deep State Declares America Is Officially In A Civil War",
+        "descriptor": "former US Assistant Secretary of the Treasury for Economic Policy",
+        "topic": "escalating cold war with Russia"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "roberts, paul",
+        "source": "recipient",
+        "party": "200",
+        "state": "ME",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.928"
+      },
+      {
+        "matched_name": "roberts, paul a",
+        "source": "recipient",
+        "party": "328",
+        "state": "WA",
+        "seat": "local:council",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.274"
+      }
+    ]
+  },
+  {
+    "guest_key": "samaritan|good|good",
+    "display_name": "good samaritan",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 3586: PARADE ATTACK: Vehicular Jihadist or Career Criminal?",
+        "descriptor": "person who took in Brooks after the attack",
+        "topic": "encounter with Darrell Brooks after the parade attack"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "samaritan, good",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.605"
+      },
+      {
+        "matched_name": "samaritan, regency good",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.112"
+      }
+    ]
+  },
+  {
+    "guest_key": "hubert|janet|janet",
+    "display_name": "Janet Hubert",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 3559: Build Back Disaster with Richie and Lady L",
+        "descriptor": "'Fresh Prince' Actress",
+        "topic": "Alec Baldwin loaded gun incident and SNL"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hubert, janet",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.677"
+      },
+      {
+        "matched_name": "hubert, janet",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.677"
+      },
+      {
+        "matched_name": "hubert, janet",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.035"
+      },
+      {
+        "matched_name": "hubert, janet",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "receptionist",
+        "employer": "spanco inc",
+        "cfscore": "1.52"
+      },
+      {
+        "matched_name": "hubert, janet",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.126"
+      }
+    ]
+  },
+  {
+    "guest_key": "mikovits|judy|judy",
+    "display_name": "Dr. Judy Mikovits",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Episode 3412: Emergency Global Broadcast: Japan Halts All Moderna Shots After Discovering Metal \u2018Foreign Substances",
+        "descriptor": "doctor",
+        "topic": "Covid-19 vaccine program and Big Pharma agenda"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "mikovits, judy a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.656"
+      },
+      {
+        "matched_name": "mikovits, judy a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "direc",
+        "employer": "whittemore peterson institute",
+        "cfscore": "-0.317"
+      }
+    ]
+  },
+  {
+    "guest_key": "fox|lindy|lindy",
+    "display_name": "Dr. Lindy Fox",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Nevada's chief medical officer not licensed to practice medicine in U.S. Richie and Lady L",
+        "descriptor": "dermatologist",
+        "topic": "COVID-19 symptoms in dermatology practice"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "fox, lindy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "",
+        "cfscore": "0.476"
+      },
+      {
+        "matched_name": "fox, lindy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician ucsf",
+        "employer": "ucsf",
+        "cfscore": "-0.969"
+      },
+      {
+        "matched_name": "fox, lindy fox",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician",
+        "employer": "ucsf",
+        "cfscore": "-0.881"
+      },
+      {
+        "matched_name": "fox, lindy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.016"
+      }
+    ]
+  },
+  {
+    "guest_key": "pieczenik|steven|steve",
+    "display_name": "Dr. Steve Pieczenik",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Dr. Steve Pieczenik, who's spent decades in the intelligence community, particularly the DEEP, deep state, explains why AG Barr is completely wrong about President Trump",
+        "descriptor": "intelligence community veteran",
+        "topic": "AG Barr and President Trump"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Alex Jones  Renegade Talk Radio Infowars 11-19",
+        "descriptor": "Dr.",
+        "topic": "vital issues, Facebook crisis, migrant caravan"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Alex Jones  Renegade Talk Radio Infowars 10-25",
+        "descriptor": "Dr.",
+        "topic": "bomb scares"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "pieczenik, steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "self employed",
+        "cfscore": "-1.062"
+      },
+      {
+        "matched_name": "pieczenik, steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.788"
+      },
+      {
+        "matched_name": "pieczenik, steve md phd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "serial entrepreneur",
+        "employer": "self employed",
+        "cfscore": "1.388"
+      }
+    ]
+  },
+  {
+    "guest_key": "brokaw|thomas|tom",
+    "display_name": "Tom Brokaw",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Hunter IS NO Ivanka",
+        "descriptor": "news personality",
+        "topic": "Biden's campaign"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "brokaw, thomas h",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "classroom teacher",
+        "employer": "bethel sd 403",
+        "cfscore": "-1.007"
+      },
+      {
+        "matched_name": "brokaw, thomas j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.859"
+      },
+      {
+        "matched_name": "brokaw, thomas c t",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "self employed",
+        "cfscore": "-0.981"
+      },
+      {
+        "matched_name": "brokaw, tom",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.224"
+      },
+      {
+        "matched_name": "brokaw, tom",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.65"
+      },
+      {
+        "matched_name": "brokaw, thomas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.329"
+      },
+      {
+        "matched_name": "brokaw, tom",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self-employed",
+        "employer": "self-employed",
+        "cfscore": "-1.07"
+      },
+      {
+        "matched_name": "brokaw, tom",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.861"
+      },
+      {
+        "matched_name": "brokaw, thomas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.07"
+      },
+      {
+        "matched_name": "brokaw, thomas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.338"
+      },
+      {
+        "matched_name": "brokaw, thomas jr",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "brokaw, thomas c jr",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.855"
+      },
+      {
+        "matched_name": "brokaw, thomas c",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.751"
+      },
+      {
+        "matched_name": "brokaw, thomas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "architect",
+        "employer": "dept of homeland security",
+        "cfscore": "-0.69"
+      },
+      {
+        "matched_name": "brokaw, thomas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "bethel school district",
+        "cfscore": "-1.003"
+      },
+      {
+        "matched_name": "brokaw, tom",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "product manager",
+        "employer": "cobham",
+        "cfscore": "-1.055"
+      }
+    ]
+  },
+  {
+    "guest_key": "edgington|laura|laura",
+    "display_name": "Laura Edgington",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "Financial Advice contributor",
+        "topic": "Financial Advice"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "edgington, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "postgraduate researcher",
+        "employer": "stanford university",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "edgington, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retail",
+        "employer": "rainy day books",
+        "cfscore": "-1.013"
+      },
+      {
+        "matched_name": "edgington, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.911"
+      },
+      {
+        "matched_name": "edgington, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "logistics specislist",
+        "employer": "faa",
+        "cfscore": "1.475"
+      }
+    ]
+  },
+  {
+    "guest_key": "bianco|marcie|marcie",
+    "display_name": "Marcie Bianco",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "feminist commentator",
+        "topic": "feminist commentary on MSNBC"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "bianco, marcie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "editor",
+        "employer": "stanford university",
+        "cfscore": "-1.096"
+      },
+      {
+        "matched_name": "bianco, marcie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.229"
+      }
+    ]
+  },
+  {
+    "guest_key": "wills|benjamin|benny",
+    "display_name": "Benny Wills",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "Voluntarist Poet and YouTuber",
+        "topic": "Indian Headdresses Banned from Music Festival"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "wills, g benjamin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.083"
+      },
+      {
+        "matched_name": "wills, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.152"
+      },
+      {
+        "matched_name": "wills, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "construction project manager",
+        "employer": "office depot",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "wills, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "lomas mortgage usa",
+        "cfscore": "0.04"
+      },
+      {
+        "matched_name": "wills, benjamin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "lomas mortgage usa",
+        "cfscore": "-0.549"
+      },
+      {
+        "matched_name": "wills, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "marketing",
+        "employer": "decoder digital llc",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "wills, benjamin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.865"
+      },
+      {
+        "matched_name": "wills, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "media strategist",
+        "employer": "the american institute of architects",
+        "cfscore": "-1.04"
+      },
+      {
+        "matched_name": "wills, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "regulatory analyst",
+        "employer": "american specialty health",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "wills, benjamin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "decoder digital llc",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "wills, benjamin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "advertising",
+        "employer": "self",
+        "cfscore": "-1.057"
+      },
+      {
+        "matched_name": "wills, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "wills, benjamin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "wills, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "research assistant",
+        "employer": "the hastings center",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "wills, benjamin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "carpenter",
+        "employer": "self employed",
+        "cfscore": "-1.018"
+      },
+      {
+        "matched_name": "wills, benjamin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.478"
+      },
+      {
+        "matched_name": "wills, benjamin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "detailer",
+        "employer": "bens auto detail center",
+        "cfscore": "1.676"
+      },
+      {
+        "matched_name": "wills, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "deli clerk",
+        "employer": "costco",
+        "cfscore": "0.734"
+      }
+    ]
+  },
+  {
+    "guest_key": "zhu|katherine|kathy",
+    "display_name": "Kathy Zhu",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Why is a Beauty Queen Stripped of Her Crown While llhan Omar Remains in Congress?",
+        "descriptor": "Miss Michigan winner",
+        "topic": "removal from beauty pageant title due to alleged racist and insensitive remarks on social media"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "zhu, kathy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "zhu, katie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.769"
+      },
+      {
+        "matched_name": "zhu, katie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "accountant",
+        "employer": "kb service",
+        "cfscore": "1.599"
+      },
+      {
+        "matched_name": "zhu, kathy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software engineer",
+        "employer": "square",
+        "cfscore": "-1.095"
+      },
+      {
+        "matched_name": "zhu, kathy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "legal assistant",
+        "employer": "special counsel",
+        "cfscore": "-1.035"
+      }
+    ]
+  },
+  {
+    "guest_key": "biggs|joseph|joe",
+    "display_name": "Joe Biggs",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Here we go with Alex Jones Renegade Talk Radio",
+        "descriptor": "in studio",
+        "topic": "First Amendment, Second Amendment, Trump administration"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Joe Biggs joins me to talk about his Twitter war with Rep",
+        "descriptor": "guest",
+        "topic": "Twitter war with Rep"
+      },
+      {
+        "show_name": "The Kyle Seraphin Show",
+        "episode_title": "Who is really in charge? Trump Urges passage of \"Clean FISA renewal\" | Ep 780 | SPECIAL: Joe Biggs Update",
+        "descriptor": "subject of special update",
+        "topic": "Joe Biggs Update"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "biggs, christopher joseph",
+        "source": "recipient",
+        "party": "328",
+        "state": "MD",
+        "seat": "state:unknown",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.224"
+      },
+      {
+        "matched_name": "biggs sr, joe louis",
+        "source": "recipient",
+        "party": "100",
+        "state": "MS",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.739"
+      },
+      {
+        "matched_name": "biggs, mickey joe",
+        "source": "recipient",
+        "party": "200",
+        "state": "NC",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.678"
+      }
+    ]
+  },
+  {
+    "guest_key": "bentley|julie|julie",
+    "display_name": "Julie Bentley",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Childhoods Gone Wrong Because of Terror",
+        "descriptor": "CEO of Action for Children",
+        "topic": "UK study on children's worries about terrorism, homelessness, and poverty"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "bentley, jeffrey & julie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "",
+        "cfscore": "1.141"
+      },
+      {
+        "matched_name": "bentley, julie s",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.995"
+      },
+      {
+        "matched_name": "bentley, julie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "paralegal",
+        "employer": "self employed",
+        "cfscore": "-1.064"
+      },
+      {
+        "matched_name": "bentley, julie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "health care administrator",
+        "employer": "university of kentucky",
+        "cfscore": "-0.726"
+      },
+      {
+        "matched_name": "bentley, julie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.987"
+      },
+      {
+        "matched_name": "bentley, julie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.815"
+      },
+      {
+        "matched_name": "bentley, julie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.582"
+      },
+      {
+        "matched_name": "bentley, julie p",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "controller",
+        "employer": "royalty trucking inc",
+        "cfscore": "1.593"
+      },
+      {
+        "matched_name": "bentley, julie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "dir bus dev",
+        "employer": "medical city plano frisco",
+        "cfscore": "-0.335"
+      },
+      {
+        "matched_name": "bentley, julie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "controller",
+        "employer": "royalty trucking",
+        "cfscore": "1.659"
+      }
+    ]
+  },
+  {
+    "guest_key": "carter|patience|patience",
+    "display_name": "Patience Carter",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Madonna vs. ISIS",
+        "descriptor": "survivor of the Pulse Nightclub terror attack",
+        "topic": "Madonna's 'God Control' music video and its depiction of gun violence and terrorism"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "carter, patience",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "designer",
+        "employer": "pivot architecture",
+        "cfscore": "-1.07"
+      },
+      {
+        "matched_name": "carter, patience",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "designer",
+        "employer": "brs architecture",
+        "cfscore": "-1.062"
+      }
+    ]
+  },
+  {
+    "guest_key": "scribner|doug|doug",
+    "display_name": "Doug Scribner",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "from FlyApp.io",
+        "topic": "FlyApp.io"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "scribner, doug",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.539"
+      },
+      {
+        "matched_name": "scribner, doug",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.156"
+      },
+      {
+        "matched_name": "scribner, doug",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "co founder",
+        "employer": "vault logic",
+        "cfscore": "1.016"
+      }
+    ]
+  },
+  {
+    "guest_key": "berwick|jeff|jeff",
+    "display_name": "Jeff Berwick",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "of Anarchapulco",
+        "topic": "Anarchapulco"
+      },
+      {
+        "show_name": "SGT Report\u2019s The Propaganda Antidote",
+        "episode_title": "THE REAL WAR IS FOR YOUR MIND & SOUL -- Jeff Berwick",
+        "descriptor": "guest",
+        "topic": "war for mind and soul"
+      },
+      {
+        "show_name": "SGT Report\u2019s The Propaganda Antidote",
+        "episode_title": "HAVE NO FEAR THE APOCALYPSE IS HERE -- Jeff Berwick",
+        "descriptor": "guest",
+        "topic": "apocalypse"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "berwick, jeff",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "texas instruments",
+        "cfscore": "-1.117"
+      },
+      {
+        "matched_name": "berwick, jeff",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.697"
+      }
+    ]
+  },
+  {
+    "guest_key": "rosati|angelo|angelo",
+    "display_name": "Angelo Rosati",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "from ConnectMe.world",
+        "topic": "Unknown"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "rosati, angelo v",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "rhode island college",
+        "cfscore": "-0.644"
+      },
+      {
+        "matched_name": "rosati, angelo j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.303"
+      },
+      {
+        "matched_name": "rosati, angelo j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "ceco assns",
+        "cfscore": "-0.051"
+      }
+    ]
+  },
+  {
+    "guest_key": "cordon|jeremy|jeremy",
+    "display_name": "Jeremy Cordon",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "from UtahGoldback.com",
+        "topic": "Utah Goldback"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "cordon, jeremy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.273"
+      },
+      {
+        "matched_name": "cordon, jeremy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "secretary",
+        "employer": "namx",
+        "cfscore": "1.659"
+      }
+    ]
+  },
+  {
+    "guest_key": "hancock|ernest|ernest",
+    "display_name": "Ernest Hancock",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "of Declare Your Independence",
+        "topic": "Declare Your Independence"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hancock, ernest",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "owner pizzabelly",
+        "employer": "self",
+        "cfscore": "1.168"
+      },
+      {
+        "matched_name": "hancock, ernest",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.193"
+      }
+    ]
+  },
+  {
+    "guest_key": "hamlin|aaron|aaron",
+    "display_name": "Aaron Hamlin",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "from ElectionScience.org",
+        "topic": "Election Science"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hamlin, aaron f",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "graduate student",
+        "employer": "indiana university",
+        "cfscore": "-0.934"
+      },
+      {
+        "matched_name": "hamlin, aaron",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.09"
+      },
+      {
+        "matched_name": "hamlin, aaron",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "self",
+        "cfscore": "0.237"
+      },
+      {
+        "matched_name": "hamlin, aaron",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "hamlin, aaron",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.032"
+      }
+    ]
+  },
+  {
+    "guest_key": "kanter|jeff|jeff",
+    "display_name": "Jeff Kanter",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "from YourHealthFreedomHub.com",
+        "topic": "Freedom Fest Day Two"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "kanter, jeff",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.142"
+      },
+      {
+        "matched_name": "kanter, jeff",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "agency sales manager",
+        "employer": "american republic ins co",
+        "cfscore": "1.398"
+      },
+      {
+        "matched_name": "kanter, jeff",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "managin",
+        "employer": "frederic w cook & co, inc",
+        "cfscore": "0.698"
+      },
+      {
+        "matched_name": "kanter, jeff",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales",
+        "employer": "self",
+        "cfscore": "-0.893"
+      },
+      {
+        "matched_name": "kanter, jeff",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.536"
+      },
+      {
+        "matched_name": "kanter, jeff",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.063"
+      }
+    ]
+  },
+  {
+    "guest_key": "sarwark|nicholas|nicholas",
+    "display_name": "Nicholas Sarwark",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "Chairman of the Libertarian Party",
+        "topic": "Libertarian Party leadership"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "Libertarian Party Chairman",
+        "topic": "Announces Imminent Move to New Hampshire"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "sarwark, nicholas j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.612"
+      },
+      {
+        "matched_name": "sarwark, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.281"
+      },
+      {
+        "matched_name": "sarwark, nicholas j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "colorado state public defender",
+        "cfscore": "1.193"
+      },
+      {
+        "matched_name": "sarwark, nicholas j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "colorado state public defender",
+        "cfscore": "1.195"
+      },
+      {
+        "matched_name": "sarwark, nicholas joel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "family loan co",
+        "cfscore": "1.193"
+      },
+      {
+        "matched_name": "sarwark, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.519"
+      },
+      {
+        "matched_name": "sarwark, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "principal",
+        "employer": "wedge squared strategies",
+        "cfscore": "1.125"
+      }
+    ]
+  },
+  {
+    "guest_key": "chaplin|mark|mark",
+    "display_name": "Mark Chaplin",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Toxic Wise Ass Mark Chaplin - Renegade Talk Radio",
+        "descriptor": "Toxic Wise Ass",
+        "topic": "Unknown"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Toxic Wise Ass - Mark Chaplin",
+        "descriptor": "Wise Ass",
+        "topic": "Unknown"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Toxic Wise Ass on Renegade Talk Radio",
+        "descriptor": "The Toxic Wise Ass",
+        "topic": "Comedy career and experiences"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "chaplin, mark",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.789"
+      },
+      {
+        "matched_name": "chaplin, mark r",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.231"
+      },
+      {
+        "matched_name": "chaplin, mark",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "finance",
+        "employer": "self",
+        "cfscore": "-0.857"
+      },
+      {
+        "matched_name": "chaplin, mark",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "coal miner",
+        "employer": "cloud peak energy",
+        "cfscore": "1.496"
+      },
+      {
+        "matched_name": "chaplin, mark",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "other",
+        "employer": "",
+        "cfscore": "-0.944"
+      },
+      {
+        "matched_name": "chaplin, mark",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "vp, sales and marketing",
+        "employer": "sgws corporate",
+        "cfscore": "0.137"
+      }
+    ]
+  },
+  {
+    "guest_key": "paxton|rodger|rodger",
+    "display_name": "Rodger Paxton",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "guest",
+        "topic": "Forkfest Day Four"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "paxton, rodger p",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "network administrator",
+        "employer": "cornerstone systems",
+        "cfscore": "1.193"
+      },
+      {
+        "matched_name": "paxton, rodger",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.014"
+      },
+      {
+        "matched_name": "paxton, rodger",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.614"
+      }
+    ]
+  },
+  {
+    "guest_key": "binney|william|bill",
+    "display_name": "Bill Binney",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Alex Jones  Renegade Talk Radio",
+        "descriptor": "Former NSA Technical Head",
+        "topic": "the mutiny against 45"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Alex Jones  Renegade Talk Radio",
+        "descriptor": "Former NSA Technical Head",
+        "topic": "the mutiny against 45"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "TODAY ON THE ALEX JONES SHOW April 12, 2019",
+        "descriptor": "NSA whistleblower",
+        "topic": "NSA surveillance and elite control"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "binney, william",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.587"
+      },
+      {
+        "matched_name": "binney, william",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.09"
+      }
+    ]
+  },
+  {
+    "guest_key": "johnson|larry|larry",
+    "display_name": "Larry Johnson",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "TODAY ON THE ALEX JONES SHOW April 30, 2019",
+        "descriptor": "ex-CIA analyst",
+        "topic": "world's hottest events, Venezuela coup chaos, Trump subpoenas"
+      },
+      {
+        "show_name": "Glenn Diesen - Greater Eurasia Podcast",
+        "episode_title": "Larry Johnson: Bait & Switch - U.S. Efforts to Renegotiate the MoU with Iran",
+        "descriptor": "former U.S. intelligence official",
+        "topic": "U.S. efforts to renegotiate the Memorandum of Understanding with Iran"
+      },
+      {
+        "show_name": "Glenn Diesen - Greater Eurasia Podcast",
+        "episode_title": "Larry Johnson: Putin Warns the West - Russia is Ready for War",
+        "descriptor": "guest",
+        "topic": "Putin's warnings to the West and Russia's military readiness"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "johnson, larry",
+        "source": "recipient",
+        "party": "100",
+        "state": "CA",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.84"
+      },
+      {
+        "matched_name": "johnson, larry j",
+        "source": "recipient",
+        "party": "100",
+        "state": "OR",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.889"
+      },
+      {
+        "matched_name": "johnson, larry g",
+        "source": "recipient",
+        "party": "200",
+        "state": "CO",
+        "seat": "local:assessor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.083"
+      },
+      {
+        "matched_name": "johnson, larry v",
+        "source": "recipient",
+        "party": "200",
+        "state": "KY",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "2.12"
+      },
+      {
+        "matched_name": "johnson, larry l",
+        "source": "recipient",
+        "party": "328",
+        "state": "GA",
+        "seat": "local:commissioner",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.547"
+      },
+      {
+        "matched_name": "johnson, larry",
+        "source": "recipient",
+        "party": "328",
+        "state": "GA",
+        "seat": "local:council",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.547"
+      }
+    ]
+  },
+  {
+    "guest_key": "casey|patrick|patrick",
+    "display_name": "Patrick Casey",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "TODAY ON THE ALEX JONES SHOW April 24, 2019",
+        "descriptor": "president of AmericanIdentityMovement.com",
+        "topic": "special report exposing the absurdity of 'Drag Queen Story Hour'"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "casey, patrick raymond",
+        "source": "recipient",
+        "party": "100",
+        "state": "PA",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.756"
+      },
+      {
+        "matched_name": "casey, patrick p",
+        "source": "recipient",
+        "party": "100",
+        "state": "AL",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.072"
+      },
+      {
+        "matched_name": "casey, patrick r",
+        "source": "recipient",
+        "party": "200",
+        "state": "MA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.067"
+      }
+    ]
+  },
+  {
+    "guest_key": "rodriguez|david|david nino",
+    "display_name": "David Nino Rodriguez",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "TODAY ON THE ALEX JONES SHOW April 17, 2019",
+        "descriptor": "heavyweight champion",
+        "topic": "criminal activity on America's southern border"
+      },
+      {
+        "show_name": "Newt's World",
+        "episode_title": "Episode 746: When The Lights Go Out",
+        "descriptor": "former heavyweight boxing champion",
+        "topic": "his journey from being an undefeated boxer to surviving an attempted murder, struggle with destructive behavior, addiction, and suicidal thoughts, and eventual redemption as an advocate for bullied children"
+      },
+      {
+        "show_name": "The Brian Lehrer Show",
+        "episode_title": "Poetry in Newark",
+        "descriptor": "NJPAC's EVP and executive producer",
+        "topic": "20th Dodge Poetry Festival and its mission of sparking social change through poetry"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "rodriguez, david",
+        "source": "recipient",
+        "party": "200",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.212"
+      },
+      {
+        "matched_name": "rodriguez, david s",
+        "source": "recipient",
+        "party": "100",
+        "state": "IL",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.577"
+      },
+      {
+        "matched_name": "rodriguez, dave",
+        "source": "recipient",
+        "party": "328",
+        "state": "NY",
+        "seat": "local:sheriff",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.163"
+      }
+    ]
+  },
+  {
+    "guest_key": "bigtree|del|del",
+    "display_name": "Del Bigtree",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "TODAY ON THE ALEX JONES SHOW April 10, 2019",
+        "descriptor": "'Vaxxed' Producer",
+        "topic": "medical tyranny"
+      },
+      {
+        "show_name": "Going Rogue with Lara Logan",
+        "episode_title": "INJECTING TRUTH INTO THE VACCINE DEBATE with Del Bigtree | Ep 43 | Going Rogue with Lara Logan",
+        "descriptor": "vaccine debate participant",
+        "topic": "vaccine debate"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "bigtree, del m",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "writerdesigner",
+        "employer": "paramount",
+        "cfscore": "-1.036"
+      },
+      {
+        "matched_name": "bigtree, del",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "ceo",
+        "employer": "ican",
+        "cfscore": "1.294"
+      }
+    ]
+  },
+  {
+    "guest_key": "pappert|thomas|tom",
+    "display_name": "Tom Pappert",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "TODAY ON THE ALEX JONES SHOW March 22, 2019",
+        "descriptor": "journalist and social media savant",
+        "topic": "censorship and Big Tech"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Alex Jones  Renegade Talk Radio",
+        "descriptor": "journalist and social media savant",
+        "topic": "Big Tech censorship and First Amendment"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Today ON THE ALEX JONES SHOW  Renegade Talk Radio 1-16",
+        "descriptor": "social media savant",
+        "topic": "Big Tech's campaign against Infowars"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "pappert, e thomas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "chrysler center",
+        "employer": "chrysler center",
+        "cfscore": "0.81"
+      },
+      {
+        "matched_name": "pappert, tom",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "chrysler",
+        "cfscore": "-0.684"
+      }
+    ]
+  },
+  {
+    "guest_key": "hoffman|gabe|gabe",
+    "display_name": "Gabe Hoffman",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "TODAY ON THE ALEX JONES SHOW March 8, 2019",
+        "descriptor": "documentary filmmaker",
+        "topic": "his film 'An Open Secret' and predatory Hollywood elite"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Today ON THE ALEX JONES SHOW  Renegade Talk Radio 1-24",
+        "descriptor": "documentary filmmaker",
+        "topic": "his film \"An Open Secret,\" exposes the predatory Hollywood elite"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hoffman, gabe",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "genera",
+        "employer": "accipiter capital management",
+        "cfscore": "-0.43"
+      },
+      {
+        "matched_name": "hoffman, gabe",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.502"
+      },
+      {
+        "matched_name": "hoffman, gabe",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.177"
+      }
+    ]
+  },
+  {
+    "guest_key": "clayton|chuck|chuck",
+    "display_name": "Chuck Clayton",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Texas Holdem Radio Show with Wade Andrews",
+        "descriptor": "Author",
+        "topic": "Mastering Poker Math"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "clayton, chuck walker",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "mechanical engineer",
+        "employer": "raytheon missile systems",
+        "cfscore": "1.424"
+      },
+      {
+        "matched_name": "clayton, chuck & marilyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.752"
+      },
+      {
+        "matched_name": "clayton, chuck & diane",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.124"
+      },
+      {
+        "matched_name": "clayton, chuck",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "farmers savings bank",
+        "cfscore": "1.232"
+      },
+      {
+        "matched_name": "clayton, chuck",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "insurance agent",
+        "employer": "state farm insurance co",
+        "cfscore": "-0.813"
+      },
+      {
+        "matched_name": "clayton, chuck susan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.277"
+      },
+      {
+        "matched_name": "clayton, chuck",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.948"
+      },
+      {
+        "matched_name": "clayton, chuck",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "clayton, chuck",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.449"
+      },
+      {
+        "matched_name": "clayton, chuck",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.41"
+      },
+      {
+        "matched_name": "clayton, chuck",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "jim ellis",
+        "employer": "ellis, jim",
+        "cfscore": "1.149"
+      },
+      {
+        "matched_name": "clayton, chuck",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.881"
+      },
+      {
+        "matched_name": "clayton, chuck & mary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.093"
+      }
+    ]
+  },
+  {
+    "guest_key": "wohl|jacob|jacob",
+    "display_name": "Jacob Wohl",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "TODAY ON THE ALEX JONES SHOW February 28, 2019",
+        "descriptor": "political commentator",
+        "topic": "his ban from Twitter"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "wohl, ef jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.019"
+      },
+      {
+        "matched_name": "wohl, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "mcps",
+        "cfscore": "-1.137"
+      },
+      {
+        "matched_name": "wohl, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "student",
+        "cfscore": "-1.006"
+      },
+      {
+        "matched_name": "wohl, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "lobbyist",
+        "employer": "burkman associates",
+        "cfscore": "1.546"
+      },
+      {
+        "matched_name": "wohl, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "lobbyist",
+        "employer": "jm burkman & associates",
+        "cfscore": "0.916"
+      },
+      {
+        "matched_name": "wohl, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "lobbyist",
+        "employer": "jm burkman & associates",
+        "cfscore": "1.709"
+      },
+      {
+        "matched_name": "wohl, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "bernabei & kabat pllc",
+        "cfscore": "-0.795"
+      }
+    ]
+  },
+  {
+    "guest_key": "thomann|michael|mike",
+    "display_name": "Mike Thomann",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "anarchist/interview subject",
+        "topic": "Anarchapulco"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "thomann, michael",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "finance manager",
+        "employer": "utc",
+        "cfscore": "0.592"
+      },
+      {
+        "matched_name": "thomann, michael",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.627"
+      },
+      {
+        "matched_name": "thomann, michael",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.628"
+      }
+    ]
+  },
+  {
+    "guest_key": "gheen|william|william",
+    "display_name": "William Gheen",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "TODAY ON THE ALEX JONES SHOW February 21, 2019",
+        "descriptor": "PAC leader of Americans for Legal Immigration",
+        "topic": "case against open borders"
+      },
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "TODAY ON THE ALEX JONES SHOW January 29, 2019",
+        "descriptor": "PAC leader of Americans for Legal Immigration",
+        "topic": "fight against open borders"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "gheen, william",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.106"
+      },
+      {
+        "matched_name": "gheen, william",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "investor owner",
+        "employer": "self-employed",
+        "cfscore": "1.371"
+      },
+      {
+        "matched_name": "gheen, william",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "equity derivat",
+        "employer": "tfs derivatives corp",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "gheen, william p",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "lobbyists",
+        "employer": "self-employed",
+        "cfscore": "1.177"
+      },
+      {
+        "matched_name": "gheen, william p iii",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.649"
+      },
+      {
+        "matched_name": "gheen, william",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.484"
+      }
+    ]
+  },
+  {
+    "guest_key": "wilcox|rhonda|rhonda",
+    "display_name": "Rhonda Wilcox",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Richie Welcomes Rhonda Wilcox to the Show",
+        "descriptor": "guest",
+        "topic": "unknown"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "wilcox, rhonda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "english professor",
+        "employer": "gordon state college",
+        "cfscore": "-1.014"
+      },
+      {
+        "matched_name": "wilcox, rhonda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.527"
+      },
+      {
+        "matched_name": "wilcox, rhonda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.937"
+      },
+      {
+        "matched_name": "wilcox, rhonda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.551"
+      },
+      {
+        "matched_name": "wilcox, rhonda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "educator",
+        "employer": "",
+        "cfscore": "-0.42"
+      },
+      {
+        "matched_name": "wilcox, rhonda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "wilcox, rhonda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.179"
+      },
+      {
+        "matched_name": "wilcox, rhonda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.881"
+      }
+    ]
+  },
+  {
+    "guest_key": "swann|benjamin|ben",
+    "display_name": "Ben Swann",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Free Talk Live - Renegade Talk Radio",
+        "descriptor": "Edgington Post contributor",
+        "topic": "News and political commentary"
+      },
+      {
+        "show_name": "MOATS with George Galloway",
+        "episode_title": "FATAL FRIENDS | Epstein Files fallout | Mandelson crime probe | Randy Andy evicted | Ukraine talks",
+        "descriptor": "Investigative journalist, founder of Truth in Media and Sovren Media",
+        "topic": "Epstein Files, sealed documents, suspicious deaths, and political pressure"
+      },
+      {
+        "show_name": "MOATS with George Galloway",
+        "episode_title": "Who will be the Republican Nominee for POTUS in 2024?",
+        "descriptor": "Investigative Journalist",
+        "topic": "Free speech as antidote to totalitarianism, FTX scandal, media coverage of FTX founder, Democratic Party donations"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "swann, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "swann, ben h",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.596"
+      },
+      {
+        "matched_name": "swann, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "cdm, inc",
+        "cfscore": "0.106"
+      },
+      {
+        "matched_name": "swann, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.044"
+      },
+      {
+        "matched_name": "swann, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "franchi|gary|gary",
+    "display_name": "Gary Franchi",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Alex Jones 12-6-18 Renegade Talk Radio",
+        "descriptor": "producer of Next News Network",
+        "topic": "Big Tech censorship and Next News Network channel"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "franchi, gary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales rep",
+        "employer": "self employed",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "franchi, gary m",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manufacturers representative",
+        "employer": "systems specialties",
+        "cfscore": "0.119"
+      },
+      {
+        "matched_name": "franchi, gary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self",
+        "employer": "self",
+        "cfscore": "1.483"
+      },
+      {
+        "matched_name": "franchi, gary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "media",
+        "employer": "self employed",
+        "cfscore": "1.576"
+      },
+      {
+        "matched_name": "franchi, gary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "sel",
+        "cfscore": "1.527"
+      },
+      {
+        "matched_name": "franchi, gary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales",
+        "employer": "self employed",
+        "cfscore": "1.548"
+      },
+      {
+        "matched_name": "franchi, gary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "owner",
+        "employer": "self employed",
+        "cfscore": "1.221"
+      }
+    ]
+  },
+  {
+    "guest_key": "lo|jason|jason",
+    "display_name": "Jason Lo",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "Alex Jones 12-5-18 Renegade Talk Radio",
+        "descriptor": "conspiracy realist, a.k.a. MAGA Titan",
+        "topic": "Titans of Liberty news special"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "lo, jason",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software engineer",
+        "employer": "cisco systems",
+        "cfscore": "-1.072"
+      },
+      {
+        "matched_name": "lo, jason",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "lo, jason c",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "gibson dunn & crutcher",
+        "cfscore": "-0.694"
+      },
+      {
+        "matched_name": "lo, jason c",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "gibson dunn & crutcher",
+        "cfscore": "-0.245"
+      },
+      {
+        "matched_name": "lo, jason",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software developer",
+        "employer": "microsoft",
+        "cfscore": "-1.08"
+      },
+      {
+        "matched_name": "lo, jason",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.087"
+      },
+      {
+        "matched_name": "lo, jason",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "lo, jason",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.091"
+      },
+      {
+        "matched_name": "lo, jason",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software engineer",
+        "employer": "microsoft",
+        "cfscore": "-1.139"
+      },
+      {
+        "matched_name": "lo, jason",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "director of operations",
+        "employer": "tcsaal",
+        "cfscore": "-0.905"
+      }
+    ]
+  },
+  {
+    "guest_key": "hohman|robert|robert",
+    "display_name": "Robert Hohman",
+    "examples": [
+      {
+        "show_name": "Renegade Talk Radio",
+        "episode_title": "E.G TALKS TOP 10  BEST JOBS IN  THE (U.S.A)!!!!!!!!!!!!!!!!!",
+        "descriptor": "Glassdoor's CEO and co-founder",
+        "topic": "Glassdoor's 10th-annual list of the 100 best places to work"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hohman, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.447"
+      },
+      {
+        "matched_name": "hohman, bob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "educator",
+        "employer": "",
+        "cfscore": "0.669"
+      },
+      {
+        "matched_name": "hohman, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.255"
+      },
+      {
+        "matched_name": "hohman, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "owner builder",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "hohman, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.79"
+      },
+      {
+        "matched_name": "hohman, robert g",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.304"
+      },
+      {
+        "matched_name": "hohman, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "ceo",
+        "employer": "glassdoor inc",
+        "cfscore": "-1.005"
+      },
+      {
+        "matched_name": "hohman, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "consultant",
+        "cfscore": "0.87"
+      },
+      {
+        "matched_name": "hohman, robert h",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.361"
+      },
+      {
+        "matched_name": "hohman, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "retired",
+        "cfscore": "1.008"
+      },
+      {
+        "matched_name": "hohman, robert j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.217"
+      },
+      {
+        "matched_name": "hohman, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "ceo",
+        "employer": "glassdoor",
+        "cfscore": "-1.016"
+      },
+      {
+        "matched_name": "hohman, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "literacy agent",
+        "employer": "the gersh agency",
+        "cfscore": "-1.141"
+      },
+      {
+        "matched_name": "hohman, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manager",
+        "employer": "gersh",
+        "cfscore": "-0.971"
+      },
+      {
+        "matched_name": "hohman, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manufacturing",
+        "employer": "harris corp",
+        "cfscore": "-0.616"
+      },
+      {
+        "matched_name": "hohman, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "hohman, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.552"
+      },
+      {
+        "matched_name": "hohman, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "hohman, bob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.044"
+      }
+    ]
+  }
+]

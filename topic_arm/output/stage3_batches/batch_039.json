@@ -1,0 +1,6308 @@
+[
+  {
+    "guest_key": "twu|alfred|alfred",
+    "display_name": "Alfred Twu",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Can California\u2019s New Housing Laws Put a Dent In The State\u2019s Housing Shortage?",
+        "descriptor": "architect; housing activist; commissioner, Berkeley Planning and Landmarks commissions",
+        "topic": "California housing laws and construction"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "twu, alfred",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "designer",
+        "employer": "michael willis architects",
+        "cfscore": "-0.997"
+      },
+      {
+        "matched_name": "twu, alfred",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "president",
+        "employer": "eybd",
+        "cfscore": "-1.202"
+      }
+    ]
+  },
+  {
+    "guest_key": "ortega|jazmin|jazmin",
+    "display_name": "Jazmin Ortega",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Hiking the Pacific Crest Trail is Hard. And Climate Change Is Making It Harder.",
+        "descriptor": "Pacific Crest Trail Thru Hiker",
+        "topic": "Personal experience thru hiking the PCT"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ortega, jazmin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "communications specialist",
+        "employer": "state of california",
+        "cfscore": "-0.953"
+      },
+      {
+        "matched_name": "ortega, jazmin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales associate",
+        "employer": "h&m",
+        "cfscore": "-1.019"
+      },
+      {
+        "matched_name": "ortega, jazmin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "ortega, jazmin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "san gabriel usd",
+        "cfscore": "-1.032"
+      },
+      {
+        "matched_name": "ortega, jazmin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.881"
+      },
+      {
+        "matched_name": "ortega, jazmin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.881"
+      }
+    ]
+  },
+  {
+    "guest_key": "bulkeley|kelly|kelly",
+    "display_name": "Kelly Bulkeley",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "What Stress Dreams Tell Us About Our Waking Lives",
+        "descriptor": "dream researcher and director, Sleep and Dream Database",
+        "topic": "stressful dreams and why we have them"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "bulkeley, kelly",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "uc berkeley",
+        "cfscore": "-0.83"
+      },
+      {
+        "matched_name": "bulkeley, kelly",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "senior technical writer",
+        "employer": "new relic",
+        "cfscore": "-1.01"
+      }
+    ]
+  },
+  {
+    "guest_key": "sosa|mia|mia",
+    "display_name": "Mia Sosa",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Looking for A Happy Ending? Pick Up A Romance Novel",
+        "descriptor": "novelist",
+        "topic": "rise of the romance novel"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "sosa, mia",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "environmental engineer",
+        "employer": "ramboll",
+        "cfscore": "-1.079"
+      },
+      {
+        "matched_name": "sosa, mia",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "ramboll",
+        "cfscore": "-1.023"
+      }
+    ]
+  },
+  {
+    "guest_key": "berninger|virginia|virginia",
+    "display_name": "Virginia Berninger",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "The Handwriting Is on the Wall: Cursive Is in Decline",
+        "descriptor": "professor emeritus, University of Washington College of Education",
+        "topic": "handwriting research"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "berninger, virginia w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "",
+        "cfscore": "-0.92"
+      },
+      {
+        "matched_name": "berninger, virginia",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.745"
+      }
+    ]
+  },
+  {
+    "guest_key": "orozco|crystal|crystal",
+    "display_name": "Crystal Orozco",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "What will California\u2019s FAST Recovery Act do for Fast Food Workers?",
+        "descriptor": "worker, McDonald's in Sacramento",
+        "topic": "California's FAST Recovery Act and its impact on fast food workers"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "orozco, crystal",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "el paso independent school district",
+        "cfscore": "-1.102"
+      },
+      {
+        "matched_name": "orozco, crystal",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "cytotechnologist",
+        "employer": "loma linda university medical center",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "orozco, crystal",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.121"
+      },
+      {
+        "matched_name": "orozco, crystal",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "behavior therapist",
+        "employer": "burbank unified school district",
+        "cfscore": "-0.903"
+      }
+    ]
+  },
+  {
+    "guest_key": "callaway|duncan|duncan",
+    "display_name": "Duncan Callaway",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "The Mysteries of California\u2019s Electric Grid",
+        "descriptor": "associate professor of Energy and Resources, UC Berkeley; faculty scientist, Lawrence Berkeley National Laboratory",
+        "topic": "California's power grid, how it works, how it's adapting and how it performed during the heat wave"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "callaway, duncan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "mechanical engineer",
+        "employer": "davis energy group",
+        "cfscore": "-1.117"
+      },
+      {
+        "matched_name": "callaway, duncan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "research sci",
+        "employer": "university of michigan",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "callaway, duncan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "university of california",
+        "cfscore": "-1.026"
+      }
+    ]
+  },
+  {
+    "guest_key": "dibble|chad|chad",
+    "display_name": "Chad Dibble",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Leave it to the Beaver, Nature\u2019s \u201cClimate-Solving Hero\u201d",
+        "descriptor": "deputy director, California Department of Fish and Wildlife",
+        "topic": "beaver habitat restoration and state efforts"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "dibble, chad",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "analyst",
+        "employer": "delta",
+        "cfscore": "-1.055"
+      },
+      {
+        "matched_name": "dibble, chad",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "castro|ray|ray",
+    "display_name": "Ray Castro",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Forum From The Archives: The Vast, Various and Multicultural World of Bay Area BBQ",
+        "descriptor": "dentist in East Bay; Amateur barbecue competitor",
+        "topic": "barbecue cultures and food"
+      },
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "The Vast, Various and Multicultural World of Bay Area BBQ",
+        "descriptor": "dentist in East Bay; amateur barbecue competitor",
+        "topic": "barbecue in the Bay Area"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "castro, ray a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "correctional officer",
+        "employer": "state of california",
+        "cfscore": "0.381"
+      },
+      {
+        "matched_name": "castro, ray",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "west coast crc, corp",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "castro, ray",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.183"
+      },
+      {
+        "matched_name": "castro, ray",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.14"
+      },
+      {
+        "matched_name": "castro, ray",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manufacturing technician",
+        "employer": "",
+        "cfscore": "-1.02"
+      },
+      {
+        "matched_name": "castro, ray",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "roberts and castro",
+        "cfscore": "0.282"
+      },
+      {
+        "matched_name": "castro, ray a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "law office of ray a castro",
+        "cfscore": "-0.141"
+      },
+      {
+        "matched_name": "castro, ray",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "business consultant",
+        "employer": "point b inc",
+        "cfscore": "-0.862"
+      },
+      {
+        "matched_name": "castro, ray",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.412"
+      },
+      {
+        "matched_name": "castro, ray",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.027"
+      },
+      {
+        "matched_name": "castro, ray",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.676"
+      },
+      {
+        "matched_name": "castro, ray a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "correctional officer",
+        "employer": "state of california",
+        "cfscore": "0.381"
+      }
+    ]
+  },
+  {
+    "guest_key": "mendez|moises|moises",
+    "display_name": "Moises Mendez II",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "How Gen Z Is Reshaping What It Means To Be A Celebrity",
+        "descriptor": "culture reporter, Time Magazine",
+        "topic": "influencers and Gen Z social media stars"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "mendez, moises",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "DISHWASHER",
+        "employer": "SODEXO",
+        "cfscore": "-0.843"
+      },
+      {
+        "matched_name": "mendez, moises",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "director",
+        "employer": "gap inc",
+        "cfscore": "-1.096"
+      },
+      {
+        "matched_name": "mendez, moises",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "mendez, moises",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.644"
+      },
+      {
+        "matched_name": "mendez, moises",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "clerk",
+        "employer": "kaiser permanente",
+        "cfscore": "-1.094"
+      }
+    ]
+  },
+  {
+    "guest_key": "clements|marley|marley",
+    "display_name": "Marley Clements",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "How QAnon Continues to Influence National and Local Politics",
+        "descriptor": "documentary filmmaker, host and creator",
+        "topic": "QAnon movement and ViceTV documentary series"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "clements, marley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "pa",
+        "employer": "policylink",
+        "cfscore": "-0.779"
+      },
+      {
+        "matched_name": "clements, marley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.091"
+      },
+      {
+        "matched_name": "clements, marley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "arts and entertainment",
+        "employer": "shooting films",
+        "cfscore": "-0.768"
+      },
+      {
+        "matched_name": "clements, marley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.881"
+      },
+      {
+        "matched_name": "clements, marley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "small business owner",
+        "employer": "self",
+        "cfscore": "-1.021"
+      }
+    ]
+  },
+  {
+    "guest_key": "liu|alina|alina",
+    "display_name": "Alina Liu",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Tinder at 10: What\u2019s Your Relationship with the App?",
+        "descriptor": "clinical psychologist in San Francisco",
+        "topic": "Tinder and online dating"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "liu, alina",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.062"
+      },
+      {
+        "matched_name": "liu, alina",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "cofounder",
+        "employer": "startup",
+        "cfscore": "-1.104"
+      }
+    ]
+  },
+  {
+    "guest_key": "holmes|mona|mona",
+    "display_name": "Mona Holmes",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Restaurants and Restaurant Critics Grapple with Their Role in Gentrifying Neighborhoods",
+        "descriptor": "reporter, Eater Los Angeles",
+        "topic": "gentrification, food and community"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "holmes, mona",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "holmes, mona",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "0.788"
+      },
+      {
+        "matched_name": "holmes, mona",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "nurse",
+        "employer": "wellstar",
+        "cfscore": "-1.101"
+      }
+    ]
+  },
+  {
+    "guest_key": "nolen|stephanie|stephanie",
+    "display_name": "Stephanie Nolen",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Do Safe Injection Sites Have A Future In California After Newsom Veto?",
+        "descriptor": "global health reporter, New York Times",
+        "topic": "supervised drug use centers and safe injection sites"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "nolen, stephanie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "ceo",
+        "employer": "an immaculate shine cleaning service",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "nolen, stephanie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "1.443"
+      }
+    ]
+  },
+  {
+    "guest_key": "nelson|fatima|fatima",
+    "display_name": "Fatima Nelson",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Coastal Californians of Color Feel Inland Empire's Lure",
+        "descriptor": "recent Inland Empire transplant; community engagement specialist, UC Riverside's Center for Social Innovation",
+        "topic": "Inland Empire migration and experiences of people of color"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "nelson, fatima",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "executive assistant",
+        "employer": "the hershey co",
+        "cfscore": "-0.95"
+      },
+      {
+        "matched_name": "nelson, fatima",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.873"
+      },
+      {
+        "matched_name": "nelson, fatima",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.958"
+      },
+      {
+        "matched_name": "nelson, fatima",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.987"
+      },
+      {
+        "matched_name": "nelson, fatima",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.915"
+      },
+      {
+        "matched_name": "nelson, fatima",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.881"
+      }
+    ]
+  },
+  {
+    "guest_key": "mitchell|david|david",
+    "display_name": "David Mitchell",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "How the Inflation Reduction Act Could Impact Your Prescription Drug Costs",
+        "descriptor": "founder, Patients For Affordable Drugs, Patients For Affordable Drugs NOW",
+        "topic": "Inflation Reduction Act and prescription drug costs, patient perspective on affordable drugs"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "mitchell, david e",
+        "source": "recipient",
+        "party": "200",
+        "state": "PA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.064"
+      },
+      {
+        "matched_name": "mitchell, dave",
+        "source": "recipient",
+        "party": "200",
+        "state": "PA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.114"
+      },
+      {
+        "matched_name": "mitchell, david b",
+        "source": "recipient",
+        "party": "100",
+        "state": "SD",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.805"
+      },
+      {
+        "matched_name": "mitchell, david",
+        "source": "recipient",
+        "party": "200",
+        "state": "OH",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.187"
+      }
+    ]
+  },
+  {
+    "guest_key": "chung|sara|sara",
+    "display_name": "Sara Chung",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Are You Just Distracted or Is It Adult ADHD?",
+        "descriptor": "post-doctoral fellow, Department of Psychiatry and Behavioral Sciences, UCSF School of Medicine",
+        "topic": "Adult ADHD diagnosis and lived experience"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "chung, sara",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.079"
+      },
+      {
+        "matched_name": "chung, sara",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.893"
+      }
+    ]
+  },
+  {
+    "guest_key": "silberstein|lisa|lisa",
+    "display_name": "Lisa Silberstein",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Oakland Museum\u2019s \u201cHella Feminist\u201d Asks Visitors to Challenge, and Expand, Meaning of Feminism",
+        "descriptor": "co-curator, Hella Feminist exhibit at OMCA",
+        "topic": "Hella Feminist exhibit at Oakland Museum"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "silberstein, lisa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.954"
+      },
+      {
+        "matched_name": "silberstein, lisa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "grant coordinator",
+        "employer": "the rotary foundation",
+        "cfscore": "-1.028"
+      },
+      {
+        "matched_name": "silberstein, lisa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.549"
+      },
+      {
+        "matched_name": "silberstein, lisa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "coordi",
+        "employer": "oakland museum of california",
+        "cfscore": "-0.893"
+      },
+      {
+        "matched_name": "silberstein, lisa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "experience developer",
+        "employer": "oakland museum of california",
+        "cfscore": "-1.07"
+      },
+      {
+        "matched_name": "silberstein, lisa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "silberstein, lisa r",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "psychologist",
+        "employer": "silberstein, barrios",
+        "cfscore": "-0.708"
+      }
+    ]
+  },
+  {
+    "guest_key": "jackson|edwardo|edwardo",
+    "display_name": "Edwardo Jackson",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "How Has the Crypto Crash Affected You?",
+        "descriptor": "founder, BlacksinBitcoin",
+        "topic": "crypto and defi"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "jackson, edwardo",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "officer",
+        "employer": "tcso",
+        "cfscore": "-0.112"
+      },
+      {
+        "matched_name": "jackson, edwardo",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.386"
+      },
+      {
+        "matched_name": "jackson, edwardo",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "investigator",
+        "employer": "dc gov",
+        "cfscore": "-1.035"
+      }
+    ]
+  },
+  {
+    "guest_key": "court|emma|emma",
+    "display_name": "Emma Court",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "'Losing It' Investigates Myths and Realities of Dieting",
+        "descriptor": "host and reporter, Losing It - a Bloomberg podcast",
+        "topic": "myths and realities of nutritional science and the power of the dieting industry"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "court, emma",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.654"
+      },
+      {
+        "matched_name": "court, emma",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "uwec",
+        "cfscore": "-1.156"
+      }
+    ]
+  },
+  {
+    "guest_key": "brewer|johanna|johanna",
+    "display_name": "Johanna Brewer",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Logging in to The World of Collegiate Esports",
+        "descriptor": "assistant professor of computer science at Smith College and director of research, AnyKey",
+        "topic": "college esports"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "brewer, johanna",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "noretired ne",
+        "cfscore": "-0.987"
+      },
+      {
+        "matched_name": "brewer, johanna",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "researcher",
+        "employer": "massachusetts institute of technology",
+        "cfscore": "-1.096"
+      }
+    ]
+  },
+  {
+    "guest_key": "winter|ryan|ryan",
+    "display_name": "Ryan Winter",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Logging in to The World of Collegiate Esports",
+        "descriptor": "president of Gaming Gators at San Francisco State University",
+        "topic": "college esports"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "winter, ryan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.745"
+      },
+      {
+        "matched_name": "winter, ryan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manager",
+        "employer": "command alkon",
+        "cfscore": "1.275"
+      },
+      {
+        "matched_name": "winter, ryan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "project manager",
+        "employer": "psb research",
+        "cfscore": "-1.004"
+      },
+      {
+        "matched_name": "winter, ryan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "public opinion researcher",
+        "employer": "psb research",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "winter, ryan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "coo",
+        "employer": "cellsite solutions",
+        "cfscore": "1.516"
+      },
+      {
+        "matched_name": "winter, ryan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney legal",
+        "employer": "hall & evans llc",
+        "cfscore": "-0.813"
+      }
+    ]
+  },
+  {
+    "guest_key": "graf|margaret|margaret",
+    "display_name": "Margaret Graf",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "\u201c80 over 80\u201d Celebrates San Franciscans in Their 9 Decade and Beyond",
+        "descriptor": "founder, Senior Power - for seniors in the Sunset",
+        "topic": "aging and senior services"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "graf, michael e & margaret j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "retired",
+        "cfscore": "-0.755"
+      },
+      {
+        "matched_name": "graf, margaret g",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "archdiocese of l a",
+        "cfscore": "-0.678"
+      },
+      {
+        "matched_name": "graf, margaret m",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "0.61"
+      },
+      {
+        "matched_name": "graf, margaret l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "homemaker",
+        "employer": "homemaker",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "graf, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.86"
+      },
+      {
+        "matched_name": "graf, peggy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.397"
+      },
+      {
+        "matched_name": "graf, peggy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.397"
+      },
+      {
+        "matched_name": "graf, peggy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.484"
+      },
+      {
+        "matched_name": "graf, margaret k",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.982"
+      },
+      {
+        "matched_name": "graf, peggy j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "0.668"
+      },
+      {
+        "matched_name": "graf, margaret gaffney",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.682"
+      },
+      {
+        "matched_name": "graf, peggy j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.315"
+      },
+      {
+        "matched_name": "graf, margaret gaffney",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.069"
+      },
+      {
+        "matched_name": "graf, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "business owner",
+        "employer": "harvest wines, inc",
+        "cfscore": "-1.019"
+      },
+      {
+        "matched_name": "graf, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "booz allen hamilton",
+        "cfscore": "-1.032"
+      },
+      {
+        "matched_name": "graf, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "-0.74"
+      },
+      {
+        "matched_name": "graf, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.614"
+      },
+      {
+        "matched_name": "graf, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales",
+        "employer": "tumalo farmstand",
+        "cfscore": "-1.093"
+      }
+    ]
+  },
+  {
+    "guest_key": "bertram|bonnie|bonnie",
+    "display_name": "Bonnie Bertram",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "As Pandemic Renter Protections Expire, Wave of Evictions Could Follow",
+        "descriptor": "producer and writer, Retro Report; partnered with Frontline",
+        "topic": "evictions, documentary \"Facing Eviction\""
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "bertram, george & bonnie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.272"
+      },
+      {
+        "matched_name": "bertram, bonnie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.003"
+      },
+      {
+        "matched_name": "bertram, bonnie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.143"
+      },
+      {
+        "matched_name": "bertram, bonnie j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.883"
+      },
+      {
+        "matched_name": "bertram, bonnie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.919"
+      }
+    ]
+  },
+  {
+    "guest_key": "pelayo|rafael|rafael",
+    "display_name": "Dr. Rafael Pelayo",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "California Tackles Teen Sleep Deprivation As New School Start Times Take Effect",
+        "descriptor": "clinical professor of Psychiatry and Behavioral Sciences in the Division of Sleep Medicine, Stanford University Medical Center",
+        "topic": "teen sleep and school start times"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "pelayo, rafael",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "cheff",
+        "employer": "el ancla restaurant",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "pelayo, rafael",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "stanford university",
+        "cfscore": "-0.801"
+      },
+      {
+        "matched_name": "pelayo, rafael",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "cust svc rep",
+        "employer": "ssa",
+        "cfscore": "-1.093"
+      },
+      {
+        "matched_name": "pelayo, rafael",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "faculty physician",
+        "employer": "stanford university",
+        "cfscore": "-0.815"
+      }
+    ]
+  },
+  {
+    "guest_key": "conti|jennifer|jennifer",
+    "display_name": "Dr. Jennifer Conti",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Could Abortion Providers Become Conscientious Objectors?",
+        "descriptor": "adjunct clinical assistant professor of obstetrics and gynecology, Stanford University",
+        "topic": "medical dilemmas abortion providers face in the post-Roe world"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "conti, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "ob gyn physician",
+        "employer": "stanford university",
+        "cfscore": "-1.071"
+      },
+      {
+        "matched_name": "conti, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "collierville schools",
+        "cfscore": "-1.017"
+      },
+      {
+        "matched_name": "conti, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "senior manager",
+        "employer": "novo nordisk",
+        "cfscore": "1.426"
+      },
+      {
+        "matched_name": "conti, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physical therapist",
+        "employer": "sunrise therapy",
+        "cfscore": "-0.813"
+      },
+      {
+        "matched_name": "conti, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician",
+        "employer": "menlo medical clinic",
+        "cfscore": "-1.019"
+      },
+      {
+        "matched_name": "conti, jennifer e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manager quality performance",
+        "employer": "highmark inc",
+        "cfscore": "0"
+      },
+      {
+        "matched_name": "conti, jennifer e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manager quality performance",
+        "employer": "highmark inc",
+        "cfscore": "0"
+      }
+    ]
+  },
+  {
+    "guest_key": "sharp|sonja|sonja",
+    "display_name": "Sonja Sharp",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Could Abortion Providers Become Conscientious Objectors?",
+        "descriptor": "metro reporter, LA Times",
+        "topic": "abortion providers and post-Roe developments"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "sharp, sonja",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "nurse practitioner",
+        "employer": "planned parenthood of mn nd sd",
+        "cfscore": "-1.061"
+      },
+      {
+        "matched_name": "sharp, sonja",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales",
+        "employer": "walmart",
+        "cfscore": "-1.093"
+      }
+    ]
+  },
+  {
+    "guest_key": "curtis|scott|scott",
+    "display_name": "Scott Curtis",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "The Snappers, Clackers, Ka-chunkers and Sha-shonkers That Make Movies Sound Great",
+        "descriptor": "Foley Mixer",
+        "topic": "Foley artists and sound design"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "curtis, david scott",
+        "source": "recipient",
+        "party": "328",
+        "state": "NV",
+        "seat": "state:governor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-2.16"
+      },
+      {
+        "matched_name": "curtis, jason scott",
+        "source": "recipient",
+        "party": "328",
+        "state": "MD",
+        "seat": "state:unknown",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.658"
+      }
+    ]
+  },
+  {
+    "guest_key": "greene|thomas|tom",
+    "display_name": "Tom Greene",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "The James Webb Telescope Reveals the Edges of the Universe",
+        "descriptor": "astrophysicist, Space Science and Astrobiology Division at NASA Ames Research Center",
+        "topic": "James Webb Telescope science instruments"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "greene, thomas",
+        "source": "recipient",
+        "party": "200",
+        "state": "CT",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.04"
+      },
+      {
+        "matched_name": "greene, tom",
+        "source": "recipient",
+        "party": "200",
+        "state": "LA",
+        "seat": "state:governor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.094"
+      },
+      {
+        "matched_name": "greene, tom",
+        "source": "recipient",
+        "party": "200",
+        "state": "OR",
+        "seat": "local:commissioner",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.895"
+      },
+      {
+        "matched_name": "greene, thomas c",
+        "source": "recipient",
+        "party": "328",
+        "state": "WA",
+        "seat": "local:sheriff",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.041"
+      },
+      {
+        "matched_name": "greene, thomas a tom",
+        "source": "recipient",
+        "party": "200",
+        "state": "IA",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.074"
+      },
+      {
+        "matched_name": "greene, tommy",
+        "source": "recipient",
+        "party": "100",
+        "state": "OH",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.684"
+      }
+    ]
+  },
+  {
+    "guest_key": "schubiner|lindsay|lindsay",
+    "display_name": "Lindsay Schubiner",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Jan. 6 Committee Hearing Details Trump\u2019s Ties to Violent Extremist Groups",
+        "descriptor": "director of Western States Center's Momentum Program",
+        "topic": "violent extremist groups"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "schubiner, lindsay",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "unemployed",
+        "employer": "",
+        "cfscore": "-0.905"
+      },
+      {
+        "matched_name": "schubiner, lindsay",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "advocacy",
+        "employer": "western states center",
+        "cfscore": "-1.132"
+      },
+      {
+        "matched_name": "schubiner, lindsay",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "advocacy",
+        "employer": "western states center",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "chow|dorothy|dorothy",
+    "display_name": "Dorothy Chow",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "California\u2019s 2nd Generation \u2018Doughnut Kids\u2019 Are Taking Over the Store",
+        "descriptor": "vice-president, B & H Bakery Distributors",
+        "topic": "Cambodian-owned doughnut shops in Southern California and the next generation continuing the family business"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "chow, dorothy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "chow, dorothy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.685"
+      },
+      {
+        "matched_name": "chow, dorothy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "-0.683"
+      }
+    ]
+  },
+  {
+    "guest_key": "rose|corey|corey antonio",
+    "display_name": "Corey Antonio Rose",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Searching for Safe Spaces When You\u2019re Black and Queer in the Bay",
+        "descriptor": "producer and host of \"Searching for a Kiki,\" a three-part series on the KQED podcast Rightnowish, KQED",
+        "topic": "history of queer liberation spaces in the Bay Area and the role of anti-blackness in the Bay Area's queer community"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "rose, corey",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "facilities tech",
+        "employer": "city of hurst",
+        "cfscore": "1.558"
+      },
+      {
+        "matched_name": "rose, corey",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.513"
+      },
+      {
+        "matched_name": "rose, corey",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "facilities tech",
+        "employer": "city of hurst",
+        "cfscore": "1.558"
+      },
+      {
+        "matched_name": "rose, corey",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.386"
+      }
+    ]
+  },
+  {
+    "guest_key": "york|victoria|victoria kirby",
+    "display_name": "Victoria Kirby York",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Searching for Safe Spaces When You\u2019re Black and Queer in the Bay",
+        "descriptor": "deputy executive director, National Black Justice Coalition - a civil rights organization dedicated to the empowerment of Black LGBTQ+ people and co-sponsor of the Lavender Book, a directory of safe spaces",
+        "topic": "queer liberation spaces and safe spaces for Black LGBTQ+ people"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "york, victoria a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.21"
+      },
+      {
+        "matched_name": "york, victoria",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.02"
+      },
+      {
+        "matched_name": "york, victoria",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "communications",
+        "employer": "self",
+        "cfscore": "1.409"
+      },
+      {
+        "matched_name": "york, victoria",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "small fair trade store owner",
+        "employer": "self",
+        "cfscore": "-1.096"
+      },
+      {
+        "matched_name": "york, victoria",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "not employed",
+        "cfscore": "-1.032"
+      },
+      {
+        "matched_name": "york, victoria",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.979"
+      },
+      {
+        "matched_name": "york, katelyn victoria",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "travel agent",
+        "employer": "away to go travel",
+        "cfscore": "1.349"
+      },
+      {
+        "matched_name": "york, victoria",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.659"
+      }
+    ]
+  },
+  {
+    "guest_key": "cohen|susan|susan",
+    "display_name": "Dr. Susan Cohen",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Forum From The Archives: Mental Health Issues Among Veterinarian Medicine on the Rise",
+        "descriptor": "social worker",
+        "topic": "mental health challenges veterinarians and vet techs are facing"
+      },
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Mental Health Issues in Veterinary Medicine on the Rise",
+        "descriptor": "veterinarian, social worker",
+        "topic": "mental health challenges veterinarians and vet techs are facing"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "cohen, wendy sue",
+        "source": "recipient",
+        "party": "328",
+        "state": "MD",
+        "seat": "state:unknown",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.126"
+      },
+      {
+        "matched_name": "cohen, susan",
+        "source": "recipient",
+        "party": "200",
+        "state": "NJ",
+        "seat": "local:other",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.149"
+      }
+    ]
+  },
+  {
+    "guest_key": "rodsky|eve|eve",
+    "display_name": "Eve Rodsky",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Chore Wars: How to Divide Household Tasks More Fairly",
+        "descriptor": "author",
+        "topic": "fair division of household chores and domestic labor"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "rodsky, eve m",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "philanthropy advisory group la llc",
+        "cfscore": "-0.995"
+      },
+      {
+        "matched_name": "rodsky, eve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.108"
+      }
+    ]
+  },
+  {
+    "guest_key": "hood|heather|heather",
+    "display_name": "Heather Hood",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "How Can California Rein in Skyrocketing Cost of Building Affordable Housing",
+        "descriptor": "vice president, Northern California, Enterprise Community Partners, Inc.",
+        "topic": "affordable housing development costs"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hood, heather",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.968"
+      },
+      {
+        "matched_name": "hood, heather",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.968"
+      },
+      {
+        "matched_name": "hood, heather a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "real living select",
+        "cfscore": "1.26"
+      },
+      {
+        "matched_name": "hood, heather",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.734"
+      },
+      {
+        "matched_name": "hood, heather",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "research scientist",
+        "employer": "ohsu",
+        "cfscore": "-1.111"
+      },
+      {
+        "matched_name": "hood, heather",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "philanthropy",
+        "employer": "the san francisco foundation",
+        "cfscore": "-0.874"
+      },
+      {
+        "matched_name": "hood, heather",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "public health microbiologist",
+        "employer": "county of shasta",
+        "cfscore": "-1.096"
+      }
+    ]
+  },
+  {
+    "guest_key": "white|richard|richard",
+    "display_name": "Richard White",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Murder, Corruption, Coverups: the Strange Dark History of Stanford University",
+        "descriptor": "Historian",
+        "topic": "The murder of Jane Stanford and corruption in California's Gilded Age"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "white, richard crawford",
+        "source": "recipient",
+        "party": "100",
+        "state": "TX",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.042"
+      },
+      {
+        "matched_name": "white, richard l",
+        "source": "recipient",
+        "party": "200",
+        "state": "KY",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.09"
+      },
+      {
+        "matched_name": "white, richard g",
+        "source": "recipient",
+        "party": "200",
+        "state": "MS",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.172"
+      },
+      {
+        "matched_name": "white, richard g",
+        "source": "recipient",
+        "party": "328",
+        "state": "SC",
+        "seat": "local:council",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.028"
+      }
+    ]
+  },
+  {
+    "guest_key": "king|alonzo|alonzo",
+    "display_name": "Alonzo King",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Choreographer Alonzo King on 40 Years of LINES Ballet",
+        "descriptor": "Choreographer",
+        "topic": "40 Years of LINES Ballet"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "king, alonzo i",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "insurance",
+        "employer": "self-employed",
+        "cfscore": "-0.573"
+      },
+      {
+        "matched_name": "king, alonzo i",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "insurance",
+        "employer": "",
+        "cfscore": "-0.295"
+      }
+    ]
+  },
+  {
+    "guest_key": "mcnamara|craig|craig",
+    "display_name": "Craig McNamara",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Craig McNamara Confronts His Father\u2019s Legacy in \u2018Because Our Fathers Lied\u2019",
+        "descriptor": "son of Robert McNamara",
+        "topic": "his relationship with his father Robert McNamara and his book 'Because Our Fathers Lied'"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "mcnamara, craig r",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "optometrist",
+        "employer": "optometrist",
+        "cfscore": "0.373"
+      },
+      {
+        "matched_name": "mcnamara, r craig",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "farmer",
+        "employer": "sierra orchards",
+        "cfscore": "-0.875"
+      },
+      {
+        "matched_name": "mcnamara, craig",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software engineer",
+        "employer": "caringcom",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "mcnamara, craig",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software enginerr",
+        "employer": "caringcom",
+        "cfscore": "-1.055"
+      },
+      {
+        "matched_name": "mcnamara, craig",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "business analyst",
+        "employer": "advantage sales and marketing",
+        "cfscore": "-1.036"
+      },
+      {
+        "matched_name": "mcnamara, craig",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "",
+        "cfscore": "-1.101"
+      }
+    ]
+  },
+  {
+    "guest_key": "newton|melvin|melvin",
+    "display_name": "Melvin Newton",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Film \"American Justice on Trial\" Traces Legacy of Black Panther Huey Newton's Murder Trial",
+        "descriptor": "Huey Newton's brother",
+        "topic": "The 1967 trial of Huey Newton for shooting a police officer and its impact on jury selection"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "newton, melvin l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "2.092"
+      },
+      {
+        "matched_name": "newton, melvin d",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "instructor",
+        "employer": "merritt college",
+        "cfscore": "-0.726"
+      }
+    ]
+  },
+  {
+    "guest_key": "harper|david|david",
+    "display_name": "David Harper",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Film \"American Justice on Trial\" Traces Legacy of Black Panther Huey Newton's Murder Trial",
+        "descriptor": "jury foreman during the historic trial",
+        "topic": "The 1967 trial of Huey Newton for shooting a police officer and its impact on jury selection"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "harper, david a",
+        "source": "recipient",
+        "party": "200",
+        "state": "NY",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.788"
+      },
+      {
+        "matched_name": "harper, david r",
+        "source": "recipient",
+        "party": "100",
+        "state": "TN",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.893"
+      },
+      {
+        "matched_name": "harper, david",
+        "source": "recipient",
+        "party": "328",
+        "state": "NY",
+        "seat": "local:district-attorney",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.788"
+      }
+    ]
+  },
+  {
+    "guest_key": "montalvo|melissa|melissa",
+    "display_name": "Melissa Montalvo",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Fresno Program Aims to Protect Street Vendors from Harassment",
+        "descriptor": "journalist",
+        "topic": "Fresno street vendor protection program and death of Lorenzo Perez"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "montalvo, melissa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "financial admionistrator",
+        "employer": "dr ralph montalvo",
+        "cfscore": "1.371"
+      },
+      {
+        "matched_name": "montalvo, melissa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.105"
+      },
+      {
+        "matched_name": "montalvo, melissa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "buyer",
+        "employer": "new balance",
+        "cfscore": "-1.04"
+      },
+      {
+        "matched_name": "montalvo, melissa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "business manager",
+        "employer": "uga",
+        "cfscore": "1.628"
+      }
+    ]
+  },
+  {
+    "guest_key": "markoff|john|john",
+    "display_name": "John Markoff",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "John Markoff on Stewart Brand\u2019s Visionary \u2018Whole Earth\u2019",
+        "descriptor": "journalist and author",
+        "topic": "Stewart Brand's Whole Earth"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "markoff, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "university of pittsburgh",
+        "cfscore": "-1.009"
+      },
+      {
+        "matched_name": "markoff, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.599"
+      }
+    ]
+  },
+  {
+    "guest_key": "oakley|cathryn|cathryn",
+    "display_name": "Cathryn Oakley",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Taking Cues from Texas and Florida, More States Propose Bills Targeting Queer and Trans Youth",
+        "descriptor": "State Legislative Director and Senior Counsel",
+        "topic": "anti-LGBTQ+ legislation and Human Rights Campaign tracking"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "oakley, cathryn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "morrison & foerster",
+        "cfscore": "-1.314"
+      },
+      {
+        "matched_name": "oakley, cathryn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.882"
+      }
+    ]
+  },
+  {
+    "guest_key": "trujillo|lizette|lizette",
+    "display_name": "Lizette Trujillo",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Taking Cues from Texas and Florida, More States Propose Bills Targeting Queer and Trans Youth",
+        "descriptor": "member, Human Rights Campaign's Parents for Transgender Equality National Council",
+        "topic": "parents' perspectives on anti-LGBTQ+ bills"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "trujillo, lizette",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "not employed",
+        "cfscore": "-0.911"
+      },
+      {
+        "matched_name": "trujillo, lizette",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.642"
+      }
+    ]
+  },
+  {
+    "guest_key": "shin|laura|laura",
+    "display_name": "Laura Shin",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Biden Executive Order on Cryptocurrency Opens Door to Future Regulation",
+        "descriptor": "host, \"Unchained\" podcast",
+        "topic": "cryptocurrency regulation and Biden's executive order"
+      },
+      {
+        "show_name": "The Peter McCormack Show",
+        "episode_title": "Becoming a Crypto Journalist with Laura Shin - WBD007",
+        "descriptor": "Crypto Journalist",
+        "topic": "Becoming a Crypto Journalist"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "shin, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "director",
+        "employer": "city of los angeles",
+        "cfscore": "-0.725"
+      },
+      {
+        "matched_name": "shin, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "writer",
+        "employer": "self",
+        "cfscore": "-1.055"
+      },
+      {
+        "matched_name": "shin, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "laura shin",
+        "cfscore": "-0.934"
+      },
+      {
+        "matched_name": "shin, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "us dhs",
+        "cfscore": "-0.984"
+      },
+      {
+        "matched_name": "shin, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "federal government",
+        "cfscore": "-0.943"
+      },
+      {
+        "matched_name": "shin, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "journalist",
+        "employer": "self",
+        "cfscore": "-1.027"
+      },
+      {
+        "matched_name": "shin, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "journalist",
+        "employer": "self",
+        "cfscore": "-1.062"
+      },
+      {
+        "matched_name": "shin, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.792"
+      },
+      {
+        "matched_name": "shin, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "federal gov",
+        "cfscore": "-0.956"
+      },
+      {
+        "matched_name": "shin, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.792"
+      },
+      {
+        "matched_name": "shin, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "marketing",
+        "employer": "boxout health",
+        "cfscore": "-0.766"
+      }
+    ]
+  },
+  {
+    "guest_key": "williams|jd|jd",
+    "display_name": "J.D. Williams",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "The Logistics of Waging War that Have Slowed Down the Russian Army in Ukraine",
+        "descriptor": "senior international and defense policy researcher, Rand Corporation; has served on the National Intelligence Council; retired Marine colonel",
+        "topic": "Russian invasion of Ukraine and logistical failures"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "williams, jd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.39"
+      },
+      {
+        "matched_name": "williams, jd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.117"
+      },
+      {
+        "matched_name": "williams, jd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.614"
+      },
+      {
+        "matched_name": "williams, jd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.93"
+      },
+      {
+        "matched_name": "williams, jd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.1"
+      },
+      {
+        "matched_name": "williams, jd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.096"
+      },
+      {
+        "matched_name": "williams, jd and betty",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.274"
+      },
+      {
+        "matched_name": "williams, jd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "union official",
+        "employer": "",
+        "cfscore": "-1.152"
+      },
+      {
+        "matched_name": "williams, jd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "union official",
+        "employer": "",
+        "cfscore": "-1.152"
+      },
+      {
+        "matched_name": "williams, jd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "poudre school district",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "williams, jd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.628"
+      },
+      {
+        "matched_name": "williams, jd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "union official",
+        "employer": "",
+        "cfscore": "-1.152"
+      }
+    ]
+  },
+  {
+    "guest_key": "ensor|richard|richard",
+    "display_name": "Richard Ensor",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Ukraine Accuses Putin of 'Nuclear Terror' Over Power Plant Shelling",
+        "descriptor": "former ambassador to Ukraine, Ukraine correspondent, The Economist",
+        "topic": "Russian invasion of Ukraine, developments from the ground"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ensor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "usf",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "ensor, richard and barbara",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.956"
+      },
+      {
+        "matched_name": "ensor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "grad student",
+        "employer": "usf",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "ensor, dick",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.875"
+      },
+      {
+        "matched_name": "ensor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "fsu",
+        "cfscore": "-1.086"
+      },
+      {
+        "matched_name": "ensor, dick",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.956"
+      },
+      {
+        "matched_name": "ensor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.081"
+      }
+    ]
+  },
+  {
+    "guest_key": "hughes|solomon|solomon",
+    "display_name": "Solomon Hughes",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "New HBO Series \u2018Winning Time\u2019 Features Former Cal Basketball Star Solomon Hughes",
+        "descriptor": "former Cal basketball star turned actor",
+        "topic": "HBO series 'Winning Time' about Kareem Abdul-Jabbar and the Showtime Lakers"
+      },
+      {
+        "show_name": "The Nation Podcasts",
+        "episode_title": "Edge of Sports: Solomon Hughes on playing Kareem Abdul-Jabbar in 'Winning Time\u2019",
+        "descriptor": "actor",
+        "topic": "playing Kareem Abdul-Jabbar in 'Winning Time'"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hughes, solomon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "higher ed admin",
+        "employer": "stanford university",
+        "cfscore": "-1.166"
+      },
+      {
+        "matched_name": "hughes, solomon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "self employed",
+        "cfscore": "-0.974"
+      },
+      {
+        "matched_name": "hughes, solomon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "actor",
+        "employer": "self employed",
+        "cfscore": "-1.093"
+      },
+      {
+        "matched_name": "hughes, solomon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "owner",
+        "employer": "capitan appliance",
+        "cfscore": "1.599"
+      }
+    ]
+  },
+  {
+    "guest_key": "solomon|molly|molly",
+    "display_name": "Molly Solomon",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "New Season of 'SOLD OUT' Housing Podcast Spotlights Eviction Crisis",
+        "descriptor": "housing affordability reporter",
+        "topic": "eviction disparities and their disproportionate impact on Black renters"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "solomon, molly",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "tech support",
+        "employer": "apple inc",
+        "cfscore": "-1.175"
+      },
+      {
+        "matched_name": "solomon, molly",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "Managing Director",
+        "employer": "Joyful Heart Foundation",
+        "cfscore": "-1.031"
+      }
+    ]
+  },
+  {
+    "guest_key": "sasaki|ruth|ruth",
+    "display_name": "Ruth Sasaki",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "First Person: Ruth Sasaki on Remembering Japanese Internment",
+        "descriptor": "person discussing Japanese internment",
+        "topic": "Remembering Japanese Internment"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "sasaki, ruth",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.004"
+      },
+      {
+        "matched_name": "sasaki, ruth m",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "not employed",
+        "cfscore": "-0.954"
+      }
+    ]
+  },
+  {
+    "guest_key": "jacobs|emma|emma",
+    "display_name": "Emma Jacobs",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Trucker Convoy Protest in Canada Continues and Inspires Copycats",
+        "descriptor": "reporter, NPR",
+        "topic": "Ottawa protests"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "jacobs, emma",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.695"
+      },
+      {
+        "matched_name": "jacobs, emma",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.077"
+      },
+      {
+        "matched_name": "jacobs, emma",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "jacobs, emma",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "not employed",
+        "cfscore": "-1.031"
+      },
+      {
+        "matched_name": "jacobs, emma",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "editor",
+        "employer": "self employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "jacobs, emma",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.177"
+      },
+      {
+        "matched_name": "jacobs, emma",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "urologist",
+        "employer": "st bernards",
+        "cfscore": "-0.89"
+      },
+      {
+        "matched_name": "jacobs, emma",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.551"
+      },
+      {
+        "matched_name": "jacobs, emma",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.595"
+      },
+      {
+        "matched_name": "jacobs, emma julia",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.096"
+      }
+    ]
+  },
+  {
+    "guest_key": "malesic|jonathan|jonathan",
+    "display_name": "Jonathan Malesic",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "The Roots of America\u2019s \"Burnout Culture\"",
+        "descriptor": "author and former college professor",
+        "topic": "burnout crisis, history of Americans' relationship with work, burnout culture"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "malesic, jonathan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "writer",
+        "employer": "self",
+        "cfscore": "-0.983"
+      },
+      {
+        "matched_name": "malesic, jonathan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "budget analyst",
+        "employer": "us govt",
+        "cfscore": "-1.292"
+      }
+    ]
+  },
+  {
+    "guest_key": "avila|pamela|pamela",
+    "display_name": "Pamela Avila",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "How the Movie \u2018Encanto\u2019 Became a Pop Song Powerhouse",
+        "descriptor": "Los Angeles-based entertainment editor, USA Today",
+        "topic": "Disney's 'Encanto' and its cultural impact"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "avila, pamela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.018"
+      },
+      {
+        "matched_name": "avila, pamela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "marketing director",
+        "employer": "",
+        "cfscore": "-0.934"
+      },
+      {
+        "matched_name": "avila, pamela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "nurse educator",
+        "employer": "pusd",
+        "cfscore": "1.633"
+      },
+      {
+        "matched_name": "avila, pamela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "avila, pamela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.034"
+      },
+      {
+        "matched_name": "avila, pamela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.599"
+      },
+      {
+        "matched_name": "avila, pamela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.968"
+      },
+      {
+        "matched_name": "avila, pamela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.675"
+      },
+      {
+        "matched_name": "avila, pamela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.049"
+      }
+    ]
+  },
+  {
+    "guest_key": "dove|rita|rita",
+    "display_name": "Rita Dove",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Forum From the Archives: Poet Rita Dove Offers a \u2018Playlist for the Apocalypse\u2019",
+        "descriptor": "Poet",
+        "topic": "Playlist for the Apocalypse"
+      },
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Poet Rita Dove Offers a \u2018Playlist for the Apocalypse\u2019",
+        "descriptor": "Poet",
+        "topic": "Playlist for the Apocalypse"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "dove, rita",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.665"
+      },
+      {
+        "matched_name": "dove, rita",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.051"
+      },
+      {
+        "matched_name": "dove, rita",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "administrator",
+        "employer": "gordon college",
+        "cfscore": "-1"
+      }
+    ]
+  },
+  {
+    "guest_key": "indurti|meghana|meghana",
+    "display_name": "Meghana Indurti",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "The Funny Little Ways Immigrant Parents Show Their Love",
+        "descriptor": "comedian",
+        "topic": "immigrant parents and how they express love"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "indurti, meghana",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "copywriter",
+        "employer": "apple inc",
+        "cfscore": "-0.96"
+      },
+      {
+        "matched_name": "indurti, meghana",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.022"
+      }
+    ]
+  },
+  {
+    "guest_key": "esposito|lauren|lauren",
+    "display_name": "Lauren Esposito",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "CalAcademy\u2019s Lauren Esposito on Scorpions and the LGBTQ+ Scientists Changing Science",
+        "descriptor": "CalAcademy",
+        "topic": "Scorpions and LGBTQ+ Scientists"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "esposito, lauren",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "Student",
+        "employer": "",
+        "cfscore": "-0.647"
+      },
+      {
+        "matched_name": "esposito, lauren",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "nycha",
+        "cfscore": "-1.008"
+      },
+      {
+        "matched_name": "esposito, lauren",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "marketing",
+        "employer": "salesforce",
+        "cfscore": "-1.082"
+      },
+      {
+        "matched_name": "esposito, lauren",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "account director",
+        "employer": "publicis groupe",
+        "cfscore": "-1.035"
+      },
+      {
+        "matched_name": "esposito, lauren",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "marketing",
+        "employer": "salesforce",
+        "cfscore": "-1.094"
+      },
+      {
+        "matched_name": "esposito, lauren",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.571"
+      }
+    ]
+  },
+  {
+    "guest_key": "duffy|robert|bobby",
+    "display_name": "Bobby Duffy",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "'The Generation Myth' Calls for Ceasefire on the Generation Wars",
+        "descriptor": "social researcher",
+        "topic": "generational analysis and stereotypes"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "duffy, robert j",
+        "source": "recipient",
+        "party": "100",
+        "state": "NY",
+        "seat": "state:governor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.507"
+      },
+      {
+        "matched_name": "duffy, bob",
+        "source": "recipient",
+        "party": "328",
+        "state": "NY",
+        "seat": "local:mayor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.177"
+      }
+    ]
+  },
+  {
+    "guest_key": "richmond|annette|annette",
+    "display_name": "Annette Richmond",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Experience of Plus-Size Travelers Often Gets Ignored, Advocates Are Changing That",
+        "descriptor": "Bay Area native, founder of Fat Girls Traveling",
+        "topic": "plus-size travel experiences and inclusive travel"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "richmond, annette r",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.95"
+      },
+      {
+        "matched_name": "richmond, annette",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.844"
+      },
+      {
+        "matched_name": "richmond, annette",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.023"
+      },
+      {
+        "matched_name": "richmond, annette",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.858"
+      },
+      {
+        "matched_name": "richmond, annette",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "clerk",
+        "employer": "hyvee",
+        "cfscore": "-1.093"
+      }
+    ]
+  },
+  {
+    "guest_key": "mylan|megan|megan",
+    "display_name": "Megan Mylan",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "'Simple As Water' Brings Intimate Portrait of Syrian Refugee Experience to the Screen",
+        "descriptor": "Academy Award-winning director",
+        "topic": "her new documentary 'Simple As Water' about Syrian refugees"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "mylan, megan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "filmmaker",
+        "employer": "self employed",
+        "cfscore": "-1.058"
+      },
+      {
+        "matched_name": "mylan, megan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "webber for congress",
+        "cfscore": "-0.87"
+      }
+    ]
+  },
+  {
+    "guest_key": "west|colin|colin",
+    "display_name": "Colin West",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Cleaning Up Lake Tahoe",
+        "descriptor": "founder of Clean Up the Lake",
+        "topic": "Lake Tahoe cleanup efforts and trash removal"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "west, colin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.127"
+      },
+      {
+        "matched_name": "west, colin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "lawyer",
+        "employer": "morgan",
+        "cfscore": "-0.977"
+      },
+      {
+        "matched_name": "west, colin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "research assistant",
+        "employer": "university of colorado",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "west, colin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "lawyer",
+        "employer": "bingham mccutcaea",
+        "cfscore": "-1.056"
+      },
+      {
+        "matched_name": "west, colin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.105"
+      },
+      {
+        "matched_name": "west, colin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician",
+        "employer": "banner health",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "west, colin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physicist",
+        "employer": "uc santa cruz",
+        "cfscore": "-0.991"
+      },
+      {
+        "matched_name": "west, colin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physicist",
+        "employer": "university of colorado",
+        "cfscore": "-1.043"
+      },
+      {
+        "matched_name": "west, colin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "claims adjuster",
+        "employer": "usaa",
+        "cfscore": "-1.064"
+      },
+      {
+        "matched_name": "west, colin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "dog hiking business owner",
+        "employer": "colins pack",
+        "cfscore": "1.529"
+      },
+      {
+        "matched_name": "west, colin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "university of colorado",
+        "cfscore": "-0.964"
+      },
+      {
+        "matched_name": "west, colin & kelsey",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.042"
+      }
+    ]
+  },
+  {
+    "guest_key": "moore|kamilah|kamilah",
+    "display_name": "Kamilah Moore",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "California Reparations Task Force Held Latest Hearings on Discrimination in Housing, Education and More",
+        "descriptor": "task force chair",
+        "topic": "California's Reparations Task Force hearings and reparations eligibility"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "moore, kamilah",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "factory worker",
+        "employer": "daimler trucks na",
+        "cfscore": "-1.059"
+      },
+      {
+        "matched_name": "moore, kamilah",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "lawyer",
+        "employer": "ben crump law pllc",
+        "cfscore": "-0.775"
+      }
+    ]
+  },
+  {
+    "guest_key": "thompson|christie|christie",
+    "display_name": "Christie Thompson",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Decades of Legal Limbo Can Await Patients Leaving California Psychiatric Hospitals",
+        "descriptor": "Marshall Project staff writer",
+        "topic": "California's CONREP conditional release program and its impact on former psychiatric hospital patients"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "thompson, christie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "owner",
+        "employer": "three little birds",
+        "cfscore": "1.369"
+      },
+      {
+        "matched_name": "thompson, christie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales representative",
+        "employer": "vwr international",
+        "cfscore": "0.992"
+      },
+      {
+        "matched_name": "thompson, christie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "realtor",
+        "employer": "keller williams",
+        "cfscore": "-0.813"
+      },
+      {
+        "matched_name": "thompson, rosalee christie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "retired",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "thompson, christie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "kelley drye & warren llp",
+        "cfscore": "-0.891"
+      },
+      {
+        "matched_name": "thompson, christie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "mckinney isd",
+        "cfscore": "-1.08"
+      },
+      {
+        "matched_name": "thompson, christie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.939"
+      },
+      {
+        "matched_name": "thompson, christie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "entrepreneur",
+        "employer": "entrepreneur",
+        "cfscore": "1.523"
+      },
+      {
+        "matched_name": "thompson, christie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "accountant",
+        "employer": "apex",
+        "cfscore": "-1.019"
+      },
+      {
+        "matched_name": "thompson, christie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "stylist",
+        "employer": "self",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "thompson, christie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.226"
+      },
+      {
+        "matched_name": "thompson, christie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "access control specialist",
+        "employer": "wectec staffing",
+        "cfscore": "-1.094"
+      },
+      {
+        "matched_name": "thompson, christie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "school counselor",
+        "employer": "mckinney isd",
+        "cfscore": "-1.461"
+      }
+    ]
+  },
+  {
+    "guest_key": "ellis|russ|russ",
+    "display_name": "Russ Ellis",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Russ Ellis Cut His First Album at Age 85, and It\u2019s A Bop",
+        "descriptor": "musician who cut his first album at age 85",
+        "topic": "his music career and debut album"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ellis, russ",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "detective",
+        "employer": "boone county sheriff s department",
+        "cfscore": "1.155"
+      },
+      {
+        "matched_name": "ellis, molly & russ",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.107"
+      },
+      {
+        "matched_name": "ellis, russ",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "president",
+        "employer": "xcellos corp",
+        "cfscore": "0.687"
+      },
+      {
+        "matched_name": "ellis, russ",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.024"
+      },
+      {
+        "matched_name": "ellis, russ",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "route driver",
+        "employer": "sj smith co",
+        "cfscore": "-1.085"
+      },
+      {
+        "matched_name": "ellis, russ",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.402"
+      },
+      {
+        "matched_name": "ellis, russ",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "1.575"
+      },
+      {
+        "matched_name": "ellis, russ",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.582"
+      }
+    ]
+  },
+  {
+    "guest_key": "radtke|kristen|kristen",
+    "display_name": "Kristen Radtke",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Author Kristen Radtke Takes a 'Journey Through American Loneliness'",
+        "descriptor": "Author",
+        "topic": "American Loneliness"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "radtke, kristen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "art director",
+        "employer": "the believer",
+        "cfscore": "-1.05"
+      },
+      {
+        "matched_name": "radtke, kristen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "therapist",
+        "employer": "self",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "ozoma|ifeoma|ifeoma",
+    "display_name": "Ifeoma Ozoma",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "California Considers New Law to Protect Workers Who Break NDAs to Speak Out Against Discrimination",
+        "descriptor": "former Pinterest employee",
+        "topic": "NDAs and workplace discrimination protections"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ozoma, ifeoma",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "public policy",
+        "employer": "google",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "ozoma, ifeoma",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "policy",
+        "employer": "facebook, inc",
+        "cfscore": "-0.769"
+      }
+    ]
+  },
+  {
+    "guest_key": "cho|nicholas|nick",
+    "display_name": "Nick Cho",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Forum From the Archives: How TikTok Became a Home For Those in Search of Community",
+        "descriptor": "popular creator",
+        "topic": "TikTok's appeal and communities on the app"
+      },
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "How TikTok Became a Home For Those in Search of Community",
+        "descriptor": "popular creator",
+        "topic": "TikTok's appeal and communities on the app"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "cho, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant, navigant",
+        "employer": "",
+        "cfscore": "-0.821"
+      },
+      {
+        "matched_name": "cho, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.169"
+      },
+      {
+        "matched_name": "cho, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software engineer",
+        "employer": "verily life sciences",
+        "cfscore": "-1.096"
+      },
+      {
+        "matched_name": "cho, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "small business owner",
+        "employer": "wrecking ball coffee roasters",
+        "cfscore": "-1.03"
+      }
+    ]
+  },
+  {
+    "guest_key": "moran|michael|michael socrates",
+    "display_name": "Michael Socrates Moran",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Pioneering Playwright Kathleen Collins Celebrated in Oakland Theater Project\u2019s \u2018Begin the Beguine\u2019",
+        "descriptor": "Oakland Theater Project co-director",
+        "topic": "Begin the Beguine and Kathleen Collins' artistic legacy"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "moran, michael j",
+        "source": "recipient",
+        "party": "100",
+        "state": "MA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.501"
+      },
+      {
+        "matched_name": "moran, mike",
+        "source": "recipient",
+        "party": "100",
+        "state": "OH",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.575"
+      },
+      {
+        "matched_name": "moran, mike",
+        "source": "recipient",
+        "party": "328",
+        "state": "WI",
+        "seat": "state:committee",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.68"
+      },
+      {
+        "matched_name": "moran, mike",
+        "source": "recipient",
+        "party": "328",
+        "state": "WI",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.68"
+      }
+    ]
+  },
+  {
+    "guest_key": "ascher|nancy|nancy",
+    "display_name": "Dr. Nancy Ascher",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Living Kidney Donation: 'The Greatest Gift'",
+        "descriptor": "organ transplant expert and kidney donor",
+        "topic": "organ transplants and living kidney donation"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ascher, nancy d",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.729"
+      },
+      {
+        "matched_name": "ascher, nancy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "surgeon",
+        "employer": "ucsf",
+        "cfscore": "-0.666"
+      },
+      {
+        "matched_name": "ascher, nancy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "artist",
+        "employer": "self employed",
+        "cfscore": "-1.044"
+      }
+    ]
+  },
+  {
+    "guest_key": "manaugh|geoff|geoff",
+    "display_name": "Geoff Manaugh",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Forum From the Archives: How the Pandemic Affected How We Think About Place",
+        "descriptor": "journalist",
+        "topic": "quarantines from medieval Venice to outer space"
+      },
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "What Quarantine Taught Us About Place",
+        "descriptor": "journalist",
+        "topic": "quarantines and pandemic places"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "manaugh, geoff",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "adjunct professor",
+        "employer": "columbia university",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "manaugh, geoff",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "writer",
+        "employer": "self",
+        "cfscore": "-0.942"
+      }
+    ]
+  },
+  {
+    "guest_key": "broome|brian|brian",
+    "display_name": "Brian Broome",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Brian Broome\u2019s Memoir: \u2018Punch Me Up to the Gods\u2019 Grapples With Ideas of Masculinity",
+        "descriptor": "author",
+        "topic": "memoir and masculinity"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "broome, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "dental hygienist",
+        "employer": "",
+        "cfscore": "0.898"
+      },
+      {
+        "matched_name": "broome, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "marketing",
+        "employer": "netapp",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "broome, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.066"
+      },
+      {
+        "matched_name": "broome, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.881"
+      }
+    ]
+  },
+  {
+    "guest_key": "hymes|katherine|kathryn",
+    "display_name": "Kathryn Hymes",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Why Our Families Create Unique \u2018Familect\u2019 Languages",
+        "descriptor": "linguist",
+        "topic": "familects and in-group family language"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hymes, kathy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "homemaker",
+        "employer": "",
+        "cfscore": "-1.07"
+      },
+      {
+        "matched_name": "hymes, kathy l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.889"
+      },
+      {
+        "matched_name": "hymes, kathryn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "product manager",
+        "employer": "slack",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "hymes, kate",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.058"
+      }
+    ]
+  },
+  {
+    "guest_key": "tucker|abigail|abigail",
+    "display_name": "Abigail Tucker",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "How Becoming a Parent Rewires the Brain",
+        "descriptor": "author",
+        "topic": "maternal instinct, parenting, brain changes"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "tucker, abigail",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "slp",
+        "employer": "gwinnett schools",
+        "cfscore": "-1.041"
+      },
+      {
+        "matched_name": "tucker, abigail",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "eit",
+        "employer": "texas department of transportation",
+        "cfscore": "-1.035"
+      }
+    ]
+  },
+  {
+    "guest_key": "gilbert|allison|allison",
+    "display_name": "Allison Gilbert",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "The U.S. Faces a \u2018Grief Crisis\u2019 Resulting from the Pandemic",
+        "descriptor": "journalist and author",
+        "topic": "grief crisis from COVID-19 pandemic"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.002"
+      },
+      {
+        "matched_name": "gilbert, allison theresa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "system trainer",
+        "employer": "university of miami",
+        "cfscore": "-0.681"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "clerical",
+        "employer": "attorneys office",
+        "cfscore": "-0.665"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "harris shelton hanover walsh, pllc",
+        "cfscore": "0.14"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "homemaker",
+        "employer": "homemaker",
+        "cfscore": "0.967"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "script coordinator",
+        "employer": "cbs television",
+        "cfscore": "-0.881"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teaching",
+        "employer": "aps",
+        "cfscore": "-0.911"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "server",
+        "employer": "bread & circus provisions",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "cbs",
+        "cfscore": "-1.068"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "southwestern womens surgical center",
+        "cfscore": "-0.994"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "university of miami",
+        "cfscore": "-1.104"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician",
+        "employer": "southwestern women s surgical center",
+        "cfscore": "-0.92"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "counselor",
+        "employer": "arlington public schools",
+        "cfscore": "-1.035"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician",
+        "employer": "brigham and womens hospital",
+        "cfscore": "-1.03"
+      },
+      {
+        "matched_name": "gilbert, allison kate",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.096"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "a, n",
+        "cfscore": "-0.864"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician",
+        "employer": "medstar health",
+        "cfscore": "-0.928"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "hr it consultant",
+        "employer": "us bank",
+        "cfscore": "-0.96"
+      },
+      {
+        "matched_name": "gilbert, allison",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "occupational therapist",
+        "employer": "trilogy home health",
+        "cfscore": "1.517"
+      }
+    ]
+  },
+  {
+    "guest_key": "miles|toni|toni",
+    "display_name": "Dr. Toni Miles",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "The U.S. Faces a \u2018Grief Crisis\u2019 Resulting from the Pandemic",
+        "descriptor": "bereavement researcher",
+        "topic": "rippling effects of grief and how to address it"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "miles, toni",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "university of georgia",
+        "cfscore": "-1.045"
+      },
+      {
+        "matched_name": "miles, toni",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "university of louisville",
+        "cfscore": "-0.976"
+      },
+      {
+        "matched_name": "miles, toni r",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "0.095"
+      },
+      {
+        "matched_name": "miles, toni",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "fccsc",
+        "cfscore": "-1.02"
+      },
+      {
+        "matched_name": "miles, toni p",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "college professor",
+        "employer": "univ of ga",
+        "cfscore": "-1.064"
+      },
+      {
+        "matched_name": "miles, toni",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.561"
+      },
+      {
+        "matched_name": "miles, toni",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.038"
+      },
+      {
+        "matched_name": "miles, toni",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "miles, toni",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.881"
+      },
+      {
+        "matched_name": "miles, toni",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.881"
+      },
+      {
+        "matched_name": "miles, toni l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.191"
+      },
+      {
+        "matched_name": "miles, toni",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.957"
+      },
+      {
+        "matched_name": "miles, toni",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.495"
+      }
+    ]
+  },
+  {
+    "guest_key": "leon|jennifer|jennifer de",
+    "display_name": "Jennifer De Leon",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Jennifer De Leon Dissects 'White Space' Through Essays on Culture, Race and Writing",
+        "descriptor": "author and essayist",
+        "topic": "White Space, culture, race, and writing"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "leon, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "recruiter",
+        "employer": "invenio solutions",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "leon, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.741"
+      },
+      {
+        "matched_name": "leon, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "president",
+        "employer": "main event inc",
+        "cfscore": "1.177"
+      },
+      {
+        "matched_name": "leon, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "director of outreach",
+        "employer": "big cat rescue",
+        "cfscore": "-0.939"
+      },
+      {
+        "matched_name": "leon, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "dietitan",
+        "employer": "medical faculty associates",
+        "cfscore": "-0.985"
+      },
+      {
+        "matched_name": "leon, jenny",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "freelance director",
+        "employer": "self",
+        "cfscore": "-1.008"
+      },
+      {
+        "matched_name": "leon, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "leon, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consulting",
+        "employer": "hireclix",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "leon, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.096"
+      },
+      {
+        "matched_name": "leon, jen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "assistant principal",
+        "employer": "salem keizer schools",
+        "cfscore": "-1.035"
+      },
+      {
+        "matched_name": "leon, jenny",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "production",
+        "employer": "self employed",
+        "cfscore": "-1.03"
+      },
+      {
+        "matched_name": "leon, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "bus driver group home healthcare staff",
+        "employer": "onsted schools christ centered homes",
+        "cfscore": "1.535"
+      },
+      {
+        "matched_name": "leon, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "mental health therapist",
+        "employer": "self employed",
+        "cfscore": "0.162"
+      },
+      {
+        "matched_name": "leon, jen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "self",
+        "cfscore": "-1.177"
+      }
+    ]
+  },
+  {
+    "guest_key": "pierson|vern|vern",
+    "display_name": "Vern Pierson",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Crime and Criminal Justice in the Pandemic",
+        "descriptor": "President of the California District Attorney Association",
+        "topic": "conflicting views about how to best address crime and criminal justice, and the impact the pandemic is having on the state's crime rates"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "pierson, vern",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.503"
+      },
+      {
+        "matched_name": "pierson, vern r",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "ciia of arizona inc",
+        "cfscore": "1.309"
+      },
+      {
+        "matched_name": "pierson, vern",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.675"
+      }
+    ]
+  },
+  {
+    "guest_key": "kim|juliana|juliana",
+    "display_name": "Juliana Kim",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "After Atlanta Killings, America Grapples With Misogyny and Racism",
+        "descriptor": "The New York Times",
+        "topic": "intersection of misogyny and racism and the aftermath of the shootings"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "kim, juliana",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "producer",
+        "employer": "self employed",
+        "cfscore": "-1.057"
+      },
+      {
+        "matched_name": "kim, juliana boyd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.102"
+      },
+      {
+        "matched_name": "kim, juliana b",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.01"
+      },
+      {
+        "matched_name": "kim, juliana j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "tides centerwlc",
+        "cfscore": "-0.91"
+      },
+      {
+        "matched_name": "kim, juliana boyd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "john hancock",
+        "cfscore": "0.562"
+      },
+      {
+        "matched_name": "kim, juliana",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "producer",
+        "employer": "catwalk productions",
+        "cfscore": "-0.98"
+      },
+      {
+        "matched_name": "kim, juliana",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "postal clerk",
+        "employer": "usps",
+        "cfscore": "-0.893"
+      },
+      {
+        "matched_name": "kim, juliana",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "client advisor",
+        "employer": "tiffanys",
+        "cfscore": "-1.121"
+      }
+    ]
+  },
+  {
+    "guest_key": "desai|neha|neha",
+    "display_name": "Neha Desai",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Influx of Unaccompanied Children at the Southern Border Tests Biden Administration",
+        "descriptor": "expert on immigration policy",
+        "topic": "unaccompanied children at U.S. southern border and immigration policy"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "desai, neha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "legal assistant",
+        "employer": "qlogic corp",
+        "cfscore": "-1.192"
+      },
+      {
+        "matched_name": "desai, neha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.058"
+      },
+      {
+        "matched_name": "desai, neha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.105"
+      },
+      {
+        "matched_name": "desai, neha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "avanade",
+        "cfscore": "-1.177"
+      },
+      {
+        "matched_name": "desai, neha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "dentist",
+        "employer": "westgate dental",
+        "cfscore": "0.041"
+      }
+    ]
+  },
+  {
+    "guest_key": "yuen|nancy|nancy wang",
+    "display_name": "Nancy Wang Yuen",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "After Murder of Eight Asian Americans in Georgia, Fears of Anti-Asian Racism and Violence Intensify",
+        "descriptor": "sociologist",
+        "topic": "Atlanta killings"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "yuen, nancy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sent letter",
+        "employer": "7 06",
+        "cfscore": "-0.169"
+      },
+      {
+        "matched_name": "yuen, nancy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "biola university",
+        "cfscore": "-0.967"
+      },
+      {
+        "matched_name": "yuen, nancy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "biola",
+        "cfscore": "-1.096"
+      },
+      {
+        "matched_name": "yuen, nancy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.055"
+      },
+      {
+        "matched_name": "yuen, nancy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      }
+    ]
+  },
+  {
+    "guest_key": "puente|teresa|teresa",
+    "display_name": "Teresa Puente",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "What Would You Tell Your Pre-Pandemic Self?",
+        "descriptor": "national correspondent",
+        "topic": "what pandemic life has taught us about ourselves"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "puente, teresa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "food service",
+        "employer": "cold stone creamery",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "puente, m teresa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "classroom teacher",
+        "employer": "sunnyside sd 201",
+        "cfscore": "-1.007"
+      },
+      {
+        "matched_name": "puente, teresa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "office manager",
+        "employer": "city scaffold",
+        "cfscore": "-1.053"
+      },
+      {
+        "matched_name": "puente, teresa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.893"
+      }
+    ]
+  },
+  {
+    "guest_key": "anderson|david|david",
+    "display_name": "David Anderson",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "U.S. Attorney David Anderson Leaves Office",
+        "descriptor": "top federal prosecutor in the Bay Area",
+        "topic": "criminal investigations, drug trafficking, pandemic-related fraud, corruption scandal, resignation"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "anderson, david c",
+        "source": "recipient",
+        "party": "328",
+        "state": "CO",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.292"
+      },
+      {
+        "matched_name": "anderson, david m",
+        "source": "recipient",
+        "party": "100",
+        "state": "MD",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.517"
+      },
+      {
+        "matched_name": "anderson, david lee jr",
+        "source": "recipient",
+        "party": "100",
+        "state": "TX",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.135"
+      },
+      {
+        "matched_name": "anderson, david e",
+        "source": "recipient",
+        "party": "100",
+        "state": "FL",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.172"
+      },
+      {
+        "matched_name": "anderson, david r",
+        "source": "recipient",
+        "party": "200",
+        "state": "KS",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.109"
+      },
+      {
+        "matched_name": "anderson, david",
+        "source": "recipient",
+        "party": "328",
+        "state": "MT",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.778"
+      },
+      {
+        "matched_name": "anderson, david v",
+        "source": "recipient",
+        "party": "200",
+        "state": "RI",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "2.416"
+      },
+      {
+        "matched_name": "anderson, david h",
+        "source": "recipient",
+        "party": "100",
+        "state": "WA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.763"
+      },
+      {
+        "matched_name": "anderson, david",
+        "source": "recipient",
+        "party": "200",
+        "state": "WI",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.208"
+      },
+      {
+        "matched_name": "anderson, david",
+        "source": "recipient",
+        "party": "328",
+        "state": "MI",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.185"
+      },
+      {
+        "matched_name": "anderson, david",
+        "source": "recipient",
+        "party": "328",
+        "state": "KY",
+        "seat": "local:supervisor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.523"
+      },
+      {
+        "matched_name": "anderson, david levi",
+        "source": "recipient",
+        "party": "200",
+        "state": "DE",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.642"
+      },
+      {
+        "matched_name": "anderson, higgins david",
+        "source": "recipient",
+        "party": "100",
+        "state": "ME",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.969"
+      },
+      {
+        "matched_name": "anderson, dave",
+        "source": "recipient",
+        "party": "100",
+        "state": "ND",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.091"
+      },
+      {
+        "matched_name": "anderson, david l dave",
+        "source": "recipient",
+        "party": "200",
+        "state": "SD",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.277"
+      },
+      {
+        "matched_name": "anderson, david jerome",
+        "source": "recipient",
+        "party": "328",
+        "state": "WA",
+        "seat": "state:office",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.376"
+      }
+    ]
+  },
+  {
+    "guest_key": "pandya|nirav|nirav",
+    "display_name": "Dr. Nirav Pandya",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Pandemic Rules Loosened for Outdoor Youth Sports",
+        "descriptor": "Dr.",
+        "topic": "updated guidelines for organized youth and adult sports and safety measures"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "pandya, nirav j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "",
+        "cfscore": "-0.103"
+      },
+      {
+        "matched_name": "pandya, nirav",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "smith and nephew",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "seligman|katherine|katherine",
+    "display_name": "Katherine Seligman",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Journalist Katherine Seligman Tackles Homelessness in Debut Novel, 'At The Edge Of The Haight'",
+        "descriptor": "Journalist",
+        "topic": "Homelessness in Debut Novel, 'At The Edge Of The Haight'"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "seligman, kathryn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "bartender",
+        "employer": "new york new york",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "seligman, kathryn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "first district appellate project",
+        "cfscore": "-0.992"
+      },
+      {
+        "matched_name": "seligman, katherine",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.87"
+      },
+      {
+        "matched_name": "seligman, kathryn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.526"
+      }
+    ]
+  },
+  {
+    "guest_key": "brown|jerry|jerry",
+    "display_name": "Jerry Brown",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Former Governor Jerry Brown Talks Pandemic, Climate Change, and Our Changing State",
+        "descriptor": "Former Governor",
+        "topic": "Pandemic, Climate Change, and Our Changing State"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "brown, jerry",
+        "source": "recipient",
+        "party": "100",
+        "state": "AR",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.198"
+      },
+      {
+        "matched_name": "brown, gerald jerry",
+        "source": "recipient",
+        "party": "100",
+        "state": "ID",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.672"
+      },
+      {
+        "matched_name": "brown, jerry",
+        "source": "recipient",
+        "party": "100",
+        "state": "KY",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.682"
+      }
+    ]
+  },
+  {
+    "guest_key": "blumenfeld|jared|jared",
+    "display_name": "Jared Blumenfeld",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "What Biden\u2019s Climate Plan Could Mean for California",
+        "descriptor": "California Environmental Protection Agency Secretary",
+        "topic": "Biden's climate change executive actions and California's climate response"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "blumenfeld, jared",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "dire",
+        "employer": "city & county of san francisco",
+        "cfscore": "-0.835"
+      },
+      {
+        "matched_name": "blumenfeld, jared",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "environmentalist",
+        "employer": "ccsf",
+        "cfscore": "-1.04"
+      },
+      {
+        "matched_name": "blumenfeld, jared",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "philanthropy",
+        "employer": "waverley street foundation",
+        "cfscore": "-0.937"
+      }
+    ]
+  },
+  {
+    "guest_key": "christakis|nicholas|nicholas",
+    "display_name": "Nicholas Christakis",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Examining Biden\u2019s Coronavirus Plan and Previewing a Post Pandemic Life",
+        "descriptor": "Epidemiologist and sociologist",
+        "topic": "Biden's coronavirus vaccination plan and return to normalcy"
+      },
+      {
+        "show_name": "Amarica's Constitution",
+        "episode_title": "Yale's Constitution - Special Episode - Guest Nicholas Christakis",
+        "descriptor": "Yale scholar",
+        "topic": "Constitution"
+      },
+      {
+        "show_name": "The Dishcast with Andrew Sullivan",
+        "episode_title": "Nicholas Christakis On Covid And Friendship",
+        "descriptor": "sociologist and physician",
+        "topic": "Covid and friendship"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "christakis, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "yale university",
+        "cfscore": "-0.818"
+      },
+      {
+        "matched_name": "christakis, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "doctor",
+        "employer": "yale",
+        "cfscore": "-0.913"
+      },
+      {
+        "matched_name": "christakis, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "yale university",
+        "cfscore": "-0.873"
+      },
+      {
+        "matched_name": "christakis, nicholas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician",
+        "employer": "harvard medical school",
+        "cfscore": "-0.938"
+      },
+      {
+        "matched_name": "christakis, nick",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.049"
+      },
+      {
+        "matched_name": "christakis, nicholas p",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "christakis electric co",
+        "employer": "christakis electric co",
+        "cfscore": "-0.737"
+      }
+    ]
+  },
+  {
+    "guest_key": "gyasi|yaa|yaa",
+    "display_name": "Yaa Gyasi",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "REBROADCAST: A Quest to Understand Suffering in Yaa Gyasi\u2019s Novel 'Transcendent Kingdom'",
+        "descriptor": "novelist",
+        "topic": "her novel 'Transcendent Kingdom' and themes of human pain and suffering"
+      },
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "A Quest to Understand Suffering in Yaa Gyasi\u2019s Novel \u2018Transcendent Kingdom\u2019",
+        "descriptor": "novelist",
+        "topic": "her novel 'Transcendent Kingdom' and themes of suffering, faith, and immigrant family experiences"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "gyasi, nana yaa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "legal assistant",
+        "employer": "latham & watkins llp",
+        "cfscore": "-0.993"
+      },
+      {
+        "matched_name": "gyasi, yaa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "writer",
+        "employer": "self employed",
+        "cfscore": "-1.079"
+      }
+    ]
+  },
+  {
+    "guest_key": "tenorio|lysley|lysley",
+    "display_name": "Lysley Tenorio",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "REBROADCAST: Lysley Tenorio\u2019s Latest Book Tells of Coming of Age in Colma",
+        "descriptor": "author",
+        "topic": "latest book about coming of age in Colma"
+      },
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Lysley Tenorio\u2019s Latest Book Tells of Coming of Age in Colma",
+        "descriptor": "author",
+        "topic": "latest book about coming of age in Colma"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "tenorio, lysley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher writer",
+        "employer": "saint marys college",
+        "cfscore": "-0.951"
+      },
+      {
+        "matched_name": "tenorio, lysley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "saint marys college",
+        "cfscore": "-1.102"
+      }
+    ]
+  },
+  {
+    "guest_key": "abney|frank|frank e",
+    "display_name": "Frank E. Abney III",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Animator Frank E. Abney III Explores Life After Loss in Short Film 'Canvas'",
+        "descriptor": "Animator",
+        "topic": "Life After Loss in Short Film 'Canvas'"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "abney, frank",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.474"
+      },
+      {
+        "matched_name": "abney, frank",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.581"
+      },
+      {
+        "matched_name": "abney, frank",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.07"
+      },
+      {
+        "matched_name": "abney, frank",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.628"
+      }
+    ]
+  },
+  {
+    "guest_key": "ellis|michael|michael",
+    "display_name": "Michael Ellis",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "A Naturalist's Guide to What\u2019s Blooming, Mating, and Migrating in the Wild Corners of the Bay Area",
+        "descriptor": "naturalist",
+        "topic": "where to go and what to look for while staying close to home, animal behavior and species in local parks or backyards"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ellis, michael k",
+        "source": "recipient",
+        "party": "100",
+        "state": "PA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.095"
+      },
+      {
+        "matched_name": "ellis, michael",
+        "source": "recipient",
+        "party": "200",
+        "state": "WI",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.058"
+      },
+      {
+        "matched_name": "ellis, michael",
+        "source": "recipient",
+        "party": "328",
+        "state": "NM",
+        "seat": "local:commissioner",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.736"
+      },
+      {
+        "matched_name": "ellis, michael f",
+        "source": "recipient",
+        "party": "100",
+        "state": "MA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.187"
+      },
+      {
+        "matched_name": "ellis, michael a",
+        "source": "recipient",
+        "party": "328",
+        "state": "SC",
+        "seat": "local:school-board",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.437"
+      }
+    ]
+  },
+  {
+    "guest_key": "drew|kimberly|kimberly",
+    "display_name": "Kimberly Drew",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Kimberly Drew and Jenna Wortham on \u2018Black Futures\u2019",
+        "descriptor": "co-author",
+        "topic": "Black Futures"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "drew, kimberly",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.262"
+      },
+      {
+        "matched_name": "drew, kimberly l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "public relations",
+        "employer": "drew public relations inc",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "drew, kimberly",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.474"
+      },
+      {
+        "matched_name": "drew, kimberly",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.845"
+      },
+      {
+        "matched_name": "drew, kimberly l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "corporate security",
+        "employer": "georgia power co",
+        "cfscore": "1.474"
+      }
+    ]
+  },
+  {
+    "guest_key": "cortese|david|dave",
+    "display_name": "Dave Cortese",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Election 2020: Dave Cortese and Ann Ravel Vie for South Bay State Senate Seat",
+        "descriptor": "candidate for South Bay State Senate Seat",
+        "topic": "Election 2020"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "cortese, david p",
+        "source": "recipient",
+        "party": "100",
+        "state": "MA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.031"
+      },
+      {
+        "matched_name": "cortese, dave",
+        "source": "recipient",
+        "party": "100",
+        "state": "CA",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.456"
+      }
+    ]
+  },
+  {
+    "guest_key": "wilkinson|katharine|katharine",
+    "display_name": "Katharine Wilkinson",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Women\u2019s Leadership on Climate Gets Spotlight in Anthology \u2018All We Can Save\u2019",
+        "descriptor": "author of \"Drawdown\"",
+        "topic": "climate crisis, leadership, and women leaders addressing climate"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "wilkinson, katharine",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.97"
+      },
+      {
+        "matched_name": "wilkinson, katharine",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "the boston consulting group",
+        "cfscore": "-0.981"
+      },
+      {
+        "matched_name": "wilkinson, katharine",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "kkw consulting, llc",
+        "cfscore": "1.499"
+      }
+    ]
+  },
+  {
+    "guest_key": "smith|larry|larry",
+    "display_name": "Larry Smith",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Your Six-Word Pandemic Memoirs",
+        "descriptor": "SMITH Magazine founding editor",
+        "topic": "Six-Word Memoir project and pandemic responses"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "smith, larry m",
+        "source": "recipient",
+        "party": "200",
+        "state": "MD",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.898"
+      },
+      {
+        "matched_name": "smith, larry stanley",
+        "source": "recipient",
+        "party": "200",
+        "state": "TX",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.55"
+      },
+      {
+        "matched_name": "smith, larry joseph",
+        "source": "recipient",
+        "party": "100",
+        "state": "TN",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.141"
+      },
+      {
+        "matched_name": "smith, larry l",
+        "source": "recipient",
+        "party": "200",
+        "state": "AK",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.567"
+      },
+      {
+        "matched_name": "smith, larry",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.163"
+      },
+      {
+        "matched_name": "smith, larry",
+        "source": "recipient",
+        "party": "200",
+        "state": "MT",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.537"
+      },
+      {
+        "matched_name": "smith, larry",
+        "source": "recipient",
+        "party": "328",
+        "state": "NY",
+        "seat": "local:council",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.002"
+      },
+      {
+        "matched_name": "smith, larry s",
+        "source": "recipient",
+        "party": "200",
+        "state": "TX",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.504"
+      },
+      {
+        "matched_name": "smith, larry j",
+        "source": "recipient",
+        "party": "328",
+        "state": "WA",
+        "seat": "local:council",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.193"
+      }
+    ]
+  },
+  {
+    "guest_key": "foley|ned|ned",
+    "display_name": "Ned Foley",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Larry Diamond and Ned Foley Explain the \u2018Terrifying Inadequacy\u2019 of U.S. Election Law",
+        "descriptor": "expert on election law and democracy",
+        "topic": "inadequacy of U.S. election law"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "foley, ned",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "restauranteur",
+        "cfscore": "-0.997"
+      },
+      {
+        "matched_name": "foley, ned",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.008"
+      },
+      {
+        "matched_name": "foley, ned",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "norris|zach|zach",
+    "display_name": "Zach Norris",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Zach Norris On \u2018Building Secure, Just, and Inclusive Communities\u2019",
+        "descriptor": "expert on building secure, just, and inclusive communities",
+        "topic": "Building Secure, Just, and Inclusive Communities"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "norris, zach",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "warehouse manager",
+        "employer": "9five eyewear",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "norris, zach",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "co director",
+        "employer": "justice for families",
+        "cfscore": "-1.236"
+      },
+      {
+        "matched_name": "norris, zach",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "teen challenge",
+        "cfscore": "1.181"
+      },
+      {
+        "matched_name": "norris, zach",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "teen challenge",
+        "cfscore": "1.181"
+      }
+    ]
+  },
+  {
+    "guest_key": "bordewich|fergus|fergus",
+    "display_name": "Fergus Bordewich",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "The Untold Story of How Congress Won the Civil War",
+        "descriptor": "historian",
+        "topic": "Congress's role in the Civil War and his book 'Congress at War'"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "bordewich, fergus",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "readers digest",
+        "cfscore": "-0.901"
+      },
+      {
+        "matched_name": "bordewich, fergus m",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.955"
+      }
+    ]
+  },
+  {
+    "guest_key": "douglas|lawrence|lawrence",
+    "display_name": "Lawrence Douglas",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "What Happens if Trump Resists Stepping Down?",
+        "descriptor": "constitutional law expert",
+        "topic": "election results acceptance and potential consequences of contested elections"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "douglas, lawrence jr",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "douglas, lawrence",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "",
+        "cfscore": "-1.008"
+      },
+      {
+        "matched_name": "douglas, lawrence",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.107"
+      },
+      {
+        "matched_name": "douglas, lawrence",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "0.439"
+      },
+      {
+        "matched_name": "douglas, lawrence",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.347"
+      },
+      {
+        "matched_name": "douglas, lawrence & barbara",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.08"
+      },
+      {
+        "matched_name": "douglas, lawrence",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "program manager",
+        "employer": "jsp",
+        "cfscore": "-0.768"
+      },
+      {
+        "matched_name": "douglas, lawrence y",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "self employed",
+        "cfscore": "1.548"
+      },
+      {
+        "matched_name": "douglas, lawrence",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.111"
+      },
+      {
+        "matched_name": "douglas, lawrence",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "douglas, lawrence",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.177"
+      }
+    ]
+  },
+  {
+    "guest_key": "hacker|jacob|jacob",
+    "display_name": "Jacob Hacker",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Political Scientists Jacob Hacker and Paul Pierson on \u2018How the Right Rules\u2019",
+        "descriptor": "Political Scientist",
+        "topic": "How the Right Rules"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hacker, jacob s",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1"
+      },
+      {
+        "matched_name": "hacker, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "university of california, berkeley",
+        "cfscore": "-1.108"
+      }
+    ]
+  }
+]

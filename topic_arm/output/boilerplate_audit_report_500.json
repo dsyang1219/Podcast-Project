@@ -1,0 +1,232 @@
+{
+  "target": 500,
+  "generated_at": "2026-07-28T05:19:31.770003+00:00",
+  "ngram_size": 8,
+  "within_show_min_episode_frac": 0.3,
+  "min_episodes_for_check": 3,
+  "coverage_flag_threshold": 0.5,
+  "near_dup_cosine_threshold": 0.6,
+  "step1_extremes_audit": {
+    "per_pc": {
+      "PC1": {
+        "n_total": 30,
+        "counts": {
+          "substantive": 27,
+          "mostly_ad": 2,
+          "mostly_patreon_shoutout": 1
+        },
+        "n_nonsubstantive": 3,
+        "pct_nonsubstantive": 10.0
+      },
+      "PC2": {
+        "n_total": 30,
+        "counts": {
+          "substantive": 22,
+          "near_duplicate_of_another_extreme": 6,
+          "mostly_intro_outro": 2
+        },
+        "n_nonsubstantive": 8,
+        "pct_nonsubstantive": 26.7
+      },
+      "PC3": {
+        "n_total": 30,
+        "counts": {
+          "substantive": 21,
+          "near_duplicate_of_another_extreme": 4,
+          "mostly_ad": 4,
+          "mostly_intro_outro": 1
+        },
+        "n_nonsubstantive": 9,
+        "pct_nonsubstantive": 30.0
+      },
+      "PC4": {
+        "n_total": 30,
+        "counts": {
+          "substantive": 22,
+          "mostly_ad": 6,
+          "mostly_intro_outro": 2
+        },
+        "n_nonsubstantive": 8,
+        "pct_nonsubstantive": 26.7
+      },
+      "PC5": {
+        "n_total": 30,
+        "counts": {
+          "substantive": 23,
+          "mostly_ad": 5,
+          "mostly_patreon_shoutout": 1,
+          "mostly_intro_outro": 1
+        },
+        "n_nonsubstantive": 7,
+        "pct_nonsubstantive": 23.3
+      }
+    },
+    "overall": {
+      "n_total_extreme_slots": 150,
+      "n_nonsubstantive": 35,
+      "pct_nonsubstantive": 23.3,
+      "cross_pc_near_duplicates_found": 10
+    },
+    "detail_csv": "boilerplate_audit_extremes_detail.csv"
+  },
+  "step2_corpus_wide": {
+    "n_shows_checked_for_within_show_ngrams": 204,
+    "n_shows_total": 204,
+    "corpus_wide_flagged_fraction": 0.0035,
+    "n_chunks_total": 40242,
+    "n_chunks_flagged": 139,
+    "tail_fraction_flagged": 0.0,
+    "n_tail_chunks_checked": 149,
+    "tail_vs_corpus_ratio": 0.0,
+    "histogram_pct_flagged_per_show": {
+      "0%": 194,
+      "0-1%": 3,
+      "1-5%": 4,
+      "5-10%": 1,
+      "10-20%": 1,
+      "20-30%": 1,
+      "30-50%": 0,
+      "50-75%": 0,
+      "75-100%": 0
+    },
+    "top15_most_contaminated_shows": [
+      {
+        "collection_id": 1839861250,
+        "show_name": "The Moment with Jorge Ramos and Paola Ramos",
+        "n_chunks": 280,
+        "n_flagged": 70,
+        "pct_flagged": 25.0
+      },
+      {
+        "collection_id": 1050430296,
+        "show_name": "The New Yorker Radio Hour",
+        "n_chunks": 225,
+        "n_flagged": 27,
+        "pct_flagged": 12.0
+      },
+      {
+        "collection_id": 1551582052,
+        "show_name": "The Lincoln Project",
+        "n_chunks": 275,
+        "n_flagged": 18,
+        "pct_flagged": 6.545454545454546
+      },
+      {
+        "collection_id": 1476110521,
+        "show_name": "Useful Idiots with Katie Halper and Aaron Mat\u00e9",
+        "n_chunks": 215,
+        "n_flagged": 8,
+        "pct_flagged": 3.7209302325581395
+      },
+      {
+        "collection_id": 1495251160,
+        "show_name": "John Solomon Reports",
+        "n_chunks": 255,
+        "n_flagged": 7,
+        "pct_flagged": 2.7450980392156863
+      },
+      {
+        "collection_id": 1728340033,
+        "show_name": "Mission Implausible",
+        "n_chunks": 258,
+        "n_flagged": 3,
+        "pct_flagged": 1.1627906976744187
+      },
+      {
+        "collection_id": 1493858530,
+        "show_name": "Hood Politics with Prop",
+        "n_chunks": 197,
+        "n_flagged": 2,
+        "pct_flagged": 1.015228426395939
+      },
+      {
+        "collection_id": 1093260018,
+        "show_name": "Slate News",
+        "n_chunks": 245,
+        "n_flagged": 2,
+        "pct_flagged": 0.8163265306122449
+      },
+      {
+        "collection_id": 1200016351,
+        "show_name": "Pod Save the World",
+        "n_chunks": 241,
+        "n_flagged": 1,
+        "pct_flagged": 0.4149377593360996
+      },
+      {
+        "collection_id": 1538788132,
+        "show_name": "Tangle",
+        "n_chunks": 261,
+        "n_flagged": 1,
+        "pct_flagged": 0.3831417624521073
+      },
+      {
+        "collection_id": 1633301179,
+        "show_name": "Countdown with Keith Olbermann",
+        "n_chunks": 189,
+        "n_flagged": 0,
+        "pct_flagged": 0.0
+      },
+      {
+        "collection_id": 1606834013,
+        "show_name": "The Josh Hammer Show",
+        "n_chunks": 242,
+        "n_flagged": 0,
+        "pct_flagged": 0.0
+      },
+      {
+        "collection_id": 1607829807,
+        "show_name": "Mark Kaye Saves The Republic",
+        "n_chunks": 205,
+        "n_flagged": 0,
+        "pct_flagged": 0.0
+      },
+      {
+        "collection_id": 1612691018,
+        "show_name": "THE WEEKEND SHOW",
+        "n_chunks": 192,
+        "n_flagged": 0,
+        "pct_flagged": 0.0
+      },
+      {
+        "collection_id": 1669610956,
+        "show_name": "System Update with Glenn Greenwald",
+        "n_chunks": 124,
+        "n_flagged": 0,
+        "pct_flagged": 0.0
+      }
+    ],
+    "per_show_csv": "boilerplate_per_show.csv"
+  },
+  "step3_correlations": {
+    "avg_host_cfscore": {
+      "n": 120,
+      "pearson_r": -0.08623733522306641,
+      "pearson_p": 0.348994747055079,
+      "spearman_r": -0.12333197109450597,
+      "spearman_p": 0.1795886933114036
+    },
+    "avg_episode_minutes": {
+      "n": 204,
+      "pearson_r": -0.05172790960318711,
+      "pearson_p": 0.4624768296187226,
+      "spearman_r": -0.11340432077285255,
+      "spearman_p": 0.10631093169865552
+    },
+    "episodes_per_week": {
+      "n": 204,
+      "pearson_r": -0.06444254959387653,
+      "pearson_p": 0.35981369855936046,
+      "spearman_r": -0.059330805352318,
+      "spearman_p": 0.3992569105458813
+    }
+  },
+  "step4_verdict": {
+    "severity": "minor",
+    "corpus_wide_flagged_fraction": 0.0035,
+    "cfscore_correlation": -0.08623733522306641,
+    "cfscore_correlated_flag": false,
+    "tail_fraction_flagged": 0.0,
+    "recommendation": "Note as caveat in the dimension writeup; no re-clean/re-embed needed. Tail contamination is real but doesn't move the corpus-wide picture."
+  }
+}

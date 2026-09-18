@@ -1,0 +1,777 @@
+{
+  "generated_at": "2026-07-31T06:09:57.572487+00:00",
+  "n_shows": 204,
+  "k_topics": 75,
+  "view1_permutation": {
+    "n_permutations": 1000,
+    "real_max_abs_pearson_r": 0.4125910610379444,
+    "null_max_abs_r_95th_pct": 0.23593713268663818,
+    "null_max_abs_r_99th_pct": 0.2675902381623643,
+    "fraction_of_null_draws_ge_real_max": 0.0,
+    "verdict": "real top association clears the permutation null"
+  },
+  "view1_top_conservative": [
+    {
+      "topic": "T57",
+      "pearson_r": 0.4125910610379444,
+      "pearson_p": 8.670402421052763e-10,
+      "spearman_r": 0.3996426606447188,
+      "spearman_p": 3.188738958156064e-09,
+      "top_words": "going, know, right, got, think, want, people, time, lot, things, said, let"
+    },
+    {
+      "topic": "T51",
+      "pearson_r": 0.3450800306500152,
+      "pearson_p": 4.313620174736625e-07,
+      "spearman_r": 0.28203871436082373,
+      "spearman_p": 4.372830462241096e-05,
+      "top_words": "america, country, american, people, united, states, president, great, world, americans, today, nation"
+    },
+    {
+      "topic": "T24",
+      "pearson_r": 0.32599694246954675,
+      "pearson_p": 1.9533997245776698e-06,
+      "spearman_r": 0.10121269926039667,
+      "spearman_p": 0.1497471769988718,
+      "top_words": "state, texas, virginia, states, governor, florida, new, redistricting, democrats, seats, map, beach"
+    },
+    {
+      "topic": "T23",
+      "pearson_r": 0.29668750181344117,
+      "pearson_p": 1.640505557313454e-05,
+      "spearman_r": 0.1739760683018867,
+      "spearman_p": 0.012824205278267845,
+      "top_words": "biden, joe, president, trump, obama, taylor, hunter, administration, clinton, greene, years, marjorie"
+    },
+    {
+      "topic": "T28",
+      "pearson_r": 0.26806197430853745,
+      "pearson_p": 0.00010603604545165603,
+      "spearman_r": 0.25590120584827536,
+      "spearman_p": 0.00022054218038519843,
+      "top_words": "got, know, right, going, guy, good, little, man, let, love, guys, thing"
+    },
+    {
+      "topic": "T26",
+      "pearson_r": 0.2599792993933986,
+      "pearson_p": 0.00017319771019161154,
+      "spearman_r": 0.3010407438310625,
+      "spearman_p": 1.2130723911851546e-05,
+      "top_words": "police, violence, gun, shot, shooting, killed, car, video, happened, murder, death, man"
+    },
+    {
+      "topic": "T12",
+      "pearson_r": 0.24269960139208585,
+      "pearson_p": 0.0004694942909658266,
+      "spearman_r": 0.22662213589128719,
+      "spearman_p": 0.001116350050555332,
+      "top_words": "people, know, think, going, want, right, mean, said, thing, saying, way, things"
+    },
+    {
+      "topic": "T67",
+      "pearson_r": 0.23465222745743503,
+      "pearson_p": 0.0007296163820834237,
+      "spearman_r": 0.16675577770202207,
+      "spearman_p": 0.017133564861268564,
+      "top_words": "charlie, kirk, tucker, carlson, candace, guys, point, owens, erica, turning, nick, saying"
+    },
+    {
+      "topic": "T71",
+      "pearson_r": 0.20812647153322933,
+      "pearson_p": 0.0028158725346350963,
+      "spearman_r": 0.30485373010614764,
+      "spearman_p": 9.275157979809046e-06,
+      "top_words": "gold, going, people, bitcoin, silver, system, bank, trump, time, world, money, crypto"
+    },
+    {
+      "topic": "T18",
+      "pearson_r": 0.16125999265336677,
+      "pearson_p": 0.021211314158071693,
+      "spearman_r": 0.17693387137162372,
+      "spearman_p": 0.01135440695853891,
+      "top_words": "health, people, medical, vaccine, covid, doctor, cancer, vaccines, rfk, research, drug, doctors"
+    }
+  ],
+  "view1_top_liberal": [
+    {
+      "topic": "T69",
+      "pearson_r": -0.34133233771719196,
+      "pearson_p": 5.849935400517796e-07,
+      "spearman_r": -0.3600356632664481,
+      "spearman_p": 1.228600312902207e-07,
+      "top_words": "power, people, democracy, government, political, system, country, party, control, american, democratic, right"
+    },
+    {
+      "topic": "T64",
+      "pearson_r": -0.24581433969597005,
+      "pearson_p": 0.0003942705942457301,
+      "spearman_r": -0.2257344415888763,
+      "spearman_p": 0.0011690516790521922,
+      "top_words": "trump, donald, president, said, white, house, going, administration, maga, wants, saying, vance"
+    },
+    {
+      "topic": "T41",
+      "pearson_r": -0.22765296536344834,
+      "pearson_p": 0.001057891239316929,
+      "spearman_r": -0.35407129048137986,
+      "spearman_p": 2.043184362867358e-07,
+      "top_words": "people, need, right, work, community, going, want, folks, movement, know, fight, local"
+    },
+    {
+      "topic": "T35",
+      "pearson_r": -0.22474386460072365,
+      "pearson_p": 0.0012305489015166054,
+      "spearman_r": -0.15341774675051023,
+      "spearman_p": 0.028468806667511285,
+      "top_words": "epstein, files, jeffrey, trump, release, maxwell, released, documents, bondi, sex, justice, victims"
+    },
+    {
+      "topic": "T39",
+      "pearson_r": -0.1874564514125065,
+      "pearson_p": 0.0072572427709732355,
+      "spearman_r": -0.16373295243815938,
+      "spearman_p": 0.019282797001974196,
+      "top_words": "know, think, mean, kind, people, right, sort, lot, thing, things, going, stuff"
+    },
+    {
+      "topic": "T61",
+      "pearson_r": -0.17782278569322557,
+      "pearson_p": 0.010942714775728099,
+      "spearman_r": -0.14807249833559477,
+      "spearman_p": 0.03455220909056421,
+      "top_words": "think, way, lot, things, kind, question, sort, actually, point, time, different, right"
+    },
+    {
+      "topic": "T46",
+      "pearson_r": -0.1684266194918214,
+      "pearson_p": 0.016037565553336713,
+      "spearman_r": -0.08610846762279814,
+      "spearman_p": 0.22072844554568438,
+      "top_words": "fucking, right, shit, na, gon, thing, guy, fuck, guys, got, blah, man"
+    },
+    {
+      "topic": "T56",
+      "pearson_r": -0.12506183869519635,
+      "pearson_p": 0.07470552851417975,
+      "spearman_r": -0.00312318560696963,
+      "spearman_p": 0.9646381595783252,
+      "top_words": "case, attorney, justice, judge, department, jury, court, law, evidence, general, doj, criminal"
+    },
+    {
+      "topic": "T60",
+      "pearson_r": -0.10187977522059154,
+      "pearson_p": 0.14706738187002522,
+      "spearman_r": -0.09727814975281579,
+      "spearman_p": 0.16631030907488284,
+      "top_words": "thank, podcast, know, week, great, want, thanks, going, think, talk, good, today"
+    },
+    {
+      "topic": "T38",
+      "pearson_r": -0.09839317517201002,
+      "pearson_p": 0.1614834328067245,
+      "spearman_r": 0.08618550478757743,
+      "spearman_p": 0.22031418502409453,
+      "top_words": "china, united, states, chinese, world, countries, foreign, american, global, taiwan, security, trade"
+    }
+  ],
+  "view2_meta": {
+    "best_alpha": 100.0,
+    "n_bootstrap": 1000,
+    "sign_stable_threshold": 0.9
+  },
+  "view2_sign_stable_top15": [
+    {
+      "topic": "T41",
+      "ridge_coef_standardized": -0.12912401679570656,
+      "sign": "negative(liberal)",
+      "pct_bootstrap_matching_sign": 1.0,
+      "sign_stable": true,
+      "top_words": "people, need, right, work, community, going, want, folks, movement, know, fight, local"
+    },
+    {
+      "topic": "T46",
+      "ridge_coef_standardized": -0.12365303577512249,
+      "sign": "negative(liberal)",
+      "pct_bootstrap_matching_sign": 1.0,
+      "sign_stable": true,
+      "top_words": "fucking, right, shit, na, gon, thing, guy, fuck, guys, got, blah, man"
+    },
+    {
+      "topic": "T64",
+      "ridge_coef_standardized": -0.1194802533325655,
+      "sign": "negative(liberal)",
+      "pct_bootstrap_matching_sign": 1.0,
+      "sign_stable": true,
+      "top_words": "trump, donald, president, said, white, house, going, administration, maga, wants, saying, vance"
+    },
+    {
+      "topic": "T35",
+      "ridge_coef_standardized": -0.10324165192262001,
+      "sign": "negative(liberal)",
+      "pct_bootstrap_matching_sign": 1.0,
+      "sign_stable": true,
+      "top_words": "epstein, files, jeffrey, trump, release, maxwell, released, documents, bondi, sex, justice, victims"
+    },
+    {
+      "topic": "T71",
+      "ridge_coef_standardized": 0.09042490125928004,
+      "sign": "positive(conservative)",
+      "pct_bootstrap_matching_sign": 0.998,
+      "sign_stable": true,
+      "top_words": "gold, going, people, bitcoin, silver, system, bank, trump, time, world, money, crypto"
+    },
+    {
+      "topic": "T49",
+      "ridge_coef_standardized": -0.08908742191030457,
+      "sign": "negative(liberal)",
+      "pct_bootstrap_matching_sign": 1.0,
+      "sign_stable": true,
+      "top_words": "new, news, quote, said, today, week, president, morning, day, days, tonight, time"
+    },
+    {
+      "topic": "T69",
+      "ridge_coef_standardized": -0.08902501276307073,
+      "sign": "negative(liberal)",
+      "pct_bootstrap_matching_sign": 1.0,
+      "sign_stable": true,
+      "top_words": "power, people, democracy, government, political, system, country, party, control, american, democratic, right"
+    },
+    {
+      "topic": "T51",
+      "ridge_coef_standardized": 0.08003904675326831,
+      "sign": "positive(conservative)",
+      "pct_bootstrap_matching_sign": 1.0,
+      "sign_stable": true,
+      "top_words": "america, country, american, people, united, states, president, great, world, americans, today, nation"
+    },
+    {
+      "topic": "T26",
+      "ridge_coef_standardized": 0.076995671820664,
+      "sign": "positive(conservative)",
+      "pct_bootstrap_matching_sign": 0.999,
+      "sign_stable": true,
+      "top_words": "police, violence, gun, shot, shooting, killed, car, video, happened, murder, death, man"
+    },
+    {
+      "topic": "T23",
+      "ridge_coef_standardized": 0.0719765985694717,
+      "sign": "positive(conservative)",
+      "pct_bootstrap_matching_sign": 0.998,
+      "sign_stable": true,
+      "top_words": "biden, joe, president, trump, obama, taylor, hunter, administration, clinton, greene, years, marjorie"
+    },
+    {
+      "topic": "T57",
+      "ridge_coef_standardized": 0.06863464604134864,
+      "sign": "positive(conservative)",
+      "pct_bootstrap_matching_sign": 1.0,
+      "sign_stable": true,
+      "top_words": "going, know, right, got, think, want, people, time, lot, things, said, let"
+    },
+    {
+      "topic": "T24",
+      "ridge_coef_standardized": 0.06734286079786378,
+      "sign": "positive(conservative)",
+      "pct_bootstrap_matching_sign": 0.983,
+      "sign_stable": true,
+      "top_words": "state, texas, virginia, states, governor, florida, new, redistricting, democrats, seats, map, beach"
+    },
+    {
+      "topic": "T11",
+      "ridge_coef_standardized": -0.06156550716071517,
+      "sign": "negative(liberal)",
+      "pct_bootstrap_matching_sign": 0.996,
+      "sign_stable": true,
+      "top_words": "ukraine, russia, putin, russian, war, nato, russians, europe, zelensky, ukrainian, peace, ukrainians"
+    },
+    {
+      "topic": "T25",
+      "ridge_coef_standardized": 0.05386624257400622,
+      "sign": "positive(conservative)",
+      "pct_bootstrap_matching_sign": 0.991,
+      "sign_stable": true,
+      "top_words": "church, christian, pope, catholic, religious, religion, jewish, christians, jews, bible, faith, christianity"
+    },
+    {
+      "topic": "T14",
+      "ridge_coef_standardized": -0.05111791928623242,
+      "sign": "negative(liberal)",
+      "pct_bootstrap_matching_sign": 0.96,
+      "sign_stable": true,
+      "top_words": "black, white, people, race, rights, racist, racial, south, country, racism, american, brown"
+    }
+  ],
+  "view3_k_sweep": [
+    {
+      "k": 3,
+      "n": 204,
+      "topics_used": [
+        "T57",
+        "T51",
+        "T69"
+      ],
+      "loso_cv_r2": 0.2514640497709022,
+      "ci_95": [
+        0.13027474870036093,
+        0.349702434567267
+      ],
+      "permutation_r2": -0.01881199799220057
+    },
+    {
+      "k": 5,
+      "n": 204,
+      "topics_used": [
+        "T57",
+        "T51",
+        "T69",
+        "T24",
+        "T23"
+      ],
+      "loso_cv_r2": 0.23348685011659387,
+      "ci_95": [
+        0.11112079954425244,
+        0.33240138197865604
+      ],
+      "permutation_r2": -0.005921419530129146
+    },
+    {
+      "k": 10,
+      "n": 204,
+      "topics_used": [
+        "T57",
+        "T51",
+        "T69",
+        "T24",
+        "T23",
+        "T28",
+        "T26",
+        "T64",
+        "T12",
+        "T67"
+      ],
+      "loso_cv_r2": 0.35590099128301667,
+      "ci_95": [
+        0.21508901002508216,
+        0.4714505820011182
+      ],
+      "permutation_r2": -0.03193853651195999
+    },
+    {
+      "k": 20,
+      "n": 204,
+      "topics_used": [
+        "T57",
+        "T51",
+        "T69",
+        "T24",
+        "T23",
+        "T28",
+        "T26",
+        "T64",
+        "T12",
+        "T67",
+        "T41",
+        "T35",
+        "T71",
+        "T39",
+        "T61",
+        "T46",
+        "T18",
+        "T42",
+        "T43",
+        "T59"
+      ],
+      "loso_cv_r2": 0.49251654942427625,
+      "ci_95": [
+        0.34078402622582993,
+        0.6124631141959322
+      ],
+      "permutation_r2": -0.04743058277875023
+    },
+    {
+      "k": 75,
+      "n": 204,
+      "topics_used": [
+        "T57",
+        "T51",
+        "T69",
+        "T24",
+        "T23",
+        "T28",
+        "T26",
+        "T64",
+        "T12",
+        "T67",
+        "T41",
+        "T35",
+        "T71",
+        "T39",
+        "T61",
+        "T46",
+        "T18",
+        "T42",
+        "T43",
+        "T59",
+        "T30",
+        "T56",
+        "T15",
+        "T25",
+        "T70",
+        "T1",
+        "T5",
+        "T60",
+        "T38",
+        "T3",
+        "T36",
+        "T54",
+        "T47",
+        "T11",
+        "T27",
+        "T10",
+        "T63",
+        "T17",
+        "T31",
+        "T49",
+        "T45",
+        "T14",
+        "T29",
+        "T44",
+        "T74",
+        "T8",
+        "T19",
+        "T13",
+        "T55",
+        "T73",
+        "T32",
+        "T37",
+        "T48",
+        "T7",
+        "T16",
+        "T66",
+        "T21",
+        "T2",
+        "T68",
+        "T62",
+        "T72",
+        "T34",
+        "T53",
+        "T40",
+        "T50",
+        "T22",
+        "T33",
+        "T65",
+        "T58",
+        "T20",
+        "T9",
+        "T6",
+        "T52",
+        "T0",
+        "T4"
+      ],
+      "loso_cv_r2": 0.4300581484593332,
+      "ci_95": [
+        0.29732508603976593,
+        0.5367701823354548
+      ],
+      "permutation_r2": -0.012166752704261485
+    }
+  ],
+  "cross_view_synthesis": [
+    {
+      "topic": "T57",
+      "top_words": "going, know, right, got, think, want, people, time, lot, things, said, let",
+      "univariate_r": 0.4125910610379444,
+      "ridge_coef": 0.06863464604134864,
+      "sign_stable_pct": 1.0,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": true,
+      "lean": "R",
+      "is_filler_topic": true
+    },
+    {
+      "topic": "T51",
+      "top_words": "america, country, american, people, united, states, president, great, world, americans, today, nation",
+      "univariate_r": 0.3450800306500152,
+      "ridge_coef": 0.08003904675326831,
+      "sign_stable_pct": 1.0,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": true,
+      "lean": "R",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T69",
+      "top_words": "power, people, democracy, government, political, system, country, party, control, american, democratic, right",
+      "univariate_r": -0.34133233771719196,
+      "ridge_coef": -0.08902501276307073,
+      "sign_stable_pct": 1.0,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": true,
+      "lean": "L",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T24",
+      "top_words": "state, texas, virginia, states, governor, florida, new, redistricting, democrats, seats, map, beach",
+      "univariate_r": 0.32599694246954675,
+      "ridge_coef": 0.06734286079786378,
+      "sign_stable_pct": 0.983,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": true,
+      "lean": "R",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T23",
+      "top_words": "biden, joe, president, trump, obama, taylor, hunter, administration, clinton, greene, years, marjorie",
+      "univariate_r": 0.29668750181344117,
+      "ridge_coef": 0.0719765985694717,
+      "sign_stable_pct": 0.998,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": true,
+      "lean": "R",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T26",
+      "top_words": "police, violence, gun, shot, shooting, killed, car, video, happened, murder, death, man",
+      "univariate_r": 0.2599792993933986,
+      "ridge_coef": 0.076995671820664,
+      "sign_stable_pct": 0.999,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": true,
+      "lean": "R",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T64",
+      "top_words": "trump, donald, president, said, white, house, going, administration, maga, wants, saying, vance",
+      "univariate_r": -0.24581433969597005,
+      "ridge_coef": -0.1194802533325655,
+      "sign_stable_pct": 1.0,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": true,
+      "lean": "L",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T41",
+      "top_words": "people, need, right, work, community, going, want, folks, movement, know, fight, local",
+      "univariate_r": -0.22765296536344834,
+      "ridge_coef": -0.12912401679570656,
+      "sign_stable_pct": 1.0,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": true,
+      "lean": "L",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T35",
+      "top_words": "epstein, files, jeffrey, trump, release, maxwell, released, documents, bondi, sex, justice, victims",
+      "univariate_r": -0.22474386460072365,
+      "ridge_coef": -0.10324165192262001,
+      "sign_stable_pct": 1.0,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": true,
+      "lean": "L",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T71",
+      "top_words": "gold, going, people, bitcoin, silver, system, bank, trump, time, world, money, crypto",
+      "univariate_r": 0.20812647153322933,
+      "ridge_coef": 0.09042490125928004,
+      "sign_stable_pct": 0.998,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": true,
+      "lean": "R",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T46",
+      "top_words": "fucking, right, shit, na, gon, thing, guy, fuck, guys, got, blah, man",
+      "univariate_r": -0.1684266194918214,
+      "ridge_coef": -0.12365303577512249,
+      "sign_stable_pct": 1.0,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": true,
+      "lean": "L",
+      "is_filler_topic": true
+    },
+    {
+      "topic": "T28",
+      "top_words": "got, know, right, going, guy, good, little, man, let, love, guys, thing",
+      "univariate_r": 0.26806197430853745,
+      "ridge_coef": 0.0321891265784163,
+      "sign_stable_pct": 0.903,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": false,
+      "lean": "R",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T12",
+      "top_words": "people, know, think, going, want, right, mean, said, thing, saying, way, things",
+      "univariate_r": 0.24269960139208585,
+      "ridge_coef": 0.04375248742454253,
+      "sign_stable_pct": 0.978,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": false,
+      "lean": "R",
+      "is_filler_topic": true
+    },
+    {
+      "topic": "T67",
+      "top_words": "charlie, kirk, tucker, carlson, candace, guys, point, owens, erica, turning, nick, saying",
+      "univariate_r": 0.23465222745743503,
+      "ridge_coef": 0.045793856973273726,
+      "sign_stable_pct": 0.956,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": false,
+      "lean": "R",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T39",
+      "top_words": "know, think, mean, kind, people, right, sort, lot, thing, things, going, stuff",
+      "univariate_r": -0.1874564514125065,
+      "ridge_coef": -0.03742100972618932,
+      "sign_stable_pct": 0.975,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": false,
+      "lean": "L",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T25",
+      "top_words": "church, christian, pope, catholic, religious, religion, jewish, christians, jews, bible, faith, christianity",
+      "univariate_r": 0.12282628555864283,
+      "ridge_coef": 0.05386624257400622,
+      "sign_stable_pct": 0.991,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": false,
+      "lean": "R",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T60",
+      "top_words": "thank, podcast, know, week, great, want, thanks, going, think, talk, good, today",
+      "univariate_r": -0.10187977522059154,
+      "ridge_coef": -0.033967018513914794,
+      "sign_stable_pct": 0.93,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": false,
+      "lean": "L",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T38",
+      "top_words": "china, united, states, chinese, world, countries, foreign, american, global, taiwan, security, trade",
+      "univariate_r": -0.09839317517201002,
+      "ridge_coef": 0.031174518269343764,
+      "sign_stable_pct": 0.928,
+      "sign_stable": true,
+      "views_agree_on_direction": false,
+      "flagged_by_both_top_lists": false,
+      "lean": "MIXED/UNSTABLE",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T11",
+      "top_words": "ukraine, russia, putin, russian, war, nato, russians, europe, zelensky, ukrainian, peace, ukrainians",
+      "univariate_r": -0.0898815882832993,
+      "ridge_coef": -0.06156550716071517,
+      "sign_stable_pct": 0.996,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": false,
+      "lean": "L",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T49",
+      "top_words": "new, news, quote, said, today, week, president, morning, day, days, tonight, time",
+      "univariate_r": -0.07950441334203984,
+      "ridge_coef": -0.08908742191030457,
+      "sign_stable_pct": 1.0,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": false,
+      "lean": "L",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T14",
+      "top_words": "black, white, people, race, rights, racist, racial, south, country, racism, american, brown",
+      "univariate_r": -0.07317337487952391,
+      "ridge_coef": -0.05111791928623242,
+      "sign_stable_pct": 0.96,
+      "sign_stable": true,
+      "views_agree_on_direction": true,
+      "flagged_by_both_top_lists": false,
+      "lean": "L",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T61",
+      "top_words": "think, way, lot, things, kind, question, sort, actually, point, time, different, right",
+      "univariate_r": -0.17782278569322557,
+      "ridge_coef": -0.015274968787577186,
+      "sign_stable_pct": 0.834,
+      "sign_stable": false,
+      "views_agree_on_direction": false,
+      "flagged_by_both_top_lists": false,
+      "lean": "MIXED/UNSTABLE",
+      "is_filler_topic": true
+    },
+    {
+      "topic": "T18",
+      "top_words": "health, people, medical, vaccine, covid, doctor, cancer, vaccines, rfk, research, drug, doctors",
+      "univariate_r": 0.16125999265336677,
+      "ridge_coef": 0.004977041287375901,
+      "sign_stable_pct": 0.589,
+      "sign_stable": false,
+      "views_agree_on_direction": false,
+      "flagged_by_both_top_lists": false,
+      "lean": "MIXED/UNSTABLE",
+      "is_filler_topic": false
+    },
+    {
+      "topic": "T56",
+      "top_words": "case, attorney, justice, judge, department, jury, court, law, evidence, general, doj, criminal",
+      "univariate_r": -0.12506183869519635,
+      "ridge_coef": -0.015375564041854126,
+      "sign_stable_pct": 0.77,
+      "sign_stable": false,
+      "views_agree_on_direction": false,
+      "flagged_by_both_top_lists": false,
+      "lean": "MIXED/UNSTABLE",
+      "is_filler_topic": false
+    }
+  ],
+  "filler_topics": [
+    "T12",
+    "T46",
+    "T57",
+    "T61",
+    "T9"
+  ],
+  "n_filler_topics_flagged_in_synthesis": 4
+}

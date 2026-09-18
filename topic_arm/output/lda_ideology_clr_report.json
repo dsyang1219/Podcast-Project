@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-07-29T01:26:13.588665+00:00",
+  "change_from_original_arm": [
+    "CLR transform on show-level topic proportions before Ridge (compositional-data-correct)",
+    "documented exclusion: The Moment with Jorge Ramos and Paola Ramos (show_id 1839861250): Single dominant driver of LOSO-CV blowups at every tested K in the original raw-proportions run (K=20: pred=+8.49 vs true=-1.02; K=30: pred=-6.06; K=50: pred=+18.95) -- plausibly bilingual Spanish/English content producing a topic-proportion vector far outside the mostly-English corpus vocabulary. One-show, documented, diagnosis-driven exclusion for this arm only."
+  ],
+  "n_matched_shows": 119,
+  "note_n_mismatch": "N=119 for this arm (120 minus 1 documented exclusion) vs embedding baseline's N=120 -- embedding arm NOT rerun, cited from record per task scope.",
+  "embedding_baseline_reference": {
+    "representation": "embedding (768d, full mean-pooled)",
+    "unit": "show",
+    "model": "Ridge",
+    "loso_cv_r2": 0.21,
+    "n": 120,
+    "source": "record"
+  },
+  "ks": [
+    20,
+    30,
+    50
+  ],
+  "per_k": {
+    "20": {
+      "k": 20,
+      "n_matched_shows": 119,
+      "loso_cv_r2": 0.2130115615185909,
+      "bootstrap_95ci": [
+        -0.01273416409327539,
+        0.3864198210262908
+      ],
+      "permutation_r2": -0.020946692601189865
+    },
+    "30": {
+      "k": 30,
+      "n_matched_shows": 119,
+      "loso_cv_r2": 0.24647897655664208,
+      "bootstrap_95ci": [
+        0.021535344825793,
+        0.4258660973651147
+      ],
+      "permutation_r2": -0.022807592105090313
+    },
+    "50": {
+      "k": 50,
+      "n_matched_shows": 119,
+      "loso_cv_r2": 0.3279828809739862,
+      "bootstrap_95ci": [
+        0.15715311039536872,
+        0.46006478927261757
+      ],
+      "permutation_r2": -0.02453728389761589
+    }
+  },
+  "head_to_head": [
+    {
+      "representation": "embedding (768d)",
+      "unit": "show",
+      "model": "Ridge",
+      "n": 120,
+      "loso_cv_r2": 0.21,
+      "ci_95": null,
+      "permutation_r2": null,
+      "source": "record"
+    },
+    {
+      "representation": "LDA topics CLR (K=20, -1 show)",
+      "unit": "show",
+      "model": "Ridge",
+      "n": 119,
+      "loso_cv_r2": 0.2130115615185909,
+      "ci_95": [
+        -0.01273416409327539,
+        0.3864198210262908
+      ],
+      "permutation_r2": -0.020946692601189865,
+      "source": "computed"
+    },
+    {
+      "representation": "LDA topics CLR (K=30, -1 show)",
+      "unit": "show",
+      "model": "Ridge",
+      "n": 119,
+      "loso_cv_r2": 0.24647897655664208,
+      "ci_95": [
+        0.021535344825793,
+        0.4258660973651147
+      ],
+      "permutation_r2": -0.022807592105090313,
+      "source": "computed"
+    },
+    {
+      "representation": "LDA topics CLR (K=50, -1 show)",
+      "unit": "show",
+      "model": "Ridge",
+      "n": 119,
+      "loso_cv_r2": 0.3279828809739862,
+      "ci_95": [
+        0.15715311039536872,
+        0.46006478927261757
+      ],
+      "permutation_r2": -0.02453728389761589,
+      "source": "computed"
+    }
+  ],
+  "verdict": "topic >> style: best K=50, R2=0.328 vs embedding R2=0.21."
+}

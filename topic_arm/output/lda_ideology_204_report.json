@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-07-31T04:37:48.343074+00:00",
+  "arm": "LDA topics (CLR, K=75)",
+  "k": 75,
+  "note": "Reused already-fit K=75 doc-topic matrix; no K re-sweep, no LDA refit.",
+  "results": [
+    {
+      "condition": "host_clean",
+      "n": 84,
+      "target": "avg_host_cfscore",
+      "loso_cv_r2": 0.359411215912651,
+      "ci_95": [
+        0.16696932358874375,
+        0.5115206068826602
+      ],
+      "pearson_r": 0.603606661456217,
+      "pearson_p": 1.220515118918391e-09,
+      "permutation_r2": -0.02746489449330536
+    },
+    {
+      "condition": "extended_all",
+      "n": 204,
+      "target": "ideology_primary",
+      "loso_cv_r2": 0.4300581484593332,
+      "ci_95": [
+        0.2973250860397658,
+        0.5367701823354548
+      ],
+      "pearson_r": 0.6575925122369294,
+      "pearson_p": 1.2137881143744737e-26,
+      "permutation_r2": -0.012166752704261485
+    },
+    {
+      "condition": "well_supported",
+      "n": 188,
+      "target": "ideology_primary",
+      "loso_cv_r2": 0.4274167261579148,
+      "ci_95": [
+        0.29006032732740683,
+        0.5347040172971969
+      ],
+      "pearson_r": 0.6562632644743885,
+      "pearson_p": 1.5651785776791313e-24,
+      "permutation_r2": -0.011953240454829483
+    },
+    {
+      "condition": "guest_uniform",
+      "n": 202,
+      "target": "ideology_guest_only",
+      "loso_cv_r2": 0.6103235607177282,
+      "ci_95": [
+        0.525463800818878,
+        0.6762262735091332
+      ],
+      "pearson_r": 0.7873555966070058,
+      "pearson_p": 6.916638008537438e-44,
+      "permutation_r2": -0.02799953914126352
+    },
+    {
+      "condition": "extended_weighted",
+      "n": 204,
+      "target": "ideology_primary",
+      "loso_cv_r2": 0.427124789915972,
+      "ci_95": [
+        0.3018777756341415,
+        0.5308812461340916
+      ],
+      "pearson_r": 0.6559638920854023,
+      "pearson_p": 1.7791634786329554e-26,
+      "permutation_r2": -0.012285838098174962
+    }
+  ]
+}

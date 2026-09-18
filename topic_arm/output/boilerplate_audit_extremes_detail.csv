@@ -1,0 +1,151 @@
+pc,pole,chunk_id,show_name,content_category,near_duplicate,near_duplicate_of_chunk_id,near_duplicate_of_pc,max_cosine_to_other_extreme,final_classification
+1,high,978d852d5cc425a3_3,Russian Roulette,substantive,False,,,0.44719795970715215,substantive
+1,high,7b9fb5a40cf2ab08_4,Russian Roulette,substantive,False,,,0.35488631691809663,substantive
+1,high,f59c45e37efaf242_3,The Foreign Affairs Interview,substantive,False,,,0.34785303586259864,substantive
+1,high,820342a23b39f607_3,Glenn Diesen - Greater Eurasia Podcast,substantive,False,,,0.34885456568231926,substantive
+1,high,7b9fb5a40cf2ab08_5,Russian Roulette,substantive,False,,,0.32441480938312783,substantive
+1,high,52fcc7901614cbfd_3,Glenn Diesen - Greater Eurasia Podcast,substantive,False,,,0.44719795970715215,substantive
+1,high,2843f165c939db70_4,Russian Roulette,substantive,False,,,0.3962866184577353,substantive
+1,high,b47976ba0cf532bc_4,The Foreign Affairs Interview,substantive,False,,,0.3724567277744686,substantive
+1,high,b5d6ddaf470232a4_4,The Foreign Affairs Interview,substantive,False,,,0.4050438147186373,substantive
+1,high,b97ce5432eff5245_1,The President’s Inbox,substantive,False,,,0.3201761908790711,substantive
+1,high,f6b023f05b283df4_1,The President’s Inbox,substantive,False,,,0.39378900086699903,substantive
+1,high,820342a23b39f607_5,Glenn Diesen - Greater Eurasia Podcast,substantive,False,,,0.34885456568231926,substantive
+1,high,b5d6ddaf470232a4_2,The Foreign Affairs Interview,substantive,False,,,0.3393722484497326,substantive
+1,high,7507cd9cf73adc7a_1,The Inside Story Podcast,substantive,False,,,0.35874790715606547,substantive
+1,high,b5d6ddaf470232a4_3,The Foreign Affairs Interview,substantive,False,,,0.4050438147186373,substantive
+1,low,2942ad3ba0bb1ba7_4,Making the Argument with Nick Freitas,substantive,False,,,0.4113274372083959,substantive
+1,low,512331d8153842ca_6,Stay Free with Russell Brand,mostly_ad,False,,,0.47892480060572284,mostly_ad
+1,low,ffee469ddcc427d2_14,Head in the Office,mostly_patreon_shoutout,False,,,0.06374580566021534,mostly_patreon_shoutout
+1,low,888c22c1e5011113_2,Stay Free with Russell Brand,substantive,False,,,0.3901715329887864,substantive
+1,low,818c9e384e0ec9e8_1,American Conservative University,substantive,False,,,0.22940856626178896,substantive
+1,low,182332044e6550e6_5,Stay Free with Russell Brand,substantive,False,,,0.34575902632857847,substantive
+1,low,b36d5a7373fd7c94_9,Majority 54,substantive,False,,,0.4898026584193686,substantive
+1,low,2942ad3ba0bb1ba7_1,Making the Argument with Nick Freitas,substantive,False,,,0.4161330023220384,substantive
+1,low,63329016eea808a3_2,Firing Line with Margaret Hoover,substantive,False,,,0.23515220292547132,substantive
+1,low,4f459f687eeb4f3e_3,Stay Free with Russell Brand,substantive,False,,,0.3255616314548797,substantive
+1,low,492490a3a1c46c03_4,Straight White American Jesus,substantive,False,,,0.30172900354775906,substantive
+1,low,512331d8153842ca_8,Stay Free with Russell Brand,substantive,False,,,0.37905083077581814,substantive
+1,low,f94b214a28f1d5c7_0,The Breakdown,substantive,False,,,0.22040025032172597,substantive
+1,low,af865dbcd232a0e8_0,NBC Nightly News with Tom Llamas,mostly_ad,False,,,0.3170413793485597,mostly_ad
+1,low,2947ff0ee532df4d_3,The Nation Podcasts,substantive,False,,,0.3999421444441697,substantive
+2,high,2843f165c939db70_2,Russian Roulette,substantive,False,,,0.3962866184577353,substantive
+2,high,7cf307e669687fca_0,ChinaTalk,mostly_intro_outro,False,,,0.28439399903202295,mostly_intro_outro
+2,high,fea4d1eca1417cfe_4,Russian Roulette,substantive,False,,,0.39378900086699903,substantive
+2,high,d0f06a2f526b5573_22,The Dig,substantive,False,,,0.2082118475216762,substantive
+2,high,49b6d113c4c3cb19_1,The President’s Inbox,substantive,False,,,0.19983350544512268,substantive
+2,high,d0f06a2f526b5573_9,The Dig,substantive,False,,,0.3029618157228028,substantive
+2,high,d0f06a2f526b5573_7,The Dig,substantive,False,,,0.2822702541536904,substantive
+2,high,803c3bdc1afd4358_6,Rev Left Radio,substantive,False,,,0.2636123244648917,substantive
+2,high,a4a6501792918fe2_10,Rev Left Radio,substantive,False,,,0.2636123244648917,substantive
+2,high,cc74d497866666ed_1,Russian Roulette,substantive,False,,,0.25280461070347987,substantive
+2,high,db5d2271de945fd5_5,The Foreign Affairs Interview,substantive,False,,,0.3724567277744686,substantive
+2,high,f2f8c90b99ef2720_5,Glenn Diesen - Greater Eurasia Podcast,substantive,False,,,0.27811308452252487,substantive
+2,high,c07e47a746f4f88f_1,Russian Roulette,substantive,False,,,0.2639123730683177,substantive
+2,high,0fadcd9f8d22ab02_17,Rev Left Radio,substantive,True,43324a5ccd52807d_17,2.0,1.0,near_duplicate_of_another_extreme
+2,high,43324a5ccd52807d_17,Rev Left Radio,substantive,True,0fadcd9f8d22ab02_17,2.0,1.0,near_duplicate_of_another_extreme
+2,low,d8ec64d2d7650957_3,Cleanup on Aisle 45 with AG & Harry Dunn,substantive,False,,,0.19989960280132996,substantive
+2,low,9533dd275951fc58_0,The Mary Trump Podcast,substantive,False,,,0.3631436804437984,substantive
+2,low,764cac9856a818fb_2,RealClearPolitics Podcast,substantive,False,,,0.2535526479536112,substantive
+2,low,ddb218e0ca85a3f7_0,Brian Tyler Cohen,substantive,True,a60dc17a3cadc3bf_0,2.0,0.6250809264460028,near_duplicate_of_another_extreme
+2,low,ba918607ae4af3e6_4,Hawk Podcasts,substantive,True,ba918607ae4af3e6_5,2.0,0.6221822824359786,near_duplicate_of_another_extreme
+2,low,e3978bc8e7726da7_0,The Playbook Podcast,substantive,False,,,0.1649767354683732,substantive
+2,low,dc2d48fc64658fd2_1,The 47 Morning Update with Ben Ferguson,substantive,False,,,0.18516098118988933,substantive
+2,low,1625a20f238a4d45_0,Hawk Podcasts,mostly_intro_outro,False,,,0.21806353419495,mostly_intro_outro
+2,low,a803d91cfafbeb53_3,Cleanup on Aisle 45 with AG & Harry Dunn,substantive,False,,,0.4628499203102541,substantive
+2,low,69e6f7a6f16dee04_0,The Keith Edwards Show,substantive,False,,,0.22920850367838908,substantive
+2,low,8650b36182eff7eb_3,The Briefing with Jen Psaki,substantive,False,,,0.3328764413106831,substantive
+2,low,ba918607ae4af3e6_5,Hawk Podcasts,substantive,True,ba918607ae4af3e6_4,2.0,0.6221822824359786,near_duplicate_of_another_extreme
+2,low,35df079cc6218c85_3,Cleanup on Aisle 45 with AG & Harry Dunn,substantive,False,,,0.4628499203102541,substantive
+2,low,20c084ec1373cfc3_0,Brian Tyler Cohen,substantive,False,,,0.4085500953464254,substantive
+2,low,a60dc17a3cadc3bf_0,Brian Tyler Cohen,substantive,True,ddb218e0ca85a3f7_0,2.0,0.6250809264460028,near_duplicate_of_another_extreme
+3,high,e285f6c4ef4a27f4_6,Majority 54,substantive,False,,,0.3102876616616832,substantive
+3,high,4f3ea3ae1c784ee4_2,Making the Argument with Nick Freitas,substantive,True,4f3ea3ae1c784ee4_3,3.0,0.6078483678441782,near_duplicate_of_another_extreme
+3,high,4609a52e6aff35a3_2,Destiny,substantive,False,,,0.14891106597836834,substantive
+3,high,4f3ea3ae1c784ee4_0,Making the Argument with Nick Freitas,substantive,False,,,0.2797208109184247,substantive
+3,high,dd60023b99948df4_11,Pod Save the World,substantive,False,,,0.2759251388337514,substantive
+3,high,5c5555774da34ab2_2,The Inside Story Podcast,substantive,False,,,0.18510178048159648,substantive
+3,high,43b9aa18b90db2d3_1,The Mona Charen Show,substantive,False,,,0.2797208109184247,substantive
+3,high,4f3ea3ae1c784ee4_3,Making the Argument with Nick Freitas,substantive,True,4f3ea3ae1c784ee4_2,3.0,0.6078483678441782,near_duplicate_of_another_extreme
+3,high,0663fc3da6445800_5,Next Up with Mark Halperin,substantive,False,,,0.27376208060076546,substantive
+3,high,b1a14ab99d7c2a98_2,Politically Georgia,substantive,False,,,0.23741318258907573,substantive
+3,high,f37078af31e5f4ac_2,The Focus Group Podcast,substantive,False,,,0.2605915423722577,substantive
+3,high,d432bb3b608ff057_2,John Solomon Reports,substantive,False,,,0.2986740082526395,substantive
+3,high,c2b0968b5ee087b4_3,Defending Democracy with Marc Elias,substantive,False,,,0.27729231619931355,substantive
+3,high,d8cb6dbb445c514e_2,Defending Democracy with Marc Elias,substantive,False,,,0.2986740082526395,substantive
+3,high,73e1e6f39ef1db35_1,On the Media,substantive,False,,,0.23621667239664404,substantive
+3,low,b91de8bcf430293f_0,The Wright Report,mostly_ad,False,,,0.2934180699101798,mostly_ad
+3,low,3dc678271be4f063_25,The Pete Quiñones Show,substantive,True,3dc678271be4f063_24,3.0,0.6150391124256978,near_duplicate_of_another_extreme
+3,low,c5ea7f0dc2528a82_0,The President's Daily Brief,mostly_ad,False,,,0.3772367430718309,mostly_ad
+3,low,3dc678271be4f063_24,The Pete Quiñones Show,substantive,True,3dc678271be4f063_25,3.0,0.6150391124256978,near_duplicate_of_another_extreme
+3,low,c1a5b6855a069bec_0,MOATS with George Galloway,substantive,False,,,0.16361037971788273,substantive
+3,low,ebfdf41b112ce260_4,Wendy Bell Radio Podcast,substantive,False,,,0.2901846854755195,substantive
+3,low,7dc749229228114a_1,Antiwar News With Dave DeCamp,substantive,False,,,0.2934180699101798,substantive
+3,low,986777e263edd0a0_2,Antiwar News With Dave DeCamp,mostly_ad,False,,,0.33026836499856543,mostly_ad
+3,low,faee660736c85761_2,Antiwar News With Dave DeCamp,substantive,False,,,0.31390262174605565,substantive
+3,low,d08ea284abd50adc_3,Antiwar News With Dave DeCamp,substantive,False,,,0.23256193040653317,substantive
+3,low,191742ff0aa410cf_1,Antiwar News With Dave DeCamp,substantive,False,,,0.367527414909562,substantive
+3,low,9e016b7d3315d8cc_1,The President's Daily Brief,mostly_intro_outro,False,,,0.36745956707354566,mostly_intro_outro
+3,low,9122dbb707e56877_2,Antiwar News With Dave DeCamp,substantive,False,,,0.2956274740367913,substantive
+3,low,191742ff0aa410cf_0,Antiwar News With Dave DeCamp,mostly_ad,False,,,0.3772367430718309,mostly_ad
+3,low,46ee266e8907cd34_2,Antiwar News With Dave DeCamp,substantive,False,,,0.33745757472954385,substantive
+4,high,9ab356b8c3d54154_6,The Pete Quiñones Show,substantive,False,,,0.44285612375300043,substantive
+4,high,41deede61c892681_1,I Don't Speak German,substantive,False,,,0.2851085085863623,substantive
+4,high,340270e970df65b6_32,The Pete Quiñones Show,substantive,False,,,0.5304652220395867,substantive
+4,high,9ab356b8c3d54154_18,The Pete Quiñones Show,substantive,False,,,0.4424747548836386,substantive
+4,high,340270e970df65b6_31,The Pete Quiñones Show,substantive,False,,,0.4681938230717648,substantive
+4,high,3dc678271be4f063_3,The Pete Quiñones Show,substantive,False,,,0.37788694738152784,substantive
+4,high,61a9847272960de0_13,The Pete Quiñones Show,substantive,False,,,0.3266499237742152,substantive
+4,high,61a9847272960de0_31,The Pete Quiñones Show,substantive,False,,,0.42489299555507953,substantive
+4,high,c07a80cb61367c03_6,Bad Hasbara - The World's Most Moral Podcast,substantive,False,,,0.5304652220395867,substantive
+4,high,d907e758ddede7d5_4,Rev Left Radio,substantive,False,,,0.25607581721086786,substantive
+4,high,340270e970df65b6_34,The Pete Quiñones Show,substantive,False,,,0.47886984226406193,substantive
+4,high,0539cf1805b2ae44_2,The Breakdown,substantive,False,,,0.27538859274413235,substantive
+4,high,8d2aa545463897b0_7,Rev Left Radio,substantive,False,,,0.12230652361739756,substantive
+4,high,61a9847272960de0_30,The Pete Quiñones Show,substantive,False,,,0.42489299555507953,substantive
+4,high,eef38496c417e9c0_13,Destiny,substantive,False,,,0.34356397556574897,substantive
+4,low,53a94d2325be50ae_0,POLITICO Energy,mostly_ad,False,,,0.3902285140016984,mostly_ad
+4,low,46c0db39ea866cd2_0,POLITICO Energy,mostly_ad,False,,,0.15776765273710996,mostly_ad
+4,low,793c50699b6c5c19_1,Volts,substantive,False,,,0.43196312443510165,substantive
+4,low,6be403570854bf27_2,Volts,substantive,False,,,0.15776765273710996,substantive
+4,low,793c50699b6c5c19_2,Volts,substantive,False,,,0.43196312443510165,substantive
+4,low,c868c700733e7c28_0,Face the Nation with Margaret Brennan,substantive,False,,,0.11443874642102511,substantive
+4,low,941838d0413dd29f_0,POLITICO Energy,mostly_ad,False,,,0.22776589740080827,mostly_ad
+4,low,e53b2b0f51379369_0,POLITICO Energy,mostly_ad,False,,,0.17954090270514744,mostly_ad
+4,low,ff0651d69d3ad07e_0,POLITICO Energy,mostly_ad,False,,,0.3902285140016984,mostly_ad
+4,low,5fcbe6cdb0cf4e7d_0,POLITICO Energy,mostly_ad,False,,,0.24992301671716638,mostly_ad
+4,low,a0712ae09317a256_2,Politically Georgia,mostly_intro_outro,False,,,0.12968290811406744,mostly_intro_outro
+4,low,7e8e366a19ddb00f_2,Politically Georgia,substantive,False,,,0.17781042713199582,substantive
+4,low,eb1798e1a3cf219a_2,KQED's Forum,mostly_intro_outro,False,,,0.1671327623474361,mostly_intro_outro
+4,low,80b3076a899b7413_1,Unf*cking The Republic,substantive,False,,,0.12495130587060095,substantive
+4,low,f6dfe611521b38bf_2,Seattle Nice,substantive,False,,,0.1679993447770267,substantive
+5,high,d43efdeaa9a34f33_6,Jacobin Radio,mostly_ad,False,,,0.23043304078938465,mostly_ad
+5,high,ab7f0b547122d762_5,Rational Security,mostly_ad,False,,,0.32717991894705833,mostly_ad
+5,high,027c6b71fa71e578_2,The Beat with Ari Melber,substantive,False,,,0.2044213800724256,substantive
+5,high,81db0a5d1954099b_1,Stay Tuned with Preet,mostly_ad,False,,,0.24913291322792516,mostly_ad
+5,high,6f690a68b5f67f96_8,Rational Security,substantive,False,,,0.22850407060773767,substantive
+5,high,0a3a368fd36e9fb0_1,Radio Atlantic,substantive,False,,,0.5768122904061825,substantive
+5,high,465daf3a64beb1b9_3,Advisory Opinions,substantive,False,,,0.22572739784649698,substantive
+5,high,7dc2e7c5db1138bf_3,Amarica's Constitution,substantive,False,,,0.5768122904061825,substantive
+5,high,1a2c0fe3064dd1b0_3,The Majority Report with Sam Seder,substantive,False,,,0.1952583641305901,substantive
+5,high,6affd53cc673ee71_3,Tangle,substantive,False,,,0.23425515839798614,substantive
+5,high,9b32efc1eb914583_3,Main Justice,substantive,False,,,0.27675842993325206,substantive
+5,high,cd03375b5a790a1e_5,Amarica's Constitution,substantive,False,,,0.32717991894705833,substantive
+5,high,ba4ce37da0d49793_2,The Brian Lehrer Show,substantive,False,,,0.22572739784649698,substantive
+5,high,cd845894966f50c3_4,Main Justice,substantive,False,,,0.4917841994773635,substantive
+5,high,dfbdf58e2f787816_1,UnJustified,substantive,False,,,0.22850407060773767,substantive
+5,low,ffee469ddcc427d2_14,Head in the Office,mostly_patreon_shoutout,False,,,0.06374580566021534,mostly_patreon_shoutout
+5,low,dac7e93bc94943a4_2,RealClearPolitics Podcast,substantive,False,,,0.2956625812277405,substantive
+5,low,4d3e17dbd0d2ff70_4,Countdown with Keith Olbermann,substantive,False,,,0.16095567646983303,substantive
+5,low,ff4324a6477da805_20,The Benny Show,mostly_ad,False,,,0.19542765459617228,mostly_ad
+5,low,4e3db9b179bb8efb_9,Next Up with Mark Halperin,mostly_intro_outro,False,,,0.20901932710543278,mostly_intro_outro
+5,low,ae579ca178b314fb_2,Next Up with Mark Halperin,substantive,False,,,0.35024236589958196,substantive
+5,low,12de2f7900b34b6d_1,The Playbook Podcast,mostly_ad,False,,,0.2245009705311546,mostly_ad
+5,low,7d3ae5566b2ec6b5_1,RealClearPolitics Podcast,substantive,False,,,0.2956625812277405,substantive
+5,low,0ba9254ea39bc3ca_0,Brian Tyler Cohen,substantive,False,,,0.18440913833527975,substantive
+5,low,1baad8d81b36f597_5,Hawk Podcasts,substantive,False,,,0.2536559756559669,substantive
+5,low,ae579ca178b314fb_6,Next Up with Mark Halperin,substantive,False,,,0.35024236589958196,substantive
+5,low,2e7ce34bbc1f9c84_0,The Playbook Podcast,substantive,False,,,0.1720035457224375,substantive
+5,low,09dad45969526b87_2,Nobody Knows Anything,substantive,False,,,0.2743770174941383,substantive
+5,low,e047c50ecdb77166_2,RealClearPolitics Podcast,substantive,False,,,0.2535526479536112,substantive
+5,low,5febc5231c3943aa_5,Hacks On Tap,substantive,False,,,0.2743770174941383,substantive

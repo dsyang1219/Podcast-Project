@@ -1,0 +1,56 @@
+{
+  "target": 500,
+  "n_matched": 120,
+  "generated_at": "2026-07-28T03:57:08.604078+00:00",
+  "axis_geometry": {
+    "axis_variance": 14.60395336151123,
+    "total_variance": 766.0,
+    "fraction_of_variance": 0.019065213265680458,
+    "random_direction_baseline_variance": 0.9973958333333334,
+    "extremes": [
+      {
+        "show_id": "1043245989",
+        "show": "The Dig",
+        "end": "negative_axis",
+        "cfscore": -1.026
+      },
+      {
+        "show_id": "268213039",
+        "show": "The Political Scene | The New Yorker",
+        "end": "negative_axis",
+        "cfscore": -1.154
+      },
+      {
+        "show_id": "1730358737",
+        "show": "Letters from an American",
+        "end": "negative_axis",
+        "cfscore": -1.058
+      },
+      {
+        "show_id": "1805186512",
+        "show": "Going Rogue with Lara Logan",
+        "end": "positive_axis",
+        "cfscore": 1.659
+      },
+      {
+        "show_id": "929121341",
+        "show": "Louder with Crowder",
+        "end": "positive_axis",
+        "cfscore": 0.904
+      },
+      {
+        "show_id": "1456850698",
+        "show": "The Graham Allen Show",
+        "end": "positive_axis",
+        "cfscore": 1.664
+      }
+    ]
+  },
+  "confounder_check_on_loso_cv_predictions": {
+    "r_before": 0.4562990443131029,
+    "p_before": 1.6256632838551598e-07,
+    "r_after_controlling_length_and_prolificness": 0.42001151620304555,
+    "p_after": 1.7916656489117224e-06,
+    "note": "Uses honest out-of-sample LOSO-CV predictions, not the in-sample-fit axis -- residualizing the in-sample fit would be circular since it's fit on the exact CFscore values being checked."
+  }
+}

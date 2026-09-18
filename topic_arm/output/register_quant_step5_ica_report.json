@@ -1,0 +1,176 @@
+{
+  "generated_at": "2026-07-31T05:42:22.224740+00:00",
+  "reason_triggered": "Step 2 messy: 0/10 PCs register-explained, coefficients smeared thin across features",
+  "target_words": 500,
+  "n_components": 10,
+  "n_folds": 10,
+  "n_matched_chunks": 40242,
+  "per_component": [
+    {
+      "component": "IC1",
+      "n": 40242,
+      "cv_r2": 0.3330545650540062,
+      "permutation_r2": -0.00015414763765364548,
+      "standardized_coefficients": {
+        "citation_density": -0.304827825895305,
+        "abstraction": 0.28366079011425865,
+        "present_tense_news_markers": -0.1198940482692685,
+        "entity_mix": -0.036589647440360966,
+        "sentence_complexity": 0.15656808894774066,
+        "first_vs_third_person": -0.0966141390157912
+      },
+      "coefficient_gini": 0.32376497645760854,
+      "register_explained": true
+    },
+    {
+      "component": "IC2",
+      "n": 40242,
+      "cv_r2": 0.05684878266162874,
+      "permutation_r2": -0.00027358605730154473,
+      "standardized_coefficients": {
+        "citation_density": -0.019489532828827316,
+        "abstraction": 0.0900932599369542,
+        "present_tense_news_markers": 0.09434285668211065,
+        "entity_mix": 0.05193848887891261,
+        "sentence_complexity": 0.13904321045937354,
+        "first_vs_third_person": -0.12847452792878225
+      },
+      "coefficient_gini": 0.26482451247874367,
+      "register_explained": false
+    },
+    {
+      "component": "IC3",
+      "n": 40242,
+      "cv_r2": 0.17693431557877237,
+      "permutation_r2": -0.0004356011187316433,
+      "standardized_coefficients": {
+        "citation_density": 0.16284162471962818,
+        "abstraction": -0.2791854519767075,
+        "present_tense_news_markers": 0.08361341468754933,
+        "entity_mix": 0.14758166295996292,
+        "sentence_complexity": 0.22037343974434792,
+        "first_vs_third_person": -0.037972797795960765
+      },
+      "coefficient_gini": 0.2919097373934747,
+      "register_explained": false
+    },
+    {
+      "component": "IC4",
+      "n": 40242,
+      "cv_r2": 0.13130750099315736,
+      "permutation_r2": -0.00024359753689351393,
+      "standardized_coefficients": {
+        "citation_density": -0.1563508505925046,
+        "abstraction": -0.07882774289674681,
+        "present_tense_news_markers": 0.14574995593547857,
+        "entity_mix": -0.013454943938117839,
+        "sentence_complexity": -0.26526427246979617,
+        "first_vs_third_person": 0.08208879794393875
+      },
+      "coefficient_gini": 0.34946754227189186,
+      "register_explained": false
+    },
+    {
+      "component": "IC5",
+      "n": 40242,
+      "cv_r2": 0.21589546877291454,
+      "permutation_r2": -0.00020140304979299195,
+      "standardized_coefficients": {
+        "citation_density": -0.13443376282444486,
+        "abstraction": 0.03859232604262922,
+        "present_tense_news_markers": 0.10676845798974444,
+        "entity_mix": 0.06604435729602785,
+        "sentence_complexity": 0.011266278260121027,
+        "first_vs_third_person": 0.39813520861231727
+      },
+      "coefficient_gini": 0.49930968772484424,
+      "register_explained": false
+    },
+    {
+      "component": "IC6",
+      "n": 40242,
+      "cv_r2": 0.10727793170328925,
+      "permutation_r2": -0.0002241456922276175,
+      "standardized_coefficients": {
+        "citation_density": -0.19065705109194603,
+        "abstraction": -0.09838110438012619,
+        "present_tense_news_markers": 0.01042346003832893,
+        "entity_mix": 0.1518536628090112,
+        "sentence_complexity": -0.011542188014059178,
+        "first_vs_third_person": -0.23146484153324015
+      },
+      "coefficient_gini": 0.40711737568202633,
+      "register_explained": false
+    },
+    {
+      "component": "IC7",
+      "n": 40242,
+      "cv_r2": 0.095101004133058,
+      "permutation_r2": -0.00020152277073726133,
+      "standardized_coefficients": {
+        "citation_density": 0.10761874885698605,
+        "abstraction": 0.17392969813131207,
+        "present_tense_news_markers": -0.033964979178350514,
+        "entity_mix": 0.1251718327465237,
+        "sentence_complexity": 0.1438459208343739,
+        "first_vs_third_person": -0.10653119888373519
+      },
+      "coefficient_gini": 0.20001109165398714,
+      "register_explained": false
+    },
+    {
+      "component": "IC8",
+      "n": 40242,
+      "cv_r2": 0.2849984201075674,
+      "permutation_r2": -0.00019401548736541763,
+      "standardized_coefficients": {
+        "citation_density": 0.24251588297598797,
+        "abstraction": 0.4040855281606218,
+        "present_tense_news_markers": 0.08126690394459246,
+        "entity_mix": -0.09572104154896165,
+        "sentence_complexity": 0.14687269175775156,
+        "first_vs_third_person": -0.23337574602571137
+      },
+      "coefficient_gini": 0.29641046182527564,
+      "register_explained": false
+    },
+    {
+      "component": "IC9",
+      "n": 40242,
+      "cv_r2": 0.028222742414302338,
+      "permutation_r2": -8.206570929480961e-05,
+      "standardized_coefficients": {
+        "citation_density": -0.14965725477229325,
+        "abstraction": -0.07947765934409398,
+        "present_tense_news_markers": -0.04829724624478803,
+        "entity_mix": -0.009236475253040406,
+        "sentence_complexity": -0.03590133928326946,
+        "first_vs_third_person": 0.02703506948872046
+      },
+      "coefficient_gini": 0.41562499746657117,
+      "register_explained": false
+    },
+    {
+      "component": "IC10",
+      "n": 40242,
+      "cv_r2": 0.280804693528083,
+      "permutation_r2": -0.00020519979506250507,
+      "standardized_coefficients": {
+        "citation_density": -0.10196687927416953,
+        "abstraction": 0.18787428098133951,
+        "present_tense_news_markers": 0.06120683693619214,
+        "entity_mix": 0.13229405812137085,
+        "sentence_complexity": 0.22774930454433326,
+        "first_vs_third_person": 0.31823376348894145
+      },
+      "coefficient_gini": 0.27818585408802754,
+      "register_explained": false
+    }
+  ],
+  "n_register_explained": 1,
+  "mean_cv_r2_ica": 0.17104454249467793,
+  "mean_cv_r2_pca": 0.1711514777865349,
+  "mean_coefficient_gini_ica": 0.3326626237042451,
+  "mean_coefficient_gini_pca": 0.4192744362232695,
+  "comparison_verdict": "ICA does NOT map more cleanly onto register features than PCA: mean CV R2 PCA=0.171 vs ICA=0.171; mean coefficient-sparsity (Gini) PCA=0.419 vs ICA=0.333."
+}

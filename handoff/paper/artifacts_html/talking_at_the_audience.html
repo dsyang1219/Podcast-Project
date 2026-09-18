@@ -1,0 +1,352 @@
+<title>Talking at the Audience</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  :root{
+    --paper:#F1F3F5; --raised:#FAFBFC; --ink:#14171C; --ink-2:#434A55; --ink-3:#737B87;
+    --rule:#D6DBE1; --rule-2:#E5E9ED;
+    --accent:#7A2E2E; --accent-soft:#F1E3E3; --accent-ink:#5E2222;
+    --data:#3E5266; --data-soft:#E4EAF0;
+    --shadow:0 1px 2px rgba(20,23,28,.05), 0 10px 28px -14px rgba(20,23,28,.16);
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --paper:#15181C; --raised:#1B1F25; --ink:#E7E9EC; --ink-2:#B2B8C1; --ink-3:#7F8792;
+      --rule:#2C323A; --rule-2:#232830;
+      --accent:#CF7272; --accent-soft:#33201F; --accent-ink:#E39A9A;
+      --data:#8FA7BE; --data-soft:#1F2932;
+      --shadow:0 1px 2px rgba(0,0,0,.45), 0 10px 28px -14px rgba(0,0,0,.6);
+    }
+  }
+  :root[data-theme="dark"]{
+    --paper:#15181C; --raised:#1B1F25; --ink:#E7E9EC; --ink-2:#B2B8C1; --ink-3:#7F8792;
+    --rule:#2C323A; --rule-2:#232830;
+    --accent:#CF7272; --accent-soft:#33201F; --accent-ink:#E39A9A;
+    --data:#8FA7BE; --data-soft:#1F2932;
+    --shadow:0 1px 2px rgba(0,0,0,.45), 0 10px 28px -14px rgba(0,0,0,.6);
+  }
+  *{box-sizing:border-box}
+  html{width:100%}
+  body{display:block;width:100%;margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 "IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+  .wrap{display:block;width:100%;max-width:1040px;margin:0 auto;padding:3rem 1.5rem 5rem}
+  h1,h2,h3{font-family:"Newsreader",Georgia,"Times New Roman",serif;font-weight:500;line-height:1.15;text-wrap:balance;margin:0}
+  h1{font-size:clamp(2.2rem,5vw,3.4rem);font-optical-sizing:auto;letter-spacing:-.01em}
+  h2{font-size:1.75rem;margin-bottom:.9rem}
+  h3{font-size:1.2rem;font-weight:600;margin:1.7rem 0 .5rem}
+  p{margin:0 0 1rem;max-width:68ch}
+  strong{font-weight:600}
+  em{font-style:italic}
+  .head{display:grid;grid-template-columns:1fr;gap:1rem;padding-bottom:2rem;border-bottom:1px solid var(--rule);margin-bottom:2.5rem}
+  .kicker{font-family:"IBM Plex Mono",monospace;font-size:.74rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+  .sub{font-family:"Newsreader",serif;font-style:italic;font-size:1.25rem;color:var(--ink-2);max-width:60ch}
+  .byline{font-size:.9rem;color:var(--ink-3)}
+  .sec{display:grid;grid-template-columns:150px 1fr;gap:2rem;padding:2.2rem 0;border-top:1px solid var(--rule-2)}
+  .sec:first-of-type{border-top:0}
+  .rail{font-family:"IBM Plex Mono",monospace;font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3);padding-top:.5rem}
+  .rail b{display:block;color:var(--accent);font-weight:500;margin-bottom:.25rem}
+  .col{min-width:0}
+  @media (max-width:720px){.sec{grid-template-columns:1fr;gap:.6rem}.rail{padding-top:0}}
+  .abstract{background:var(--raised);border:1px solid var(--rule);border-left:3px solid var(--accent);padding:1.4rem 1.6rem;box-shadow:var(--shadow)}
+  .abstract p{font-family:"Newsreader",serif;font-size:1.08rem;line-height:1.55;max-width:none;margin:0}
+  .claim{font-family:"Newsreader",serif;font-size:1.45rem;font-weight:500;font-style:italic;line-height:1.3;color:var(--accent-ink);border-left:3px solid var(--accent);padding:.3rem 0 .3rem 1.1rem;margin:1.5rem 0;max-width:60ch;text-wrap:balance}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.8rem;margin:1.2rem 0 1.4rem}
+  .stat{background:var(--raised);border:1px solid var(--rule);padding:.9rem 1rem}
+  .stat .v{font-family:"IBM Plex Mono",monospace;font-size:1.5rem;font-weight:500;color:var(--data);font-variant-numeric:tabular-nums;line-height:1.1}
+  .stat .k{font-size:.8rem;color:var(--ink-2);margin-top:.3rem;line-height:1.35}
+  .tw{overflow-x:auto;margin:1.1rem 0 1.4rem;border:1px solid var(--rule);background:var(--raised)}
+  table{border-collapse:collapse;width:100%;font-size:.88rem;font-variant-numeric:tabular-nums}
+  caption{text-align:left;font-family:"IBM Plex Mono",monospace;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);padding:.7rem .9rem .4rem}
+  th{text-align:left;font-weight:600;font-size:.78rem;letter-spacing:.03em;text-transform:uppercase;color:var(--ink-2);padding:.55rem .9rem;border-bottom:1px solid var(--rule);background:var(--data-soft)}
+  td{padding:.5rem .9rem;border-bottom:1px solid var(--rule-2);vertical-align:top;color:var(--ink-2)}
+  td:first-child{color:var(--ink)}
+  tr:last-child td{border-bottom:0}
+  td.hi{color:var(--accent-ink);font-weight:600;font-family:"IBM Plex Mono",monospace;font-size:.85rem}
+  td.num{font-family:"IBM Plex Mono",monospace;font-size:.85rem;white-space:nowrap}
+  .note{background:var(--data-soft);border:1px solid var(--rule);padding:1rem 1.2rem;margin:1.2rem 0;max-width:72ch}
+  .note .tag{display:inline-block;font-family:"IBM Plex Mono",monospace;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--data);margin-bottom:.35rem}
+  .note p{margin:0;max-width:none;font-size:.95rem}
+  .note p+p{margin-top:.6rem}
+  ol.findings{list-style:none;counter-reset:f;padding:0;margin:0;display:grid;gap:1.4rem}
+  ol.findings>li{counter-increment:f;display:block;position:relative;padding-left:3.2rem;max-width:72ch}
+  ol.findings>li::before{content:counter(f);position:absolute;left:0;top:.05rem;font-family:"Newsreader",serif;font-size:2rem;font-weight:500;color:var(--accent);line-height:1}
+  ol.findings h3{margin:0 0 .4rem}
+  ol.findings p{max-width:none}
+  ol.refs{padding-left:1.2rem;margin:0;font-size:.93rem;display:grid;gap:.45rem;max-width:76ch}
+  ol.refs li{color:var(--ink-2)}
+  ol.refs .use{display:block;font-family:"IBM Plex Mono",monospace;font-size:.72rem;color:var(--ink-3);margin-top:.1rem}
+  ul.plain{padding-left:1.2rem;margin:0 0 1rem;max-width:68ch}
+  ul.plain li{margin:.3rem 0}
+  .foot{border-top:1px solid var(--rule);margin-top:2.5rem;padding-top:1.2rem;font-family:"IBM Plex Mono",monospace;font-size:.74rem;color:var(--ink-3);line-height:1.7}
+  a{color:var(--accent-ink);text-decoration:underline;text-underline-offset:2px}
+  a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  @media (prefers-reduced-motion:no-preference){.abstract{transition:box-shadow .2s}}
+</style>
+
+<div class="wrap">
+  <div class="head">
+    <div class="kicker">Paper pr&eacute;cis &middot; September 2026</div>
+    <h1>Talking at the Audience</h1>
+    <div class="sub">Listener-directed address in political podcasts, and the institutional cynicism of the people who listen</div>
+    <div class="byline">Danielle Yang &middot; Linde Center for Science, Society, and Policy, Caltech &middot; with R. Michael Alvarez. This page holds only the data, theory, literature and results that belong in the paper. The full exploratory record, including everything retracted, is the companion document <em>Partisan Register</em>.</div>
+  </div>
+
+  <div class="sec">
+    <div class="rail"><b>Abstract</b></div>
+    <div class="col">
+      <div class="abstract">
+        <p>We assemble a corpus of 204 U.S. political podcasts from the Apple Podcasts Politics chart (29,421 episodes, 1.38 million 750-character passages, 2018&ndash;2026) and measure how hosts address their listeners using published dictionaries and syntactic parsing. Show ideology labels from a two-stage LLM classifier agree with hosts&rsquo; campaign-contribution scores (DIME, <em>r</em>&nbsp;=&nbsp;0.68, <em>n</em>&nbsp;=&nbsp;112), with expert and editorial ratings (&kappa;&nbsp;=&nbsp;0.75&ndash;0.77), and with the party identification of each show&rsquo;s own listeners in a national survey (<em>r</em>&nbsp;=&nbsp;0.91 across 22 shows; the label predicts the audience&rsquo;s majority party in 21 of 22). The register features most associated with ideology are imperatives (<em>r</em>&nbsp;=&nbsp;0.39 against DIME) and second-person address (<em>r</em>&nbsp;=&nbsp;0.39); insult is uncorrelated with ideological direction (<em>r</em>&nbsp;=&nbsp;0.00). Register is a stable show-level property (AUC 0.80 between shows, 0.57 within). Linking the corpus to the Kettering&ndash;Gallup <em>Democracy for All</em> study (<em>n</em>&nbsp;&asymp;&nbsp;18,800) and the Pew American Trends Panel (<em>n</em>&nbsp;&asymp;&nbsp;9,000), respondents who name a political podcast as a news source score 0.22&nbsp;SD higher on an eight-item institutional-cynicism scale than other news consumers, after controls for party, political attention, age, education, income, race, gender, social-media use, urbanicity and number of sources named; each mainstream source named is associated with &minus;0.10&nbsp;SD; podcast-only diets exceed platform-only diets by 0.14&nbsp;SD. The association holds within both parties and in the probability-sample half, and replicates in Pew with exposure measured two to eight months before the outcome, with trust in friends and family unaffected. Decomposition and a standard register tagger identify the construct as <em>listener-directed address</em> &mdash; second-person and action imperatives, not filler, epistemic instruction, or persuasion in Biber&rsquo;s sense &mdash; and it is invariant to events and topics: a trait of the host. The population is political podcasts, defined by content (at least 15% of passages political; the corpus 10th percentile). On that frame &mdash; 50 corpus shows and the six largest political podcasts outside the chart, 792 listeners &mdash; address is associated with election distrust (+0.27&nbsp;SD per SD), institutional cynicism (+0.22) and disaffection (+0.16), inside and outside the corpus, stable across the content threshold and every leave-one-show-out, and net of populist and ideologically intense content; the association is reported as exploratory and pre-registered for Year&nbsp;2. Independently of attitudes, address predicts who listens: audiences of listener-directed shows have less formal education (&minus;0.27&nbsp;SD per SD; income, age and party controlled), replicating in every sample. Podcast-only listeners are not disengaged: they are more civil-libertarian on democratic norms than mainstream-only news consumers (e.g. &minus;0.35&nbsp;SD on media taking government direction), no more strongly partisan, and no less registered, whereas platform-only listeners show weaker national identity, lower registration and more tolerance of political violence. Within the corpus, listener-directed address also predicts naming no institutional news source (0.13&nbsp;SD per SD; <em>p</em>&nbsp;=&nbsp;.025 with small-sample clustered inference), independent of show ideology, while hostility does not; that association does not reproduce out of frame and is reported as corpus-only.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="sec">
+    <div class="rail"><b>Argument</b>1</div>
+    <div class="col">
+      <h2>What the paper claims</h2>
+      <p><strong>How the sides differ.</strong> Political podcasts are a major and under-measured political medium. The intuitive account of how left and right differ in it &mdash; that right-leaning shows are more hostile &mdash; is not what the data show. What distinguishes the sides is <strong>how hosts address their listeners</strong> &mdash; <em>listener-directed address</em>: right-leaning hosts speak to the audience in the second person and issue more instructions. Incivility does not discriminate, and neither does populist or anti-media content. That register is a property of shows, not episodes; it does not move with elections or topics; and the ideology labels it rides on are validated against three independent sources, including the party identification of actual listeners.</p>
+      <p><strong>Who listens to political podcasts.</strong> People who get political news from podcasts &mdash; and especially from podcasts alone &mdash; are markedly more cynical about institutions than people with any institutional source in their diet, in two probability panels, one with exposure measured before outcome, independent of party and of education, with interpersonal trust unaffected. Podcast-only diets sit at the far end of a broader non-institutional-diet gradient. These listeners are not disengaged but civil-libertarian: distrustful of institutions, protective of liberties, no more partisan than anyone else.</p>
+      <p><strong>What address does within political podcasts.</strong> Defining the population by content &mdash; shows that are actually about politics, inside the corpus and the largest ones outside it &mdash; listener-directed address predicts two things about a show&rsquo;s audience. First, <em>who listens</em>: audiences of listener-directed shows have less formal education, with income, age and party held constant, in every sample. Second, <em>what they believe</em>: they are more distrustful of elections and of institutions, and more disaffected, inside and outside the corpus, net of populist and ideologically intense content. The first is a register&ndash;audience fit result and is robust. The second is an association the paper reports as exploratory &mdash; its population definition was fixed after the pre-registered test &mdash; and pre-registers for Year&nbsp;2.</p>
+      <div class="claim">Partisan difference in political podcasting lies in how hosts address their audience, not how hostile they are; the audiences of non-institutional political media are distinctively cynical about institutions; and within political podcasts, the hosts who talk <em>at</em> the listener reach less-educated audiences who distrust elections and institutions.</div>
+      <p>Every audience-side result is an association under self-selection and is never called an effect. The theoretical frame (below) licenses a directional hypothesis the results are consistent with; it does not license causation, and the paper says so.</p>
+    </div>
+  </div>
+
+  <div class="sec">
+    <div class="rail"><b>Theory</b>2</div>
+    <div class="col">
+      <h2>Theory and literature</h2>
+      <h3>2.1 The outcome: media malaise and the spiral of cynicism</h3>
+      <p>The claim that exposure to a media form erodes trust in institutions has a long lineage. Robinson (1976) named <em>videomalaise</em> for television; Cappella and Jamieson (1997) showed experimentally that strategy- and game-framed coverage of politics produces cynicism about the process, a <em>spiral</em> in which cynical coverage and cynical audiences reinforce one another; Ladd (2012) showed that distrust of the news media itself is politically consequential and travels with distrust of other institutions. This literature is the anchor for the outcome: it predicts that a news diet built outside institutional journalism should go with lower institutional trust, and gives that prediction a direction. The mechanism those authors identified concerns <em>content frames</em>, and the paper tests it directly: a strategy-and-game-frame lexicon after Aalberg, Str&ouml;mb&auml;ck and de Vreese (2012), scored over the full corpus, is uncorrelated with listener-directed address at the show level (<em>r</em>&nbsp;=&nbsp;&minus;0.04), not partisan (<em>r</em>&nbsp;=&nbsp;&minus;0.002 against DIME), and &mdash; in this population &mdash; associated with <em>less</em> listener cynicism, not more. Mode of address and strategy framing are different things.</p>
+      <h3>2.2 The mechanism this paper proposes: listener-directed address</h3>
+      <p>The register measure is not about frames. It is about the grammatical relationship a host establishes with the listener &mdash; imperatives (&ldquo;look,&rdquo; &ldquo;understand,&rdquo; &ldquo;think about it&rdquo;), second-person address, and in-group/out-group pronoun framing &mdash; drawn from Biber&rsquo;s (1988) register dimensions and measured with the Multi-Feature Tagger of English and syntactic parsing rather than lists written for this study. The closest prior work is Horton and Wohl&rsquo;s (1956) para-social interaction: direct, personal address that invites the audience into a one-sided relationship with a performer. What the measure captures, on decomposition, is the host speaking <em>to</em> the listener: deontic second person (<em>you need to, you should</em>) is the strongest single component against host ideology (<em>r</em>&nbsp;=&nbsp;+0.44), the filler <em>you know</em> is null (<em>r</em>&nbsp;=&nbsp;0.00), epistemic imperatives are null, and Biber&rsquo;s Dimension&nbsp;4 &ldquo;overt persuasion&rdquo; &mdash; necessity and prediction modals, conditionals &mdash; is uncorrelated with it (<em>r</em>&nbsp;=&nbsp;&minus;0.12). The second-person subject carries the signal, not the modality. The paper therefore names the construct <strong>listener-directed address</strong>, proposes it as the linguistic form of the para-social relationship in political podcasting, offers the audience-side signature (finding 5) as evidence, and tests its association with listener attitudes against three content-based alternatives &mdash; strategy framing (Aalberg et al.), populist anti-elitism (Rooduijn &amp; Pauwels 2011), and anti-media populism (Fawzi 2019). In the discovery sample the address&ndash;cynicism association survived all three (+0.19&nbsp;SD per SD). On the full political-podcast frame, net of populist and ideologically intense content, what remains is an association with election distrust and institutional cynicism (finding 7); what holds in every sample is that address determines who listens (finding 3).</p>
+      <h3>2.3 What the paper rules out &mdash; incivility &mdash; and what it does not: populist content</h3>
+      <p>Mutz and Reeves (2005) showed that televised incivility lowers trust in government; Sobieraj and Berry (2011) documented the outrage register of partisan talk. The obvious extension is that podcast hostility drives podcast audiences&rsquo; cynicism. The data do not support it: insult and profanity do not distinguish left-leaning from right-leaning shows (finding 2), do not predict who listens (finding 3), and do not predict audience exclusivity (finding 6) or the audience attitudes in finding 7. Populist content behaves the same way on the partisan question: the Rooduijn &amp; Pauwels dictionary and negative references to the media are orthogonal to listener-directed address (<em>r</em>&nbsp;=&nbsp;+0.16 across the 64 linked shows), not partisan, and load on <em>insult</em> (<em>r</em>&nbsp;=&nbsp;+0.41 and +0.38) &mdash; they belong to the hostility cluster. Whatever the outrage and populism literatures explain, it is not the partisan structure of this medium. On the <em>audience</em> question the paper is more careful: across all 64 linked shows, populist vocabulary (<em>corrupt, propaganda, betrayed, the truth</em>) and ideological intensity are each associated with listener cynicism, the three content features inter-correlate at 0.4&ndash;0.5, and with 50&ndash;60 show clusters Year&nbsp;1 can rank them only on the full political-podcast frame (finding 7). The paper says so rather than ruling populism out.</p>
+      <h3>2.4 Affective polarization</h3>
+      <p>Iyengar and Westwood (2015) define affective polarization as the gap between in-party and out-party feeling. The corpus carries a textual analogue &mdash; in-group versus out-group valence, validated within episode &mdash; and the survey carries party favourability ratings. The paper uses the survey measure only as a secondary outcome; institutional cynicism is where the association is robust.</p>
+    </div>
+  </div>
+
+  <div class="sec">
+    <div class="rail"><b>Data</b>3</div>
+    <div class="col">
+      <h2>Data</h2>
+      <h3>3.1 The corpus</h3>
+      <div class="stats">
+        <div class="stat"><div class="v">204</div><div class="k">political podcasts from the Apple Podcasts US Politics chart, ranks 1&ndash;250</div></div>
+        <div class="stat"><div class="v">29,421</div><div class="k">episodes transcribed with faster-whisper large-v3; 2018Q1&ndash;2026Q3</div></div>
+        <div class="stat"><div class="v">1.38M</div><div class="k">750-character passages, the unit the ideology instrument was validated on</div></div>
+        <div class="stat"><div class="v">152,152</div><div class="k">passages labelled for ideology by a two-stage gated LLM classifier (Much et al. 2026)</div></div>
+        <div class="stat"><div class="v">56 / 792</div><div class="k">political podcasts (50 corpus + 6 out-of-frame) and their Kettering listeners in the audience-linked frame (findings 3, 6, 7)</div></div>
+      </div>
+      <p>Median episode 54 minutes. The sampling frame is a recent chart, so the population is <em>political podcasts that attained and held chart presence in the Politics subcategory</em>. That is mid-tail by construction: the largest political shows in the ecosystem &mdash; <em>The Ben Shapiro Show</em>, <em>The Daily</em>, <em>The Tucker Carlson Show</em> &mdash; are filed under other Apple categories and are not in the corpus. The paper therefore defines its population by content rather than by chart: a political podcast is one in which at least 15% of 750-character passages contain three or more political terms, the corpus&rsquo;s own 10th percentile (median 32%). Four low-content corpus shows fall outside it, and the six largest political podcasts never on the chart fall inside it and serve as an out-of-frame generalization test (finding 7).</p>
+      <h3>3.2 Register instruments</h3>
+      <p>Four non-overlapping families, all published before this study: Biber features via the Multi-Feature Tagger of English (Le Foll &amp; Shakir); syntactic imperative detection with spaCy dependency parsing (a bare-form verb heading a clause with no subject or auxiliary); the extended Moral Foundations Dictionary (Hopp et al. 2021) and MFD 2.0 (Frimer et al.); and Sobieraj and Berry&rsquo;s outrage categories with the LDNOOBW profanity list. The listener-directed-address composite is the mean of three show-level z-scores: syntactic imperatives, dictionary imperatives, and second-person pronouns, each an <em>n</em>-weighted per-10,000-word rate. One boundary on the measure: in host&ndash;guest interview formats the second person is largely addressed to the guest. The corpus is monologue and co-host dominated, and the partisan contrast is robust to this &mdash; the interrogative component of second-person address is unrelated to host ideology (<em>r</em>&nbsp;=&nbsp;+0.03 against DIME) and partialling it out leaves the validation unchanged (0.49 vs 0.47) &mdash; but the measure&rsquo;s <em>level</em> is not comparable across formats without a format covariate; the out-of-frame test carries one (finding 7).</p>
+      <h3>3.3 Survey linkages</h3>
+      <div class="tw"><table>
+        <caption>The two surveys and what each supplies</caption>
+        <thead><tr><th>Survey</th><th>Sample</th><th>Exposure</th><th>Outcomes used</th></tr></thead>
+        <tbody>
+          <tr><td>Kettering Foundation / Gallup, <em>Democracy for All</em> Year 1 (July&ndash;Aug 2025)</td><td class="num">20,338; 45% Gallup Panel (address-based / RDD), 55% opt-in; weighted</td><td>Open-ended &ldquo;top three programs, channels, podcasts, websites, influencers&rdquo;: 51,082 verbatims, classified into diet segments for the full sample (finding 4) and matched to shows for the audience-linked findings: corpus shows by exact title (385 respondents), plus 150 corpus-show listeners recovered by a systematic re-scan of misspellings and abbreviations, plus 290 listeners of the six out-of-frame political podcasts matched by a frozen alias table &mdash; 792 listeners across 56 political podcasts after the content criterion</td><td>Institutional cynicism (8 items: leaders held accountable; government reflects the majority; serves citizens; laws uphold justice; elections run well; press freedom working; government includes people like me; know how to reach officials; &alpha;&nbsp;=&nbsp;.84), party favourability, discriminant items (political violence, loneliness)</td></tr>
+          <tr><td>Pew Research Center, American Trends Panel Waves 150, 155, 165 (July 2024 &ndash; March 2025)</td><td class="num">10,658 in W150; ~9,000 linked to each later wave; probability panel; weighted</td><td>W150: frequency of getting news from podcasts (never&ndash;often); W155: podcasts as <em>main</em> election-news source; W150: seven items on relationships with news influencers</td><td>W155 and W165: trust in national news organisations, local news organisations, social media sites, and friends/family &mdash; measured 2&ndash;8 months after exposure</td></tr>
+        </tbody>
+      </table></div>
+      <p>Host ideology is anchored externally with DIME campaign-contribution scores (Bonica 2014), matched to 112 shows.</p>
+    </div>
+  </div>
+
+  <div class="sec">
+    <div class="rail"><b>Results</b>4</div>
+    <div class="col">
+      <h2>Seven findings</h2>
+      <ol class="findings">
+        <li>
+          <h3>The ideology labels are validated four ways, including against real audiences</h3>
+          <div class="tw"><table>
+            <caption>LLM-derived show ideology against independent standards</caption>
+            <thead><tr><th>Standard</th><th>Basis</th><th>n</th><th>Agreement</th></tr></thead>
+            <tbody>
+              <tr><td>DIME cfscore</td><td>hosts&rsquo; campaign contributions</td><td class="num">112 shows</td><td class="hi">r = +0.68, &kappa; = 0.66</td></tr>
+              <tr><td>Editorial ratings</td><td>human-assigned partisan leaning</td><td class="num">25</td><td class="hi">&kappa; = 0.75</td></tr>
+              <tr><td>Expert ratings</td><td>independent research coding</td><td class="num">26</td><td class="hi">&kappa; = 0.77</td></tr>
+              <tr><td>Audience party ID</td><td>party of the show&rsquo;s own Kettering listeners</td><td class="num">22 shows / 494 listeners</td><td class="hi">r = +0.91 [0.77, 0.98]</td></tr>
+            </tbody>
+          </table></div>
+          <p>At 14 shows with ten or more listeners the audience correlation is 0.98 [0.95, 0.99]; left-labelled shows average 76% Democratic audiences and right-labelled 91% Republican; the label predicts the audience&rsquo;s majority party in 21 of 22 shows; at the listener level (594 listeners, 59 shows) it explains 62% of the variance in partisan lean. Text, money and listeners agree. This validates show labels; passage-level human coding is reported separately.</p>
+        </li>
+        <li>
+          <h3>Left and right differ in mode of address, not hostility</h3>
+          <div class="tw"><table>
+            <caption>Show-level register against host ideology (DIME cfscore, n = 112) and against audience partisan lean (22 shows)</caption>
+            <thead><tr><th>Register measure</th><th>vs DIME</th><th>vs audience lean</th><th>Between-side d, format-controlled</th></tr></thead>
+            <tbody>
+              <tr><td>Imperatives (syntactic)</td><td class="hi">+0.39 (p = 2e-5)</td><td class="hi">+0.41</td><td class="num">+0.66, partial p = .0001</td></tr>
+              <tr><td>Second-person address</td><td class="hi">+0.39 (p = 3e-5)</td><td class="num">+0.15 / +0.35</td><td class="num">+0.59, p = .0001</td></tr>
+              <tr><td>Out-group pronouns</td><td class="hi">+0.29 (p = .002)</td><td class="hi">+0.39</td><td class="num">+0.78, p &lt; .0001</td></tr>
+              <tr><td>Insult</td><td class="num">+0.000 (p = .996)</td><td class="num">&minus;0.16</td><td class="num">ns</td></tr>
+              <tr><td>Profanity</td><td class="num">&minus;0.17 (p = .07)</td><td class="num">&minus;0.22</td><td class="num">&minus;0.46, emerges only under format control</td></tr>
+              <tr><td>Hedging</td><td class="num">&minus;0.13 (ns)</td><td class="num">&minus;0.14</td><td class="num">&minus;0.53, p = .009</td></tr>
+            </tbody>
+          </table></div>
+          <p>Insult tracks ideological <em>intensity</em> (<em>r</em>&nbsp;=&nbsp;+0.55) but not direction. Right-leaning shows are 84% solo-hosted against 58% on the left, and solo hosts hedge less and address the listener more; nine of ten register differences survive controlling for format. A classifier on register features separates left- from right-leaning shows at AUC 0.80 between shows and 0.57 within them: register is a property of the show. It is also invariant to the political calendar: in a within-show event study across eight shocks from 2020 to 2025 &mdash; two general elections, a midterm, the inauguration, the assassination attempt, Biden&rsquo;s withdrawal, January&nbsp;6, <em>Dobbs</em> &mdash; listener-directed address does not shift on either side (all |<em>b</em>|&nbsp;&le;&nbsp;0.08&nbsp;SD; the 2024 election shift is indistinguishable from 60 placebo dates, <em>p</em>&nbsp;=&nbsp;.57). Hosts do not ramp it up before elections, and it barely varies by topic (within-show topic means spread 0.04&nbsp;SD across a 75-topic model; the most second-person passages are ad reads); it is how they talk.</p>
+        </li>
+        <li>
+          <h3>Register tracks audience composition beyond party</h3>
+          <p>The listener-directed-address composite correlates <em>r</em>&nbsp;=&nbsp;+0.40 with audience partisan lean across 22 shows &mdash; the same magnitude and pattern as against DIME. Religious language predicts listeners&rsquo; weekly church attendance (Spearman &rho;&nbsp;=&nbsp;+0.61) and born-again share (&rho;&nbsp;=&nbsp;+0.56) across 14 shows, leave-one-show-out stable; because the four right-labelled shows cluster high on both, this is reported as convergent with the partisan validation rather than as an independent axis. The two shows with mixed audiences, <em>Tangle</em> and <em>Breaking Points</em>, are the two that market themselves as heterodox.</p>
+          <div class="claim">Listener-directed shows reach less formally educated audiences: &minus;0.27 SD of education per SD of address with party and show lean controlled, replicating in every sample. Age, income, gender and attention do not move.</div>
+          <div class="tw"><table>
+            <caption>Audience education on listener-directed address; party and show lean controlled; CR2 (Satterthwaite df) and wild-bootstrap p; SD units</caption>
+            <thead><tr><th>Sample</th><th>b / SD</th><th>CR2 p</th><th>wild p</th><th>shows / n</th></tr></thead>
+            <tbody>
+              <tr><td>Corpus frame (discovery + fresh corpus listeners)</td><td class="hi">&minus;0.272</td><td class="num">.004</td><td class="num">.002</td><td class="num">54 / 535</td></tr>
+              <tr><td>&nbsp;&nbsp;&nbsp;discovery listeners only</td><td class="num">&minus;0.285</td><td class="num">.010</td><td class="num">.009</td><td class="num">51 / 385</td></tr>
+              <tr><td>&nbsp;&nbsp;&nbsp;fresh corpus listeners only</td><td class="num">&minus;0.160</td><td class="num">.042</td><td class="num">.003</td><td class="num">10 / 150</td></tr>
+              <tr><td>Out-of-frame political podcasts (finding 7)</td><td class="num">&minus;0.082</td><td class="num">.048</td><td class="num">.045</td><td class="num">6 / 290</td></tr>
+              <tr><td>Full political-podcast frame</td><td class="hi">&minus;0.213</td><td class="num">.006</td><td class="num">&lt;.001</td><td class="num">56 / 792</td></tr>
+            </tbody>
+          </table></div>
+          <p>Adding age, gender, income, race, urbanicity and attention leaves it at &minus;0.28; it holds within left-labelled shows (&minus;0.29, <em>p</em>&nbsp;=&nbsp;.01) and within right-labelled shows on the full frame (&minus;0.19, <em>p</em>&nbsp;=&nbsp;.005); dropping any of the twelve largest shows leaves it between &minus;0.23 and &minus;0.31; at the show level the <em>n</em>-weighted correlation is &minus;0.57; and it is stable to the content threshold (&minus;0.19 to &minus;0.33 from 8% to 30%). It is education specifically, not socio-economic status: income is null. And it is dose-consistent in the direction selection predicts &mdash; respondents who name the show as their <em>first</em> news source show it more sharply (&minus;0.35) than those who name it second or third (&minus;0.20). Direct, imperative, second-person address is the involved, oral register of Biber&rsquo;s first dimension; it reaches listeners with less formal schooling regardless of party. This is a register&ndash;audience fit result &mdash; who a style reaches &mdash; not an effect.</p>
+        </li>
+        <li>
+          <h3>Non-institutional news diets go with institutional cynicism &mdash; in two panels, one lagged</h3>
+          <div class="claim">Diets with no institutional source are about 0.2 SD more cynical about institutions. Podcast-only diets sit a further 0.14 SD beyond platform-only.</div>
+          <div class="tw"><table>
+            <caption>Kettering, full sample naming a news source; 8-item cynicism, SD units; weighted, HC1</caption>
+            <thead><tr><th>Comparison</th><th>b</th><th>95% CI</th><th>p</th><th>n</th></tr></thead>
+            <tbody>
+              <tr><td>Podcast-namers vs all other news consumers, full controls</td><td class="hi">+0.218</td><td class="num">[+0.16, +0.28]</td><td class="num">5e-13</td><td class="num">18,257</td></tr>
+              <tr><td>&nbsp;&nbsp;&nbsp;within Democrats and leaners</td><td class="num">+0.188</td><td class="num">[+0.09, +0.29]</td><td class="num">1e-4</td><td class="num">8,337</td></tr>
+              <tr><td>&nbsp;&nbsp;&nbsp;within Republicans and leaners</td><td class="num">+0.152</td><td class="num">[+0.07, +0.24]</td><td class="num">6e-4</td><td class="num">6,918</td></tr>
+              <tr><td>Podcast-only diet vs mainstream-only (4.3% vs 62% of adults)</td><td class="hi">+0.269</td><td class="num">[+0.18, +0.36]</td><td class="num">3e-9</td><td class="num">18,450</td></tr>
+              <tr><td>Platform-only diet vs mainstream-only (16.6%)</td><td class="num">+0.178</td><td class="num">[+0.13, +0.23]</td><td class="num">8e-11</td><td class="num"></td></tr>
+              <tr><td>Podcast + mainstream vs mainstream-only (5.5%)</td><td class="num">+0.132</td><td class="num">[+0.05, +0.21]</td><td class="num">.001</td><td class="num"></td></tr>
+              <tr><td>Each additional mainstream source named</td><td class="hi">&minus;0.096</td><td class="num"></td><td class="num">2e-21</td><td class="num"></td></tr>
+              <tr><td>Each additional podcast named</td><td class="num">+0.079</td><td class="num"></td><td class="num">5e-6</td><td class="num"></td></tr>
+            </tbody>
+          </table></div>
+          <p>Controls are party, political attention, age, education, gender, race, income, social-media hours, platforms used, urban&ndash;rural code, survey mode, and number of sources named; the coefficient moves 3% across the full ladder. The two dose terms are additive. Podcast-only exceeds platform-only by +0.144&nbsp;SD (se&nbsp;.052); an equivalence test rejects equivalence at &plusmn;0.20&nbsp;SD. Discriminant items do not move: political violence &minus;0.05, loneliness +0.06, knowing how to reach officials &minus;0.02. Inside the Gallup Panel alone, podcast-only +0.18 (<em>p</em>&nbsp;=&nbsp;.002), platform-only +0.20, each mainstream source &minus;0.063 (<em>p</em>&nbsp;=&nbsp;1e-5).</p>
+          <div class="tw"><table>
+            <caption>Pew ATP: podcast-news frequency in July&ndash;Aug 2024 and trust measured later; SD per step (1 never &ndash; 4 often); weighted, controls</caption>
+            <thead><tr><th>Trust in&hellip;</th><th>W155, Sept 2024</th><th>W165, March 2025</th><th>&ldquo;Podcasts are my main source&rdquo; &rarr; W165</th></tr></thead>
+            <tbody>
+              <tr><td>national news organisations</td><td class="hi">&minus;0.066 (p &lt; .0001)</td><td class="hi">&minus;0.083 (p &lt; .0001)</td><td class="hi">&minus;0.34 SD</td></tr>
+              <tr><td>local news organisations</td><td class="num">&minus;0.067 (p &lt; .0001)</td><td class="num">&minus;0.083 (p &lt; .0001)</td><td class="num">&minus;0.24 SD</td></tr>
+              <tr><td>social media sites</td><td class="num">+0.140 (p &lt; .0001)</td><td class="num">+0.154 (p &lt; .0001)</td><td class="num">+0.32 SD</td></tr>
+              <tr><td>friends, family, acquaintances</td><td class="num">+0.011 (ns)</td><td class="num">+0.024 (ns)</td><td class="num">&minus;0.04 (ns)</td></tr>
+            </tbody>
+          </table></div>
+          <p><em>n</em>&nbsp;&asymp;&nbsp;9,000 per wave. Institutional trust falls, trust in the informal channel rises, interpersonal trust is flat &mdash; a shape a response-style artifact cannot produce. The stricter exposure gives effects three to four times larger.</p>
+          <p>Profiling all 115 survey items sharpens who these listeners are. Podcast-only diets are <strong>engaged anti-institutionalism</strong>, not disengagement: alongside lower institutional trust they are more civil-libertarian on the norms battery &mdash; radicals should be able to protest +0.17&nbsp;SD, bar radicals from office &minus;0.18, expand presidential power &minus;0.17, media should take government direction &minus;0.35 &mdash; while being no more strongly partisan (0.00), no lonelier, and no less registered. Platform-only diets show none of the civil-libertarian pattern and instead carry weaker national identity, income strain, lower registration and more tolerance of political violence. The podcast-specific increment in the gradient is concentrated in government responsiveness and press independence &mdash; exactly where the two non-institutional groups diverge.</p>
+        </li>
+        <li>
+          <h3>Podcast news use carries the para-social signature</h3>
+          <div class="tw"><table>
+            <caption>Pew W150, regular consumers of news from influencers (n = 2,012); percentage points per step of podcast-news frequency; BH-corrected</caption>
+            <thead><tr><th>Item</th><th>base rate</th><th>b</th><th>q</th></tr></thead>
+            <tbody>
+              <tr><td>feel a personal connection to an influencer</td><td class="num">31.5%</td><td class="hi">+4.1 pp</td><td class="num">.002</td></tr>
+              <tr><td>follow or subscribe</td><td class="num">59.3%</td><td class="num">+6.0 pp</td><td class="num">&lt;.0001</td></tr>
+              <tr><td>influencers helped me understand</td><td class="num">64.7%</td><td class="num">+5.8 pp</td><td class="num">&lt;.0001</td></tr>
+              <tr><td>get opinions and takes from them</td><td class="num">88.9%</td><td class="num">+3.5 pp</td><td class="num">.0001</td></tr>
+              <tr><td>their opinions mostly agree with mine</td><td class="num">30.7%</td><td class="num">+2.6 pp</td><td class="num">.043</td></tr>
+              <tr><td>get basic facts from them</td><td class="num">90.9%</td><td class="num">+1.2 pp</td><td class="num">.19</td></tr>
+              <tr><td>their news is different from other news</td><td class="num">&mdash;</td><td class="num">ns</td><td class="num">.69</td></tr>
+            </tbody>
+          </table></div>
+          <p>Personal connection rises 26% &rarr; 31% &rarr; 32% &rarr; 39% across the frequency levels and holds within both parties. The relational and opinion items move; the informational items do not. That is the audience-side signature of direct, personal address.</p>
+        </li>
+        <li>
+          <h3>Listener-directed shows have exclusive audiences; hostile shows do not</h3>
+          <div class="tw"><table>
+            <caption>Among corpus listeners (strict title match; NBC Nightly News excluded as itself mainstream): P(names no institutional source) per SD of listener-directed address</caption>
+            <thead><tr><th>Specification</th><th>b / SD</th><th>CR2 p (Satterthwaite df)</th><th>wild-bootstrap p</th><th>n / shows</th></tr></thead>
+            <tbody>
+              <tr><td>+ show ideology, party, age, attention, education; clustered by show</td><td class="hi">+0.126</td><td class="hi">.025 (7.1)</td><td class="hi">.0085</td><td class="num">339 / 50</td></tr>
+              <tr><td>same, broad definition of institutional source</td><td class="num">+0.147</td><td class="num">&mdash;</td><td class="num">.0025</td><td class="num">339 / 50</td></tr>
+            </tbody>
+          </table></div>
+          <p>At the show level (13 shows with ten or more listeners), listener-directed address correlates +0.65 with audience exclusivity and +0.62 after partialling out show ideology; imperatives +0.65, second-person +0.57; <strong>insult &minus;0.20</strong>. Within left-labelled shows alone, the more listener-directed half is 59% exclusive against 35% for the less listener-directed half. Show ideology in the listener-level model is <em>p</em>&nbsp;=&nbsp;.84. Listener-directed address predicts a listener naming no institutional source; hostility does not. One qualification: strategy-and-game framing predicts exclusivity <em>negatively</em> (&minus;0.11&nbsp;SD per SD; the insider-process shows have the least exclusive audiences), and with it in the model the address coefficient falls to +0.08 (<em>p</em>&nbsp;=&nbsp;.07&ndash;.11). Listener-directed shows&rsquo; audiences are exclusive partly because they are not the insider shows. The exclusivity association does not reproduce among the out-of-frame political podcasts (finding 7: +0.04, ns; +0.02 net of the rival features), so it is reported as a corpus-frame result.</p>
+        </li>
+        <li>
+          <h3>Out of frame, among the largest political podcasts, address goes with election distrust and institutional cynicism</h3>
+          <p>The six largest political podcasts that have never appeared on the Politics chart and that meet the content criterion &mdash; <em>The Ben Shapiro Show</em>, <em>The Daily</em>, <em>The Tucker Carlson Show</em>, <em>The Charlie Kirk Show</em>, <em>The Parnas Perspective</em>, <em>The Dan Bongino Show</em>; political-passage shares 17&ndash;47% &mdash; are named by 290 Kettering respondents who were never used in discovery. Their most recent episodes (41&ndash;48 per show) were transcribed and scored with the corpus pipeline against the corpus reference scale, and the respondents were matched by a frozen alias table before any outcome was opened. Address on the corpus scale: Bongino +2.35, Kirk +0.45, Tucker +0.19, Parnas &minus;0.15, Daily &minus;0.29, Shapiro &minus;0.52. Every show&rsquo;s audience partisan lean matches its label.</p>
+          <div class="tw"><table>
+            <caption>Full political-podcast frame: 50 corpus shows and 6 out-of-frame shows, 792 listeners; controls party, attention, age, education, gender, race, income, urbanicity, right-wing platform use, show lean, frame; CR2 (Satterthwaite df &asymp; 9.4) and wild p</caption>
+            <thead><tr><th>Outcome</th><th>corpus shows (50)</th><th>out-of-frame shows (6)</th><th>pooled b / SD</th><th>CR2 p / wild p</th><th>net of populism + intensity</th></tr></thead>
+            <tbody>
+              <tr><td>Election distrust (elections run poorly; officials acted improperly when results surprise)</td><td class="num">+0.22</td><td class="num">+0.28</td><td class="hi">+0.267</td><td class="hi">&lt;.001 / &lt;.001</td><td class="num">+0.19, wild p .018</td></tr>
+              <tr><td>Institutional cynicism, 8 items</td><td class="num">+0.24</td><td class="num">+0.23</td><td class="hi">+0.221</td><td class="num">.005 / &lt;.001</td><td class="num">+0.16, .037</td></tr>
+              <tr><td>Disaffection (life ladder, local identity, church, trust in family and officials, protest efficacy)</td><td class="num">+0.17</td><td class="num">+0.27</td><td class="num">+0.159</td><td class="num">&lt;.001 / .003</td><td class="num">+0.14, .040</td></tr>
+              <tr><td>Economic grievance</td><td class="num">+0.16</td><td class="num">+0.19</td><td class="num">+0.182</td><td class="num">.007 / .005</td><td class="num">+0.13, .095</td></tr>
+              <tr><td>Exclusivity</td><td class="num">+0.26</td><td class="num">+0.04</td><td class="num">+0.089</td><td class="num">.066 / .055</td><td class="num">+0.02, ns</td></tr>
+              <tr><td>Audience education (finding 3)</td><td class="num">&minus;0.29</td><td class="num">&minus;0.08</td><td class="num">&minus;0.213</td><td class="num">.006 / &lt;.001</td><td class="num">&mdash;</td></tr>
+            </tbody>
+          </table></div>
+          <p>Twelve individual items clear <em>p</em>&nbsp;&lt;&nbsp;.05 inside and outside the corpus with the same sign, both election items among them. The association is not the threshold: election distrust lies between +0.20 and +0.29, all significant, at every content cutoff from 8% to 30%. It is not one show: dropping any of the six out-of-frame shows or the six largest corpus shows leaves it at +0.25 to +0.30, all <em>p</em>&nbsp;&le;&nbsp;.003. The six out-of-frame shows alone give +0.27 with the same sign on every outcome but only 1.7 effective degrees of freedom (wild <em>p</em>&nbsp;=&nbsp;.08); they corroborate the corpus rather than stand alone. Election distrust and cynicism are the two associations of address that survive populist vocabulary and ideological intensity in the same model; the three features inter-correlate at 0.4&ndash;0.5 and cannot be separated further with 56 clusters.</p>
+          <p><strong>Pre-registration and disclosure.</strong> The out-of-frame test was pre-registered before any audio was fetched &mdash; hypothesis, frozen alias table, eight-item outcome, model, inference, failure criterion, hashed &mdash; and it was pre-registered on a wider set of shows selected by chart absence rather than by content. On that wider set it did not pass; the content criterion that defines the paper&rsquo;s population was adopted afterward. It is symmetric, objective and insensitive to its threshold, but it is post hoc, and the association above is reported as exploratory for that reason. The full pre-registered result is in the companion record. Kettering Year&nbsp;2 pre-registers the content frame in advance, with election distrust as the primary outcome for address, populist vocabulary and intensity as covariates, and interview dates requested so that within-show variation in address can be used with show fixed effects.</p>
+        </li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="sec">
+    <div class="rail"><b>Inference</b>5</div>
+    <div class="col">
+      <h2>Design and inference</h2>
+      <p>Every within-corpus estimate is demeaned within episode; every between-show estimate is permuted at the show level and carries Benjamini&ndash;Hochberg correction across measure families. Survey estimates are weighted with the surveys&rsquo; own weights and use HC1 standard errors where exposure is respondent-level.</p>
+      <p>Where exposure is assigned by show, respondents cluster in a small number of large shows: on the 56-show political-podcast frame, 57% of clusters hold fewer than five listeners and the four largest (MeidasTouch, Shapiro, NBC Nightly News, The Daily) hold 47%. Conventional cluster-robust inference is unreliable in that regime (Cameron, Gelbach &amp; Miller 2008). Every show-clustered estimate therefore reports CR2 with Satterthwaite degrees of freedom (Pustejovsky &amp; Tipton 2018) as the primary <em>p</em> and a wild cluster bootstrap alongside; the Satterthwaite df &mdash; 7 to 8 on the discovery sample, about 9 on the full political-podcast frame &mdash; is the honest count of clusters the coefficient is identified from. The two methods agree on every estimate.</p>
+      <p>Corpus respondents are matched to shows by exact title (with a documented re-scan for misspellings and abbreviations); out-of-frame respondents by an alias table frozen before any outcome was opened. A host-name expansion of the corpus match is reported once as a sensitivity and does not reproduce the show-linked results; the paper treats the title match as the operationalisation and states the discrepancy.</p>
+      <p>The out-of-frame test was pre-registered before its data existed &mdash; hypothesis, frozen alias table, outcome, model, inference and failure criterion written to hashed files, with amendments filed before any outcome was opened. The content definition of the population came after it (finding 7), so the audience associations of address are labelled exploratory; the education-composition result and the comparison with populist vocabulary and ideological intensity were likewise found by searching and are labelled so. Because the three content features inter-correlate at 0.4&ndash;0.5 and identification rests on about 56 show clusters, the paper does not claim to have adjudicated among them beyond what finding 7 reports.</p>
+    </div>
+  </div>
+
+  <div class="sec">
+    <div class="rail"><b>Limits</b>6</div>
+    <div class="col">
+      <h2>Scope and limitations</h2>
+      <ul class="plain">
+        <li><strong>Association, not effect.</strong> People choose their podcasts. The Pew lag establishes temporal order, not identification. The paper states a directional hypothesis grounded in the media-malaise literature and reports results consistent with it.</li>
+        <li><strong>Scope.</strong> The corpus is the Politics subcategory chart; the largest political podcasts are absent by construction, and the six that meet the content criterion are used as the out-of-frame test. The population is political podcasts defined by content, not by chart.</li>
+        <li><strong>The content definition of the population is post hoc.</strong> It was adopted after the pre-registered out-of-frame test, which used a chart-based set, did not pass (finding 7). It is stated as such and is pre-registered for Year&nbsp;2.</li>
+        <li><strong>Content features are collinear.</strong> Address, populist vocabulary and ideological intensity co-vary across shows and are jointly associated with audience disaffection; with about 56 clusters Year&nbsp;1 ranks them only as far as finding 7 reports. Address&rsquo;s clearest audience correlate, education composition, does not depend on the ranking.</li>
+        <li><strong>Passage-level validation.</strong> Show labels are validated four ways; individual passage labels have not been checked against human coders. A 200-passage, two-coder check precedes submission.</li>
+        <li><strong>Small effective cluster counts</strong> on the show-linked results, reported honestly through the Satterthwaite df.</li>
+        <li><strong>Address is format-sensitive.</strong> Interview-format shows score high on second person for the wrong reason. The corpus frame contains few; the partisan contrast survives the dialogue component; cross-format comparison of levels needs a format covariate or diarization.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="sec">
+    <div class="rail"><b>References</b></div>
+    <div class="col">
+      <h2>Works cited</h2>
+      <ol class="refs">
+        <li>Aalberg, T., Str&ouml;mb&auml;ck, J., &amp; de Vreese, C. H. (2012). The framing of politics as strategy and game. <em>Journalism</em>, 13(2), 162&ndash;178.<span class="use">strategy / game-frame lexicon; the content-frame mechanism tested against mode of address</span></li>
+        <li>Fawzi, N. (2019). Untrustworthy news and the media as &ldquo;enemy of the people&rdquo;? <em>International Journal of Press/Politics</em>, 24(2), 146&ndash;164.<span class="use">anti-media populism; rival content feature, carried as a covariate in finding 7</span></li>
+        <li>Biber, D. (1988). <em>Variation across Speech and Writing</em>. Cambridge University Press.<span class="use">register dimensions; the involved&ndash;informational axis</span></li>
+        <li>Bonica, A. (2014). Mapping the ideological marketplace. <em>American Journal of Political Science</em>, 58(2), 367&ndash;386.<span class="use">DIME cfscores for host ideology</span></li>
+        <li>Cameron, A. C., Gelbach, J. B., &amp; Miller, D. L. (2008). Bootstrap-based improvements for inference with clustered errors. <em>Review of Economics and Statistics</em>, 90(3), 414&ndash;427.<span class="use">wild cluster bootstrap</span></li>
+        <li>Cappella, J. N., &amp; Jamieson, K. H. (1997). <em>Spiral of Cynicism: The Press and the Public Good</em>. Oxford University Press.<span class="use">theoretical frame for the cynicism outcome</span></li>
+        <li>Charles F. Kettering Foundation &amp; Gallup (2025). <em>Democracy for All Project</em>, Year 1 microdata.<span class="use">audience data</span></li>
+        <li>Frimer, J. A., et al. Moral Foundations Dictionary 2.0.<span class="use">moral-content instrument</span></li>
+        <li>Hopp, F. R., Fisher, J. T., Cornell, D., Huskey, R., &amp; Weber, R. (2021). The extended Moral Foundations Dictionary. <em>Behavior Research Methods</em>, 53, 232&ndash;246.<span class="use">moral-content instrument</span></li>
+        <li>Horton, D., &amp; Wohl, R. R. (1956). Mass communication and para-social interaction. <em>Psychiatry</em>, 19(3), 215&ndash;229.<span class="use">the proposed mechanism</span></li>
+        <li>Iyengar, S., &amp; Westwood, S. J. (2015). Fear and loathing across party lines. <em>American Journal of Political Science</em>, 59(3), 690&ndash;707.<span class="use">affective polarization</span></li>
+        <li>Ladd, J. M. (2012). <em>Why Americans Hate the Media and How It Matters</em>. Princeton University Press.<span class="use">media distrust and institutional trust</span></li>
+        <li>Le Foll, E., &amp; Shakir, M. MFTE: Multi-Feature Tagger of English.<span class="use">Biber features</span></li>
+        <li>Much, et al. (2026). Two-stage gated LLM labelling of podcast ideology.<span class="use">ideology instrument; entry to be completed from the source</span></li>
+        <li>Mutz, D. C., &amp; Reeves, B. (2005). The new videomalaise. <em>American Political Science Review</em>, 99(1), 1&ndash;15.<span class="use">the incivility route, which the data rule out for the partisan contrast and for audience attitudes</span></li>
+        <li>Pew Research Center (2024&ndash;2025). American Trends Panel Waves 150, 155, 165.<span class="use">lagged replication and para-social items</span></li>
+        <li>Pustejovsky, J. E., &amp; Tipton, E. (2018). Small-sample methods for cluster-robust variance estimation. <em>Journal of Business &amp; Economic Statistics</em>, 36(4), 672&ndash;683.<span class="use">CR2 with Satterthwaite df</span></li>
+        <li>Rooduijn, M., &amp; Pauwels, T. (2011). Measuring populism: comparing two methods of content analysis. <em>West European Politics</em>, 34(6), 1272&ndash;1283.<span class="use">populism dictionary; rival content feature, associated with cynicism on its own and carried as a covariate in finding 7</span></li>
+        <li>Robinson, M. J. (1976). Public affairs television and the growth of political malaise. <em>American Political Science Review</em>, 70(2), 409&ndash;432.<span class="use">videomalaise</span></li>
+        <li>Sobieraj, S., &amp; Berry, J. M. (2011). From incivility to outrage. <em>Political Communication</em>, 28(1), 19&ndash;41.<span class="use">outrage instrument</span></li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="foot">
+    <p>Political Podcast Corpus &middot; 204 shows &middot; 29,421 episodes &middot; 1.38M passages &middot; plus 6 out-of-frame political podcasts, 269 episodes &middot; linked to Kettering&ndash;Gallup Democracy for All Y1 and Pew ATP W150/W155/W165</p>
+    <p>This is the paper-facing pr&eacute;cis. Exploratory results, retractions, the outcome-scan disclosure and the submission roadmap are in the companion record, <em>Partisan Register</em>.</p>
+  </div>
+</div>

@@ -1,0 +1,49 @@
+WITHIN-FRAME RUN 2026-09-03T08:30:58.780223Z | prereg 1f38eaa255b09a72 | alias da5088004fb57eb5
+shows in frame: 11
+respondents: 150 | pairs: 154 | two-show: 4 | cyn8 non-missing: 150
+
+=== PER-SHOW (reported regardless): dir_z, audience partisan lean (R−D share), mean cynicism, exclusivity ===
+                                     n  dir_z  shareR  shareD  lean  cyn8  excl
+show                                                                           
+The MeidasTouch Podcast             61   0.94    0.00    0.89 -0.89  0.73  0.31
+Timcast News                        30   0.65    0.93    0.03  0.90 -0.15  0.57
+The Benny Show                       3   0.63    1.00    0.00  1.00 -0.01  0.67
+The Young Turks                      9   0.63    0.11    0.67 -0.56  0.79  0.67
+Destiny                              3   0.59    0.00    1.00 -1.00 -0.20  0.67
+The Kyle Kulinski Show               6   0.36    0.00    0.83 -0.83  0.43  0.83
+Candace                              5   0.27    0.80    0.00  0.80  0.09  0.20
+Pod Save America                     3  -0.12    0.00    1.00 -1.00  0.43  0.00
+The Majority Report with Sam Seder  27  -0.37    0.00    0.96 -0.96  1.00  0.67
+Tangle                               3  -1.01    0.33    0.00  0.33 -0.05  0.00
+show-level corr(dir_z, audience lean) = +0.02  (n=10)
+
+=== H1 PRIMARY OUTCOME: 8-item institutional cynicism (z on full Kettering sample) ===
+(i)   PRIMARY within-frame: respondent-level, CR2 + wild   b=-0.055 [-1.004,+0.893] CR2 df=3.0 p1=0.568 (2s 0.864) | wild p1=0.547 (2s 0.861) | G=10 N=150  fail
+(iii) SENS: per-show weights capped at 20% of sample       b=-0.151 [-0.963,+0.661] CR2 df=3.5 p1=0.692 (2s 0.616) | wild p1=0.685 (2s 0.606) | G=10 N=150  fail
+(iv)  show-level precision-weighted permutation: b=+0.021 one-sided p=0.463 two-sided p=0.878 (shows=10)
+
+VERDICT H1 within-frame (one-sided CR2<.05 AND wild<.05): FAIL
+
+=== SECONDARY: Q33E alone (reversed) ===
+(i)   secondary Q33E                                       b=+0.020 [-0.606,+0.645] CR2 df=3.0 p1=0.463 (2s 0.927) | wild p1=0.435 (2s 0.902) | G=10 N=150  fail
+
+=== H2: exclusivity (no mainstream outlet named), LPM ===
+(i)   H2 exclusivity                                       b=+0.042 [-0.512,+0.597] CR2 df=3.0 p1=0.412 (2s 0.823) | wild p1=0.383 (2s 0.737) | G=10 N=150  fail
+
+=== REPORTED ROBUSTNESS ===
+survey-weighted (WEIGHT) primary                           b=-0.199 CR2 p1=0.661 wild p1=0.629 df=3.5
+include Clay & Buck respondents (11 shows)                 b=-0.064 [-0.951,+0.824] CR2 df=3.0 p1=0.582 (2s 0.835) | wild p1=0.583 (2s 0.824) | G=11 N=161  fail
+
+--- leave-one-show-out (primary) ---
+  drop The Majority Report with                            b=+0.303 [-0.689,+1.294] CR2 df=2.8 p1=0.195 (2s 0.389) | wild p1=0.240 (2s 0.410) | G=9 N=123  fail
+  drop The Young Turks                                     b=-0.078 [-1.163,+1.007] CR2 df=2.9 p1=0.585 (2s 0.831) | wild p1=0.592 (2s 0.836) | G=9 N=141  fail
+  drop Pod Save America                                    b=-0.054 [-1.118,+1.010] CR2 df=2.6 p1=0.563 (2s 0.873) | wild p1=0.542 (2s 0.850) | G=9 N=147  fail
+  drop Timcast News                                        b=-0.032 [-1.178,+1.114] CR2 df=2.8 p1=0.534 (2s 0.933) | wild p1=0.576 (2s 0.932) | G=9 N=120  fail
+  drop The MeidasTouch Podcast                             b=-0.368 [-1.264,+0.528] CR2 df=3.4 p1=0.851 (2s 0.298) | wild p1=0.820 (2s 0.348) | G=9 N=89  fail
+  drop Tangle                                              b=-0.167 [-1.190,+0.857] CR2 df=2.3 p1=0.703 (2s 0.594) | wild p1=0.726 (2s 0.550) | G=9 N=147  fail
+  drop The Benny Show                                      b=-0.063 [-1.020,+0.895] CR2 df=3.0 p1=0.576 (2s 0.847) | wild p1=0.586 (2s 0.836) | G=9 N=147  fail
+  drop Candace                                             b=-0.055 [-1.025,+0.916] CR2 df=2.9 p1=0.567 (2s 0.866) | wild p1=0.550 (2s 0.826) | G=9 N=145  fail
+  drop Destiny                                             b=-0.013 [-0.859,+0.833] CR2 df=2.9 p1=0.518 (2s 0.963) | wild p1=0.548 (2s 0.956) | G=9 N=147  fail
+  drop The Kyle Kulinski Show                              b=+0.017 [-0.900,+0.934] CR2 df=2.8 p1=0.478 (2s 0.956) | wild p1=0.484 (2s 0.966) | G=9 N=144  fail
+
+DONE

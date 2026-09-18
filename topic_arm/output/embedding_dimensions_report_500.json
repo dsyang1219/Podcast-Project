@@ -1,0 +1,2901 @@
+{
+  "target": 500,
+  "variant": "centered",
+  "n_pcs": 10,
+  "generated_at": "2026-07-28T04:58:06.747281+00:00",
+  "join_report": {
+    "n_chunks": 40242,
+    "n_chunks_episode_matched": 40242,
+    "n_distinct_episode_ids": 7615,
+    "n_distinct_shows": 204,
+    "corpus_csv_join": {
+      "primary_genre": "constant ('Politics', 1 distinct value(s) across 219 shows) -- excluded from correlation, corpus is single-genre by design",
+      "apple_category": "constant ('News', 1 distinct value(s) across 219 shows) -- excluded from correlation, corpus is single-genre by design",
+      "apple_subcategory": "constant ('Politics', 1 distinct value(s) across 219 shows) -- excluded from correlation, corpus is single-genre by design",
+      "country": "constant ('USA', 1 distinct value(s) across 219 shows) -- excluded from correlation, corpus is single-genre by design",
+      "rss_language": "3 distinct values, top='en' (161/219) -- not a numeric feature, reported only",
+      "brookings_partisan_leaning": "104/219 shows matched to a Brookings lean label (partial coverage by design -- fuzzy-join, see lean_validation.csv)",
+      "avg_host_cfscore": "120/219 shows -- same genuine-only DIME CFscore lookup nlp/embed_ideology.py uses (no 0.0-placeholder rows); included here only as a consistency check against the established PC22 finding, not a new ideology probe",
+      "no_follower_count_field": "no follower/subscriber-count field exists anywhere in the corpus outputs -- track_count (episode count) and hours_available are the closest production-scale proxies"
+    }
+  },
+  "feature_coverage": [
+    {
+      "feature": "log_duration_sec",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "n_raw_words",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "n_content_words",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "title_length_words",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "desc_length_words",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "recency_days",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "pub_hour",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "is_weekend",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "guest_cue",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "qa_cue",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "live_cue",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "episode_count",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "episodes_with_audio",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "hours_available",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "avg_episode_minutes",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "episodes_per_week",
+      "n_nonnull": 40242,
+      "n_total": 40242,
+      "pct_coverage": 100.0
+    },
+    {
+      "feature": "lean_numeric",
+      "n_nonnull": 18729,
+      "n_total": 40242,
+      "pct_coverage": 46.5
+    },
+    {
+      "feature": "avg_host_cfscore",
+      "n_nonnull": 23570,
+      "n_total": 40242,
+      "pct_coverage": 58.6
+    }
+  ],
+  "step1_correlations": {
+    "top3_per_pc": {
+      "PC1": [
+        {
+          "pc": 1,
+          "feature": "n_raw_words",
+          "n": 40242,
+          "pearson_r": -0.20396922708026988,
+          "pearson_p": 0.0,
+          "spearman_r": -0.22827336533197332,
+          "spearman_p": 0.0
+        },
+        {
+          "pc": 1,
+          "feature": "log_duration_sec",
+          "n": 40242,
+          "pearson_r": -0.17251727453712765,
+          "pearson_p": 2.246610854916137e-266,
+          "spearman_r": -0.1840039504347616,
+          "spearman_p": 2.3097858310102274e-303
+        },
+        {
+          "pc": 1,
+          "feature": "avg_episode_minutes",
+          "n": 40242,
+          "pearson_r": -0.1454969539212152,
+          "pearson_p": 2.966474973503075e-189,
+          "spearman_r": -0.15982759802505075,
+          "spearman_p": 1.9229722379955023e-228
+        }
+      ],
+      "PC2": [
+        {
+          "pc": 2,
+          "feature": "log_duration_sec",
+          "n": 40242,
+          "pearson_r": 0.13125596756665195,
+          "pearson_p": 4.26140725064574e-154,
+          "spearman_r": 0.0961176924368963,
+          "spearman_p": 3.261464077773308e-83
+        },
+        {
+          "pc": 2,
+          "feature": "lean_numeric",
+          "n": 18729,
+          "pearson_r": 0.11373463724906362,
+          "pearson_p": 5.783251015762311e-55,
+          "spearman_r": 0.10695519204973834,
+          "spearman_p": 8.868231094640311e-49
+        },
+        {
+          "pc": 2,
+          "feature": "avg_episode_minutes",
+          "n": 40242,
+          "pearson_r": 0.10483612365431683,
+          "pearson_p": 1.0243672950773803e-98,
+          "spearman_r": 0.078213299295484,
+          "spearman_p": 1.2225104243786548e-55
+        }
+      ],
+      "PC3": [
+        {
+          "pc": 3,
+          "feature": "episodes_per_week",
+          "n": 40242,
+          "pearson_r": -0.10496652001812719,
+          "pearson_p": 5.864195469786958e-99,
+          "spearman_r": -0.11070453932169286,
+          "spearman_p": 6.373499346600954e-110
+        },
+        {
+          "pc": 3,
+          "feature": "n_raw_words",
+          "n": 40242,
+          "pearson_r": 0.10161063296221053,
+          "pearson_p": 8.03922003083399e-93,
+          "spearman_r": 0.10017260061058227,
+          "spearman_p": 2.9714222981444283e-90
+        },
+        {
+          "pc": 3,
+          "feature": "title_length_words",
+          "n": 40242,
+          "pearson_r": -0.07632108336880769,
+          "pearson_p": 4.65855808749632e-53,
+          "spearman_r": -0.0562499206327785,
+          "spearman_p": 1.428246224241477e-29
+        }
+      ],
+      "PC4": [
+        {
+          "pc": 4,
+          "feature": "n_raw_words",
+          "n": 40242,
+          "pearson_r": 0.19774601292705202,
+          "pearson_p": 0.0,
+          "spearman_r": 0.20852053341492405,
+          "spearman_p": 0.0
+        },
+        {
+          "pc": 4,
+          "feature": "log_duration_sec",
+          "n": 40242,
+          "pearson_r": 0.16524300636285882,
+          "pearson_p": 2.949283905448081e-244,
+          "spearman_r": 0.14508524268631554,
+          "spearman_p": 3.4784951967867895e-188
+        },
+        {
+          "pc": 4,
+          "feature": "avg_episode_minutes",
+          "n": 40242,
+          "pearson_r": 0.13718737840272832,
+          "pearson_p": 2.7667053016100802e-168,
+          "spearman_r": 0.12780795851718865,
+          "spearman_p": 3.7980875834100782e-146
+        }
+      ],
+      "PC5": [
+        {
+          "pc": 5,
+          "feature": "avg_episode_minutes",
+          "n": 40242,
+          "pearson_r": 0.09924904962663683,
+          "pearson_p": 1.2660762144922445e-88,
+          "spearman_r": 0.11115911511486001,
+          "spearman_p": 8.135123384357158e-111
+        },
+        {
+          "pc": 5,
+          "feature": "log_duration_sec",
+          "n": 40242,
+          "pearson_r": 0.10206089643187692,
+          "pearson_p": 1.240450167497479e-93,
+          "spearman_r": 0.09679300136609494,
+          "spearman_p": 2.298053521111985e-84
+        },
+        {
+          "pc": 5,
+          "feature": "episodes_per_week",
+          "n": 40242,
+          "pearson_r": -0.059240344730557865,
+          "pearson_p": 1.2727054932864506e-32,
+          "spearman_r": -0.08317385299742133,
+          "spearman_p": 1.045857843943471e-62
+        }
+      ],
+      "PC6": [
+        {
+          "pc": 6,
+          "feature": "episodes_per_week",
+          "n": 40242,
+          "pearson_r": -0.06520898743098091,
+          "pearson_p": 3.529698072757315e-39,
+          "spearman_r": -0.11440175304167964,
+          "spearman_p": 2.6575746827074854e-117
+        },
+        {
+          "pc": 6,
+          "feature": "avg_host_cfscore",
+          "n": 23570,
+          "pearson_r": -0.08509526665213031,
+          "pearson_p": 3.890913570066731e-39,
+          "spearman_r": -0.06998064601836061,
+          "spearman_p": 5.527957496772073e-27
+        },
+        {
+          "pc": 6,
+          "feature": "lean_numeric",
+          "n": 18729,
+          "pearson_r": -0.07435041514676959,
+          "pearson_p": 2.230175432932062e-24,
+          "spearman_r": -0.07873413999203877,
+          "spearman_p": 3.791736658650038e-27
+        }
+      ],
+      "PC7": [
+        {
+          "pc": 7,
+          "feature": "n_raw_words",
+          "n": 40242,
+          "pearson_r": -0.2522963280606178,
+          "pearson_p": 0.0,
+          "spearman_r": -0.2769962708756768,
+          "spearman_p": 0.0
+        },
+        {
+          "pc": 7,
+          "feature": "log_duration_sec",
+          "n": 40242,
+          "pearson_r": -0.06260512135231494,
+          "pearson_p": 3.056745218324308e-36,
+          "spearman_r": -0.083980257597581,
+          "spearman_p": 6.748339896228405e-64
+        },
+        {
+          "pc": 7,
+          "feature": "avg_episode_minutes",
+          "n": 40242,
+          "pearson_r": -0.033637025296424275,
+          "pearson_p": 1.4843224900460237e-11,
+          "spearman_r": -0.08043542392755998,
+          "spearman_p": 9.444912774520253e-59
+        }
+      ],
+      "PC8": [
+        {
+          "pc": 8,
+          "feature": "n_raw_words",
+          "n": 40242,
+          "pearson_r": 0.14437282840797025,
+          "pearson_p": 2.4208890034710177e-186,
+          "spearman_r": 0.16606654679620114,
+          "spearman_p": 1.0378960363521337e-246
+        },
+        {
+          "pc": 8,
+          "feature": "episodes_per_week",
+          "n": 40242,
+          "pearson_r": -0.07513106490438722,
+          "pearson_p": 1.8153494839612832e-51,
+          "spearman_r": -0.10092494878413848,
+          "spearman_p": 1.3620982879877746e-91
+        },
+        {
+          "pc": 8,
+          "feature": "hours_available",
+          "n": 40242,
+          "pearson_r": -0.06643243258870908,
+          "pearson_p": 1.337587696677555e-40,
+          "spearman_r": -0.03663653854521558,
+          "spearman_p": 1.957324268308855e-13
+        }
+      ],
+      "PC9": [
+        {
+          "pc": 9,
+          "feature": "avg_host_cfscore",
+          "n": 23570,
+          "pearson_r": 0.13470528605284063,
+          "pearson_p": 7.392007219940348e-96,
+          "spearman_r": 0.1694910940130716,
+          "spearman_p": 2.0647093555709954e-151
+        },
+        {
+          "pc": 9,
+          "feature": "n_raw_words",
+          "n": 40242,
+          "pearson_r": 0.15057648894319167,
+          "pearson_p": 1.0510383779857606e-202,
+          "spearman_r": 0.16478212359931138,
+          "spearman_p": 6.873942362546762e-243
+        },
+        {
+          "pc": 9,
+          "feature": "avg_episode_minutes",
+          "n": 40242,
+          "pearson_r": 0.07077480238286445,
+          "pearson_p": 7.384495200429789e-46,
+          "spearman_r": 0.10416095578959313,
+          "spearman_p": 1.8191377404686747e-97
+        }
+      ],
+      "PC10": [
+        {
+          "pc": 10,
+          "feature": "n_content_words",
+          "n": 40242,
+          "pearson_r": 0.077736763254483,
+          "pearson_p": 5.536431726762934e-55,
+          "spearman_r": 0.027911001467170134,
+          "spearman_p": 2.143790789781242e-08
+        },
+        {
+          "pc": 10,
+          "feature": "guest_cue",
+          "n": 40242,
+          "pearson_r": -0.07167136442621183,
+          "pearson_p": 5.511496715030901e-47,
+          "spearman_r": -0.06896999142213485,
+          "spearman_p": 1.241880567184822e-43
+        },
+        {
+          "pc": 10,
+          "feature": "lean_numeric",
+          "n": 18729,
+          "pearson_r": 0.06927625044856653,
+          "pearson_p": 2.2773603047867633e-21,
+          "spearman_r": 0.06478243887994045,
+          "spearman_p": 7.027193778579833e-19
+        }
+      ]
+    },
+    "flagged_meaningful": [],
+    "meaningful_threshold": 0.3,
+    "day_of_week_eta_squared": {
+      "PC1": {
+        "eta_squared": 0.0008847787804183031,
+        "n": 40242
+      },
+      "PC2": {
+        "eta_squared": 0.0016892336123001891,
+        "n": 40242
+      },
+      "PC3": {
+        "eta_squared": 0.0029562042717311676,
+        "n": 40242
+      },
+      "PC4": {
+        "eta_squared": 0.0016697756073173022,
+        "n": 40242
+      },
+      "PC5": {
+        "eta_squared": 0.004646823997224236,
+        "n": 40242
+      },
+      "PC6": {
+        "eta_squared": 0.0025295490792679133,
+        "n": 40242
+      },
+      "PC7": {
+        "eta_squared": 0.0014316711636281388,
+        "n": 40242
+      },
+      "PC8": {
+        "eta_squared": 0.0033353534986438177,
+        "n": 40242
+      },
+      "PC9": {
+        "eta_squared": 0.004894404627157967,
+        "n": 40242
+      },
+      "PC10": {
+        "eta_squared": 0.0013280542675171538,
+        "n": 40242
+      }
+    },
+    "hypothesis_tests": {
+      "length_format": {
+        "best_match": {
+          "pc": 7,
+          "feature": "n_raw_words",
+          "n": 40242,
+          "pearson_r": -0.2522963280606178,
+          "pearson_p": 0.0,
+          "spearman_r": -0.2769962708756768,
+          "spearman_p": 0.0
+        },
+        "found_home": false,
+        "verdict": "no top PC corresponds to length_format (best: PC7/n_raw_words, |r|<= 0.3, pearson_r=-0.252)"
+      },
+      "temporal": {
+        "best_match": {
+          "pc": 3,
+          "feature": "recency_days",
+          "n": 40242,
+          "pearson_r": -0.06280972679342103,
+          "pearson_p": 1.814480445997916e-36,
+          "spearman_r": -0.06271724499212548,
+          "spearman_p": 2.2973370803290515e-36
+        },
+        "found_home": false,
+        "verdict": "no top PC corresponds to temporal (best: PC3/recency_days, |r|<= 0.3, pearson_r=-0.063)"
+      },
+      "interview_vs_monologue": {
+        "best_match": {
+          "pc": 2,
+          "feature": "guest_cue",
+          "n": 40242,
+          "pearson_r": 0.0989482911749861,
+          "pearson_p": 4.2638862000218525e-88,
+          "spearman_r": 0.09681406626057358,
+          "spearman_p": 2.1149139931790984e-84
+        },
+        "found_home": false,
+        "verdict": "no top PC corresponds to interview_vs_monologue (best: PC2/guest_cue, |r|<= 0.3, pearson_r=0.099)"
+      },
+      "episode_type": {
+        "best_match": {
+          "pc": 1,
+          "feature": "live_cue",
+          "n": 40242,
+          "pearson_r": -0.06464385451114942,
+          "pearson_p": 1.5682662199268379e-38,
+          "spearman_r": -0.06498732301167154,
+          "spearman_p": 6.345277069475449e-39
+        },
+        "found_home": false,
+        "verdict": "no top PC corresponds to episode_type (best: PC1/live_cue, |r|<= 0.3, pearson_r=-0.065)"
+      },
+      "show_production": {
+        "best_match": {
+          "pc": 1,
+          "feature": "avg_episode_minutes",
+          "n": 40242,
+          "pearson_r": -0.1454969539212152,
+          "pearson_p": 2.966474973503075e-189,
+          "spearman_r": -0.15982759802505075,
+          "spearman_p": 1.9229722379955023e-228
+        },
+        "found_home": false,
+        "verdict": "no top PC corresponds to show_production (best: PC1/avg_episode_minutes, |r|<= 0.3, pearson_r=-0.145)"
+      },
+      "ideology_consistency_check": {
+        "best_match": {
+          "pc": 9,
+          "feature": "avg_host_cfscore",
+          "n": 23570,
+          "pearson_r": 0.13470528605284063,
+          "pearson_p": 7.392007219940348e-96,
+          "spearman_r": 0.1694910940130716,
+          "spearman_p": 2.0647093555709954e-151
+        },
+        "found_home": false,
+        "verdict": "no top PC corresponds to ideology_consistency_check (best: PC9/avg_host_cfscore, |r|<= 0.3, pearson_r=0.135)"
+      }
+    }
+  },
+  "step1_pc_feature_matrix": [
+    {
+      "pc": 1,
+      "feature": "log_duration_sec",
+      "n": 40242,
+      "pearson_r": -0.17251727453712765,
+      "pearson_p": 2.246610854916137e-266,
+      "spearman_r": -0.1840039504347616,
+      "spearman_p": 2.3097858310102274e-303
+    },
+    {
+      "pc": 1,
+      "feature": "n_raw_words",
+      "n": 40242,
+      "pearson_r": -0.20396922708026988,
+      "pearson_p": 0.0,
+      "spearman_r": -0.22827336533197332,
+      "spearman_p": 0.0
+    },
+    {
+      "pc": 1,
+      "feature": "n_content_words",
+      "n": 40242,
+      "pearson_r": 0.05058936715748051,
+      "pearson_p": 3.1603692808750208e-24,
+      "spearman_r": 0.023314876329985242,
+      "spearman_p": 2.9032283038709374e-06
+    },
+    {
+      "pc": 1,
+      "feature": "title_length_words",
+      "n": 40242,
+      "pearson_r": 0.025889686731659367,
+      "pearson_p": 2.0550675100842762e-07,
+      "spearman_r": 0.016356338190508687,
+      "spearman_p": 0.001033422864217896
+    },
+    {
+      "pc": 1,
+      "feature": "desc_length_words",
+      "n": 40242,
+      "pearson_r": 0.023151514321890925,
+      "pearson_p": 3.4046107974978835e-06,
+      "spearman_r": 0.040711782007883134,
+      "spearman_p": 3.0817679463421496e-16
+    },
+    {
+      "pc": 1,
+      "feature": "recency_days",
+      "n": 40242,
+      "pearson_r": 0.04070514719612178,
+      "pearson_p": 3.115994771711523e-16,
+      "spearman_r": 0.0409105261955943,
+      "spearman_p": 2.2118710339834775e-16
+    },
+    {
+      "pc": 1,
+      "feature": "pub_hour",
+      "n": 40242,
+      "pearson_r": -0.013378823362728696,
+      "pearson_p": 0.007277248282830275,
+      "spearman_r": -0.014672664748949234,
+      "spearman_p": 0.0032456206164614373
+    },
+    {
+      "pc": 1,
+      "feature": "is_weekend",
+      "n": 40242,
+      "pearson_r": 0.00932867380240808,
+      "pearson_p": 0.061296212852915095,
+      "spearman_r": 0.008878646208092832,
+      "spearman_p": 0.07490060777237482
+    },
+    {
+      "pc": 1,
+      "feature": "guest_cue",
+      "n": 40242,
+      "pearson_r": 0.011713032761355078,
+      "pearson_p": 0.018789059174781998,
+      "spearman_r": 0.012202238824222082,
+      "spearman_p": 0.014371782321939862
+    },
+    {
+      "pc": 1,
+      "feature": "qa_cue",
+      "n": 40242,
+      "pearson_r": -0.05628242954096919,
+      "pearson_p": 1.3258309580147616e-29,
+      "spearman_r": -0.05514807788293069,
+      "spearman_p": 1.734322471093074e-28
+    },
+    {
+      "pc": 1,
+      "feature": "live_cue",
+      "n": 40242,
+      "pearson_r": -0.06464385451114942,
+      "pearson_p": 1.5682662199268379e-38,
+      "spearman_r": -0.06498732301167154,
+      "spearman_p": 6.345277069475449e-39
+    },
+    {
+      "pc": 1,
+      "feature": "episode_count",
+      "n": 40242,
+      "pearson_r": -0.042498317602516475,
+      "pearson_p": 1.4771456330559934e-17,
+      "spearman_r": -0.046822142113998634,
+      "spearman_p": 5.583491610340642e-21
+    },
+    {
+      "pc": 1,
+      "feature": "episodes_with_audio",
+      "n": 40242,
+      "pearson_r": -0.04249631983018169,
+      "pearson_p": 1.4822777896884897e-17,
+      "spearman_r": -0.04680770756072673,
+      "spearman_p": 5.7394766566137344e-21
+    },
+    {
+      "pc": 1,
+      "feature": "hours_available",
+      "n": 40242,
+      "pearson_r": -0.0754516608244753,
+      "pearson_p": 6.805878042938317e-52,
+      "spearman_r": -0.1278979549692314,
+      "spearman_p": 2.370468222222064e-146
+    },
+    {
+      "pc": 1,
+      "feature": "avg_episode_minutes",
+      "n": 40242,
+      "pearson_r": -0.1454969539212152,
+      "pearson_p": 2.966474973503075e-189,
+      "spearman_r": -0.15982759802505075,
+      "spearman_p": 1.9229722379955023e-228
+    },
+    {
+      "pc": 1,
+      "feature": "episodes_per_week",
+      "n": 40242,
+      "pearson_r": 0.002880722965415493,
+      "pearson_p": 0.563353207046879,
+      "spearman_r": 0.026977476433360726,
+      "spearman_p": 6.211303582786257e-08
+    },
+    {
+      "pc": 1,
+      "feature": "lean_numeric",
+      "n": 18729,
+      "pearson_r": -0.012374361717962516,
+      "pearson_p": 0.09037328396631651,
+      "spearman_r": -0.02848289925108283,
+      "spearman_p": 9.677936649907638e-05
+    },
+    {
+      "pc": 1,
+      "feature": "avg_host_cfscore",
+      "n": 23570,
+      "pearson_r": -0.14006675310957084,
+      "pearson_p": 1.47044718743655e-103,
+      "spearman_r": -0.13115002969958997,
+      "spearman_p": 6.375893244041768e-91
+    },
+    {
+      "pc": 2,
+      "feature": "log_duration_sec",
+      "n": 40242,
+      "pearson_r": 0.13125596756665195,
+      "pearson_p": 4.26140725064574e-154,
+      "spearman_r": 0.0961176924368963,
+      "spearman_p": 3.261464077773308e-83
+    },
+    {
+      "pc": 2,
+      "feature": "n_raw_words",
+      "n": 40242,
+      "pearson_r": 0.06783522536654131,
+      "pearson_p": 2.91133397835799e-42,
+      "spearman_r": 0.07325157131968464,
+      "spearman_p": 5.2510628635915436e-49
+    },
+    {
+      "pc": 2,
+      "feature": "n_content_words",
+      "n": 40242,
+      "pearson_r": -0.003381336906796676,
+      "pearson_p": 0.4975872837214159,
+      "spearman_r": -0.01175793118281873,
+      "spearman_p": 0.01833920728074102
+    },
+    {
+      "pc": 2,
+      "feature": "title_length_words",
+      "n": 40242,
+      "pearson_r": 0.06251131449442099,
+      "pearson_p": 3.880265339881987e-36,
+      "spearman_r": 0.08317789062283022,
+      "spearman_p": 1.0316724128642394e-62
+    },
+    {
+      "pc": 2,
+      "feature": "desc_length_words",
+      "n": 40242,
+      "pearson_r": 0.02938501242710341,
+      "pearson_p": 3.727720198740845e-09,
+      "spearman_r": 0.030756189198795702,
+      "spearman_p": 6.78227723915777e-10
+    },
+    {
+      "pc": 2,
+      "feature": "recency_days",
+      "n": 40242,
+      "pearson_r": 0.03043092934114917,
+      "pearson_p": 1.022914265881099e-09,
+      "spearman_r": 0.027584460835538796,
+      "spearman_p": 3.1223008945679354e-08
+    },
+    {
+      "pc": 2,
+      "feature": "pub_hour",
+      "n": 40242,
+      "pearson_r": 0.05492679963032672,
+      "pearson_p": 2.846611383594363e-28,
+      "spearman_r": 0.04888123667081391,
+      "spearman_p": 1.0062720262841388e-22
+    },
+    {
+      "pc": 2,
+      "feature": "is_weekend",
+      "n": 40242,
+      "pearson_r": 0.0027023124799522343,
+      "pearson_p": 0.587764029260371,
+      "spearman_r": 0.006919063900016252,
+      "spearman_p": 0.165147398948134
+    },
+    {
+      "pc": 2,
+      "feature": "guest_cue",
+      "n": 40242,
+      "pearson_r": 0.0989482911749861,
+      "pearson_p": 4.2638862000218525e-88,
+      "spearman_r": 0.09681406626057358,
+      "spearman_p": 2.1149139931790984e-84
+    },
+    {
+      "pc": 2,
+      "feature": "qa_cue",
+      "n": 40242,
+      "pearson_r": -0.02465801493243528,
+      "pearson_p": 7.532842305849259e-07,
+      "spearman_r": -0.018188578247830857,
+      "spearman_p": 0.0002633741756063991
+    },
+    {
+      "pc": 2,
+      "feature": "live_cue",
+      "n": 40242,
+      "pearson_r": 0.002401577520990252,
+      "pearson_p": 0.6299821332239022,
+      "spearman_r": 0.0017446635215921178,
+      "spearman_p": 0.7263566875440325
+    },
+    {
+      "pc": 2,
+      "feature": "episode_count",
+      "n": 40242,
+      "pearson_r": -0.002305750937469514,
+      "pearson_p": 0.6437017883722459,
+      "spearman_r": -0.005984301089148059,
+      "spearman_p": 0.22996511764531266
+    },
+    {
+      "pc": 2,
+      "feature": "episodes_with_audio",
+      "n": 40242,
+      "pearson_r": -0.002310381657547645,
+      "pearson_p": 0.643035950923491,
+      "spearman_r": -0.00597873252756378,
+      "spearman_p": 0.23039901424073794
+    },
+    {
+      "pc": 2,
+      "feature": "hours_available",
+      "n": 40242,
+      "pearson_r": 0.03716366352762157,
+      "pearson_p": 8.816133245610135e-14,
+      "spearman_r": 0.04777380566876824,
+      "spearman_p": 8.911723412392331e-22
+    },
+    {
+      "pc": 2,
+      "feature": "avg_episode_minutes",
+      "n": 40242,
+      "pearson_r": 0.10483612365431683,
+      "pearson_p": 1.0243672950773803e-98,
+      "spearman_r": 0.078213299295484,
+      "spearman_p": 1.2225104243786548e-55
+    },
+    {
+      "pc": 2,
+      "feature": "episodes_per_week",
+      "n": 40242,
+      "pearson_r": -0.03897690089842282,
+      "pearson_p": 5.213342763241954e-15,
+      "spearman_r": -0.06544027512874492,
+      "spearman_p": 1.9100488672452012e-39
+    },
+    {
+      "pc": 2,
+      "feature": "lean_numeric",
+      "n": 18729,
+      "pearson_r": 0.11373463724906362,
+      "pearson_p": 5.783251015762311e-55,
+      "spearman_r": 0.10695519204973834,
+      "spearman_p": 8.868231094640311e-49
+    },
+    {
+      "pc": 2,
+      "feature": "avg_host_cfscore",
+      "n": 23570,
+      "pearson_r": 0.007818655823647285,
+      "pearson_p": 0.2300167495825939,
+      "spearman_r": -0.043768928133356755,
+      "spearman_p": 1.7863232523852294e-11
+    },
+    {
+      "pc": 3,
+      "feature": "log_duration_sec",
+      "n": 40242,
+      "pearson_r": 0.020719059008794213,
+      "pearson_p": 3.229552683178581e-05,
+      "spearman_r": 0.011551405739344588,
+      "spearman_p": 0.020489326003535854
+    },
+    {
+      "pc": 3,
+      "feature": "n_raw_words",
+      "n": 40242,
+      "pearson_r": 0.10161063296221053,
+      "pearson_p": 8.03922003083399e-93,
+      "spearman_r": 0.10017260061058227,
+      "spearman_p": 2.9714222981444283e-90
+    },
+    {
+      "pc": 3,
+      "feature": "n_content_words",
+      "n": 40242,
+      "pearson_r": 0.005032913255305803,
+      "pearson_p": 0.312687926311532,
+      "spearman_r": -0.001184729711422132,
+      "spearman_p": 0.8121492129126897
+    },
+    {
+      "pc": 3,
+      "feature": "title_length_words",
+      "n": 40242,
+      "pearson_r": -0.07632108336880769,
+      "pearson_p": 4.65855808749632e-53,
+      "spearman_r": -0.0562499206327785,
+      "spearman_p": 1.428246224241477e-29
+    },
+    {
+      "pc": 3,
+      "feature": "desc_length_words",
+      "n": 40242,
+      "pearson_r": 0.036977452756353245,
+      "pearson_p": 1.1700081713185557e-13,
+      "spearman_r": 0.04882113850740343,
+      "spearman_p": 1.134146251181172e-22
+    },
+    {
+      "pc": 3,
+      "feature": "recency_days",
+      "n": 40242,
+      "pearson_r": -0.06280972679342103,
+      "pearson_p": 1.814480445997916e-36,
+      "spearman_r": -0.06271724499212548,
+      "spearman_p": 2.2973370803290515e-36
+    },
+    {
+      "pc": 3,
+      "feature": "pub_hour",
+      "n": 40242,
+      "pearson_r": 0.04716613271266085,
+      "pearson_p": 2.888419353304099e-21,
+      "spearman_r": 0.038597324626744735,
+      "spearman_p": 9.526151594093175e-15
+    },
+    {
+      "pc": 3,
+      "feature": "is_weekend",
+      "n": 40242,
+      "pearson_r": -0.012020930416176774,
+      "pearson_p": 0.015888794905754875,
+      "spearman_r": -0.012234524369346881,
+      "spearman_p": 0.014115476171402136
+    },
+    {
+      "pc": 3,
+      "feature": "guest_cue",
+      "n": 40242,
+      "pearson_r": 0.0498622111475218,
+      "pearson_p": 1.398878997707467e-23,
+      "spearman_r": 0.04849390128579731,
+      "spearman_p": 2.169974117466312e-22
+    },
+    {
+      "pc": 3,
+      "feature": "qa_cue",
+      "n": 40242,
+      "pearson_r": 0.03523740779074259,
+      "pearson_p": 1.541050277265696e-12,
+      "spearman_r": 0.032798556352983434,
+      "spearman_p": 4.670100363957558e-11
+    },
+    {
+      "pc": 3,
+      "feature": "live_cue",
+      "n": 40242,
+      "pearson_r": 0.004090579660548002,
+      "pearson_p": 0.4118941225742023,
+      "spearman_r": 0.00014777887181163175,
+      "spearman_p": 0.9763508740436586
+    },
+    {
+      "pc": 3,
+      "feature": "episode_count",
+      "n": 40242,
+      "pearson_r": -0.04781387251721637,
+      "pearson_p": 8.2425741588223e-22,
+      "spearman_r": -0.06554156886387774,
+      "spearman_p": 1.4586404047798895e-39
+    },
+    {
+      "pc": 3,
+      "feature": "episodes_with_audio",
+      "n": 40242,
+      "pearson_r": -0.047808159516035086,
+      "pearson_p": 8.334855919875672e-22,
+      "spearman_r": -0.06549996707719107,
+      "spearman_p": 1.6295288107638673e-39
+    },
+    {
+      "pc": 3,
+      "feature": "hours_available",
+      "n": 40242,
+      "pearson_r": -0.04670411788930324,
+      "pearson_p": 6.9926700215992e-21,
+      "spearman_r": -0.060386140630958714,
+      "spearman_p": 7.84372751238099e-34
+    },
+    {
+      "pc": 3,
+      "feature": "avg_episode_minutes",
+      "n": 40242,
+      "pearson_r": -0.017636216076256865,
+      "pearson_p": 0.0004030749699133075,
+      "spearman_r": 0.022621177693802112,
+      "spearman_p": 5.669867564512787e-06
+    },
+    {
+      "pc": 3,
+      "feature": "episodes_per_week",
+      "n": 40242,
+      "pearson_r": -0.10496652001812719,
+      "pearson_p": 5.864195469786958e-99,
+      "spearman_r": -0.11070453932169286,
+      "spearman_p": 6.373499346600954e-110
+    },
+    {
+      "pc": 3,
+      "feature": "lean_numeric",
+      "n": 18729,
+      "pearson_r": -0.020996886753268735,
+      "pearson_p": 0.004057819972069985,
+      "spearman_r": -0.006582343081182058,
+      "spearman_p": 0.3677110484864056
+    },
+    {
+      "pc": 3,
+      "feature": "avg_host_cfscore",
+      "n": 23570,
+      "pearson_r": -0.0030090397077674096,
+      "pearson_p": 0.6441242797091816,
+      "spearman_r": 0.01808263852825425,
+      "spearman_p": 0.005499477974158232
+    },
+    {
+      "pc": 4,
+      "feature": "log_duration_sec",
+      "n": 40242,
+      "pearson_r": 0.16524300636285882,
+      "pearson_p": 2.949283905448081e-244,
+      "spearman_r": 0.14508524268631554,
+      "spearman_p": 3.4784951967867895e-188
+    },
+    {
+      "pc": 4,
+      "feature": "n_raw_words",
+      "n": 40242,
+      "pearson_r": 0.19774601292705202,
+      "pearson_p": 0.0,
+      "spearman_r": 0.20852053341492405,
+      "spearman_p": 0.0
+    },
+    {
+      "pc": 4,
+      "feature": "n_content_words",
+      "n": 40242,
+      "pearson_r": 0.04766383507921167,
+      "pearson_p": 1.1037212245161797e-21,
+      "spearman_r": 0.021162654586007783,
+      "spearman_p": 2.1795230318350357e-05
+    },
+    {
+      "pc": 4,
+      "feature": "title_length_words",
+      "n": 40242,
+      "pearson_r": -0.023336003322361097,
+      "pearson_p": 2.8438109435535676e-06,
+      "spearman_r": -0.00408657560652885,
+      "spearman_p": 0.41235195203979524
+    },
+    {
+      "pc": 4,
+      "feature": "desc_length_words",
+      "n": 40242,
+      "pearson_r": 0.07754532752455597,
+      "pearson_p": 1.0130201470823593e-54,
+      "spearman_r": 0.0839012139671574,
+      "spearman_p": 8.83850606495835e-64
+    },
+    {
+      "pc": 4,
+      "feature": "recency_days",
+      "n": 40242,
+      "pearson_r": -0.05540188869657095,
+      "pearson_p": 9.80026294356082e-29,
+      "spearman_r": -0.05235927900326347,
+      "spearman_p": 7.739060274038574e-26
+    },
+    {
+      "pc": 4,
+      "feature": "pub_hour",
+      "n": 40242,
+      "pearson_r": 0.0307069118525436,
+      "pearson_p": 7.219871787264273e-10,
+      "spearman_r": 0.03218489189152858,
+      "spearman_p": 1.0617061432633381e-10
+    },
+    {
+      "pc": 4,
+      "feature": "is_weekend",
+      "n": 40242,
+      "pearson_r": 0.001550019341053803,
+      "pearson_p": 0.7558532717655061,
+      "spearman_r": -0.003681750770276833,
+      "spearman_p": 0.4601779776442106
+    },
+    {
+      "pc": 4,
+      "feature": "guest_cue",
+      "n": 40242,
+      "pearson_r": 0.05047427880868849,
+      "pearson_p": 4.0050013287852e-24,
+      "spearman_r": 0.058961374202129505,
+      "spearman_p": 2.4882476598070424e-32
+    },
+    {
+      "pc": 4,
+      "feature": "qa_cue",
+      "n": 40242,
+      "pearson_r": -0.029279445336581448,
+      "pearson_p": 4.237290675408585e-09,
+      "spearman_r": -0.02530935324934301,
+      "spearman_p": 3.817995183538534e-07
+    },
+    {
+      "pc": 4,
+      "feature": "live_cue",
+      "n": 40242,
+      "pearson_r": -0.01749581789342883,
+      "pearson_p": 0.00044828841837491764,
+      "spearman_r": -0.01893209255521999,
+      "spearman_p": 0.0001458227033143243
+    },
+    {
+      "pc": 4,
+      "feature": "episode_count",
+      "n": 40242,
+      "pearson_r": -0.13096603013170735,
+      "pearson_p": 2.02517794662161e-153,
+      "spearman_r": -0.08062940180342953,
+      "spearman_p": 5.004676748708289e-59
+    },
+    {
+      "pc": 4,
+      "feature": "episodes_with_audio",
+      "n": 40242,
+      "pearson_r": -0.1309648685822274,
+      "pearson_p": 2.0378486443351138e-153,
+      "spearman_r": -0.08064313015296885,
+      "spearman_p": 4.784428183214466e-59
+    },
+    {
+      "pc": 4,
+      "feature": "hours_available",
+      "n": 40242,
+      "pearson_r": -0.03388575400680882,
+      "pearson_p": 1.0508338957372949e-11,
+      "spearman_r": -0.017386010518105628,
+      "spearman_p": 0.0004869028872930625
+    },
+    {
+      "pc": 4,
+      "feature": "avg_episode_minutes",
+      "n": 40242,
+      "pearson_r": 0.13718737840272832,
+      "pearson_p": 2.7667053016100802e-168,
+      "spearman_r": 0.12780795851718865,
+      "spearman_p": 3.7980875834100782e-146
+    },
+    {
+      "pc": 4,
+      "feature": "episodes_per_week",
+      "n": 40242,
+      "pearson_r": -0.11935158253657928,
+      "pearson_p": 1.4317192033663402e-127,
+      "spearman_r": -0.1331152880410858,
+      "spearman_p": 1.7860719738591846e-158
+    },
+    {
+      "pc": 4,
+      "feature": "lean_numeric",
+      "n": 18729,
+      "pearson_r": -0.057241985401709175,
+      "pearson_p": 4.516372426240328e-15,
+      "spearman_r": -0.059692256506342606,
+      "spearman_p": 2.9374912786064423e-16
+    },
+    {
+      "pc": 4,
+      "feature": "avg_host_cfscore",
+      "n": 23570,
+      "pearson_r": -0.07710747318813697,
+      "pearson_p": 2.0280288568236088e-32,
+      "spearman_r": -0.06114161471516775,
+      "spearman_p": 5.717794215932593e-21
+    },
+    {
+      "pc": 5,
+      "feature": "log_duration_sec",
+      "n": 40242,
+      "pearson_r": 0.10206089643187692,
+      "pearson_p": 1.240450167497479e-93,
+      "spearman_r": 0.09679300136609494,
+      "spearman_p": 2.298053521111985e-84
+    },
+    {
+      "pc": 5,
+      "feature": "n_raw_words",
+      "n": 40242,
+      "pearson_r": 0.06129387590817702,
+      "pearson_p": 8.306154066595272e-35,
+      "spearman_r": 0.06274113161684206,
+      "spearman_p": 2.161583778903969e-36
+    },
+    {
+      "pc": 5,
+      "feature": "n_content_words",
+      "n": 40242,
+      "pearson_r": 0.0784007673712162,
+      "pearson_p": 6.731149423596036e-56,
+      "spearman_r": 0.04052852650594968,
+      "spearman_p": 4.1783836262177483e-16
+    },
+    {
+      "pc": 5,
+      "feature": "title_length_words",
+      "n": 40242,
+      "pearson_r": -0.04231532610800536,
+      "pearson_p": 2.028189407104241e-17,
+      "spearman_r": -0.020568132718069145,
+      "spearman_p": 3.685505098061836e-05
+    },
+    {
+      "pc": 5,
+      "feature": "desc_length_words",
+      "n": 40242,
+      "pearson_r": 0.03992403876323091,
+      "pearson_p": 1.1297663468252331e-15,
+      "spearman_r": 0.0384845521282477,
+      "spearman_p": 1.1382008255122892e-14
+    },
+    {
+      "pc": 5,
+      "feature": "recency_days",
+      "n": 40242,
+      "pearson_r": 0.01728847069114922,
+      "pearson_p": 0.0005237829976778258,
+      "spearman_r": 0.0055681990312963,
+      "spearman_p": 0.2640039679416633
+    },
+    {
+      "pc": 5,
+      "feature": "pub_hour",
+      "n": 40242,
+      "pearson_r": 0.026586911260227657,
+      "pearson_p": 9.595599841161342e-08,
+      "spearman_r": 0.03438517237844993,
+      "spearman_p": 5.213742006688222e-12
+    },
+    {
+      "pc": 5,
+      "feature": "is_weekend",
+      "n": 40242,
+      "pearson_r": 0.0417373823799583,
+      "pearson_p": 5.4720141049750936e-17,
+      "spearman_r": 0.04050748817534454,
+      "spearman_p": 4.326622891717678e-16
+    },
+    {
+      "pc": 5,
+      "feature": "guest_cue",
+      "n": 40242,
+      "pearson_r": -0.02145558604561452,
+      "pearson_p": 1.6740864211129873e-05,
+      "spearman_r": -0.015803360718858062,
+      "spearman_p": 0.0015227206344350641
+    },
+    {
+      "pc": 5,
+      "feature": "qa_cue",
+      "n": 40242,
+      "pearson_r": -0.01622742563082522,
+      "pearson_p": 0.001132323160140699,
+      "spearman_r": -0.02760992922541255,
+      "spearman_p": 3.0325234049067974e-08
+    },
+    {
+      "pc": 5,
+      "feature": "live_cue",
+      "n": 40242,
+      "pearson_r": 0.0169067010951721,
+      "pearson_p": 0.0006946288501163783,
+      "spearman_r": 0.006984399026880449,
+      "spearman_p": 0.161192376102757
+    },
+    {
+      "pc": 5,
+      "feature": "episode_count",
+      "n": 40242,
+      "pearson_r": -0.039562673646907805,
+      "pearson_p": 2.033326484016005e-15,
+      "spearman_r": -0.028968047691119176,
+      "spearman_p": 6.167631662308464e-09
+    },
+    {
+      "pc": 5,
+      "feature": "episodes_with_audio",
+      "n": 40242,
+      "pearson_r": -0.039561494548664235,
+      "pearson_p": 2.037211742463852e-15,
+      "spearman_r": -0.02893814898728573,
+      "spearman_p": 6.392703384071331e-09
+    },
+    {
+      "pc": 5,
+      "feature": "hours_available",
+      "n": 40242,
+      "pearson_r": 0.013095461796618519,
+      "pearson_p": 0.008613267681655044,
+      "spearman_r": 0.03298237604268956,
+      "spearman_p": 3.641049776827451e-11
+    },
+    {
+      "pc": 5,
+      "feature": "avg_episode_minutes",
+      "n": 40242,
+      "pearson_r": 0.09924904962663683,
+      "pearson_p": 1.2660762144922445e-88,
+      "spearman_r": 0.11115911511486001,
+      "spearman_p": 8.135123384357158e-111
+    },
+    {
+      "pc": 5,
+      "feature": "episodes_per_week",
+      "n": 40242,
+      "pearson_r": -0.059240344730557865,
+      "pearson_p": 1.2727054932864506e-32,
+      "spearman_r": -0.08317385299742133,
+      "spearman_p": 1.045857843943471e-62
+    },
+    {
+      "pc": 5,
+      "feature": "lean_numeric",
+      "n": 18729,
+      "pearson_r": 0.006542095439948943,
+      "pearson_p": 0.3706474021661291,
+      "spearman_r": 0.017669342225565623,
+      "spearman_p": 0.0155997987518233
+    },
+    {
+      "pc": 5,
+      "feature": "avg_host_cfscore",
+      "n": 23570,
+      "pearson_r": -0.011196037474172332,
+      "pearson_p": 0.08564404316150943,
+      "spearman_r": -0.013289748447144558,
+      "spearman_p": 0.041321078468163956
+    },
+    {
+      "pc": 6,
+      "feature": "log_duration_sec",
+      "n": 40242,
+      "pearson_r": -0.002350018459007607,
+      "pearson_p": 0.6373484643527016,
+      "spearman_r": 0.003386673320266995,
+      "spearman_p": 0.49690892872457093
+    },
+    {
+      "pc": 6,
+      "feature": "n_raw_words",
+      "n": 40242,
+      "pearson_r": 0.06462267129546387,
+      "pearson_p": 1.658013126634736e-38,
+      "spearman_r": 0.05781003333140755,
+      "spearman_p": 3.8293567481825526e-31
+    },
+    {
+      "pc": 6,
+      "feature": "n_content_words",
+      "n": 40242,
+      "pearson_r": 0.04692351692519484,
+      "pearson_p": 4.600051583940427e-21,
+      "spearman_r": 0.02483558601225092,
+      "spearman_p": 6.269216970684162e-07
+    },
+    {
+      "pc": 6,
+      "feature": "title_length_words",
+      "n": 40242,
+      "pearson_r": -0.06998868508814104,
+      "pearson_p": 6.996097966916343e-45,
+      "spearman_r": -0.06414640092451464,
+      "spearman_p": 5.766152027495195e-38
+    },
+    {
+      "pc": 6,
+      "feature": "desc_length_words",
+      "n": 40242,
+      "pearson_r": 0.05839018031707592,
+      "pearson_p": 9.722965173466998e-32,
+      "spearman_r": 0.05875804080224359,
+      "spearman_p": 4.048141156704192e-32
+    },
+    {
+      "pc": 6,
+      "feature": "recency_days",
+      "n": 40242,
+      "pearson_r": -0.03535535320396604,
+      "pearson_p": 1.2988955724541357e-12,
+      "spearman_r": -0.041699685739929625,
+      "spearman_p": 5.835266446382679e-17
+    },
+    {
+      "pc": 6,
+      "feature": "pub_hour",
+      "n": 40242,
+      "pearson_r": -0.002207653291921234,
+      "pearson_p": 0.6578734698940404,
+      "spearman_r": -0.010448045530515896,
+      "spearman_p": 0.03608993257636857
+    },
+    {
+      "pc": 6,
+      "feature": "is_weekend",
+      "n": 40242,
+      "pearson_r": 0.031820432471122165,
+      "pearson_p": 1.7170325590785252e-10,
+      "spearman_r": 0.03182520564224722,
+      "spearman_p": 1.7063142985085512e-10
+    },
+    {
+      "pc": 6,
+      "feature": "guest_cue",
+      "n": 40242,
+      "pearson_r": 0.014802201968640533,
+      "pearson_p": 0.0029833078362019733,
+      "spearman_r": 0.012783885359168181,
+      "spearman_p": 0.010331720050310064
+    },
+    {
+      "pc": 6,
+      "feature": "qa_cue",
+      "n": 40242,
+      "pearson_r": -0.027451557229951205,
+      "pearson_p": 3.6342550028495524e-08,
+      "spearman_r": -0.029273784559515938,
+      "spearman_p": 4.2664504134901755e-09
+    },
+    {
+      "pc": 6,
+      "feature": "live_cue",
+      "n": 40242,
+      "pearson_r": 0.00972178980100722,
+      "pearson_p": 0.05115034662443448,
+      "spearman_r": 0.01007211009484394,
+      "spearman_p": 0.04333207449229378
+    },
+    {
+      "pc": 6,
+      "feature": "episode_count",
+      "n": 40242,
+      "pearson_r": -0.03816126670534827,
+      "pearson_p": 1.8906050443229495e-14,
+      "spearman_r": -0.016486288467140144,
+      "spearman_p": 0.0009418687687288737
+    },
+    {
+      "pc": 6,
+      "feature": "episodes_with_audio",
+      "n": 40242,
+      "pearson_r": -0.03816076242619904,
+      "pearson_p": 1.8920959916346357e-14,
+      "spearman_r": -0.016494537847573976,
+      "spearman_p": 0.0009363183608273347
+    },
+    {
+      "pc": 6,
+      "feature": "hours_available",
+      "n": 40242,
+      "pearson_r": -0.03757575411963977,
+      "pearson_p": 4.6896906877407944e-14,
+      "spearman_r": -0.020897356865654998,
+      "spearman_p": 2.7599106558309256e-05
+    },
+    {
+      "pc": 6,
+      "feature": "avg_episode_minutes",
+      "n": 40242,
+      "pearson_r": -0.015497929110854774,
+      "pearson_p": 0.0018769753862860148,
+      "spearman_r": -0.020117521589449554,
+      "spearman_p": 5.438408940687127e-05
+    },
+    {
+      "pc": 6,
+      "feature": "episodes_per_week",
+      "n": 40242,
+      "pearson_r": -0.06520898743098091,
+      "pearson_p": 3.529698072757315e-39,
+      "spearman_r": -0.11440175304167964,
+      "spearman_p": 2.6575746827074854e-117
+    },
+    {
+      "pc": 6,
+      "feature": "lean_numeric",
+      "n": 18729,
+      "pearson_r": -0.07435041514676959,
+      "pearson_p": 2.230175432932062e-24,
+      "spearman_r": -0.07873413999203877,
+      "spearman_p": 3.791736658650038e-27
+    },
+    {
+      "pc": 6,
+      "feature": "avg_host_cfscore",
+      "n": 23570,
+      "pearson_r": -0.08509526665213031,
+      "pearson_p": 3.890913570066731e-39,
+      "spearman_r": -0.06998064601836061,
+      "spearman_p": 5.527957496772073e-27
+    },
+    {
+      "pc": 7,
+      "feature": "log_duration_sec",
+      "n": 40242,
+      "pearson_r": -0.06260512135231494,
+      "pearson_p": 3.056745218324308e-36,
+      "spearman_r": -0.083980257597581,
+      "spearman_p": 6.748339896228405e-64
+    },
+    {
+      "pc": 7,
+      "feature": "n_raw_words",
+      "n": 40242,
+      "pearson_r": -0.2522963280606178,
+      "pearson_p": 0.0,
+      "spearman_r": -0.2769962708756768,
+      "spearman_p": 0.0
+    },
+    {
+      "pc": 7,
+      "feature": "n_content_words",
+      "n": 40242,
+      "pearson_r": -0.015948782990770776,
+      "pearson_p": 0.0013766850115615734,
+      "spearman_r": -0.012545062742896256,
+      "spearman_p": 0.011848932975796771
+    },
+    {
+      "pc": 7,
+      "feature": "title_length_words",
+      "n": 40242,
+      "pearson_r": -0.03378015064059338,
+      "pearson_p": 1.2171593680129531e-11,
+      "spearman_r": -0.02657620208087024,
+      "spearman_p": 9.709902771500728e-08
+    },
+    {
+      "pc": 7,
+      "feature": "desc_length_words",
+      "n": 40242,
+      "pearson_r": 0.037225845841193816,
+      "pearson_p": 8.01863807467751e-14,
+      "spearman_r": 0.04386109130341587,
+      "spearman_p": 1.335907259729167e-18
+    },
+    {
+      "pc": 7,
+      "feature": "recency_days",
+      "n": 40242,
+      "pearson_r": 0.017543840636199654,
+      "pearson_p": 0.0004323159458533902,
+      "spearman_r": 0.024980464164141934,
+      "spearman_p": 5.392054868786497e-07
+    },
+    {
+      "pc": 7,
+      "feature": "pub_hour",
+      "n": 40242,
+      "pearson_r": -0.03350883756005351,
+      "pearson_p": 1.7718037692119815e-11,
+      "spearman_r": -0.038438180728100485,
+      "spearman_p": 1.2244498495629264e-14
+    },
+    {
+      "pc": 7,
+      "feature": "is_weekend",
+      "n": 40242,
+      "pearson_r": 0.028841965163773936,
+      "pearson_p": 7.172277427241808e-09,
+      "spearman_r": 0.028022209357015902,
+      "spearman_p": 1.8843263994808148e-08
+    },
+    {
+      "pc": 7,
+      "feature": "guest_cue",
+      "n": 40242,
+      "pearson_r": -0.0129520222221185,
+      "pearson_p": 0.009369837329202345,
+      "spearman_r": -0.01313598856441343,
+      "spearman_p": 0.00840964340008495
+    },
+    {
+      "pc": 7,
+      "feature": "qa_cue",
+      "n": 40242,
+      "pearson_r": 0.027705753048794118,
+      "pearson_p": 2.7166428910130834e-08,
+      "spearman_r": 0.03428660619257733,
+      "spearman_p": 5.991883735062329e-12
+    },
+    {
+      "pc": 7,
+      "feature": "live_cue",
+      "n": 40242,
+      "pearson_r": 0.0041098529874313994,
+      "pearson_p": 0.4096946039099896,
+      "spearman_r": 0.005396420209456942,
+      "spearman_p": 0.27902232940559796
+    },
+    {
+      "pc": 7,
+      "feature": "episode_count",
+      "n": 40242,
+      "pearson_r": 0.00018043807903679338,
+      "pearson_p": 0.9711264803654451,
+      "spearman_r": 0.006771799967273634,
+      "spearman_p": 0.17432914146342257
+    },
+    {
+      "pc": 7,
+      "feature": "episodes_with_audio",
+      "n": 40242,
+      "pearson_r": 0.00018201583217833644,
+      "pearson_p": 0.9708741215784376,
+      "spearman_r": 0.006794512864998038,
+      "spearman_p": 0.17288867299075972
+    },
+    {
+      "pc": 7,
+      "feature": "hours_available",
+      "n": 40242,
+      "pearson_r": -0.017145250962054267,
+      "pearson_p": 0.0005826748536065255,
+      "spearman_r": -0.027560414617682043,
+      "spearman_p": 3.2094282457225096e-08
+    },
+    {
+      "pc": 7,
+      "feature": "avg_episode_minutes",
+      "n": 40242,
+      "pearson_r": -0.033637025296424275,
+      "pearson_p": 1.4843224900460237e-11,
+      "spearman_r": -0.08043542392755998,
+      "spearman_p": 9.444912774520253e-59
+    },
+    {
+      "pc": 7,
+      "feature": "episodes_per_week",
+      "n": 40242,
+      "pearson_r": 0.032636048898305035,
+      "pearson_p": 5.813120088146731e-11,
+      "spearman_r": 0.01484326521397049,
+      "spearman_p": 0.002904284258849852
+    },
+    {
+      "pc": 7,
+      "feature": "lean_numeric",
+      "n": 18729,
+      "pearson_r": 0.060472449767120656,
+      "pearson_p": 1.2019008869684618e-16,
+      "spearman_r": 0.05602936731752876,
+      "spearman_p": 1.6755428901377785e-14
+    },
+    {
+      "pc": 7,
+      "feature": "avg_host_cfscore",
+      "n": 23570,
+      "pearson_r": 0.015458313398694598,
+      "pearson_p": 0.017631979634108622,
+      "spearman_r": -0.006495302685071464,
+      "spearman_p": 0.318691439733398
+    },
+    {
+      "pc": 8,
+      "feature": "log_duration_sec",
+      "n": 40242,
+      "pearson_r": 0.020517002511022706,
+      "pearson_p": 3.8533726568964734e-05,
+      "spearman_r": 0.013648447394524437,
+      "spearman_p": 0.006181843564303619
+    },
+    {
+      "pc": 8,
+      "feature": "n_raw_words",
+      "n": 40242,
+      "pearson_r": 0.14437282840797025,
+      "pearson_p": 2.4208890034710177e-186,
+      "spearman_r": 0.16606654679620114,
+      "spearman_p": 1.0378960363521337e-246
+    },
+    {
+      "pc": 8,
+      "feature": "n_content_words",
+      "n": 40242,
+      "pearson_r": -0.06202443979222353,
+      "pearson_p": 1.330734523682341e-35,
+      "spearman_r": -0.03567384211160575,
+      "spearman_p": 8.163922620025313e-13
+    },
+    {
+      "pc": 8,
+      "feature": "title_length_words",
+      "n": 40242,
+      "pearson_r": -0.048025040053700147,
+      "pearson_p": 5.456837909732823e-22,
+      "spearman_r": -0.042528169037507356,
+      "spearman_p": 1.4025152556490897e-17
+    },
+    {
+      "pc": 8,
+      "feature": "desc_length_words",
+      "n": 40242,
+      "pearson_r": 0.024608923531054677,
+      "pearson_p": 7.923393089139476e-07,
+      "spearman_r": 0.03766017238319121,
+      "spearman_p": 4.1174178784682696e-14
+    },
+    {
+      "pc": 8,
+      "feature": "recency_days",
+      "n": 40242,
+      "pearson_r": -0.013108196075919615,
+      "pearson_p": 0.008548815228947584,
+      "spearman_r": -0.00010252666059072901,
+      "spearman_p": 0.983591361515164
+    },
+    {
+      "pc": 8,
+      "feature": "pub_hour",
+      "n": 40242,
+      "pearson_r": 0.010635024675216096,
+      "pearson_p": 0.03289000266302739,
+      "spearman_r": 0.010322404525244981,
+      "spearman_p": 0.03838614993048161
+    },
+    {
+      "pc": 8,
+      "feature": "is_weekend",
+      "n": 40242,
+      "pearson_r": -0.012707200717462628,
+      "pearson_p": 0.010798889776482698,
+      "spearman_r": -0.013130643137111101,
+      "spearman_p": 0.00843625235996007
+    },
+    {
+      "pc": 8,
+      "feature": "guest_cue",
+      "n": 40242,
+      "pearson_r": 0.03098957569659705,
+      "pearson_p": 5.037377859572298e-10,
+      "spearman_r": 0.03378510400778955,
+      "spearman_p": 1.208811385919581e-11
+    },
+    {
+      "pc": 8,
+      "feature": "qa_cue",
+      "n": 40242,
+      "pearson_r": 0.04596083304785178,
+      "pearson_p": 2.848362280265496e-20,
+      "spearman_r": 0.048154712115613584,
+      "spearman_p": 4.2321632894924737e-22
+    },
+    {
+      "pc": 8,
+      "feature": "live_cue",
+      "n": 40242,
+      "pearson_r": 0.030981776967705172,
+      "pearson_p": 5.0878689074104e-10,
+      "spearman_r": 0.03149893458356579,
+      "spearman_p": 2.612471233877582e-10
+    },
+    {
+      "pc": 8,
+      "feature": "episode_count",
+      "n": 40242,
+      "pearson_r": -0.05181686070059652,
+      "pearson_p": 2.4447455285530795e-25,
+      "spearman_r": -0.035483498126667075,
+      "spearman_p": 1.0780520972112105e-12
+    },
+    {
+      "pc": 8,
+      "feature": "episodes_with_audio",
+      "n": 40242,
+      "pearson_r": -0.051816821122434915,
+      "pearson_p": 2.4449496666380993e-25,
+      "spearman_r": -0.03549771659213979,
+      "spearman_p": 1.0559470241750714e-12
+    },
+    {
+      "pc": 8,
+      "feature": "hours_available",
+      "n": 40242,
+      "pearson_r": -0.06643243258870908,
+      "pearson_p": 1.337587696677555e-40,
+      "spearman_r": -0.03663653854521558,
+      "spearman_p": 1.957324268308855e-13
+    },
+    {
+      "pc": 8,
+      "feature": "avg_episode_minutes",
+      "n": 40242,
+      "pearson_r": -0.0215148617544725,
+      "pearson_p": 1.5864136894408602e-05,
+      "spearman_r": 0.0013456915825138108,
+      "spearman_p": 0.7872041292776942
+    },
+    {
+      "pc": 8,
+      "feature": "episodes_per_week",
+      "n": 40242,
+      "pearson_r": -0.07513106490438722,
+      "pearson_p": 1.8153494839612832e-51,
+      "spearman_r": -0.10092494878413848,
+      "spearman_p": 1.3620982879877746e-91
+    },
+    {
+      "pc": 8,
+      "feature": "lean_numeric",
+      "n": 18729,
+      "pearson_r": -0.03917040619221322,
+      "pearson_p": 8.215786036959955e-08,
+      "spearman_r": -0.039536067467245826,
+      "spearman_p": 6.217816309467487e-08
+    },
+    {
+      "pc": 8,
+      "feature": "avg_host_cfscore",
+      "n": 23570,
+      "pearson_r": -0.003964180973657323,
+      "pearson_p": 0.5428081963202398,
+      "spearman_r": 0.04061817782631099,
+      "spearman_p": 4.4275022595603764e-10
+    },
+    {
+      "pc": 9,
+      "feature": "log_duration_sec",
+      "n": 40242,
+      "pearson_r": 0.06389810871640855,
+      "pearson_p": 1.100263055119958e-37,
+      "spearman_r": 0.08674740046241908,
+      "spearman_p": 4.537591320718481e-68
+    },
+    {
+      "pc": 9,
+      "feature": "n_raw_words",
+      "n": 40242,
+      "pearson_r": 0.15057648894319167,
+      "pearson_p": 1.0510383779857606e-202,
+      "spearman_r": 0.16478212359931138,
+      "spearman_p": 6.873942362546762e-243
+    },
+    {
+      "pc": 9,
+      "feature": "n_content_words",
+      "n": 40242,
+      "pearson_r": -0.0032066740557335676,
+      "pearson_p": 0.520059561660274,
+      "spearman_r": -0.011084087687188224,
+      "spearman_p": 0.02618125966068777
+    },
+    {
+      "pc": 9,
+      "feature": "title_length_words",
+      "n": 40242,
+      "pearson_r": -0.0011641016114001925,
+      "pearson_p": 0.8153604617782648,
+      "spearman_r": -0.00732180460905262,
+      "spearman_p": 0.14189844105693336
+    },
+    {
+      "pc": 9,
+      "feature": "desc_length_words",
+      "n": 40242,
+      "pearson_r": -0.027271158547343227,
+      "pearson_p": 4.461076498691076e-08,
+      "spearman_r": -0.03702861358391706,
+      "spearman_p": 1.0826278226581525e-13
+    },
+    {
+      "pc": 9,
+      "feature": "recency_days",
+      "n": 40242,
+      "pearson_r": 0.029689510089583038,
+      "pearson_p": 2.5696502788265936e-09,
+      "spearman_r": 0.0246041846013047,
+      "spearman_p": 7.962109808730794e-07
+    },
+    {
+      "pc": 9,
+      "feature": "pub_hour",
+      "n": 40242,
+      "pearson_r": -0.005342500231001173,
+      "pearson_p": 0.2838540183334755,
+      "spearman_r": -0.0005289138002784988,
+      "spearman_p": 0.9155038188413471
+    },
+    {
+      "pc": 9,
+      "feature": "is_weekend",
+      "n": 40242,
+      "pearson_r": -0.0069871584536200055,
+      "pearson_p": 0.16102692421851653,
+      "spearman_r": -0.008195485387006669,
+      "spearman_p": 0.10017116089315947
+    },
+    {
+      "pc": 9,
+      "feature": "guest_cue",
+      "n": 40242,
+      "pearson_r": -0.02640837969849577,
+      "pearson_p": 1.168292946400286e-07,
+      "spearman_r": -0.029767917987015113,
+      "spearman_p": 2.333530250295113e-09
+    },
+    {
+      "pc": 9,
+      "feature": "qa_cue",
+      "n": 40242,
+      "pearson_r": -0.04099658815906052,
+      "pearson_p": 1.9150228034268753e-16,
+      "spearman_r": -0.04228016133988274,
+      "spearman_p": 2.15526365771091e-17
+    },
+    {
+      "pc": 9,
+      "feature": "live_cue",
+      "n": 40242,
+      "pearson_r": -0.002460548736333228,
+      "pearson_p": 0.6216017339856387,
+      "spearman_r": -0.0024324641911987444,
+      "spearman_p": 0.6255867984311426
+    },
+    {
+      "pc": 9,
+      "feature": "episode_count",
+      "n": 40242,
+      "pearson_r": 0.016607541167871224,
+      "pearson_p": 0.0008632751619839342,
+      "spearman_r": 0.03168964931953273,
+      "spearman_p": 2.0376979698243246e-10
+    },
+    {
+      "pc": 9,
+      "feature": "episodes_with_audio",
+      "n": 40242,
+      "pearson_r": 0.016604734797626468,
+      "pearson_p": 0.0008650232899824544,
+      "spearman_r": 0.03167777638405607,
+      "spearman_p": 2.0695506326129403e-10
+    },
+    {
+      "pc": 9,
+      "feature": "hours_available",
+      "n": 40242,
+      "pearson_r": 0.04932215360899974,
+      "pearson_p": 4.165106401910485e-23,
+      "spearman_r": 0.07183473469218415,
+      "spearman_p": 3.4227138267064674e-47
+    },
+    {
+      "pc": 9,
+      "feature": "avg_episode_minutes",
+      "n": 40242,
+      "pearson_r": 0.07077480238286445,
+      "pearson_p": 7.384495200429789e-46,
+      "spearman_r": 0.10416095578959313,
+      "spearman_p": 1.8191377404686747e-97
+    },
+    {
+      "pc": 9,
+      "feature": "episodes_per_week",
+      "n": 40242,
+      "pearson_r": 0.05583696116627644,
+      "pearson_p": 3.661742863930323e-29,
+      "spearman_r": 0.0867029228598362,
+      "spearman_p": 5.308455807596466e-68
+    },
+    {
+      "pc": 9,
+      "feature": "lean_numeric",
+      "n": 18729,
+      "pearson_r": -0.04499739824583521,
+      "pearson_p": 7.238728258867838e-10,
+      "spearman_r": -0.043365638821330495,
+      "spearman_p": 2.900101948131846e-09
+    },
+    {
+      "pc": 9,
+      "feature": "avg_host_cfscore",
+      "n": 23570,
+      "pearson_r": 0.13470528605284063,
+      "pearson_p": 7.392007219940348e-96,
+      "spearman_r": 0.1694910940130716,
+      "spearman_p": 2.0647093555709954e-151
+    },
+    {
+      "pc": 10,
+      "feature": "log_duration_sec",
+      "n": 40242,
+      "pearson_r": 0.03498240817528978,
+      "pearson_p": 2.2259281205696607e-12,
+      "spearman_r": 0.029356920340627663,
+      "spearman_p": 3.857175360285532e-09
+    },
+    {
+      "pc": 10,
+      "feature": "n_raw_words",
+      "n": 40242,
+      "pearson_r": -0.009619640158132553,
+      "pearson_p": 0.05364106449159962,
+      "spearman_r": -0.026579578865989523,
+      "spearman_p": 9.673719600304839e-08
+    },
+    {
+      "pc": 10,
+      "feature": "n_content_words",
+      "n": 40242,
+      "pearson_r": 0.077736763254483,
+      "pearson_p": 5.536431726762934e-55,
+      "spearman_r": 0.027911001467170134,
+      "spearman_p": 2.143790789781242e-08
+    },
+    {
+      "pc": 10,
+      "feature": "title_length_words",
+      "n": 40242,
+      "pearson_r": -0.012343532298708923,
+      "pearson_p": 0.013279644350284484,
+      "spearman_r": -0.017933792345354534,
+      "spearman_p": 0.0003209577265432593
+    },
+    {
+      "pc": 10,
+      "feature": "desc_length_words",
+      "n": 40242,
+      "pearson_r": -0.027206064308090003,
+      "pearson_p": 4.802050835065292e-08,
+      "spearman_r": -0.027913975326874865,
+      "spearman_p": 2.136421405537579e-08
+    },
+    {
+      "pc": 10,
+      "feature": "recency_days",
+      "n": 40242,
+      "pearson_r": -0.019463395348461,
+      "pearson_p": 9.434810772003957e-05,
+      "spearman_r": -0.0017429452637416293,
+      "spearman_p": 0.7266153807179515
+    },
+    {
+      "pc": 10,
+      "feature": "pub_hour",
+      "n": 40242,
+      "pearson_r": 0.023412606339999767,
+      "pearson_p": 2.638006549606319e-06,
+      "spearman_r": 0.01737357326169384,
+      "spearman_p": 0.0004914669087091634
+    },
+    {
+      "pc": 10,
+      "feature": "is_weekend",
+      "n": 40242,
+      "pearson_r": -0.030294909829978678,
+      "pearson_p": 1.2132028046764027e-09,
+      "spearman_r": -0.032640398535854015,
+      "spearman_p": 5.7792333404685685e-11
+    },
+    {
+      "pc": 10,
+      "feature": "guest_cue",
+      "n": 40242,
+      "pearson_r": -0.07167136442621183,
+      "pearson_p": 5.511496715030901e-47,
+      "spearman_r": -0.06896999142213485,
+      "spearman_p": 1.241880567184822e-43
+    },
+    {
+      "pc": 10,
+      "feature": "qa_cue",
+      "n": 40242,
+      "pearson_r": -0.0025175456872283957,
+      "pearson_p": 0.6135482524364341,
+      "spearman_r": -0.00043385094641070854,
+      "spearman_p": 0.9306480046699745
+    },
+    {
+      "pc": 10,
+      "feature": "live_cue",
+      "n": 40242,
+      "pearson_r": -0.012406735070354462,
+      "pearson_p": 0.01281533324107506,
+      "spearman_r": -0.009410716314444062,
+      "spearman_p": 0.059051285195567134
+    },
+    {
+      "pc": 10,
+      "feature": "episode_count",
+      "n": 40242,
+      "pearson_r": 0.01739630400009619,
+      "pearson_p": 0.0004831554791010763,
+      "spearman_r": 0.022109858419135067,
+      "spearman_p": 9.175978618329775e-06
+    },
+    {
+      "pc": 10,
+      "feature": "episodes_with_audio",
+      "n": 40242,
+      "pearson_r": 0.017395786824989917,
+      "pearson_p": 0.00048334311641775495,
+      "spearman_r": 0.022123434347492338,
+      "spearman_p": 9.060621446094454e-06
+    },
+    {
+      "pc": 10,
+      "feature": "hours_available",
+      "n": 40242,
+      "pearson_r": 0.025506192318731927,
+      "pearson_p": 3.0990765915186166e-07,
+      "spearman_r": 0.04077555106306609,
+      "spearman_p": 2.771135576477064e-16
+    },
+    {
+      "pc": 10,
+      "feature": "avg_episode_minutes",
+      "n": 40242,
+      "pearson_r": 0.055941540071380594,
+      "pearson_p": 2.8868429817986793e-29,
+      "spearman_r": 0.03777413313459357,
+      "spearman_p": 3.452481198632813e-14
+    },
+    {
+      "pc": 10,
+      "feature": "episodes_per_week",
+      "n": 40242,
+      "pearson_r": 0.016468985857283673,
+      "pearson_p": 0.0009536095802859891,
+      "spearman_r": 0.03690910741962456,
+      "spearman_p": 1.297630178404188e-13
+    },
+    {
+      "pc": 10,
+      "feature": "lean_numeric",
+      "n": 18729,
+      "pearson_r": 0.06927625044856653,
+      "pearson_p": 2.2773603047867633e-21,
+      "spearman_r": 0.06478243887994045,
+      "spearman_p": 7.027193778579833e-19
+    },
+    {
+      "pc": 10,
+      "feature": "avg_host_cfscore",
+      "n": 23570,
+      "pearson_r": 0.03225690971346382,
+      "pearson_p": 7.297431084292715e-07,
+      "spearman_r": -0.0051283078358528664,
+      "spearman_p": 0.43111322049386225
+    }
+  ],
+  "note": "Steps 0-4 complete, reconciled with human review per the paused checkpoint.",
+  "step3_between_within_variance": {
+    "PC1": {
+      "between_show_eta_squared": 0.37165451443002967,
+      "within_show_fraction": 0.6283454855699704,
+      "n_chunks": 40242,
+      "n_shows_total": 204,
+      "n_distinct_shows_in_top15_extreme_chunks": 5,
+      "n_distinct_shows_in_bottom15_extreme_chunks": 10,
+      "n_outlier_shows_zgt2": 13,
+      "outlier_shows_share_of_between_ss": 0.361,
+      "top5_shows_by_mean": [
+        {
+          "show": "Russian Roulette",
+          "mean_pc": 0.1704,
+          "n_chunks": 206
+        },
+        {
+          "show": "The Foreign Affairs Interview",
+          "mean_pc": 0.1622,
+          "n_chunks": 208
+        },
+        {
+          "show": "Glenn Diesen - Greater Eurasia Podcast",
+          "mean_pc": 0.1576,
+          "n_chunks": 159
+        },
+        {
+          "show": "The Inside Story Podcast",
+          "mean_pc": 0.1475,
+          "n_chunks": 184
+        },
+        {
+          "show": "The President\u2019s Inbox",
+          "mean_pc": 0.1394,
+          "n_chunks": 203
+        }
+      ],
+      "bottom5_shows_by_mean": [
+        {
+          "show": "The Arena",
+          "mean_pc": -0.1828,
+          "n_chunks": 164
+        },
+        {
+          "show": "Timothy Gordon Rules for Retrogrades Podcast",
+          "mean_pc": -0.1484,
+          "n_chunks": 185
+        },
+        {
+          "show": "Hood Politics with Prop",
+          "mean_pc": -0.1385,
+          "n_chunks": 197
+        },
+        {
+          "show": "Maiden Mother Matriarch with Louise Perry",
+          "mean_pc": -0.1329,
+          "n_chunks": 191
+        },
+        {
+          "show": "Real Baron Podcast",
+          "mean_pc": -0.1288,
+          "n_chunks": 202
+        }
+      ]
+    },
+    "PC2": {
+      "between_show_eta_squared": 0.4147260224037331,
+      "within_show_fraction": 0.585273977596267,
+      "n_chunks": 40242,
+      "n_shows_total": 204,
+      "n_distinct_shows_in_top15_extreme_chunks": 7,
+      "n_distinct_shows_in_bottom15_extreme_chunks": 9,
+      "n_outlier_shows_zgt2": 13,
+      "outlier_shows_share_of_between_ss": 0.383,
+      "top5_shows_by_mean": [
+        {
+          "show": "Russian Roulette",
+          "mean_pc": 0.1623,
+          "n_chunks": 206
+        },
+        {
+          "show": "Rev Left Radio",
+          "mean_pc": 0.1544,
+          "n_chunks": 201
+        },
+        {
+          "show": "The Foreign Affairs Interview",
+          "mean_pc": 0.152,
+          "n_chunks": 208
+        },
+        {
+          "show": "The Dig",
+          "mean_pc": 0.1454,
+          "n_chunks": 196
+        },
+        {
+          "show": "Glenn Diesen - Greater Eurasia Podcast",
+          "mean_pc": 0.1447,
+          "n_chunks": 159
+        }
+      ],
+      "bottom5_shows_by_mean": [
+        {
+          "show": "UnJustified",
+          "mean_pc": -0.1315,
+          "n_chunks": 207
+        },
+        {
+          "show": "Cleanup on Aisle 45 with AG & Harry Dunn",
+          "mean_pc": -0.1273,
+          "n_chunks": 218
+        },
+        {
+          "show": "Week In Review",
+          "mean_pc": -0.1153,
+          "n_chunks": 203
+        },
+        {
+          "show": "Main Justice",
+          "mean_pc": -0.089,
+          "n_chunks": 192
+        },
+        {
+          "show": "Brian Tyler Cohen",
+          "mean_pc": -0.0868,
+          "n_chunks": 190
+        }
+      ]
+    },
+    "PC3": {
+      "between_show_eta_squared": 0.2714666191994794,
+      "within_show_fraction": 0.7285333808005205,
+      "n_chunks": 40242,
+      "n_shows_total": 204,
+      "n_distinct_shows_in_top15_extreme_chunks": 12,
+      "n_distinct_shows_in_bottom15_extreme_chunks": 6,
+      "n_outlier_shows_zgt2": 7,
+      "outlier_shows_share_of_between_ss": 0.237,
+      "top5_shows_by_mean": [
+        {
+          "show": "Volts",
+          "mean_pc": 0.0963,
+          "n_chunks": 194
+        },
+        {
+          "show": "What's The Plan? with Leah Greenberg and Ezra Levin",
+          "mean_pc": 0.0863,
+          "n_chunks": 219
+        },
+        {
+          "show": "POLITICO Energy",
+          "mean_pc": 0.0856,
+          "n_chunks": 185
+        },
+        {
+          "show": "It's A Numbers Game with Ryan Girdusky",
+          "mean_pc": 0.0797,
+          "n_chunks": 214
+        },
+        {
+          "show": "Defending Democracy with Marc Elias",
+          "mean_pc": 0.0783,
+          "n_chunks": 191
+        }
+      ],
+      "bottom5_shows_by_mean": [
+        {
+          "show": "Antiwar News With Dave DeCamp",
+          "mean_pc": -0.1744,
+          "n_chunks": 203
+        },
+        {
+          "show": "The President's Daily Brief",
+          "mean_pc": -0.1232,
+          "n_chunks": 201
+        },
+        {
+          "show": "NBC Nightly News with Tom Llamas",
+          "mean_pc": -0.0879,
+          "n_chunks": 235
+        },
+        {
+          "show": "MOATS with George Galloway",
+          "mean_pc": -0.0857,
+          "n_chunks": 164
+        },
+        {
+          "show": "Bad Hasbara - The World's Most Moral Podcast",
+          "mean_pc": -0.0773,
+          "n_chunks": 181
+        }
+      ]
+    },
+    "PC4": {
+      "between_show_eta_squared": 0.30310152870624957,
+      "within_show_fraction": 0.6968984712937505,
+      "n_chunks": 40242,
+      "n_shows_total": 204,
+      "n_distinct_shows_in_top15_extreme_chunks": 6,
+      "n_distinct_shows_in_bottom15_extreme_chunks": 7,
+      "n_outlier_shows_zgt2": 10,
+      "outlier_shows_share_of_between_ss": 0.361,
+      "top5_shows_by_mean": [
+        {
+          "show": "The Pete Qui\u00f1ones Show",
+          "mean_pc": 0.1384,
+          "n_chunks": 171
+        },
+        {
+          "show": "Rev Left Radio",
+          "mean_pc": 0.1207,
+          "n_chunks": 201
+        },
+        {
+          "show": "Know Your Enemy",
+          "mean_pc": 0.1087,
+          "n_chunks": 210
+        },
+        {
+          "show": "Maiden Mother Matriarch with Louise Perry",
+          "mean_pc": 0.0918,
+          "n_chunks": 191
+        },
+        {
+          "show": "The Dishcast with Andrew Sullivan",
+          "mean_pc": 0.0887,
+          "n_chunks": 174
+        }
+      ],
+      "bottom5_shows_by_mean": [
+        {
+          "show": "Volts",
+          "mean_pc": -0.1267,
+          "n_chunks": 194
+        },
+        {
+          "show": "POLITICO Energy",
+          "mean_pc": -0.1262,
+          "n_chunks": 185
+        },
+        {
+          "show": "NBC Nightly News with Tom Llamas",
+          "mean_pc": -0.0857,
+          "n_chunks": 235
+        },
+        {
+          "show": "X22 Report",
+          "mean_pc": -0.0817,
+          "n_chunks": 205
+        },
+        {
+          "show": "Week In Review",
+          "mean_pc": -0.0761,
+          "n_chunks": 218
+        }
+      ]
+    },
+    "PC5": {
+      "between_show_eta_squared": 0.25566345306729316,
+      "within_show_fraction": 0.7443365469327068,
+      "n_chunks": 40242,
+      "n_shows_total": 204,
+      "n_distinct_shows_in_top15_extreme_chunks": 12,
+      "n_distinct_shows_in_bottom15_extreme_chunks": 10,
+      "n_outlier_shows_zgt2": 9,
+      "outlier_shows_share_of_between_ss": 0.423,
+      "top5_shows_by_mean": [
+        {
+          "show": "Main Justice",
+          "mean_pc": 0.1549,
+          "n_chunks": 192
+        },
+        {
+          "show": "Advisory Opinions",
+          "mean_pc": 0.149,
+          "n_chunks": 133
+        },
+        {
+          "show": "UnJustified",
+          "mean_pc": 0.1311,
+          "n_chunks": 207
+        },
+        {
+          "show": "Amarica's Constitution",
+          "mean_pc": 0.1169,
+          "n_chunks": 189
+        },
+        {
+          "show": "The Illegal News with Sarah Longwell",
+          "mean_pc": 0.084,
+          "n_chunks": 180
+        }
+      ],
+      "bottom5_shows_by_mean": [
+        {
+          "show": "Hacks On Tap",
+          "mean_pc": -0.0736,
+          "n_chunks": 210
+        },
+        {
+          "show": "Nobody Knows Anything",
+          "mean_pc": -0.0713,
+          "n_chunks": 222
+        },
+        {
+          "show": "Next Up with Mark Halperin",
+          "mean_pc": -0.06,
+          "n_chunks": 212
+        },
+        {
+          "show": "Perino on Politics",
+          "mean_pc": -0.0577,
+          "n_chunks": 193
+        },
+        {
+          "show": "The Daily Punch",
+          "mean_pc": -0.0574,
+          "n_chunks": 187
+        }
+      ]
+    },
+    "PC6": {
+      "between_show_eta_squared": 0.19453355556783403,
+      "within_show_fraction": 0.805466444432166,
+      "n_chunks": 40242,
+      "n_shows_total": 204,
+      "n_distinct_shows_in_top15_extreme_chunks": 10,
+      "n_distinct_shows_in_bottom15_extreme_chunks": 10,
+      "n_outlier_shows_zgt2": 9,
+      "outlier_shows_share_of_between_ss": 0.314,
+      "top5_shows_by_mean": [
+        {
+          "show": "ChinaTalk",
+          "mean_pc": 0.0802,
+          "n_chunks": 190
+        },
+        {
+          "show": "Paul Krugman Podcast",
+          "mean_pc": 0.0751,
+          "n_chunks": 170
+        },
+        {
+          "show": "The Foreign Affairs Interview",
+          "mean_pc": 0.0555,
+          "n_chunks": 208
+        },
+        {
+          "show": "Rev Left Radio",
+          "mean_pc": 0.055,
+          "n_chunks": 201
+        },
+        {
+          "show": "The President\u2019s Inbox",
+          "mean_pc": 0.0534,
+          "n_chunks": 203
+        }
+      ],
+      "bottom5_shows_by_mean": [
+        {
+          "show": "Antiwar News With Dave DeCamp",
+          "mean_pc": -0.0818,
+          "n_chunks": 203
+        },
+        {
+          "show": "What's The Plan? with Leah Greenberg and Ezra Levin",
+          "mean_pc": -0.0802,
+          "n_chunks": 219
+        },
+        {
+          "show": "Bad Hasbara - The World's Most Moral Podcast",
+          "mean_pc": -0.0625,
+          "n_chunks": 181
+        },
+        {
+          "show": "NBC Nightly News with Tom Llamas",
+          "mean_pc": -0.0549,
+          "n_chunks": 235
+        },
+        {
+          "show": "The Intercept Briefing",
+          "mean_pc": -0.0472,
+          "n_chunks": 208
+        }
+      ]
+    },
+    "PC7": {
+      "between_show_eta_squared": 0.24755591573368835,
+      "within_show_fraction": 0.7524440842663116,
+      "n_chunks": 40242,
+      "n_shows_total": 204,
+      "n_distinct_shows_in_top15_extreme_chunks": 5,
+      "n_distinct_shows_in_bottom15_extreme_chunks": 11,
+      "n_outlier_shows_zgt2": 11,
+      "outlier_shows_share_of_between_ss": 0.465,
+      "top5_shows_by_mean": [
+        {
+          "show": "The Arena",
+          "mean_pc": 0.1315,
+          "n_chunks": 164
+        },
+        {
+          "show": "Lectures in History",
+          "mean_pc": 0.1022,
+          "n_chunks": 165
+        },
+        {
+          "show": "Amarica's Constitution",
+          "mean_pc": 0.0995,
+          "n_chunks": 189
+        },
+        {
+          "show": "Letters from an American",
+          "mean_pc": 0.0738,
+          "n_chunks": 191
+        },
+        {
+          "show": "The Pete Qui\u00f1ones Show",
+          "mean_pc": 0.0581,
+          "n_chunks": 171
+        }
+      ],
+      "bottom5_shows_by_mean": [
+        {
+          "show": "Brad vs Everyone",
+          "mean_pc": -0.0734,
+          "n_chunks": 237
+        },
+        {
+          "show": "Destiny",
+          "mean_pc": -0.065,
+          "n_chunks": 245
+        },
+        {
+          "show": "I Don't Speak German",
+          "mean_pc": -0.0555,
+          "n_chunks": 209
+        },
+        {
+          "show": "Head in the Office",
+          "mean_pc": -0.0542,
+          "n_chunks": 257
+        },
+        {
+          "show": "Liberty Lockdown",
+          "mean_pc": -0.0523,
+          "n_chunks": 200
+        }
+      ]
+    },
+    "PC8": {
+      "between_show_eta_squared": 0.20522893532198674,
+      "within_show_fraction": 0.7947710646780133,
+      "n_chunks": 40242,
+      "n_shows_total": 204,
+      "n_distinct_shows_in_top15_extreme_chunks": 11,
+      "n_distinct_shows_in_bottom15_extreme_chunks": 9,
+      "n_outlier_shows_zgt2": 12,
+      "outlier_shows_share_of_between_ss": 0.39,
+      "top5_shows_by_mean": [
+        {
+          "show": "Advisory Opinions",
+          "mean_pc": 0.0847,
+          "n_chunks": 133
+        },
+        {
+          "show": "Amarica's Constitution",
+          "mean_pc": 0.0711,
+          "n_chunks": 189
+        },
+        {
+          "show": "UnJustified",
+          "mean_pc": 0.0641,
+          "n_chunks": 207
+        },
+        {
+          "show": "War on the Rocks",
+          "mean_pc": 0.0605,
+          "n_chunks": 220
+        },
+        {
+          "show": "Main Justice",
+          "mean_pc": 0.0599,
+          "n_chunks": 192
+        }
+      ],
+      "bottom5_shows_by_mean": [
+        {
+          "show": "Letters from an American",
+          "mean_pc": -0.0536,
+          "n_chunks": 191
+        },
+        {
+          "show": "Best of the Left - Leftist Perspectives on Progressive Politics, News, Culture, Economics and Democracy",
+          "mean_pc": -0.0531,
+          "n_chunks": 159
+        },
+        {
+          "show": "The Dig",
+          "mean_pc": -0.0512,
+          "n_chunks": 196
+        },
+        {
+          "show": "Hope For America with Heather Delaney Reese",
+          "mean_pc": -0.0435,
+          "n_chunks": 196
+        },
+        {
+          "show": "The Victor Davis Hanson Show",
+          "mean_pc": -0.0409,
+          "n_chunks": 174
+        }
+      ]
+    },
+    "PC9": {
+      "between_show_eta_squared": 0.2644917470766732,
+      "within_show_fraction": 0.7355082529233268,
+      "n_chunks": 40242,
+      "n_shows_total": 204,
+      "n_distinct_shows_in_top15_extreme_chunks": 5,
+      "n_distinct_shows_in_bottom15_extreme_chunks": 13,
+      "n_outlier_shows_zgt2": 11,
+      "outlier_shows_share_of_between_ss": 0.295,
+      "top5_shows_by_mean": [
+        {
+          "show": "The Arena",
+          "mean_pc": 0.0724,
+          "n_chunks": 164
+        },
+        {
+          "show": "The Graham Allen Show",
+          "mean_pc": 0.0637,
+          "n_chunks": 217
+        },
+        {
+          "show": "The Necessary Conversation",
+          "mean_pc": 0.0584,
+          "n_chunks": 183
+        },
+        {
+          "show": "Timothy Gordon Rules for Retrogrades Podcast",
+          "mean_pc": 0.0518,
+          "n_chunks": 185
+        },
+        {
+          "show": "The Chris Cuomo Project",
+          "mean_pc": 0.0516,
+          "n_chunks": 170
+        }
+      ],
+      "bottom5_shows_by_mean": [
+        {
+          "show": "The Dig",
+          "mean_pc": -0.0675,
+          "n_chunks": 196
+        },
+        {
+          "show": "War on the Rocks",
+          "mean_pc": -0.0595,
+          "n_chunks": 220
+        },
+        {
+          "show": "The Nation Podcasts",
+          "mean_pc": -0.0591,
+          "n_chunks": 186
+        },
+        {
+          "show": "Seattle Nice",
+          "mean_pc": -0.0588,
+          "n_chunks": 208
+        },
+        {
+          "show": "Russian Roulette",
+          "mean_pc": -0.0555,
+          "n_chunks": 206
+        }
+      ]
+    },
+    "PC10": {
+      "between_show_eta_squared": 0.17798200354452,
+      "within_show_fraction": 0.82201799645548,
+      "n_chunks": 40242,
+      "n_shows_total": 204,
+      "n_distinct_shows_in_top15_extreme_chunks": 2,
+      "n_distinct_shows_in_bottom15_extreme_chunks": 12,
+      "n_outlier_shows_zgt2": 9,
+      "outlier_shows_share_of_between_ss": 0.267,
+      "top5_shows_by_mean": [
+        {
+          "show": "Antiwar News With Dave DeCamp",
+          "mean_pc": 0.0671,
+          "n_chunks": 203
+        },
+        {
+          "show": "Timothy Gordon Rules for Retrogrades Podcast",
+          "mean_pc": 0.0501,
+          "n_chunks": 185
+        },
+        {
+          "show": "American Prestige",
+          "mean_pc": 0.0418,
+          "n_chunks": 189
+        },
+        {
+          "show": "Maiden Mother Matriarch with Louise Perry",
+          "mean_pc": 0.0409,
+          "n_chunks": 191
+        },
+        {
+          "show": "It's A Numbers Game with Ryan Girdusky",
+          "mean_pc": 0.0376,
+          "n_chunks": 214
+        }
+      ],
+      "bottom5_shows_by_mean": [
+        {
+          "show": "What's The Plan? with Leah Greenberg and Ezra Levin",
+          "mean_pc": -0.0539,
+          "n_chunks": 219
+        },
+        {
+          "show": "Hope For America with Heather Delaney Reese",
+          "mean_pc": -0.0412,
+          "n_chunks": 196
+        },
+        {
+          "show": "War on the Rocks",
+          "mean_pc": -0.0402,
+          "n_chunks": 220
+        },
+        {
+          "show": "Defending Democracy with Marc Elias",
+          "mean_pc": -0.0398,
+          "n_chunks": 191
+        },
+        {
+          "show": "The Benny Show",
+          "mean_pc": -0.0389,
+          "n_chunks": 199
+        }
+      ]
+    }
+  },
+  "step4_naming": {
+    "method": "Reconciliation of Step 1 (quant correlations), Step 2 (blind qualitative read, done blind to show_name), and Step 3 (between/within-show variance), plus a post-hoc boilerplate-contamination audit (see boilerplate_audit_report_500.json) that ruled out ad/sponsor copy as a driver of any pole (corpus-wide contaminated fraction 0.35%, tail fraction 0%, CFscore r=-0.086 -- MINOR, no re-run needed).",
+    "PC1": {
+      "classification": "specialist-IR-interview DETECTOR, not a bipolar dimension",
+      "name": "Specialist geopolitics/IR-expert-interview detector",
+      "confidence": "high -- AS A DETECTOR (reclassified down from 'moderate bipolar dimension')",
+      "positive_signal": "A tight, legible signature: dense international-relations expert-interview discourse (Russia-Ukraine war analysis, US-Russia-China-Iran-Gulf diplomacy, NATO/ceasefire negotiation, arms control; IR-strategist vocabulary -- bandwagoning, containment, coup de main).",
+      "negative_pole_is_residual": "The low pole is NOT a coherent second category -- it's residual heterogeneity ('not specialist-IR-talk'): addiction recovery, spirituality/near-death experience, sex-work conversation, celebrity interview, live-stream banter. There is no shared theme uniting the low-pole chunks beyond the absence of the high-pole signature.",
+      "quant_step1": "No hypothesis feature crosses |r|>0.3; weak length signal (n_raw_words r=-0.20 -- the residual low-pole content runs longer on average, not the IR-interview content).",
+      "variance_step3": "eta^2=0.372: only 5 distinct shows (of 204) supply ALL 15 high-pole extreme chunks (Russian Roulette, Foreign Affairs Interview, Glenn Diesen, Inside Story, President's Inbox) -- consistent with a detector for a small specialist clique, not a graded corpus-wide dimension.",
+      "verdict": "Reclassified as a DETECTOR: high confidence that PC1 identifies 'is this one of a handful of specialist IR-interview shows,' low/no confidence that its negative pole means anything beyond 'not that.' Cleaner and more honest than calling it a moderate-confidence bipolar dimension."
+    },
+    "PC2": {
+      "name": "Theoretical/academic geopolitical-economic analysis vs. Trump legal-scandal news",
+      "confidence": "moderate -- most show-concentrated of the top 5 despite a clean read",
+      "high_pole": "Academic/think-tank geopolitical economy: US-China rivalry via Kennan/containment framing, Soviet economic history, sanctions logic, cost-exchange military economics, AND explicit Marxist political economy (overproduction, imperialism) -- theoretical register spanning centrist wonk and heterodox-left content.",
+      "low_pole": "Trump legal/scandal news: grand-jury leaks, DOJ 'weaponization' claims, E. Jean Carroll case, Epstein-files fallout, Playbook-style insider Senate gossip -- personality-driven partisan legal-drama reporting.",
+      "quant_step1": "No hypothesis feature crosses |r|>0.3; weak positive lean_numeric (r=0.11) -- likely an artifact of the low pole being specific liberal Trump-accountability shows, not the high pole being conservative.",
+      "variance_step3": "eta^2=0.415 -- the HIGHEST between-show fraction of the top 5; 13 outlier shows account for 38.3% of between-show SS.",
+      "verdict": "Cleanest textual contrast of the concentrated pair (unlike PC1, the low pole IS a coherent second topic, not a grab-bag) -- but the numbers say this is the MOST show-bound of the five PCs read. Treat as a real but narrow content axis, not a general-purpose discourse dimension."
+    },
+    "PC3": {
+      "name": "Foreign-policy/war news-briefing vs. domestic political-process & strategy discourse",
+      "confidence": "high -- best-calibrated case, least show-concentrated pairing with PC5",
+      "high_pole": "Domestic political science/strategy: horseshoe/four-quadrant ideology framing, neoliberalism-as-bipartisan-project, competitive authoritarianism, ranked-choice voting, campaign finance, primary-election political-science citations -- analytical panel/interview register.",
+      "low_pole": "Foreign-policy/war news recitation: Iran strikes, hostage-rescue ops, Gaza/Hezbollah/Israel strikes, historical military retrospective -- daily news-anchor-brief register, ad-reads typical of daily-brief podcasts.",
+      "quant_step1": "No hypothesis feature crosses |r|>0.3 (episodes_per_week r=-0.10 strongest, still weak) -- not a format/length artifact.",
+      "variance_step3": "eta^2=0.271, LOWEST of the top 5: 73% of spread is within-show -- individual episodes/segments swing across this axis, not just which show. 12 distinct shows populate the high pole.",
+      "verdict": "Topic + delivery-format bundled, genuinely distributed across many shows rather than a clique. Best-supported name of the five."
+    },
+    "PC4": {
+      "name": "Heterodox/dissident intellectual history vs. energy & climate trade press",
+      "confidence": "low-moderate -- DOWNGRADED: carries two confounds, not cleanly separable",
+      "double_confound_statement": "PC4's low pole conflates energy/climate TOPIC with short-form news-brief LENGTH; topic and format cannot be cleanly separated here. Confound 1 (length): the strongest length signal of the top 5 (n_raw_words r=0.20, log_duration_sec r=0.17 -- still under the 0.3 meaningful threshold, but the largest of any top-5 PC) -- high pole runs in long-form essayistic deep-dives, low pole in short daily trade-press clips. Confound 2 (ad concentration): this was the SPECIFIC pole where sponsor ad-reads concentrated during the blind read (identical Chevron/POLITICO-Energy 'Energy Tailgate' script in 6 of 15 low-pole chunks) -- corpus-wide ad contamination cleared as MINOR (this task's audit: 0.35% corpus-wide, ad text covers only 7.6-9.4% of any one flagged chunk's words, not a majority), so the topic signal is real, but this pole specifically is where format, length, and ad-adjacency all stack on top of the topic distinction.",
+      "high_pole": "Heterodox intellectual history: fascism history (Mosley, Mussolini), antisemitism history, race-theory genealogy, Eurasianism/Dugin, Maoist dialectics -- long-form essayistic register, references a named dissident-right podcaster (Thomas777).",
+      "low_pole": "Energy/climate policy trade press and local governance news (POLITICO Energy, Volts) plus short local-news segments (ICE facility/DHS reporting).",
+      "variance_step3": "eta^2=0.303; 6/7 distinct shows at the two poles.",
+      "verdict": "Do not report this as a clean topic axis. State plainly: PC4 mixes WHAT is discussed (heterodox history vs. energy policy) with HOW LONG the format runs (essay vs. brief) and, on its low pole specifically, WHICH single-show ad-reads happen to sit there. All three are entangled; none can be attributed the effect alone."
+    },
+    "PC5": {
+      "name": "Legal/constitutional case analysis vs. horse-race campaign & personality punditry",
+      "confidence": "high -- clean split, least show-concentrated of the top 5",
+      "high_pole": "Legal/constitutional analysis: ICC accountability, SCOTUS shadow-docket rulings, contempt doctrine, Guantanamo military commissions, qualified immunity, transgender-rights litigation -- citation-heavy legal-podcast register (Bruin, Bostock, VMI).",
+      "low_pole": "Horse-race campaign chatter and political-personality gossip: 2028 primary speculation, pundit-media-figure history, fundraising numbers, Trump-rally color, Musk/Tesla business talk.",
+      "quant_step1": "No hypothesis feature crosses |r|>0.3.",
+      "variance_step3": "eta^2=0.256, tied-lowest with PC3: 12/10 distinct shows populate the two poles, no single outlier-show dominance (max share 42.3% of a modest between-show SS).",
+      "verdict": "Clean, well-distributed topic contrast -- second-best-supported name of the five."
+    },
+    "PC6_to_PC10": {
+      "status": "unresolved -- out of scope for this naming pass",
+      "reason": "Not blind-read (NAMING_PCS=5 by design). Quantitative signal alone is weak and non-specific: no hypothesis feature crosses |r|>0.3 for any of PC6-10, and between-show eta^2 (0.18-0.26) doesn't distinguish a topic story from further show-identity fragmentation without a qualitative read. Naming these without reading extremes would be forcing a story the evidence doesn't support -- left honestly unresolved."
+    },
+    "eigenvalue_pct_of_top300_sum": {
+      "PC1": 9.61,
+      "PC2": 7.61,
+      "PC3": 6.42,
+      "PC4": 4.87,
+      "PC5": 4.5,
+      "PC6": null,
+      "PC7": null,
+      "PC8": null,
+      "PC9": null,
+      "PC10": 2.01,
+      "PC22_ideology_axis": 0.9
+    },
+    "headline_finding": "The dominant organizing axis of this embedding space is ANALYTICAL-VS-REACTIVE REGISTER, expressed across different topical domains, not any single topic itself. Every one of the five named PCs splits the same way: a high pole that is analytical, specialist, and theory-laden (legal doctrine, IR strategy, political-science frameworks, intellectual history), against a low pole that is reactive, event-driven, and personality/news-focused (horse-race gossip, daily war-briefing recitation, Trump-scandal reporting, short news-brief clips). PC3 (foreign-policy briefing vs. domestic political-process discourse) and PC5 (legal/constitutional analysis vs. horse-race punditry) are the cleanest, most broadly distributed instances of this register split -- neither is a show clique. This register axis is the MECHANISM that explains why ideology is only a minor, ~2%-variance signal (R^2=0.21): a wonky-analytical LEFT host and a wonky-analytical RIGHT host sit close together on this axis (both high/analytical), while a reactive-tabloid host of either lean sits close to the other reactive-tabloid host of the opposite lean (both low/reactive). Register cross-cuts ideology rather than tracking it, so the dimension that dominates the embedding space's variance is nearly orthogonal to the dimension DIME CFscore measures -- which is exactly why a strong ideology signal never surfaces in the top PCs. We tested and explicitly ruled out format, length, timing, and ad contamination as the actual drivers: no derived metadata feature (duration, word counts, day-of-week, guest/Q&A/live cues) crosses |Pearson r| or |Spearman r| > 0.3 against any top-10 PC (Step 1), and a dedicated post-hoc audit found ad/sponsor-boilerplate contamination is MINOR corpus-wide (0.35% of chunks, 0% in the PC-extreme tails at a >=50%-coverage bar) and uncorrelated with ideology (r=-0.086) -- so the register finding is not a mundane confound in disguise. In terms of magnitude: PC1 sits a genuine order of magnitude above the ideology axis (10.76x PC22's variance share); PC2-PC5 are smaller but still substantial gaps (5.0x-8.5x). Ideology (PC22, 0.87% of total variance) sits 15-17 PC-ranks below and 5-11x smaller than any of the five named topic/register dimensions -- a minor, secondary structure riding beneath a space whose real organizing logic is how analytically vs. reactively a podcast engages with its subject matter, independent of which side of the aisle it's on.",
+    "exact_variance_table": {
+      "method": "exact total variance = sum of squared entries of centered chunk embedding matrix (trace of X^T X, no eigendecomposition approximation); per-PC eigenvalue via randomized_svd(n_components=22, n_iter=4, seed=0) on the same centered matrix used throughout this task (variant=centered, target=500).",
+      "pct_of_total_variance": {
+        "PC1": 9.391,
+        "PC2": 7.434,
+        "PC3": 6.276,
+        "PC4": 4.761,
+        "PC5": 4.395,
+        "PC22": 0.873
+      },
+      "ratio_vs_PC22_ideology_axis": {
+        "PC1_over_PC22": 10.76,
+        "PC2_over_PC22": 8.52,
+        "PC3_over_PC22": 7.19,
+        "PC4_over_PC22": 5.45,
+        "PC5_over_PC22": 5.04
+      },
+      "verdict": "PC1 is a genuine order-of-magnitude gap over the ideology axis (10.76x, PC1=9.39% vs PC22=0.87% of total variance). PC2-PC5 are smaller gaps that do NOT support 'order of magnitude': PC2=8.52x, PC3=7.19x, PC4=5.45x, PC5=5.04x. Corrected headline language: 'PC1 is an order of magnitude larger; PC2-PC5 are roughly 5-8.5x larger' -- not a blanket order-of-magnitude claim across all five."
+    }
+  }
+}

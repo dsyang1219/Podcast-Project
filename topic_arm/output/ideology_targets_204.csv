@@ -1,0 +1,205 @@
+show_id,show,ideology_primary,ideology_primary_source,ideology_guest_only,n_dime_guests,host_coverage,is_extension,low_confidence,avg_host_cfscore
+1551206847,#SistersInLaw,-0.865,guest,-0.865,5,partial,True,False,0.0056666666666666
+1798460240,10 Minute Drill,-1.156,host_full,0.6131666666666666,13,full,False,False,-1.156
+1490993194,Advisory Opinions,0.2626105882352941,guest,0.2626105882352941,108,partial,True,False,1.0775
+1314170606,All In with Chris Hayes,-0.7304285714285714,guest,-0.7304285714285714,137,none,True,False,
+1549624070,Amarica's Constitution,0.0521376811594203,guest,0.0521376811594203,37,partial,True,False,-0.686
+1576614213,American Conservative University,0.7005512,guest,0.7005512,139,no_host_listed,True,False,
+1574741668,American Prestige,-0.7071333333333333,guest,-0.7071333333333333,37,partial,True,False,-1.159
+1471411980,American Thought Leaders,0.5583967551622419,guest,0.5583967551622419,104,none,True,False,
+1634341981,Antiwar News With Dave DeCamp,-0.616,host_full,0.74675,8,full,False,False,-0.616
+1531192509,Bad Faith,-0.8151736111111112,guest,-0.8151736111111112,61,none,True,False,
+1721813926,Bad Hasbara - The World's Most Moral Podcast,-0.6896372340425533,guest,-0.6896372340425533,62,partial,True,False,-1.147
+1485351658,Bannon`s War Room,0.7660774390243903,guest,0.7660774390243903,155,partial,True,False,0.348
+1868807558,Batya!,0.5818163934426229,guest,0.5818163934426229,45,none,True,False,
+124960485,"Best of the Left - Leftist Perspectives on Progressive Politics, News, Culture, Economics and Democracy",-1.331,host_full,-0.6834159509202454,138,full,False,False,-1.331
+1751785203,Brad vs Everyone,-0.688,host_full,-0.3236178571428571,20,full,False,False,-0.688
+1876034889,Breaking News from Pod Save America,-0.975875,host_full,-0.6725589285714285,42,full,False,False,-0.975875
+1570045623,Breaking Points with Krystal and Saagar,-0.4215460258780037,guest,-0.4215460258780037,218,partial,True,False,-0.9107
+219258773,Brian Kilmeade Show,1.659,host_full,0.6683462623038042,765,full,False,False,1.659
+1896576050,Brian Tyler Cohen,-1.072,host_full,-0.5770909090909091,10,full,False,False,-1.072
+1794450472,Bulwark Takes,-0.5011359223300972,guest,-0.5011359223300972,76,partial,True,False,-0.16375
+1750591415,Candace,0.4221416666666667,guest,0.4221416666666667,38,none,True,False,
+1289062927,ChinaTalk,-0.5055381088825215,guest,-0.5055381088825215,236,none,True,False,
+1549502623,Cleanup on Aisle 45 with AG & Harry Dunn,-0.8871543478260869,guest,-0.8871543478260869,28,none,True,False,
+925428680,Conversations with Bill Kristol,0.3835509803921568,guest,0.3835509803921568,90,none,True,False,
+1633301179,Countdown with Keith Olbermann,-1.014,host_full,0.0326714285714285,26,full,False,False,-1.014
+1636762428,Dad Saves America,1.2865,host_full,0.3559216494845361,74,full,False,False,1.2865
+1367201919,Deadline: White House,-0.5350682489451477,guest,-0.5350682489451477,131,none,True,False,
+1660317917,Defending Democracy with Marc Elias,-0.67265625,guest,-0.67265625,92,partial,True,False,-0.926
+1800671132,Destiny,-0.0076521739130434,guest,-0.0076521739130434,53,none,True,False,
+78911087,Face the Nation with Margaret Brennan,0.0413470982142857,guest,0.0413470982142857,299,none,True,False,
+1645614328,Fast Politics with Molly Jong-Fast,-0.4008029991431019,guest,-0.4008029991431019,505,none,True,False,
+983782306,Federalist Radio Hour,0.574423600973236,guest,0.574423600973236,314,none,True,False,
+1570432345,Firing Line with Margaret Hoover,0.595,host_full,0.0070929936305732,134,full,False,False,0.595
+1072469956,Fox Across America w/ Jimmy Failla,1.057,host_full,0.7640247277127874,369,full,False,False,1.057
+1822142909,Glenn Diesen - Greater Eurasia Podcast,-0.471243553008596,guest,-0.471243553008596,52,none,True,False,
+1805186512,Going Rogue with Lara Logan,0.6756891891891892,guest,0.6756891891891892,32,partial,True,False,1.659
+1294461271,GZERO World with Ian Bremmer,-0.808,host_full,-0.4746984962406015,188,full,False,False,-0.808
+1467297559,Hacks On Tap,-0.425,host_full,-0.2433588832487309,76,full,False,False,-0.425
+1725442221,Hawk Podcasts,-1.032,host_full,0.0079411764705882,15,full,False,False,-1.032
+1579061364,Head in the Office,-0.997,host_full,-0.6714444444444445,17,full,False,False,-0.997
+1493858530,Hood Politics with Prop,-0.6156923076923076,guest,-0.6156923076923076,20,none,True,False,
+1874174561,Hope For America with Heather Delaney Reese,-0.0935666666666666,guest,-0.0935666666666666,18,none,True,False,
+1585243541,Human Events Daily with Jack Posobiec,0.86664921875,guest,0.86664921875,97,none,True,False,
+1449848509,I Don't Speak German,-0.3691,guest,-0.3691,34,partial,True,False,1.559
+1529346075,Impolitic with John Heilemann,-0.872,host_full,-0.4409525073746312,197,full,False,False,-0.872
+1788891712,It's A Numbers Game with Ryan Girdusky,1.2223333333333333,host_full,0.4348349999999999,54,full,False,False,1.2223333333333333
+791564318,Jacobin Radio,-1.0566666666666666,host_full,-0.8471664676220807,628,full,False,False,-1.0566666666666666
+1495251160,John Solomon Reports,0.8977303530490601,guest,0.8977303530490601,605,none,True,False,
+1462703434,Know Your Enemy,-1.0765,host_full,-0.6965435114503816,80,full,False,False,-1.0765
+73329719,KQED's Forum,-0.6387834971910112,guest,-0.6387834971910112,2017,partial,True,False,-1.056
+506779862,Lectures in History,-0.281527536231884,guest,-0.281527536231884,118,no_host_listed,True,False,
+1730358737,Letters from an American,-1.058,host_full,-0.8928333333333334,6,full,False,False,-1.058
+1138657182,Liberty Lockdown,0.5476716666666667,guest,0.5476716666666667,116,none,True,False,
+1818658022,"Life, Liberty & Levin Podcast",-0.904,host_full,1.443,1,full,False,False,-0.904
+929121341,Louder with Crowder,0.904,host_full,0.753107722007722,117,full,False,False,0.904
+1671451793,Maiden Mother Matriarch with Louise Perry,-0.2035362318840579,guest,-0.2035362318840579,52,none,True,False,
+1679657705,Main Justice,-0.8458333333333333,host_full,-0.5296160714285715,42,full,False,False,-0.8458333333333333
+1309354521,Majority 54,-0.5304923076923077,guest,-0.5304923076923077,80,partial,True,False,-0.65
+1506127536,Making the Argument with Nick Freitas,1.665,host_full,0.6566,21,full,False,False,1.665
+1607829807,Mark Kaye Saves The Republic,0.976,host_full,-0.1756666666666666,3,full,False,False,0.976
+1714009198,Mea Culpa,-0.3761570680628272,guest,-0.3761570680628272,80,none,True,False,
+1728340033,Mission Implausible,-0.3849913793103448,guest,-0.3849913793103448,44,partial,True,False,-1.011
+1568505052,MOATS with George Galloway,-0.3108749539594843,guest,-0.3108749539594843,133,none,True,False,
+75462585,NBC Nightly News with Tom Llamas,-0.5258020833333333,guest,-0.5258020833333333,45,none,True,False,
+1452065072,Newt's World,1.3655,host_full,0.5896342007434945,374,full,False,False,1.3655
+1810218232,Next Up with Mark Halperin,0.2646592307692308,guest,0.2646592307692308,83,none,True,False,
+1767877239,No Gods No Mayors,-0.7045277777777778,guest,-0.7045277777777778,18,partial,True,False,-1.137
+1515399733,No Lie with Brian Tyler Cohen,-1.072,host_full,-0.842008088235294,198,full,False,False,-1.072
+1889705401,Nobody Knows Anything,-0.5896714285714285,guest,-0.5896714285714285,7,none,True,False,
+73330715,On the Media,-0.5685504176157935,guest,-0.5685504176157935,781,partial,True,False,-1.032
+1147092464,Opening Arguments,-0.5127714521452146,guest,-0.5127714521452146,96,partial,True,False,-1.015
+1843478428,Owen Report,1.5358,guest,1.5358,4,none,True,False,
+1877144831,Paul Krugman Podcast,-0.6543916666666667,guest,-0.6543916666666667,10,none,True,False,
+1702202187,Perino on Politics,1.3355,host_full,0.7171325757575758,48,full,False,False,1.3355
+1818418128,Pod Force One,0.7114673913043478,guest,0.7114673913043478,45,none,True,False,
+1192761536,Pod Save America,-0.975875,host_full,-0.7815779411764706,477,full,False,False,-0.975875
+1200016351,Pod Save the World,-0.9536,host_full,-0.7540052044609665,174,full,False,False,-0.9536
+158004641,Political Gabfest,-0.9198333333333334,host_full,-0.5563210702341137,160,full,False,False,-0.9198333333333334
+1356662668,Politically Georgia,0.0272239999999999,guest,0.0272239999999999,293,partial,True,False,-0.947
+1480605295,POLITICO Energy,-0.3813616071428571,guest,-0.3813616071428571,103,none,True,False,
+1873028393,Politics Chat,-1.058,host_full,,0,full,False,False,-1.058
+1484862164,Politics War Room with James Carville & Al Hunt,-0.4364251193887297,guest,-0.4364251193887297,215,partial,True,False,-0.4995
+1721969693,Politix,-0.1139999999999999,host_full,-0.9294,10,full,False,False,-0.1139999999999999
+1258635512,Radio Atlantic,-0.2394095022624434,guest,-0.2394095022624434,150,none,True,False,
+1774505095,Raging Moderates with Scott Galloway and Jessica Tarlov,-0.4850852272727273,guest,-0.4850852272727273,69,partial,True,False,-0.953
+956270301,Rational Security,1.743,host_full,-0.7786270358306189,53,full,False,False,1.743
+1865794721,Real Baron Podcast,1.659,host_full,0.5012142857142857,11,full,False,False,1.659
+1509826894,RealClearPolitics Podcast,0.4176522561863173,guest,0.4176522561863173,237,partial,True,False,0.1149999999999999
+354628391,Renegade Talk Radio,0.3391572014051522,guest,0.3391572014051522,373,no_host_listed,True,False,
+1218054701,Rev Left Radio,-0.6688661858974358,guest,-0.6688661858974358,110,none,True,False,
+1408796715,Runaway Country with Alex Wagner,-0.466,host_full,-0.6246466666666667,61,full,False,False,-0.466
+1112258664,Russian Roulette,-0.6649819444444445,guest,-0.6649819444444445,55,partial,True,False,-1.108
+1535384390,Ruthless Podcast,0.9792150472334684,guest,0.9792150472334684,302,partial,True,False,0.015
+545045867,Scott Horton Show - Just the Interviews,1.125,host_full,-0.4479489417989417,138,full,False,False,1.125
+1599891719,Seattle Nice,-1.034,host_full,-0.6419638888888889,26,full,False,False,-1.034
+1502568407,SGT Report’s The Propaganda Antidote,1.659,host_full,0.4002745098039215,27,full,False,False,1.659
+1886801652,Sidebar with Katie Phang,-0.5535,host_full,-0.8510285714285715,32,full,False,False,-0.5535
+1093260018,Slate News,-0.3566846790074832,guest,-0.3566846790074832,1249,no_host_listed,True,False,
+1648125917,Stay Free with Russell Brand,0.2372136563876652,guest,0.2372136563876652,132,none,True,False,
+1265845136,Stay Tuned with Preet,-0.842667,host_full,-0.5617224958949096,323,full,False,False,-0.842667
+1441649707,Straight White American Jesus,-0.369987037037037,guest,-0.369987037037037,163,partial,True,False,-1.02
+1669610956,System Update with Glenn Greenwald,-1.107,host_full,0.0327718367346939,115,full,False,False,-1.107
+1456045551,Talking Feds,-0.5332753623188405,guest,-0.5332753623188405,256,none,True,False,
+1536169792,Talkin‘ Politics & Religion Without Killin‘ Each Other,-0.1894369863013698,guest,-0.1894369863013698,154,none,True,False,
+1538788132,Tangle,0.1330354166666666,guest,0.1330354166666666,84,none,True,False,
+1314368109,The 11th Hour with Ali Velshi,-0.3371621399176955,guest,-0.3371621399176955,169,none,True,False,
+1790957194,The 47 Morning Update with Ben Ferguson,2.394,host_full,1.1416264,68,full,False,False,2.394
+1462195742,The Al Franken Podcast,-0.7327318493150684,guest,-0.7327318493150684,146,none,True,False,
+1548086514,The Arena,0.5942307692307692,guest,0.5942307692307692,8,none,True,False,
+1364113251,The Beat with Ari Melber,-0.892,host_full,-0.4971324950690335,594,full,False,False,-0.892
+1386375601,The Ben Ferguson Podcast,2.394,host_full,1.025454054054054,113,full,False,False,2.394
+1584730781,The Benny Show,0.865,host_full,1.0346662637362638,246,full,False,False,0.865
+380996798,"The Bob Cesca Show | Politics Podcast, News & Commentary",-0.9493432,guest,-0.9493432,115,none,True,False,
+1722246285,The Breakdown,-0.166076923076923,guest,-0.166076923076923,48,partial,True,False,-1.015
+1592116227,The Breitbart News Daily Podcast,1.0509801054018446,guest,1.0509801054018446,283,none,True,False,
+73331636,The Brian Lehrer Show,-0.6251337143663562,guest,-0.6251337143663562,655,none,True,False,
+1692806415,The Briefing with Jen Psaki,-0.8715,host_full,-0.7107928950159067,350,full,False,False,-0.8715
+1208232103,The Buck Sexton Show,0.9120407926829268,guest,0.9120407926829268,313,none,True,False,
+1447684472,The Bulwark Podcast,-0.99,host_full,-0.3013186295503212,187,full,False,False,-0.99
+1635418897,The Chris Cuomo Project,-0.0841726618705036,guest,-0.0841726618705036,98,none,True,False,
+1635446643,The Coffee Klatch with Robert Reich,-0.868,host_full,-0.3116296296296296,27,full,False,False,-0.868
+1111319839,The Conversation with Dasha Burns,0.0252430069930069,guest,0.0252430069930069,221,none,True,False,
+1728152109,THE DAILY BLAST with Greg Sargent,-0.5929061784897026,guest,-0.5929061784897026,212,none,True,False,
+1549272440,The Daily Punch,-0.0562900621118012,guest,-0.0562900621118012,75,none,True,False,
+1432118523,The Damage Report with John Iadarola,-1.017,host_full,-0.7975705338809035,405,full,False,False,-1.017
+402050558,The David Pakman Show,-0.1873741347905282,guest,-0.1873741347905282,338,none,True,False,
+1043245989,The Dig,-1.026,host_full,-0.8935014274691357,271,full,False,False,-1.026
+1536984072,The Dishcast with Andrew Sullivan,-0.977,host_full,-0.1848996101364522,146,full,False,False,-0.977
+1567204040,The Drill Down with Peter Schweizer,0.849,host_full,0.4013090909090909,32,full,False,False,0.849
+1586423406,The Focus Group Podcast,0.6625,host_full,-0.4181752577319588,59,full,False,False,0.6625
+1623855270,The Foreign Affairs Interview,-0.998,host_full,-0.4295253012048192,70,full,False,False,-0.998
+1303660358,The Fox News Rundown,0.5953207093477607,guest,0.5953207093477607,462,no_host_listed,True,False,
+474763182,The Globalist,-1.04,host_full,0.213875,4,full,False,False,-1.04
+1456850698,The Graham Allen Show,1.664,host_full,0.9539844961240308,51,full,False,False,1.664
+1594728054,The Great America Show,0.8247790883785665,guest,0.8247790883785665,210,none,True,False,
+1871628261,The Harry Sisson Show,-1.008,host_full,-0.25475,3,full,False,False,-1.008
+1517313007,The Hugh Hewitt Show: Highly Concentrated,1.132,host_full,0.7137169642857143,109,full,False,False,1.132
+1725387804,The Illegal News with Sarah Longwell,0.6625,host_full,0.1307702702702702,12,full,False,False,0.6625
+1587936366,The Inside Story Podcast,-0.4068951476793249,guest,-0.4068951476793249,253,none,True,False,
+1195206601,The Intercept Briefing,-0.6866402810304449,guest,-0.6866402810304449,275,partial,True,False,-1.137
+1795032531,The Jim Acosta Show,-0.500000466853408,guest,-0.500000466853408,161,none,True,False,
+1606834013,The Josh Hammer Show,1.2273,host_full,0.8406521739130435,39,full,False,False,1.2273
+1820648828,The Joy Reid Show,-0.572,host_full,-0.5999426136363636,207,full,False,False,-0.572
+1809246826,The Keith Edwards Show,-0.5766896551724138,guest,-0.5766896551724138,23,none,True,False,
+1880163995,The Kyle Kulinski Show,-0.943,host_full,-0.1763729729729729,29,full,False,False,-0.943
+1654162813,The Kyle Seraphin Show,0.7628226950354611,guest,0.7628226950354611,57,none,True,False,
+1368074498,The Lars Larson Show Pacific Northwest Podcast,1.425,host_full,,0,full,False,False,1.425
+1551582052,The Lincoln Project,-0.4522202702702702,guest,-0.4522202702702702,194,none,True,False,
+402306412,The Majority Report with Sam Seder,-0.999,host_full,-0.7047,28,full,False,False,-0.999
+1785081636,The Mary Trump Podcast,-0.6451460317460317,guest,-0.6451460317460317,25,none,True,False,
+1510240831,The MeidasTouch Podcast,-0.6364638364779874,guest,-0.6364638364779874,344,partial,True,False,-0.995
+1587492577,The Mel K Show,0.537,host_full,1.0665291666666668,15,full,False,False,0.537
+1253076699,The Michael Berry Show,0.405,host_full,0.5763437288135593,157,full,False,False,0.405
+1839861250,The Moment with Jorge Ramos and Paola Ramos,-0.70605,guest,-0.70605,26,partial,True,False,-1.021
+1482179882,The Mona Charen Show,1.432,host_full,-0.2361547058823529,89,full,False,False,1.432
+1060110806,The Nation Podcasts,-0.5417941051136363,guest,-0.5417941051136363,459,none,True,False,
+1640311112,The Necessary Conversation,-0.1375576923076923,guest,-0.1375576923076923,7,partial,True,False,-0.0776666666666666
+1050430296,The New Yorker Radio Hour,-0.648053711952487,guest,-0.648053711952487,579,none,True,False,
+1647085571,The Next Level,-0.2992140845070422,guest,-0.2992140845070422,49,none,True,False,
+1057255460,The NPR Politics Podcast,-0.3708869047619047,guest,-0.3708869047619047,67,none,True,False,
+1263295815,The Pete Quiñones Show,0.5614977973568283,guest,0.5614977973568283,28,none,True,False,
+1317356120,The Peter McCormack Show,0.1219620833333333,guest,0.1219620833333333,231,none,True,False,
+1169056746,The Playbook Podcast,-0.5778816176470588,guest,-0.5778816176470588,124,partial,True,False,-1.088
+1439837349,The Political Orphanage,1.226,host_full,0.0031491271820448,215,full,False,False,1.226
+268213039,The Political Scene | The New Yorker,-0.6048131868131867,guest,-0.6048131868131867,76,partial,True,False,-1.154
+1595408601,The PoliticsGirl Podcast,-1.008,host_full,-0.720270625,101,full,False,False,-1.008
+1617887885,The President's Daily Brief,0.871,host_full,0.3014429752066115,49,full,False,False,0.871
+1172546141,The President’s Inbox,-0.4101216216216216,guest,-0.4101216216216216,61,none,True,False,
+1485021241,The Reason Interview With Nick Gillespie,-0.1211259259259259,guest,-0.1211259259259259,54,none,True,False,
+1155629323,The Reason Roundtable,-0.0055,guest,-0.0055,4,partial,True,False,-1.019
+1291144720,The Remnant with Jonah Goldberg,0.4200705179282868,guest,0.4200705179282868,205,none,True,False,
+1743030473,The Rest Is Politics: US,-0.084325,guest,-0.084325,16,partial,True,False,0.6405
+969924303,The Skepticrat,0.107875,guest,0.107875,9,partial,True,False,-1.393
+1573813504,The Smerconish Podcast,-0.2127318707705741,guest,-0.2127318707705741,379,none,True,False,
+1696974077,The Source with Kaitlan Collins,-1.096,host_full,-0.0190675675675675,86,full,False,False,-1.096
+716825890,The Tom Woods Show,0.6241596590909091,guest,0.6241596590909091,160,none,True,False,
+1714879044,The Tony Kinnett Cast,0.45454267453294,guest,0.45454267453294,135,none,True,False,
+1351411911,The TPM Show with Josh and Kate,-0.5073333333333333,guest,-0.5073333333333333,32,none,True,False,
+1570380458,The Victor Davis Hanson Show,1.373,host_full,0.86503125,36,full,False,False,1.373
+1681586867,The Warning with Steve Schmidt,-0.5726826923076923,guest,-0.5726826923076923,95,none,True,False,
+1612691018,THE WEEKEND SHOW,-0.6060950704225352,guest,-0.6060950704225352,67,partial,True,False,-0.573
+1674095262,The Wright Report,0.8086818181818182,guest,0.8086818181818182,10,none,True,False,
+597919007,The Young Turks,-1.0779999999999998,host_full,-0.3129973076923077,173,full,False,False,-1.0779999999999998
+91959525,This Week with George Stephanopoulos,0.0807417582417582,guest,0.0807417582417582,58,none,True,False,
+1362265400,Timcast News,1.00725,host_full,0.0901446808510638,39,full,False,False,1.00725
+1485186805,Timothy Gordon Rules for Retrogrades Podcast,0.952,host_full,0.5382903225806451,60,full,False,False,0.952
+1474001390,TRUE ANON TRUTH FEED,-0.6570603448275862,guest,-0.6570603448275862,105,partial,True,False,-1.007
+1715894000,Trump's Terms,-0.0771976,guest,-0.0771976,58,none,True,False,
+1378389941,Uncommon Knowledge,-1.0605,host_full,0.3823251082251082,55,full,False,False,-1.0605
+1535255041,Unf*cking The Republic,-0.5780000000000001,guest,-0.5780000000000001,18,none,True,False,
+1709994511,UNGOVERNED,1.659,host_full,1.5125000000000002,2,full,False,False,1.659
+1317481380,UnJustified,-0.998,host_full,-0.7374666666666666,72,full,False,False,-0.998
+1476110521,Useful Idiots with Katie Halper and Aaron Maté,-1.0075,host_full,-0.6404097674418604,124,full,False,False,-1.0075
+1495601614,Verdict with Ted Cruz,1.52,host_full,1.02247,88,full,False,False,1.52
+1548554104,Volts,-0.7407673835125448,guest,-0.7407673835125448,244,none,True,False,
+682478916,War on the Rocks,-1.021,host_full,-0.3612591054313099,200,full,False,False,-1.021
+387042247,Washington Today,0.2521052631578947,guest,0.2521052631578947,36,no_host_listed,True,False,
+702998658,Week In Review,-0.0899024844720496,guest,-0.0899024844720496,65,none,True,False,
+1614844654,Week In Review,0.220474074074074,guest,0.220474074074074,20,none,True,False,
+1647025876,Wendy Bell Radio Podcast,-0.979,host_full,0.5484315789473684,58,full,False,False,-0.979
+1695205478,What Really Matters with Walter Russell Mead,-1.098,guest,-1.098,1,none,True,True,
+1467993804,What the Hell Is Going On,1.2265,host_full,0.4224429824561403,86,full,False,False,1.2265
+1869456664,What's The Plan? with Leah Greenberg and Ezra Levin,-0.8483090909090909,guest,-0.8483090909090909,11,none,True,False,
+1507444393,X22 Report,1.1966190476190477,guest,1.1966190476190477,8,no_host_listed,True,False,

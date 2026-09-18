@@ -1,0 +1,33 @@
+all statistics present at 2026-09-16T04:10:20Z
+episodes tagged: 45,192 across 228 shows, 409M words
+reference shows with MFTE scores: 194 of 194
+
+corpus shows with both measures: 194
+  mfte_z vs dir_z (paper composite)            r=+0.932  rho=+0.926  (n=194)
+    vimp rate vs paper syntactic imperatives   r=+0.789  rho=+0.746  (n=194)
+    pp2 rate vs paper second person            r=+0.771  rho=+0.725  (n=194)
+  mfte_z vs host DIME score                    r=+0.414  rho=+0.420  (n=112)
+  dir_z  vs host DIME score (reference)        r=+0.433  rho=+0.451  (n=112)
+  mfte_z vs LLM side label                     r=+0.328  rho=+0.235  (n=194)
+  right - left gap in mfte_z: d=+0.69  (Welch p=1.0e-05, n=69/125)
+
+top 8 / bottom 8 shows on mfte_z:
+                      show   mfte_z    dir_z lean
+   Hood Politics with Prop 3.067443 3.605265    L
+                UNGOVERNED 2.576164 2.119657    R
+     The Graham Allen Show 2.472171 1.543376    R
+       Louder with Crowder 2.181628 2.009296    R
+The Necessary Conversation 1.853885 0.803063    L
+    The Michael Berry Show 1.842676 1.157539    R
+         Bannon`s War Room 1.772476 1.165043    R
+   The Chris Cuomo Project 1.760408 1.381025    L
+                                       show    mfte_z     dir_z lean
+                   Letters from an American -2.899012 -2.799705    L
+Hope For America with Heather Delaney Reese -2.267108 -1.978787    L
+              Antiwar News With Dave DeCamp -2.071242 -2.423721    L
+                      The President’s Inbox -1.494344 -1.137702    L
+                                    The Dig -1.413297 -1.406193    L
+                            10 Minute Drill -1.361421 -0.489455    R
+                           Russian Roulette -1.324222 -1.259536    L
+                              Jacobin Radio -1.315365 -1.293052    L
+mfte_address.py rc=0

@@ -1,0 +1,7002 @@
+[
+  {
+    "guest_key": "boyle|james|james",
+    "display_name": "James Boyle",
+    "examples": [
+      {
+        "show_name": "Amarica's Constitution",
+        "episode_title": "Duct Tape on a Warhol - Special Guest James Boyle",
+        "descriptor": "Special Guest",
+        "topic": "unknown"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "boyle, james allen",
+        "source": "recipient",
+        "party": "100",
+        "state": "ME",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.724"
+      },
+      {
+        "matched_name": "boyle, james",
+        "source": "recipient",
+        "party": "100",
+        "state": "OH",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.723"
+      },
+      {
+        "matched_name": "boyle, jim",
+        "source": "recipient",
+        "party": "100",
+        "state": "WA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.84"
+      }
+    ]
+  },
+  {
+    "guest_key": "hart|gary|gary",
+    "display_name": "Gary Hart",
+    "examples": [
+      {
+        "show_name": "Amarica's Constitution",
+        "episode_title": "Gary and Gorby - Special Guest Gary Hart",
+        "descriptor": "Special Guest",
+        "topic": "unknown"
+      },
+      {
+        "show_name": "Amarica's Constitution",
+        "episode_title": "Heart to Hart: Filibuster Finis - Special Guest Gary Hart",
+        "descriptor": "Special Guest",
+        "topic": "Filibuster"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hart, gary w",
+        "source": "recipient",
+        "party": "100",
+        "state": "CO",
+        "seat": "federal:senate",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.686"
+      },
+      {
+        "matched_name": "hart, gary w",
+        "source": "recipient",
+        "party": "100",
+        "state": "00",
+        "seat": "federal:president",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.686"
+      },
+      {
+        "matched_name": "hart, gary warren",
+        "source": "recipient",
+        "party": "100",
+        "state": "CO",
+        "seat": "federal:senate",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.686"
+      },
+      {
+        "matched_name": "hart, gary w",
+        "source": "recipient",
+        "party": "100",
+        "state": "00",
+        "seat": "federal:president",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.686"
+      },
+      {
+        "matched_name": "hart, gary k",
+        "source": "recipient",
+        "party": "100",
+        "state": "CA",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.829"
+      },
+      {
+        "matched_name": "hart, gary k",
+        "source": "recipient",
+        "party": "100",
+        "state": "CA",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.829"
+      },
+      {
+        "matched_name": "hart, gary",
+        "source": "recipient",
+        "party": "100",
+        "state": "IA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.781"
+      }
+    ]
+  },
+  {
+    "guest_key": "huang|ricky|ricky",
+    "display_name": "Ricky Huang",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Taiwan's War on Renewables [Fully Produced Radio Show!]",
+        "descriptor": "energy policy expert and podcast host",
+        "topic": "Taiwan's energy policy"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "huang, ricky",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "shoe mfg",
+        "cfscore": "0.771"
+      },
+      {
+        "matched_name": "huang, ricky",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "not employed",
+        "cfscore": "-1.103"
+      },
+      {
+        "matched_name": "huang, ricky",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.443"
+      }
+    ]
+  },
+  {
+    "guest_key": "feng|jason|jason",
+    "display_name": "Jason Feng",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Taiwan's War on Renewables [Fully Produced Radio Show!]",
+        "descriptor": "anonymized guest",
+        "topic": "Taiwan's energy policy"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "feng, jason",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.993"
+      },
+      {
+        "matched_name": "feng, jason",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "external affairs intern",
+        "employer": "itic",
+        "cfscore": "-0.905"
+      }
+    ]
+  },
+  {
+    "guest_key": "hwang|timothy|tim",
+    "display_name": "Tim Hwang",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "The Pope has AI Takes",
+        "descriptor": "deputy director of the Institute for Christian Machine Intelligence",
+        "topic": "AI and Christian theology, Vatican alignment lab proposal"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Export controls for AI: Will they work?",
+        "descriptor": "research fellow at Georgetown's Center for Security and Emerging Technology (CSET)",
+        "topic": "export controls and their effectiveness for AI"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hwang, tim",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "",
+        "cfscore": "-0.922"
+      },
+      {
+        "matched_name": "hwang, tim",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "partner",
+        "employer": "robot robot & hwang",
+        "cfscore": "-1.087"
+      },
+      {
+        "matched_name": "hwang, timothy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "founder and ceo",
+        "employer": "fiscalnote",
+        "cfscore": "-0.885"
+      },
+      {
+        "matched_name": "hwang, timmy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.375"
+      },
+      {
+        "matched_name": "hwang, timothy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.775"
+      },
+      {
+        "matched_name": "hwang, timothy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "van pelt yi & james",
+        "cfscore": "-0.769"
+      },
+      {
+        "matched_name": "hwang, tim",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "occupational therapist",
+        "employer": "nyc doe",
+        "cfscore": "-1.003"
+      },
+      {
+        "matched_name": "hwang, timothy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "achievement first",
+        "cfscore": "-1.091"
+      },
+      {
+        "matched_name": "hwang, tim",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "other",
+        "employer": "fiscalnote",
+        "cfscore": "-0.754"
+      },
+      {
+        "matched_name": "hwang, timothy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "administrative and management",
+        "employer": "ceo",
+        "cfscore": "-0.799"
+      }
+    ]
+  },
+  {
+    "guest_key": "harris|ike|ike",
+    "display_name": "Ike Harris",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "WarTalk: NatSec in Congress + AI Evals for War",
+        "descriptor": "Naval officer turned Hill staffer turned AI policy operator",
+        "topic": "AI policy, frontier models, national security evaluations, and deployment of AI systems"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "harris, ike",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.049"
+      },
+      {
+        "matched_name": "harris, ike",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.947"
+      },
+      {
+        "matched_name": "harris, ike",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.114"
+      },
+      {
+        "matched_name": "harris, ike",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.169"
+      },
+      {
+        "matched_name": "harris,ike",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "reception expenses",
+        "employer": "",
+        "cfscore": "1.144"
+      },
+      {
+        "matched_name": "harris, ike",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "supply chain manager",
+        "employer": "hewlett packard company",
+        "cfscore": "-1.085"
+      }
+    ]
+  },
+  {
+    "guest_key": "xu|kevin|kevin",
+    "display_name": "Kevin Xu",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Trump's China Visit: Prestige on the Cheap",
+        "descriptor": "ChinaTalk regular",
+        "topic": "Trump's visit to China and U.S.-China relations"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Why it Sucks to Work in AI in China + Open Source with Kevin Xu",
+        "descriptor": "AI and open source expert",
+        "topic": "Working in AI in China and open source"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Are We Cooked? Q1 2026",
+        "descriptor": "writes the Interconnected newsletter",
+        "topic": "state of the republic and allied scale"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "",
+        "cfscore": "-0.093"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "media strategist",
+        "employer": "the rendon group",
+        "cfscore": "-1.045"
+      },
+      {
+        "matched_name": "xu, kevin peng",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "ceo",
+        "employer": "mebo international",
+        "cfscore": "-0.793"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "intern",
+        "employer": "food and water watch",
+        "cfscore": "-1.028"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professional",
+        "employer": "tech co",
+        "cfscore": "-1.032"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "ceo",
+        "employer": "mebo international",
+        "cfscore": "-0.705"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.039"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "technical writer",
+        "employer": "vertica",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "mebo",
+        "employer": "ceo",
+        "cfscore": "-0.583"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.017"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "data center technician",
+        "employer": "shi international corp",
+        "cfscore": "-1.003"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "accountant",
+        "employer": "utsw",
+        "cfscore": "-1.003"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software engineer",
+        "employer": "supplyframe",
+        "cfscore": "-1.119"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "arctrade",
+        "cfscore": "-1.091"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "eir",
+        "employer": "oss capital",
+        "cfscore": "-0.818"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physicist",
+        "employer": "kaiser",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "accountant",
+        "employer": "figma",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "president",
+        "employer": "x&p analytics",
+        "cfscore": "-1.088"
+      },
+      {
+        "matched_name": "xu, kevin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "university of california, irvine",
+        "cfscore": "-0.992"
+      }
+    ]
+  },
+  {
+    "guest_key": "shanahan|jack|jack",
+    "display_name": "Jack Shanahan",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "WarTalk: Iran War 'Love Tap' Edition feat. Jack Shanahan",
+        "descriptor": "featured guest",
+        "topic": "Iran War"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "shanahan, jack",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.478"
+      },
+      {
+        "matched_name": "shanahan, jack",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "inman & fitzgubbons",
+        "cfscore": "-0.928"
+      },
+      {
+        "matched_name": "shanahan, jack",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "cinematographer",
+        "employer": "self",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "shanahan, jack",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.997"
+      }
+    ]
+  },
+  {
+    "guest_key": "robinson|eric|eric",
+    "display_name": "Eric Robinson",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "WarTalk: No Ammo for Taiwan, Polymarket, Bye Phelan, Will Driscoll Go The Distance?",
+        "descriptor": "former OSC NCT and 101st Airborne, now a lawyer",
+        "topic": "Pentagon leaks, Taiwan war capability, munitions portfolio"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "WarTalk: Who Won the Iran War?  (Second Breakfast Rebranded...)",
+        "descriptor": "guest",
+        "topic": "Iran conflict scoring"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Second Breakfast: Taking Kharg Island, Terrorism, Grift",
+        "descriptor": "lawyer and veteran of Joint Special Operations Command who worked in NCTC",
+        "topic": "military and strategic realities of America's latest Middle Eastern war"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "robinson, eric",
+        "source": "recipient",
+        "party": "200",
+        "state": "MS",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.712"
+      },
+      {
+        "matched_name": "robinson, eric d",
+        "source": "recipient",
+        "party": "328",
+        "state": "DE",
+        "seat": "local:council",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.478"
+      },
+      {
+        "matched_name": "robinson, eric paul",
+        "source": "recipient",
+        "party": "200",
+        "state": "GA",
+        "seat": "local:commissioner",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.363"
+      }
+    ]
+  },
+  {
+    "guest_key": "joshi|shashank|shashank",
+    "display_name": "Shashank Joshi",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Iran: No Save Point",
+        "descriptor": "of The Economist",
+        "topic": "US-Iran war, CENTCOM strikes, Iran's nuclear program"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "EMERGENCY POD: Trump's Pivot to Putin, AGI + The Future of Warfare",
+        "descriptor": "Defence Editor at The Economist",
+        "topic": "Ukraine's chances on the battlefield, J.D. Vance's claims about Ukraine's fate, war dynamics, Trump's strategy with Ukraine and Russia"
+      },
+      {
+        "show_name": "The Inside Story Podcast",
+        "episode_title": "Will the India-Pakistan ceasefire hold?",
+        "descriptor": "Defence Editor, The Economist",
+        "topic": "India-Pakistan conflict and ceasefire"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "joshi, shashank",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician",
+        "employer": "stanford univ",
+        "cfscore": "-1.039"
+      },
+      {
+        "matched_name": "joshi, shashank",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "vice president",
+        "employer": "cbsi",
+        "cfscore": "1.278"
+      }
+    ]
+  },
+  {
+    "guest_key": "kesselheim|aaron|aaron",
+    "display_name": "Aaron Kesselheim",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Chinese Peptides (Reported Podcast Special Edition!)",
+        "descriptor": "guest",
+        "topic": "Chinese peptides"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "kesselheim, aaron seth",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.43"
+      },
+      {
+        "matched_name": "kesselheim, aaron",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician",
+        "employer": "brigham and womens hospital",
+        "cfscore": "-0.961"
+      }
+    ]
+  },
+  {
+    "guest_key": "teixeira|lauren|lauren",
+    "display_name": "Lauren Teixeira",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Chinamaxxing",
+        "descriptor": "guest discussing Chinamaxxing",
+        "topic": "Chinamaxxing and Chinese short-form content"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "The View from Chengdu: Freelance Reporting Outside First-Tier Cities",
+        "descriptor": "freelance reporter based in Chengdu, Sichuan Province",
+        "topic": "China news, anti-Extradition Bill protests in Hong Kong, Chinese superblock urban planning, contemporary pop culture artists in China"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "teixeira, lauren",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "childrens librarian",
+        "employer": "santa clara county library",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "teixeira, lauren",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      }
+    ]
+  },
+  {
+    "guest_key": "mcintosh|justin|justin",
+    "display_name": "Justin McIntosh",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Second Breakfast: Battleships, Golden Dome,  Greenland, Kash, Presidential Comedy",
+        "descriptor": "unknown",
+        "topic": "reporting for duty"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Second Breakfast: Colby's Pigpen, Counter-UAS, Training, Eat like a Trumper (or Iranian Spy?)",
+        "descriptor": "former Green beret who writes",
+        "topic": "training and related topics"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Second Breakfast: Parades, U.S. Grant, JCIDS, Warbots",
+        "descriptor": "former Green beret who writes",
+        "topic": "Civil War coverage / defense"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "mcintosh, justin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.672"
+      },
+      {
+        "matched_name": "mcintosh, justin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "mcintosh, justin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "music industry",
+        "employer": "rbi",
+        "cfscore": "-0.942"
+      },
+      {
+        "matched_name": "mcintosh, justin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "truck driver",
+        "employer": "mcintosh trucking",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "mcintosh, justin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "naperville cusd 203",
+        "cfscore": "-1.111"
+      },
+      {
+        "matched_name": "mcintosh, justin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.055"
+      },
+      {
+        "matched_name": "mcintosh, justin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self",
+        "employer": "self",
+        "cfscore": "-1.216"
+      }
+    ]
+  },
+  {
+    "guest_key": "klein|matthew|matt",
+    "display_name": "Matt Klein",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Are We Cooked? Q1 2026",
+        "descriptor": "author of Trade Wars Are Class Wars and The Overshoot substack",
+        "topic": "state of the republic and allied scale"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Are We Cooked? Q2 Check In",
+        "descriptor": "of the substack",
+        "topic": "US and China dynamics"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "EMERGENCY POD: Are We Cooked?",
+        "descriptor": "co-host/participant",
+        "topic": "whether America's cooked"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "klein, matthew m matt",
+        "source": "recipient",
+        "party": "200",
+        "state": "ND",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.051"
+      },
+      {
+        "matched_name": "klein, matt",
+        "source": "recipient",
+        "party": "100",
+        "state": "MN",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.674"
+      }
+    ]
+  },
+  {
+    "guest_key": "zhang|irene|irene",
+    "display_name": "Irene Zhang",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "The Z.ai Playbook",
+        "descriptor": "long-time ChinaTalk analyst",
+        "topic": "Chinese AI ecosystem and Z.ai discussion"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Chinese TV PilotTalk: Farmers, Murders, and Anime",
+        "descriptor": "ChinaTalk editor",
+        "topic": "Chinese TV, farming reality tv, dongbei murder, animated content"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Mechanical Keyboards in China \uff08\u4e2d\u6587\u7248\uff09",
+        "descriptor": "one of ChinaTalk's editors",
+        "topic": "cohosting the episode"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "zhang, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "licensed acupuncturist",
+        "employer": "irene zhang",
+        "cfscore": "-0.705"
+      },
+      {
+        "matched_name": "zhang, ying irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "self employed",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "zhang, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "california acupuncture medical asso",
+        "cfscore": "-0.706"
+      },
+      {
+        "matched_name": "zhang, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "president",
+        "employer": "california acupunture medical assn",
+        "cfscore": "1.091"
+      },
+      {
+        "matched_name": "zhang, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "acupuncturist",
+        "employer": "self, irene zhang",
+        "cfscore": "-0.724"
+      },
+      {
+        "matched_name": "zhang, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "agent",
+        "employer": "farmers group inc",
+        "cfscore": "1.089"
+      },
+      {
+        "matched_name": "zhang, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "zhang, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "sk hynix",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "zhang, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "enspire school",
+        "cfscore": "-1.067"
+      },
+      {
+        "matched_name": "zhang, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "district manager",
+        "employer": "farmers insurance",
+        "cfscore": "-0.731"
+      }
+    ]
+  },
+  {
+    "guest_key": "chhabra|tarun|tarun",
+    "display_name": "Tarun Chhabra",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Tarun Chhabra on the Stakes of AI Competition",
+        "descriptor": "expert on AI competition",
+        "topic": "the stakes of AI competition"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "chhabra, tarun",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "not employed",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "chhabra, tarun",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.843"
+      }
+    ]
+  },
+  {
+    "guest_key": "singh|daleep|daleep",
+    "display_name": "Daleep Singh",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "MP Materials, Intel, and Sovereign Wealth Funds",
+        "descriptor": "former Deputy National Security Advisor for International Economics, now with PGIN",
+        "topic": "MP Materials and rare earth material exports"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "singh, daleep",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "daleeps",
+        "cfscore": "-0.682"
+      },
+      {
+        "matched_name": "singh, raj daleep",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "singh, daleep",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "other think tank",
+        "employer": "atlantic council nonpaid",
+        "cfscore": "-1.036"
+      }
+    ]
+  },
+  {
+    "guest_key": "toll|ian|ian",
+    "display_name": "Ian Toll",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "War in the Pacific with Ian Toll",
+        "descriptor": "author/historian",
+        "topic": "War in the Pacific"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "toll, ian w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.844"
+      },
+      {
+        "matched_name": "toll, ian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "copy editor",
+        "employer": "self",
+        "cfscore": "-1.017"
+      }
+    ]
+  },
+  {
+    "guest_key": "greer|tanner|tanner",
+    "display_name": "Tanner Greer",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "EMERGENCY POD: Liberation Day with Tanner Greer of Scholarstage",
+        "descriptor": "of Scholarstage",
+        "topic": "Liberation Day"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Imperial Japan + Export Controls = Pearl Harbor!?",
+        "descriptor": "Scholar's Stage essayist",
+        "topic": "US-China relations and US-Japan relations in the leadup to WWII"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "greer, tanner",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "it",
+        "employer": "bremco",
+        "cfscore": "1.47"
+      },
+      {
+        "matched_name": "greer, tanner w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "broker",
+        "employer": "lpl financial llc",
+        "cfscore": "-0.917"
+      }
+    ]
+  },
+  {
+    "guest_key": "patel|dylan|dylan",
+    "display_name": "Dylan Patel",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "SemiAnalysis + Asianometry on Intel, Gemini 2.5, and Chinese Robots",
+        "descriptor": "of SemiAnalysis",
+        "topic": "Google's AI push, Intel's new CEO, Chinese robots, and the rise of CoreWeave"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "SemiAnalysis + Asianometry on the AI Mandate of Heaven",
+        "descriptor": "SemiAnalysis",
+        "topic": "hyperscaler capex, AI mandate of heaven tier list, Tim Cook succession plans"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "EMERGENCY POD: AI Diffusion Export Controls",
+        "descriptor": "unknown",
+        "topic": "Biden export control and datacenter regulation"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "patel, dylan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "pharmacist",
+        "employer": "mark drugs",
+        "cfscore": "-1.096"
+      },
+      {
+        "matched_name": "patel, dylan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "patel, dylan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "pharmacist",
+        "employer": "mark drugs",
+        "cfscore": "-1.098"
+      },
+      {
+        "matched_name": "patel, dylan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "pharmacist",
+        "employer": "mark drugs",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "brundage|miles|miles",
+    "display_name": "Miles Brundage",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "EMERGENCY POD: DeepSeek R1 and the Future of AI Competition with Miles Brundage",
+        "descriptor": "AI researcher/expert",
+        "topic": "DeepSeek R1 and the Future of AI Competition"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "brundage, miles",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "research scientist",
+        "employer": "openai",
+        "cfscore": "-0.988"
+      },
+      {
+        "matched_name": "brundage, miles",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "researcher",
+        "employer": "openai",
+        "cfscore": "-0.892"
+      }
+    ]
+  },
+  {
+    "guest_key": "collins|teddy|teddy",
+    "display_name": "Teddy Collins",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "AI and the Rise and Fall of Great Powers",
+        "descriptor": "formerly of DeepMind and the White House Office of Science and Technology Policy",
+        "topic": "Technology and the Rise of Great Powers, general-purpose technologies, great power competition, AI, tech diffusion"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "collins, teddy r",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "repairman",
+        "employer": "emerald hills coffee",
+        "cfscore": "0.007"
+      },
+      {
+        "matched_name": "collins, teddy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manager fl puppies online",
+        "employer": "",
+        "cfscore": "1.621"
+      }
+    ]
+  },
+  {
+    "guest_key": "kirchhoff|christopher|chris",
+    "display_name": "Chris Kirchhoff",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "The Pentagon\u2019s Innovation Insurgents",
+        "descriptor": "founding member of the Defense Innovation Unit (DIU) and previously worked in the Obama NSC",
+        "topic": "Unit X: How the Pentagon and Silicon Valley Are Transforming the Future of War"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "kirchhoff, christopher",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.709"
+      },
+      {
+        "matched_name": "kirchhoff, chris h jr",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.478"
+      },
+      {
+        "matched_name": "kirchhoff, chris",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.884"
+      }
+    ]
+  },
+  {
+    "guest_key": "pitt|katherine|kate",
+    "display_name": "Kate Pitt",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "EMERGENCY POD: Biden and Shakespeare",
+        "descriptor": "dramaturg",
+        "topic": "Shakespeare and Biden dynamics, King Lear, Richard II, Macbeth, Coriolanus"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "pitt, katherine",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.148"
+      },
+      {
+        "matched_name": "pitt, katherine",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.397"
+      },
+      {
+        "matched_name": "pitt, kathy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.64"
+      }
+    ]
+  },
+  {
+    "guest_key": "mckittrick|j|j kevin",
+    "display_name": "J. Kevin McKittrick",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Why America Didn't Invade Taiwan: WWII Lessons for Xi's Invasion",
+        "descriptor": "US Army Field Artillery Lieutenant Colonel",
+        "topic": "US military's aborted plan to invade Taiwan during WWII, amphibious assaults, civil-military relations, Taiwan's defense concept, and artillery in modern war"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "mckittrick, paul j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "home builder",
+        "employer": "ashton woods homes",
+        "cfscore": "1.374"
+      },
+      {
+        "matched_name": "mckittrick, j w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.307"
+      },
+      {
+        "matched_name": "mckittrick, thomas j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "commercial lending",
+        "employer": "eastern virginia bankshares",
+        "cfscore": "1.364"
+      },
+      {
+        "matched_name": "mckittrick, j w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "j w mckittrick lumber co",
+        "cfscore": "1.183"
+      },
+      {
+        "matched_name": "mckittrick, j w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "plantronics inc",
+        "employer": "plantronics inc",
+        "cfscore": "0.908"
+      },
+      {
+        "matched_name": "mckittrick, david j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.06"
+      },
+      {
+        "matched_name": "mckittrick, david j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "self-employed",
+        "cfscore": "0.716"
+      },
+      {
+        "matched_name": "mckittrick, david j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "self",
+        "cfscore": "-0.876"
+      },
+      {
+        "matched_name": "mckittrick, tom j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "president",
+        "employer": "forsite development inc",
+        "cfscore": "0.894"
+      },
+      {
+        "matched_name": "mckittrick, timothy j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "",
+        "cfscore": "-0.661"
+      },
+      {
+        "matched_name": "mckittrick, wayne j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "land surveyor",
+        "employer": "survcon inc",
+        "cfscore": "0.847"
+      },
+      {
+        "matched_name": "mckittrick, mary j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "homemaker",
+        "employer": "homemaker",
+        "cfscore": "0.752"
+      },
+      {
+        "matched_name": "mckittrick, marie j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.426"
+      }
+    ]
+  },
+  {
+    "guest_key": "mckinney|jared|jared",
+    "display_name": "Jared McKinney",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Preventing an Invasion of Taiwan",
+        "descriptor": "Air War College",
+        "topic": "Deterrence in the Taiwan Strait"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "mckinney, jared",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "",
+        "cfscore": "-1.66"
+      },
+      {
+        "matched_name": "mckinney, jared",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.581"
+      },
+      {
+        "matched_name": "mckinney, jared",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "unkown",
+        "cfscore": "1.358"
+      }
+    ]
+  },
+  {
+    "guest_key": "gans|john|john",
+    "display_name": "John Gans",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Is the NSC Unwell?",
+        "descriptor": "former Pentagon speechwriter",
+        "topic": "National Security Council organizational design and its impact on staff, the National Security complex, presidential decision-making, and historical NSC models"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "gans, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "writer",
+        "employer": "us government",
+        "cfscore": "-1.07"
+      },
+      {
+        "matched_name": "gans, john jr",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "political & leg rep",
+        "employer": "",
+        "cfscore": "-1.993"
+      },
+      {
+        "matched_name": "gans, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.839"
+      },
+      {
+        "matched_name": "gans, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "vice president",
+        "employer": "discount drug mart",
+        "cfscore": "0.089"
+      },
+      {
+        "matched_name": "gans, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "cs first boston",
+        "cfscore": "-0.78"
+      },
+      {
+        "matched_name": "gans, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "apha",
+        "cfscore": "-0.057"
+      },
+      {
+        "matched_name": "gans, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.525"
+      },
+      {
+        "matched_name": "gans, john e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "north american health care",
+        "cfscore": "1.353"
+      },
+      {
+        "matched_name": "gans, john f",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "north american healthcare inc",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "gans, john a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "writer",
+        "employer": "university of pennsylvania",
+        "cfscore": "-0.995"
+      },
+      {
+        "matched_name": "gans, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "penn",
+        "employer": "writer",
+        "cfscore": "-0.964"
+      },
+      {
+        "matched_name": "gans, john chris",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.092"
+      },
+      {
+        "matched_name": "gans, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.527"
+      },
+      {
+        "matched_name": "gans, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.098"
+      },
+      {
+        "matched_name": "gans, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.942"
+      },
+      {
+        "matched_name": "gans, john g",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "managing director",
+        "employer": "the rockefeller foundation",
+        "cfscore": "-1.066"
+      }
+    ]
+  },
+  {
+    "guest_key": "palmieri|margaret|margaret",
+    "display_name": "Margaret Palmieri",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "The Pentagon's AI Implementers",
+        "descriptor": "Deputy Chief Digital Artificial Intelligence Officer",
+        "topic": "Innovation vs diffusion in the DoD context, data issues, and CDAO sourcing and testing ideas for implementing AI"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "palmieri, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "office manager",
+        "employer": "jacobs & rozich, llc",
+        "cfscore": "-1.062"
+      },
+      {
+        "matched_name": "palmieri, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.077"
+      },
+      {
+        "matched_name": "palmieri, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "analyst",
+        "employer": "us department of defense",
+        "cfscore": "-0.995"
+      }
+    ]
+  },
+  {
+    "guest_key": "labenz|nathan|nathan",
+    "display_name": "Nathan Labenz",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "London AI Summit + OpenAI Dev Day!",
+        "descriptor": "of the Cognitive Revolution podcast",
+        "topic": "AI news recap"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "GPT4\u2014AI Unleashed?",
+        "descriptor": "of Waymark",
+        "topic": "GPT4 implications for policy, economics, society, US-China AI racing dynamics, and AI safety"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "labenz, nathan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "entrepreneur",
+        "employer": "knewdeal inc",
+        "cfscore": "-0.965"
+      },
+      {
+        "matched_name": "labenz, nathan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.44"
+      }
+    ]
+  },
+  {
+    "guest_key": "chilukuri|vivek|vivek",
+    "display_name": "Vivek Chilukuri",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Emergency Pod: AI Executive Order!",
+        "descriptor": "CNAS analyst",
+        "topic": "Biden's executive order on AI safety and regulation"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "chilukuri, vivek",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "advisor",
+        "employer": "us senate",
+        "cfscore": "-0.911"
+      },
+      {
+        "matched_name": "chilukuri, vivek ram",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "",
+        "cfscore": "-1.109"
+      }
+    ]
+  },
+  {
+    "guest_key": "crichton|daniel|danny",
+    "display_name": "Danny Crichton",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "AI Beyond OpenAI",
+        "descriptor": "Lux Capital",
+        "topic": "future of AI, closed vs open source AI, government role in AI trajectory"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "600 Years Of Sino-Korean Relations",
+        "descriptor": "journalist at Techcrunch",
+        "topic": "China-Korea relations and geopolitics"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "crichton, daniel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.027"
+      },
+      {
+        "matched_name": "crichton, daniel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "venture capitalist",
+        "employer": "charles river ventures",
+        "cfscore": "1.093"
+      }
+    ]
+  },
+  {
+    "guest_key": "arch|amanda|amanda",
+    "display_name": "Amanda Arch",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Moneyball for Foreign Aid",
+        "descriptor": "COO of Unlock Aid",
+        "topic": "foreign aid distribution and access to funding"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "arch, amanda e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.853"
+      },
+      {
+        "matched_name": "arch, amanda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "business development manager",
+        "employer": "porchcom",
+        "cfscore": "-0.979"
+      },
+      {
+        "matched_name": "arch, amanda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "operations",
+        "employer": "unlock aid",
+        "cfscore": "-0.604"
+      },
+      {
+        "matched_name": "arch, amanda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "policy",
+        "employer": "unlock aid",
+        "cfscore": "-0.945"
+      }
+    ]
+  },
+  {
+    "guest_key": "sher|nathaniel|nathaniel",
+    "display_name": "Nathaniel Sher",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Blinken to Beijing!",
+        "descriptor": "of Carnegie",
+        "topic": "Blinken's trip to China and meetings with Chinese officials"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "sher, nathaniel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "oberlin",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "sher, nathaniel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.614"
+      }
+    ]
+  },
+  {
+    "guest_key": "ding|jeff|jeff",
+    "display_name": "Jeff Ding",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Jeff Ding on US vs China AI and Lessons from Past Industrial Revolutions",
+        "descriptor": "AI policy expert",
+        "topic": "US vs China AI and lessons from past industrial revolutions"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "China\u2019s Grand AI Ambitions with Jeff Ding",
+        "descriptor": "expert on China's AI ambitions",
+        "topic": "China's Grand AI Ambitions"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ding, jeff jie fei",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "svp ndrc",
+        "employer": "new drug research center",
+        "cfscore": "0.833"
+      },
+      {
+        "matched_name": "ding, jeff",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software engineer",
+        "employer": "playstation",
+        "cfscore": "-1.003"
+      }
+    ]
+  },
+  {
+    "guest_key": "singh|akshay|akshay",
+    "display_name": "Akshay Singh",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "What to Do About Foreign Interference",
+        "descriptor": "research associate at the Centre for International Policy Studies at the University of Ottawa",
+        "topic": "foreign influence and Canada's handling of China's interference in domestic affairs"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "singh, akshay",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "finance",
+        "employer": "evercore",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "singh, akshay",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "investment banker",
+        "employer": "evercore",
+        "cfscore": "-1.012"
+      },
+      {
+        "matched_name": "singh, akshay",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "pwc",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "singh, akshay",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "product manager",
+        "employer": "nike, inc",
+        "cfscore": "-1.024"
+      },
+      {
+        "matched_name": "singh, akshay",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "strategist",
+        "employer": "goldman sachs",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "singh, akshay",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "product manager",
+        "employer": "nike, inc",
+        "cfscore": "-1.121"
+      }
+    ]
+  },
+  {
+    "guest_key": "schonander|lars|lars",
+    "display_name": "Lars Sch\u00f6nander",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Economic Warfare: Implications for Sanctions Today",
+        "descriptor": "co-conversationalist",
+        "topic": "economic history, sanctions, protectionism, and geopolitical strategy"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "schonander, lars",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "portfolio manager",
+        "employer": "sac",
+        "cfscore": "-1.052"
+      },
+      {
+        "matched_name": "schonander, lars",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software engineer",
+        "employer": "lincoln network",
+        "cfscore": "1.584"
+      }
+    ]
+  },
+  {
+    "guest_key": "lofgren|eric|eric",
+    "display_name": "Eric Lofgren",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "BALLOONTALK: EMERGENCY EDITION",
+        "descriptor": "of AcquisitionTalk",
+        "topic": "Chinese balloons over Wyoming"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "China + AI = Military advantage?",
+        "descriptor": "of the podcast AcquisitionTalk",
+        "topic": "AI technology in China and military applicability"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Science & Technology for National Security",
+        "descriptor": "from AcquisitionTalk",
+        "topic": "how R&D works and doesn't work in the Pentagon"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "lofgren, eric",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "los angeles county",
+        "cfscore": "-1.037"
+      },
+      {
+        "matched_name": "lofgren, eric",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "actuary",
+        "employer": "watson wyatt worldwide",
+        "cfscore": "0.357"
+      },
+      {
+        "matched_name": "lofgren, eric p",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "-0.795"
+      },
+      {
+        "matched_name": "lofgren, eric",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "retired",
+        "cfscore": "0.775"
+      },
+      {
+        "matched_name": "lofgren, eric c",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "accountant",
+        "employer": "saic",
+        "cfscore": "1.744"
+      },
+      {
+        "matched_name": "lofgren, eric",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "washington state university",
+        "cfscore": "-1.043"
+      },
+      {
+        "matched_name": "lofgren, eric",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "lawyer",
+        "employer": "county",
+        "cfscore": "-1.003"
+      },
+      {
+        "matched_name": "lofgren, eric r",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "owner",
+        "employer": "greenleaf excavating",
+        "cfscore": "1.51"
+      },
+      {
+        "matched_name": "lofgren, eric",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.11"
+      },
+      {
+        "matched_name": "lofgren, eric",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "other",
+        "employer": "greenleaf",
+        "cfscore": "1.473"
+      }
+    ]
+  },
+  {
+    "guest_key": "dipippo|gerard|gerard",
+    "display_name": "Gerard Dipippo",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "BALLOONTALK: EMERGENCY EDITION",
+        "descriptor": "of CSIS",
+        "topic": "Chinese balloons over Wyoming"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "War for Taiwan: What Happens If China Wins?",
+        "descriptor": "fellow at CSIS",
+        "topic": "political and economic consequences of a PRC takeover of Taiwan"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "dipippo, gerard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.25"
+      },
+      {
+        "matched_name": "dipippo, gerard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "federal employee",
+        "employer": "us government",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "dipippo, gerard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "analyst",
+        "employer": "us government",
+        "cfscore": "-1.003"
+      }
+    ]
+  },
+  {
+    "guest_key": "coulson|steven|steve",
+    "display_name": "Steve Coulson",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "How AI is Unlocking Creativity",
+        "descriptor": "Campfire creative director",
+        "topic": "AI revolution in art, AI-generated comic books using Midjourney"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "coulson, steven",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "architecture",
+        "employer": "mckissick associates",
+        "cfscore": "-1.038"
+      },
+      {
+        "matched_name": "coulson, steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "nutley board of education",
+        "cfscore": "-1.027"
+      }
+    ]
+  },
+  {
+    "guest_key": "engerman|david|david",
+    "display_name": "David Engerman",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Lessons from American Sovietology",
+        "descriptor": "author of Know Your Enemy: The Rise and Fall of America's Soviet Experts",
+        "topic": "The rise and fall of America's Soviet experts and the intellectual mobilization during the Cold War"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "engerman, david",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "self employed",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "engerman, david a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manager",
+        "employer": "at&t",
+        "cfscore": "-1.039"
+      },
+      {
+        "matched_name": "engerman, david",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "yale univ",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "sparks|turner|turner",
+    "display_name": "Turner Sparks",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "The rise and fall of a Suzhou soft serve baron",
+        "descriptor": "rising from humble beginnings as just another English teacher",
+        "topic": "Mister Softee ice cream brand in Suzhou, China and the circumstances that led to the failure of his business"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Rise and Fall of a Suzhou Soft Serve Baron",
+        "descriptor": "rising from humble beginnings as just another English teacher",
+        "topic": "Mister Softee ice cream brand in Suzhou, China and the circumstances that melted his ice cream dream"
+      },
+      {
+        "show_name": "The Political Orphanage",
+        "episode_title": "The Ethics of Performing for Dictators",
+        "descriptor": "comedian",
+        "topic": "ethics of performing standup for despotic regimes"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "sparks, cheri turner",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.124"
+      },
+      {
+        "matched_name": "sparks, turner",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "comedian",
+        "employer": "self employed",
+        "cfscore": "-0.616"
+      },
+      {
+        "matched_name": "sparks, cheri turner",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "administrator",
+        "employer": "howard college",
+        "cfscore": "0.724"
+      }
+    ]
+  },
+  {
+    "guest_key": "liu|irene|irene",
+    "display_name": "Irene Liu",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "China + Hollywood: are we heading for a divorce?",
+        "descriptor": "research analyst at Rhodium Group",
+        "topic": "Chinese cinema, Chinese movies abroad and China in Hollywood"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.098"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software engineer",
+        "employer": "raytheon",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "Finance",
+        "employer": "Bear, Stearns and Co.",
+        "cfscore": "-0.584"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "le moyne college",
+        "cfscore": "-1.131"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "postdoc",
+        "employer": "umcp",
+        "cfscore": "-1.022"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "postdoctoral associate",
+        "employer": "university of maryland",
+        "cfscore": "-1.091"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "researcher",
+        "employer": "cornell university",
+        "cfscore": "-1.043"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.055"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician",
+        "employer": "uc davis",
+        "cfscore": "-1.017"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.515"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "marketing manager",
+        "employer": "unisiltech",
+        "cfscore": "-1.177"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "advisor",
+        "employer": "hypergrowth gc",
+        "cfscore": "-1.021"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.055"
+      },
+      {
+        "matched_name": "liu, irene",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "hypergrowth gc",
+        "cfscore": "-0.987"
+      }
+    ]
+  },
+  {
+    "guest_key": "yates|joanne|joanne",
+    "display_name": "JoAnne Yates",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Global Standards: What's the Deal?",
+        "descriptor": "MIT professor and business history",
+        "topic": "Engineering Rules: Global Standard Setting since 1880"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "yates, joanne",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "rental manager",
+        "employer": "yates homes inc",
+        "cfscore": "-0.408"
+      },
+      {
+        "matched_name": "yates, joanne",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.686"
+      },
+      {
+        "matched_name": "yates, joanne g",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "yates homes",
+        "cfscore": "-0.409"
+      },
+      {
+        "matched_name": "yates, joanne",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.016"
+      },
+      {
+        "matched_name": "yates, joanne",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.066"
+      },
+      {
+        "matched_name": "yates, joanne cline",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.124"
+      },
+      {
+        "matched_name": "yates, joanne",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "-0.885"
+      },
+      {
+        "matched_name": "yates, joanne",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "1.235"
+      },
+      {
+        "matched_name": "yates, joanne",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.513"
+      }
+    ]
+  },
+  {
+    "guest_key": "che|chang|chang",
+    "display_name": "Chang Che",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Shanghai Lockdown + Wang Huning's Unhappy Travels in America + Classics in China",
+        "descriptor": "Freelance journalist",
+        "topic": "Wang Huning's book 'America against America' and Chinese interpretations of US and Western culture"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "che, chang",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "student",
+        "cfscore": "-1.04"
+      },
+      {
+        "matched_name": "che, chang",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.001"
+      }
+    ]
+  },
+  {
+    "guest_key": "zhao|tong|tong",
+    "display_name": "Tong Zhao",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "China/Russia + Why China's Making More Nukes",
+        "descriptor": "fellow at the Carnegie Center in Beijing",
+        "topic": "China's nuclear program"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "zhao, yan tong",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.369"
+      },
+      {
+        "matched_name": "zhao, tong",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "real estate broker",
+        "employer": "supreme investment corp",
+        "cfscore": "1.023"
+      },
+      {
+        "matched_name": "zhao, tong",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "pjm",
+        "cfscore": "0.328"
+      }
+    ]
+  },
+  {
+    "guest_key": "martin|peter|peter",
+    "display_name": "Peter Martin",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "China's Wolf Warrior Diplomacy, Part 2",
+        "descriptor": "Author of China's Civilian Army: The Making of Wolf Warrior Diplomacy",
+        "topic": "Wolf Warrior Diplomacy, Chinese diplomats, nationalist rhetoric"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "China's Wolf Warrior Diplomacy, Part 1",
+        "descriptor": "author",
+        "topic": "China's diplomatic corps and Wolf Warrior Diplomacy"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "martin, peter",
+        "source": "recipient",
+        "party": "328",
+        "state": "NY",
+        "seat": "local:supervisor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.982"
+      },
+      {
+        "matched_name": "martin, peter f",
+        "source": "recipient",
+        "party": "100",
+        "state": "RI",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.656"
+      },
+      {
+        "matched_name": "martin, peter k iv",
+        "source": "recipient",
+        "party": "200",
+        "state": "GA",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.048"
+      }
+    ]
+  },
+  {
+    "guest_key": "liang|alexander|alex",
+    "display_name": "Alex Liang",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "US-China Science Relations and the PhDs Caught in the Middle",
+        "descriptor": "undergrad",
+        "topic": "Understanding the other, geopolitical tension and science across borders"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "liang, alex",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "boeing",
+        "cfscore": "-0.453"
+      },
+      {
+        "matched_name": "liang, alex",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.876"
+      },
+      {
+        "matched_name": "liang, alexander",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "nephrologist",
+        "employer": "dallas nephrology associates,",
+        "cfscore": "-1.021"
+      },
+      {
+        "matched_name": "liang, alex",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.883"
+      },
+      {
+        "matched_name": "liang, alexander",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "senior underwriting & data analyst",
+        "employer": "msh china enterprise services co, ltd",
+        "cfscore": "2.026"
+      },
+      {
+        "matched_name": "liang, alexander",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "gardener",
+        "employer": "nyc parks",
+        "cfscore": "-1.023"
+      },
+      {
+        "matched_name": "liang, alex",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "gardener",
+        "employer": "self",
+        "cfscore": "-1.03"
+      },
+      {
+        "matched_name": "liang, alex",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.845"
+      },
+      {
+        "matched_name": "liang, alex",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "hearing instrument specialist",
+        "employer": "chinatown hearing center inc",
+        "cfscore": "-0.908"
+      },
+      {
+        "matched_name": "liang, alex",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "not employed",
+        "cfscore": "-1.058"
+      },
+      {
+        "matched_name": "liang, alexander",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician president ceo",
+        "employer": "dallas nephrology associates",
+        "cfscore": "-0.498"
+      },
+      {
+        "matched_name": "liang, alex",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manager",
+        "employer": "oriza ventures",
+        "cfscore": "-0.676"
+      }
+    ]
+  },
+  {
+    "guest_key": "guenther|jacob|jacob",
+    "display_name": "Jacob Guenther",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Son Eating and Prince-Slaying: Stratagems of the Warring States",
+        "descriptor": "voice actor",
+        "topic": "performance of excerpts from Stratagems of the Warring States"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "guenther, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "fisherman",
+        "employer": "self",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "guenther, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "construction",
+        "employer": "self employed",
+        "cfscore": "1.213"
+      },
+      {
+        "matched_name": "guenther, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.631"
+      }
+    ]
+  },
+  {
+    "guest_key": "baughman|margaret|maggie",
+    "display_name": "Maggie Baughman",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Selling China's Story",
+        "descriptor": "recent college grad",
+        "topic": "Chinese government use of Western social media to promote China's image internationally"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "baughman, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.765"
+      },
+      {
+        "matched_name": "baughman, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.469"
+      },
+      {
+        "matched_name": "baughman, margaret c",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.518"
+      },
+      {
+        "matched_name": "baughman, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "account manager",
+        "employer": "king",
+        "cfscore": "-1.127"
+      },
+      {
+        "matched_name": "baughman, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "not employed",
+        "cfscore": "-0.966"
+      },
+      {
+        "matched_name": "baughman, maggie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "-1.095"
+      },
+      {
+        "matched_name": "baughman, margaret c",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.518"
+      },
+      {
+        "matched_name": "baughman, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "fam physician",
+        "employer": "",
+        "cfscore": "-0.739"
+      },
+      {
+        "matched_name": "baughman, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.997"
+      },
+      {
+        "matched_name": "baughman, margaret",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "researcher",
+        "employer": "cwru",
+        "cfscore": "-0.955"
+      }
+    ]
+  },
+  {
+    "guest_key": "mcgregor|richard|richard",
+    "display_name": "Richard McGregor",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "After Xi: How Past CCP Successions Can Teach Us What Happens Next",
+        "descriptor": "Aussie journalist with decades of experience in East Asia",
+        "topic": "CCP leadership transitions and Xi Jinping's potential exit from power"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.468"
+      },
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.468"
+      },
+      {
+        "matched_name": "mcgregor, richard f",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.95"
+      },
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "member",
+        "employer": "guy hurley blaser & heuer llc",
+        "cfscore": "1.048"
+      },
+      {
+        "matched_name": "mcgregor, richard l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.205"
+      },
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "executive",
+        "employer": "cna",
+        "cfscore": "-0.245"
+      },
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "vice presidentate",
+        "employer": "mcgregor supply co",
+        "cfscore": "1.772"
+      },
+      {
+        "matched_name": "mcgregor, richard c",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.539"
+      },
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.532"
+      },
+      {
+        "matched_name": "mcgregor, richard s",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "marketing",
+        "employer": "mcgregor creative",
+        "cfscore": "-0.709"
+      },
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.063"
+      },
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "retired",
+        "cfscore": "0.916"
+      },
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.166"
+      },
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "owner",
+        "employer": "caltechsys",
+        "cfscore": "-1.174"
+      },
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.62"
+      },
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "math teacher",
+        "employer": "storey county school district",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales",
+        "employer": "coremark",
+        "cfscore": "-1.151"
+      },
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.461"
+      },
+      {
+        "matched_name": "mcgregor, richard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "electrical",
+        "employer": "",
+        "cfscore": "1.45"
+      }
+    ]
+  },
+  {
+    "guest_key": "vanderslice|peter|peter",
+    "display_name": "Peter Vanderslice",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "After Xi: How Past CCP Successions Can Teach Us What Happens Next",
+        "descriptor": "recent college grad",
+        "topic": "CCP leadership transitions"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "vanderslice, peter",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "deloitte",
+        "cfscore": "0.752"
+      },
+      {
+        "matched_name": "vanderslice, peter",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "andersen",
+        "cfscore": "0.185"
+      }
+    ]
+  },
+  {
+    "guest_key": "cho|sungmin|sungmin",
+    "display_name": "Dr. Sungmin Cho",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "How Beijing Sees Korea",
+        "descriptor": "of the Asia-Pacific Center for Security Studies",
+        "topic": "Korean Peninsula as viewed by Beijing"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "cho, paul sungmin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "executive",
+        "employer": "lifeark spc",
+        "cfscore": "-0.977"
+      },
+      {
+        "matched_name": "cho, autumn sungmin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "advisor",
+        "employer": "dignity memorial",
+        "cfscore": "1.028"
+      }
+    ]
+  },
+  {
+    "guest_key": "zhang|angela|angela",
+    "display_name": "Dr. Angela Zhang",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "China's Anti-Monopoly Moment",
+        "descriptor": "professor at The University of Hong Kong's Faculty of Law",
+        "topic": "Chinese antitrust regulation and her book 'Chinese Antitrust Exceptionalism: How The Rise of China Challenges Global Regulation'"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "zhang, angela yuanhong",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "office assistant",
+        "employer": "globe express usa inc",
+        "cfscore": "-1.07"
+      },
+      {
+        "matched_name": "zhang, angela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.126"
+      },
+      {
+        "matched_name": "zhang, angela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "tax manager",
+        "employer": "huntsman",
+        "cfscore": "-1.019"
+      },
+      {
+        "matched_name": "zhang, angela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "environmental analyst",
+        "employer": "",
+        "cfscore": "-1.01"
+      },
+      {
+        "matched_name": "zhang, angela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "medical assistant",
+        "employer": "stat! cardiologist inc",
+        "cfscore": "-1.08"
+      },
+      {
+        "matched_name": "zhang, angela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "product marketer",
+        "employer": "docusign",
+        "cfscore": "-1.064"
+      },
+      {
+        "matched_name": "zhang, angela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "bookkeeper",
+        "employer": "comsurge tooling,inc",
+        "cfscore": "1.605"
+      },
+      {
+        "matched_name": "zhang, angela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "storyboard artist",
+        "employer": "netflix animation",
+        "cfscore": "-1.07"
+      },
+      {
+        "matched_name": "zhang, angela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "zhang, angela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "research assistant",
+        "employer": "university of washington",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "zhang, angela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "it administrator",
+        "employer": "igas",
+        "cfscore": "0.793"
+      },
+      {
+        "matched_name": "zhang, angela",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.055"
+      }
+    ]
+  },
+  {
+    "guest_key": "yu|yvonne|yvonne",
+    "display_name": "Yvonne Yu",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "China's Anti-Monopoly Moment",
+        "descriptor": "colleague at Rhodium",
+        "topic": "Chinese regulatory state and antitrust policy"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "yu, yvonne",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "csph",
+        "cfscore": "-0.642"
+      },
+      {
+        "matched_name": "yu, yvonne y",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "mental health admin",
+        "employer": "city & cty of s f",
+        "cfscore": "-0.639"
+      },
+      {
+        "matched_name": "yu, yvonne chui man",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "-0.977"
+      },
+      {
+        "matched_name": "yu, yvonne",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "investigator",
+        "employer": "ri commission for human rights",
+        "cfscore": "-0.987"
+      }
+    ]
+  },
+  {
+    "guest_key": "manuel|ryan|ryan",
+    "display_name": "Ryan Manuel",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "US-China Ideological Competition",
+        "descriptor": "Official China",
+        "topic": "US and China ideological competition, CCP bureaucracy"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "How Chinese Governance Fundamentals Impact Health Care and National Security",
+        "descriptor": "managing director of Official China, a consultancy that goes deep into CCP regulations and policy",
+        "topic": "local-central relations in the Chinese system and its response to coronavirus"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "manuel, ryan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "paralegal",
+        "employer": "cotchett pitre & mccarthy",
+        "cfscore": "-1.037"
+      },
+      {
+        "matched_name": "manuel, ryan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.112"
+      },
+      {
+        "matched_name": "manuel, ryan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "insurance adjuster support staff",
+        "employer": "syndicate claims",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "manuel, ryan fentley",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physical therapist",
+        "employer": "nyc health hospitals",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "verwey|john|john",
+    "display_name": "John Verwey",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "China's Chip Dreams",
+        "descriptor": "of the Substack \"Semi-Literate\" and formerly of Commerce's BIS, USITC, and USTR",
+        "topic": "history and future of China's chip industry"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "verwey, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "farmer",
+        "employer": "johann dairy",
+        "cfscore": "1.379"
+      },
+      {
+        "matched_name": "verwey, john p",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.247"
+      },
+      {
+        "matched_name": "verwey, john p",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "0.087"
+      },
+      {
+        "matched_name": "verwey, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "photographer",
+        "employer": "myself",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "verwey, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.659"
+      }
+    ]
+  },
+  {
+    "guest_key": "lu|shen|shen",
+    "display_name": "Shen Lu",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Clubhouse and Feminism in China with Shen Lu",
+        "descriptor": "expert on Clubhouse and feminism in China",
+        "topic": "Clubhouse and Feminism in China"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "lu, shen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software architect",
+        "employer": "equifax",
+        "cfscore": "-1.02"
+      },
+      {
+        "matched_name": "lu, shen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "coo",
+        "employer": "webull financial llc",
+        "cfscore": "0.992"
+      },
+      {
+        "matched_name": "lu, shen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "executive",
+        "employer": "gellert global group",
+        "cfscore": "0.524"
+      }
+    ]
+  },
+  {
+    "guest_key": "puente|jose|jose luis ricon fernandez de la",
+    "display_name": "Jose Luis Ric\u00f3n Fern\u00e1ndez de la Puente",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Rethinking Industrial Policy...and Everything Else",
+        "descriptor": "independent researcher who runs the blog nintil.com",
+        "topic": "US industrial policy, state invention of iPhone, Taiwan, science funding, Mormonism and American economy, longevity"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "puente, jose",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.779"
+      },
+      {
+        "matched_name": "puente, jose",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.451"
+      },
+      {
+        "matched_name": "puente, jose",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "technology executive",
+        "employer": "self-employed",
+        "cfscore": "0.793"
+      },
+      {
+        "matched_name": "puente, jose",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "not employed",
+        "cfscore": "-1.047"
+      },
+      {
+        "matched_name": "puente, jose gonzalez",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.45"
+      },
+      {
+        "matched_name": "puente, jose",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "self employed",
+        "cfscore": "-1.077"
+      },
+      {
+        "matched_name": "puente, jose",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "ceo",
+        "employer": "flexdrive",
+        "cfscore": "-1.035"
+      },
+      {
+        "matched_name": "puente, jose",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "self",
+        "cfscore": "-1.074"
+      },
+      {
+        "matched_name": "puente, jose",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "management",
+        "employer": "school district nutrition",
+        "cfscore": "-1.113"
+      }
+    ]
+  },
+  {
+    "guest_key": "wang|xiaowei|xiaowei",
+    "display_name": "Xiaowei Wang",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Blockchain Chicken Farm: How Tech Changed Rural China",
+        "descriptor": "author",
+        "topic": "her new book, Taobao villages, digitization, Silicon Valley and Chinese tech culture, pearl farming"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "wang, xiaowei",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.012"
+      },
+      {
+        "matched_name": "wang, xiaowei",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "instructor",
+        "employer": "uc berkeley",
+        "cfscore": "-1.089"
+      },
+      {
+        "matched_name": "wang, xiaowei",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.386"
+      },
+      {
+        "matched_name": "wang, xiaowei",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "it",
+        "employer": "retired",
+        "cfscore": "1.614"
+      }
+    ]
+  },
+  {
+    "guest_key": "schulz|jacob|jacob",
+    "display_name": "Jacob Schulz",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "What To Do About Xinjiang",
+        "descriptor": "Lawfare editor",
+        "topic": "what the US government should do from legislative, executive and diplomatic angles"
+      },
+      {
+        "show_name": "Rational Security",
+        "episode_title": "The \"Boys Next Door\" Edition",
+        "descriptor": "Lawfare managing editor",
+        "topic": "National security news including French presidential election, botnet takedown, and DHS impersonation case"
+      },
+      {
+        "show_name": "Rational Security",
+        "episode_title": "The \u201cHouse of Canards\u201d Edition",
+        "descriptor": "Lawfare managing editor",
+        "topic": "National security news including Islamic State jail break in Syria, Michigan Governor Whitmer kidnapping prosecution, and Justice Department charges in China Initiative case"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "schulz, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.75"
+      },
+      {
+        "matched_name": "schulz, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "stpnoc",
+        "cfscore": "-0.478"
+      },
+      {
+        "matched_name": "schulz, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "dow chemical",
+        "cfscore": "1.282"
+      },
+      {
+        "matched_name": "schulz, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.291"
+      },
+      {
+        "matched_name": "schulz, jacob",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales",
+        "employer": "hbi",
+        "cfscore": "1.167"
+      }
+    ]
+  },
+  {
+    "guest_key": "stewart|devin|devin",
+    "display_name": "Devin Stewart",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "CCP Influence Ops in Japan: Everywhere Yet Nowhere in Particular",
+        "descriptor": "author of report",
+        "topic": "China's tactics in influencing Japanese politics and society, Japan's resistance to CCP influence"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "stewart, devin t",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "assistant",
+        "employer": "research institute",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "stewart, devin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.116"
+      },
+      {
+        "matched_name": "stewart, devin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "senior systems engineer",
+        "employer": "srds",
+        "cfscore": "-0.971"
+      },
+      {
+        "matched_name": "stewart, devin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "us navy",
+        "cfscore": "-1.003"
+      },
+      {
+        "matched_name": "stewart, devin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "intern administrative assistant",
+        "employer": "liberty language services, llc",
+        "cfscore": "-1.003"
+      },
+      {
+        "matched_name": "stewart, devin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.151"
+      },
+      {
+        "matched_name": "stewart, devin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "senior fellow",
+        "employer": "eurasia group foundation",
+        "cfscore": "-1.019"
+      },
+      {
+        "matched_name": "stewart, devin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.643"
+      },
+      {
+        "matched_name": "stewart, devin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "emory",
+        "cfscore": "-0.873"
+      }
+    ]
+  },
+  {
+    "guest_key": "chesney|robert|bobby",
+    "display_name": "Bobby Chesney",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "TikTok, WeChat and Trump",
+        "descriptor": "Lawfare co-founder, professor at the University of Texas at Austin Law School",
+        "topic": "TikTok and WeChat threats, legal injunctions, and acquisition deal"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "chesney, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.859"
+      },
+      {
+        "matched_name": "chesney, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.63"
+      },
+      {
+        "matched_name": "chesney, robert h",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "0.479"
+      },
+      {
+        "matched_name": "chesney, robert w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "regional pres centura bank",
+        "employer": "",
+        "cfscore": "1.047"
+      },
+      {
+        "matched_name": "chesney, robert s",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.305"
+      },
+      {
+        "matched_name": "chesney, robert j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "h l goldberg & co",
+        "employer": "h l goldberg & co",
+        "cfscore": "0.638"
+      },
+      {
+        "matched_name": "chesney, robert j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.688"
+      },
+      {
+        "matched_name": "chesney, robert h",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "vice president",
+        "employer": "deutsche bank trust co am",
+        "cfscore": "1.461"
+      },
+      {
+        "matched_name": "chesney, robert anthony",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "chesney, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.035"
+      },
+      {
+        "matched_name": "chesney, robert h",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.439"
+      },
+      {
+        "matched_name": "chesney, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.004"
+      }
+    ]
+  },
+  {
+    "guest_key": "arnold|zach|zach",
+    "display_name": "Zach Arnold",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "AI Basic Research in China and the US",
+        "descriptor": "researcher/analyst",
+        "topic": "Chinese public sector AI R&D spending"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "arnold, zach",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.469"
+      },
+      {
+        "matched_name": "arnold, zach",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "it",
+        "employer": "zendesk",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "triolo|paul|paul",
+    "display_name": "Paul Triolo",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "China tech policy and competition, with Paul Triolo",
+        "descriptor": "China tech policy and competition expert",
+        "topic": "China tech policy and competition"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "triolo, paul",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.507"
+      },
+      {
+        "matched_name": "triolo, paul",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "fso",
+        "employer": "usg",
+        "cfscore": "-1.014"
+      },
+      {
+        "matched_name": "triolo, paul",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.278"
+      },
+      {
+        "matched_name": "triolo, paul",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.628"
+      }
+    ]
+  },
+  {
+    "guest_key": "westhoff|benjamin|ben",
+    "display_name": "Ben Westhoff",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Chasing the dragon: Fentanyl, China, and the opioid crisis",
+        "descriptor": "author and investigative journalist",
+        "topic": "rising drug deaths at raves and fentanyl supply chain"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "westhoff, benjamin f",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "lawyer",
+        "employer": "the westhoff law firm, llc",
+        "cfscore": "-0.81"
+      },
+      {
+        "matched_name": "westhoff, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "the westhoff law firm",
+        "cfscore": "-0.883"
+      },
+      {
+        "matched_name": "westhoff, benjamin f",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "sedey harper westhoff pc",
+        "cfscore": "-0.722"
+      }
+    ]
+  },
+  {
+    "guest_key": "kim|dongwoo|dongwoo",
+    "display_name": "Dongwoo Kim",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "East Asian AI: Researching Chinese, Japanese, and Korean Tech in Canada",
+        "descriptor": "postgraduate research fellow at the Asia Pacific Foundation of Canada who specializes in AI",
+        "topic": "AI development in Japan, Korea, and China; challenges faced by Chinese AI researchers overseas; tech literacy"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "kim, dongwoo",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.219"
+      },
+      {
+        "matched_name": "kim, dongwoo",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "financial advisor",
+        "employer": "morgan stanley",
+        "cfscore": "-1.003"
+      }
+    ]
+  },
+  {
+    "guest_key": "webster|graham|graham",
+    "display_name": "Graham Webster",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "The Party in Cyberspace: China\u2019s Digital Ecosystem",
+        "descriptor": "China digital economy fellow and coordinating editor of the DigiChina project at New America",
+        "topic": "artificial intelligence in China, social credit system, U.S.-China relations"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "webster, graham",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales manager",
+        "employer": "thermo scientific",
+        "cfscore": "-1.124"
+      },
+      {
+        "matched_name": "webster, graham",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "researcher",
+        "employer": "self",
+        "cfscore": "-1.088"
+      },
+      {
+        "matched_name": "webster, graham",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales director",
+        "employer": "tmo",
+        "cfscore": "-1.05"
+      },
+      {
+        "matched_name": "webster, graham",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "researcher",
+        "employer": "stanford university",
+        "cfscore": "-0.998"
+      },
+      {
+        "matched_name": "webster, graham",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.024"
+      },
+      {
+        "matched_name": "webster, graham",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.397"
+      }
+    ]
+  },
+  {
+    "guest_key": "hu|benjamin|ben",
+    "display_name": "Ben Hu",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Harnessing the Educational Power of AI",
+        "descriptor": "Liulishuo co-founder and CTO",
+        "topic": "Liulishuo's journey, speech-recognition capabilities, strategies for Chinese companies abroad, and user stories"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hu, benjamin ta chu",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "",
+        "cfscore": "0.107"
+      },
+      {
+        "matched_name": "hu, benjamin t",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.107"
+      },
+      {
+        "matched_name": "hu, benjamin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "anesthesiologist",
+        "employer": "acamg",
+        "cfscore": "-1.024"
+      },
+      {
+        "matched_name": "hu, benjamin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "md",
+        "employer": "whidbey island urology clinic",
+        "cfscore": "0.988"
+      },
+      {
+        "matched_name": "hu, benjamin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "",
+        "cfscore": "-0.757"
+      },
+      {
+        "matched_name": "hu, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.26"
+      },
+      {
+        "matched_name": "hu, benjamin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "i a donoso & associates, llc",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "hu, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "the boeing co",
+        "cfscore": "-1.003"
+      },
+      {
+        "matched_name": "hu, ben",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.003"
+      }
+    ]
+  },
+  {
+    "guest_key": "marquis|christopher|christopher",
+    "display_name": "Christopher Marquis",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Red Guards to Red Entrepreneurs: How Mao Era Thought Seeps Into Modern Chinese Business",
+        "descriptor": "Professor at Cornell's SC Johnson College of Business",
+        "topic": "Chinese communist ideology impacts on private sector firms and policy implementation"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "marquis, christopher",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.347"
+      },
+      {
+        "matched_name": "marquis, chris",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.131"
+      },
+      {
+        "matched_name": "marquis, chris",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineering consultant",
+        "employer": "self employed",
+        "cfscore": "-1.094"
+      },
+      {
+        "matched_name": "marquis, chris",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "marquis, christopher",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "the mathworks, inc",
+        "cfscore": "-0.992"
+      },
+      {
+        "matched_name": "marquis, chris",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "quikserve solutions",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "polk|andrew|andrew",
+    "display_name": "Andrew Polk",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Chinese Policymaking Made Easy with Trivium China",
+        "descriptor": "economics and politics specialist at Trivium China",
+        "topic": "Chinese politics, bureaucracy, policy formation and implementation, and the Chinese economy"
+      },
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Andrew Polk on the 19th Party Congress",
+        "descriptor": "guest discussing the 19th Party Congress",
+        "topic": "the 19th Party Congress"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "polk, andrew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "performing artist",
+        "employer": "self employed",
+        "cfscore": "-0.99"
+      },
+      {
+        "matched_name": "polk, andy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "field director",
+        "employer": "sue myrick for congress",
+        "cfscore": "0.992"
+      },
+      {
+        "matched_name": "polk, andrew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.26"
+      },
+      {
+        "matched_name": "polk, andrew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "business owner",
+        "employer": "self empliyed",
+        "cfscore": "-0.907"
+      },
+      {
+        "matched_name": "polk, andrew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "music producer",
+        "employer": "craftsman recording inc",
+        "cfscore": "-1.019"
+      },
+      {
+        "matched_name": "polk, andrew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "meteorologist",
+        "employer": "weather decision technologies",
+        "cfscore": "-0.727"
+      },
+      {
+        "matched_name": "polk, andrew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "carpenter",
+        "employer": "union hall",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "polk, andrew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "registered nurse",
+        "employer": "bsw",
+        "cfscore": "-0.881"
+      },
+      {
+        "matched_name": "polk, andrew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.881"
+      },
+      {
+        "matched_name": "polk, andrew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "state employee",
+        "employer": "commonwealth of massachusetts",
+        "cfscore": "-1.137"
+      },
+      {
+        "matched_name": "polk, andrew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "-0.751"
+      },
+      {
+        "matched_name": "polk, andy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "store associate",
+        "employer": "mutual ace hardware",
+        "cfscore": "-1.104"
+      }
+    ]
+  },
+  {
+    "guest_key": "cao|henry|henry",
+    "display_name": "Henry Cao",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "How China Learned to WTO with Henry Cao",
+        "descriptor": "expert on China and WTO",
+        "topic": "How China Learned to WTO"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "cao, henry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "finance",
+        "employer": "jpmorgan",
+        "cfscore": "-1.011"
+      },
+      {
+        "matched_name": "cao, henry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.551"
+      },
+      {
+        "matched_name": "cao, henry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "tad consulting",
+        "cfscore": "1.659"
+      }
+    ]
+  },
+  {
+    "guest_key": "lorentzen|peter|peter",
+    "display_name": "Peter Lorentzen",
+    "examples": [
+      {
+        "show_name": "ChinaTalk",
+        "episode_title": "Peter Lorentzen on the Politics of Protest in China",
+        "descriptor": "scholar of Chinese politics",
+        "topic": "Politics of Protest in China"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "lorentzen, peter",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "uc berkeley",
+        "cfscore": "-0.901"
+      },
+      {
+        "matched_name": "lorentzen, peter",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "homemaker",
+        "cfscore": "1.264"
+      },
+      {
+        "matched_name": "lorentzen, peter",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "uc berkeley",
+        "cfscore": "-0.954"
+      },
+      {
+        "matched_name": "lorentzen, peter",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.064"
+      },
+      {
+        "matched_name": "lorentzen, peter",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "lorentzen, peter",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "lorentzen, peter",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "lorentzen, peter",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      }
+    ]
+  },
+  {
+    "guest_key": "steele|eli|eli",
+    "display_name": "Eli Steele",
+    "examples": [
+      {
+        "show_name": "The Victor Davis Hanson Show",
+        "episode_title": "Signs of Senility and Bay Area Blues",
+        "descriptor": "person whose experience attests to San Francisco conditions",
+        "topic": "San Francisco worse than the 1970s"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "steele, eli",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.45"
+      },
+      {
+        "matched_name": "steele, eli",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retail manager",
+        "employer": "the wine chap",
+        "cfscore": "-1.156"
+      }
+    ]
+  },
+  {
+    "guest_key": "kimball|roger|roger",
+    "display_name": "Roger Kimball",
+    "examples": [
+      {
+        "show_name": "The Victor Davis Hanson Show",
+        "episode_title": "The Many Worlds of Roger Kimball",
+        "descriptor": "director of Encounter publishing and The New Criterion",
+        "topic": "directorship of Encounter publishing and The New Criterion, campus issues, Republican primaries"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "kimball, roger",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "writereditor consultant",
+        "employer": "fdn culural review",
+        "cfscore": "1.551"
+      },
+      {
+        "matched_name": "kimball, roger or yvonne",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.228"
+      },
+      {
+        "matched_name": "kimball,roger",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "car dealer",
+        "employer": "",
+        "cfscore": "0.328"
+      },
+      {
+        "matched_name": "kimball, roger",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "TWENTIETH CENTURY FUND",
+        "cfscore": "-0.416"
+      },
+      {
+        "matched_name": "kimball, roger",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.572"
+      },
+      {
+        "matched_name": "kimball, roger",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.443"
+      }
+    ]
+  },
+  {
+    "guest_key": "blair|everton|everton",
+    "display_name": "Everton Blair",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Georgia\u2019s 13th District enters a two-track transition",
+        "descriptor": "Dr.",
+        "topic": "candidate in special election to finish David Scott's current term"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Pressure on Ossoff, Ambitions for Blair",
+        "descriptor": "former Gwinnett school board chair",
+        "topic": "running to unseat U.S. Rep. David Scott"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "blair, everton",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manager",
+        "employer": "unbounded",
+        "cfscore": "-0.952"
+      },
+      {
+        "matched_name": "blair, everton",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "entrepreneur",
+        "employer": "self employed",
+        "cfscore": "-1.666"
+      },
+      {
+        "matched_name": "blair, everton",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "national governance director",
+        "employer": "new american leaders",
+        "cfscore": "-1.126"
+      }
+    ]
+  },
+  {
+    "guest_key": "kreher|scott|scott",
+    "display_name": "Scott Kreher",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "MARTA, Voting Rights, and the World Cup",
+        "descriptor": "MARTA Police Chief",
+        "topic": "surge in violent incidents on the transit system, World Cup visitor arrival"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "kreher, scott",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "partner",
+        "employer": "krehers poultry farm",
+        "cfscore": "0.872"
+      },
+      {
+        "matched_name": "kreher, scott",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "dominican university",
+        "cfscore": "-1.093"
+      },
+      {
+        "matched_name": "kreher, scott",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales",
+        "employer": "american express",
+        "cfscore": "-1.088"
+      }
+    ]
+  },
+  {
+    "guest_key": "bryant|john|john hope",
+    "display_name": "John Hope Bryant",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Atlanta and the American Dream",
+        "descriptor": "author and economic mobility advocate",
+        "topic": "Capitalism for All and economic mobility as unfinished work of civil rights movement"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "bryant, john",
+        "source": "recipient",
+        "party": "100",
+        "state": "TX",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.525"
+      },
+      {
+        "matched_name": "bryant, john h",
+        "source": "recipient",
+        "party": "100",
+        "state": "ME",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.814"
+      },
+      {
+        "matched_name": "bryant, john w",
+        "source": "recipient",
+        "party": "200",
+        "state": "NC",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.562"
+      },
+      {
+        "matched_name": "bryant, john r",
+        "source": "recipient",
+        "party": "328",
+        "state": "TX",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.111"
+      }
+    ]
+  },
+  {
+    "guest_key": "adkerson|robert|rob",
+    "display_name": "Rob Adkerson",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Metro Elections, Campaign Moves",
+        "descriptor": "congressional candidate, former top aide to Barry Loudermilk",
+        "topic": "his campaign, views on Congress and foreign policy, and how he would represent a solidly Republican district"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "adkerson, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "president and ceo",
+        "employer": "freeport mcmoran",
+        "cfscore": "1.221"
+      },
+      {
+        "matched_name": "adkerson, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "self",
+        "cfscore": "0.155"
+      },
+      {
+        "matched_name": "adkerson, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "technician",
+        "employer": "fox systems inc",
+        "cfscore": "1.383"
+      },
+      {
+        "matched_name": "adkerson, robert",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "chief of staff",
+        "employer": "united states house of representatives",
+        "cfscore": "1.503"
+      }
+    ]
+  },
+  {
+    "guest_key": "carson|john|john",
+    "display_name": "John Carson",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Airport Chaos Fallout",
+        "descriptor": "State Rep.",
+        "topic": "state gas tax suspension law"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "carson, john",
+        "source": "recipient",
+        "party": "200",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.124"
+      },
+      {
+        "matched_name": "carson, john d",
+        "source": "recipient",
+        "party": "200",
+        "state": "IN",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.442"
+      },
+      {
+        "matched_name": "carson, john j",
+        "source": "recipient",
+        "party": "200",
+        "state": "ME",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.299"
+      },
+      {
+        "matched_name": "carson, john",
+        "source": "recipient",
+        "party": "200",
+        "state": "CO",
+        "seat": "state:education",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.258"
+      },
+      {
+        "matched_name": "carson, john k jr",
+        "source": "recipient",
+        "party": "200",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.142"
+      },
+      {
+        "matched_name": "carson jr, john",
+        "source": "recipient",
+        "party": "200",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.142"
+      }
+    ]
+  },
+  {
+    "guest_key": "wickert|david|david",
+    "display_name": "David Wickert",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Georgia\u2019s Tax Clash",
+        "descriptor": "AJC reporter",
+        "topic": "tax plans and their financial implications"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Walz, Vance face off in the vice presidential debate",
+        "descriptor": "AJC reporter",
+        "topic": "more than 22 lawsuits challenging rules and procedures related to the state election board and voting in Georgia"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "More challenges for DA Fani Willis\u2019 effort to get the Trump trial underway",
+        "descriptor": "AJC reporter",
+        "topic": "the latest in the election interference case against former President Donald Trump"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "wickert, dave",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.223"
+      },
+      {
+        "matched_name": "wickert, david",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.742"
+      },
+      {
+        "matched_name": "wickert, david",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "it network engineer",
+        "employer": "elbit systems of america",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "wickert, david",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "dental technician",
+        "employer": "wickert dental laboratory llc",
+        "cfscore": "1.063"
+      }
+    ]
+  },
+  {
+    "guest_key": "bond|michael|michael julian",
+    "display_name": "Michael Julian Bond",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Julian Bond\u2019s Fight to Be Seated",
+        "descriptor": "interviewee",
+        "topic": "Julian Bond's legacy and free speech"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "bond, michael",
+        "source": "recipient",
+        "party": "100",
+        "state": "IL",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.69"
+      },
+      {
+        "matched_name": "bond, michael alan",
+        "source": "recipient",
+        "party": "100",
+        "state": "MT",
+        "seat": "federal:senate",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.223"
+      },
+      {
+        "matched_name": "bond, michael j",
+        "source": "recipient",
+        "party": "328",
+        "state": "WA",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.071"
+      },
+      {
+        "matched_name": "bond, michael julian",
+        "source": "recipient",
+        "party": "328",
+        "state": "GA",
+        "seat": "local:council",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.824"
+      }
+    ]
+  },
+  {
+    "guest_key": "bailey|charlie|charlie",
+    "display_name": "Charlie Bailey",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Democrats Sense Momentum",
+        "descriptor": "Georgia Democratic Party chair",
+        "topic": "what the victory means for 2026, how Democrats plan to compete in traditionally Republican territory, and why party leaders believe recent wins point to a broader opening heading into a pivotal election year"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Kemp passes on Ossoff Challenge, Charlie Bailey Takes the Helm for Dems",
+        "descriptor": "newly elected chair of the Democratic Party of Georgia",
+        "topic": "Democratic Party leadership in Georgia"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Defending the border; Defending Willis",
+        "descriptor": "attorney",
+        "topic": "Fani Willis, election conspiracy case, and motions to dismiss"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "bailey, charlie",
+        "source": "recipient",
+        "party": "200",
+        "state": "GA",
+        "seat": "state:office",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.432"
+      },
+      {
+        "matched_name": "bailey, charlie",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:office",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.784"
+      },
+      {
+        "matched_name": "bailey, charles curtis charlie",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:attorneyg",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.694"
+      }
+    ]
+  },
+  {
+    "guest_key": "jacobs|yolanda|yolanda",
+    "display_name": "Yolanda Jacobs",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "CDC Workers Caught in the Shutdown Crossfire",
+        "descriptor": "union leader representing CDC employees",
+        "topic": "federal government shutdown's impact on CDC workforce"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "jacobs, yolanda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.95"
+      },
+      {
+        "matched_name": "jacobs, yolanda d",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.677"
+      },
+      {
+        "matched_name": "jacobs, yolanda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "analysts",
+        "employer": "guaradian life insurance co",
+        "cfscore": "-1.151"
+      }
+    ]
+  },
+  {
+    "guest_key": "echols|timothy|tim",
+    "display_name": "Tim Echols",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Power Politics in Georgia\u2019s PSC Race",
+        "descriptor": "Republican incumbent",
+        "topic": "Public Service Commission race, energy rates, data centers, and rural solar"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Power Plays: Inside the PSC Race",
+        "descriptor": "District 2 Republican incumbent candidate, Commissioner",
+        "topic": "Georgia Power rate hikes, Plant Vogtle, and the future of energy regulation"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "echols, tim",
+        "source": "recipient",
+        "party": "200",
+        "state": "GA",
+        "seat": "state:office",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.193"
+      },
+      {
+        "matched_name": "echols, timothy guy",
+        "source": "recipient",
+        "party": "200",
+        "state": "GA",
+        "seat": "local:other",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.057"
+      }
+    ]
+  },
+  {
+    "guest_key": "kreis|anthony|anthony michael",
+    "display_name": "Anthony Michael Kreis",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Trump\u2019s National Guard Move Under Fire",
+        "descriptor": "Georgia State law professor",
+        "topic": "constitutionality of Trump's decision to activate the National Guard in Washington, D.C."
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Trump\u2019s Jan 6. pardons, Keisha Lance Bottoms\u2019 exit, and Doug Collins\u2019 VA hearing",
+        "descriptor": "Georgia State University law professor",
+        "topic": "sweeping pardons and the growing use of executive orders by presidents of both parties"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Newly unsealed filing highlights Georgia\u2019s role in case against Donald Trump",
+        "descriptor": "Georgia State University professor",
+        "topic": "2020 election conspiracy case against former President Donald Trump"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "kreis, anthony",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "mergers & acquisition manager",
+        "employer": "hdr inc",
+        "cfscore": "0.233"
+      },
+      {
+        "matched_name": "kreis, anthony",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "law professor",
+        "employer": "chicago kent college of law",
+        "cfscore": "-1.109"
+      },
+      {
+        "matched_name": "kreis, anthony",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "law professor",
+        "employer": "chicago kent college of law",
+        "cfscore": "-1.011"
+      },
+      {
+        "matched_name": "kreis, anthony",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.838"
+      }
+    ]
+  },
+  {
+    "guest_key": "pichardo|katherine|katherine",
+    "display_name": "Katherine Pichardo",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Shaping Georgia\u2019s Future: Schools and the Latino Vote",
+        "descriptor": "CEO of the Latino Victory Fund",
+        "topic": "Latino Victory Fund endorsement and Latino voters in Georgia politics"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "pichardo, katherine",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.077"
+      },
+      {
+        "matched_name": "pichardo, katherine",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "ADMINISTRATOR",
+        "employer": "COUNCIL MEMBER JOHN SABINI",
+        "cfscore": "-0.472"
+      }
+    ]
+  },
+  {
+    "guest_key": "dorian|jennifer|jennifer",
+    "display_name": "Jennifer Dorian",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Public Media Under Fire",
+        "descriptor": "WABE CEO",
+        "topic": "funding loss to public broadcasting stations in Georgia"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "dorian, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "senior",
+        "employer": "turner broadcasting co",
+        "cfscore": "-0.832"
+      },
+      {
+        "matched_name": "dorian, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "real estate agent",
+        "employer": "self",
+        "cfscore": "-0.873"
+      }
+    ]
+  },
+  {
+    "guest_key": "whitehead|samuel|sam",
+    "display_name": "Sam Whitehead",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "What Medicaid Cuts Could Mean for Georgia",
+        "descriptor": "Kaiser Family Foundation",
+        "topic": "Medicaid cuts and their impact on coverage"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "whitehead, samuel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "staff accountant",
+        "employer": "",
+        "cfscore": "0.763"
+      },
+      {
+        "matched_name": "whitehead, samuel d",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "laborer",
+        "employer": "asplundh",
+        "cfscore": "-0.655"
+      },
+      {
+        "matched_name": "whitehead, samuel w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "pipeline",
+        "employer": "",
+        "cfscore": "1.23"
+      },
+      {
+        "matched_name": "whitehead, sam",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manager government affairs",
+        "employer": "colonial pipeline co",
+        "cfscore": "0.837"
+      },
+      {
+        "matched_name": "whitehead, samuel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "-0.925"
+      },
+      {
+        "matched_name": "whitehead, sam",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.509"
+      },
+      {
+        "matched_name": "whitehead, samuel w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "public affairs mgr",
+        "employer": "colonial pipeline co",
+        "cfscore": "0.881"
+      },
+      {
+        "matched_name": "whitehead, samuel c",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "whitehead, sam",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "real estate development",
+        "employer": "cadence capital",
+        "cfscore": "-1.019"
+      },
+      {
+        "matched_name": "whitehead, samuel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "concept artist",
+        "employer": "gearbox software",
+        "cfscore": "-0.616"
+      },
+      {
+        "matched_name": "whitehead, samuel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "graduate research assistant",
+        "employer": "cornell university",
+        "cfscore": "-1.132"
+      },
+      {
+        "matched_name": "whitehead, samuel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "project manager",
+        "employer": "epic creative",
+        "cfscore": "-1.094"
+      },
+      {
+        "matched_name": "whitehead, sam",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "tree cutter",
+        "employer": "asplunge tree service",
+        "cfscore": "-0.545"
+      },
+      {
+        "matched_name": "whitehead, samuel p",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "educator",
+        "employer": "phoenix hight school",
+        "cfscore": "1.474"
+      },
+      {
+        "matched_name": "whitehead, sam",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "database coordinator",
+        "employer": "covenant health",
+        "cfscore": "-0.052"
+      }
+    ]
+  },
+  {
+    "guest_key": "chapman|leroy|leroy",
+    "display_name": "Leroy Chapman",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Josh McLaurin\u2019s Statewide Pitch",
+        "descriptor": "AJC editor-in-chief",
+        "topic": "World Press Freedom Day and challenges facing journalism in 2025"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "South Carolina U.S. Rep. James Clyburn says Haley is \u201coff ramp\u201d for anti-Trump GOP voters",
+        "descriptor": "Atlanta Journal-Constitution Editor-in-Chief",
+        "topic": "General discussion"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "A sit-down with The Atlanta Journal Constitution's Editor-in-Chief Leroy Chapman",
+        "descriptor": "Editor-in-Chief of The Atlanta Journal Constitution",
+        "topic": "Editorial leadership and journalism"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "chapman, bernard leroy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "chapman, roger leroy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.497"
+      }
+    ]
+  },
+  {
+    "guest_key": "dalton|martha|martha",
+    "display_name": "Martha Dalton",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Schools, Safety, and Shutdowns",
+        "descriptor": "AJC education reporter",
+        "topic": "Georgia education bills including school safety plan and cellphone ban for K-8 students, and impact of Trump's executive order to eliminate the U.S. Department of Education"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Jason Carter weighs options for statewide office, Georgia Democrats regroup after losses and the debate over education funding",
+        "descriptor": "AJC education reporter",
+        "topic": "whether legislators will take on the challenge of revising the state's 40-year-old funding formula for public schools"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Trump returns to his \u201cmust-win state\u201d Georgia after long absence",
+        "descriptor": "AJC education reporter",
+        "topic": "Apalachee High School students returning to class after a deadly shooting"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "dalton, martha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.665"
+      },
+      {
+        "matched_name": "dalton, martha m",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.919"
+      },
+      {
+        "matched_name": "dalton, martha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.007"
+      },
+      {
+        "matched_name": "dalton, martha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.551"
+      },
+      {
+        "matched_name": "dalton, martha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.493"
+      },
+      {
+        "matched_name": "dalton, martha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "",
+        "cfscore": "-0.261"
+      },
+      {
+        "matched_name": "dalton, martha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "producer",
+        "employer": "pba",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "dalton, martha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.979"
+      },
+      {
+        "matched_name": "dalton, martha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.044"
+      },
+      {
+        "matched_name": "dalton, martha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.41"
+      },
+      {
+        "matched_name": "dalton, martha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.026"
+      },
+      {
+        "matched_name": "dalton, martha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.966"
+      },
+      {
+        "matched_name": "dalton, martha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.881"
+      },
+      {
+        "matched_name": "dalton, martha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.004"
+      }
+    ]
+  },
+  {
+    "guest_key": "girtz|kelly|kelly",
+    "display_name": "Kelly Girtz",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Laken Riley Act to become law, Trump\u2019s use of power and Georgia voter trends",
+        "descriptor": "Athens Mayor",
+        "topic": "the Laken Riley Act and its impact on communities"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Can Georgia GOP candidates overcome voter anger over abortion restrictions?",
+        "descriptor": "Athens-Clarke County Mayor",
+        "topic": "Navigating political tumult following the killing of Laken Riley"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Athens mayor defends humanitarian approach to immigrant population; Warnock urges cease-fire between Israel and Hamas",
+        "descriptor": "Athens Mayor",
+        "topic": "Immigration enforcement and security measures in Athens following the death of nursing student Laken Riley"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "girtz, kelly",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teach",
+        "employer": "clarke county school district",
+        "cfscore": "-1.002"
+      },
+      {
+        "matched_name": "girtz, kelly",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "educator",
+        "employer": "clarke county sd",
+        "cfscore": "-0.913"
+      }
+    ]
+  },
+  {
+    "guest_key": "mallow|derek|derek",
+    "display_name": "Derek Mallow",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "ICE arrests in Georgia: Community impact, political reactions and legislative priorities",
+        "descriptor": "Savannah Senator",
+        "topic": "perspectives from coastal constituents and legislative priorities regarding Georgia's budget"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Savannah Democrats \u201cfired up\u201d about  Harris rally tonight",
+        "descriptor": "Savannah State Senator",
+        "topic": "Impact of Harris-Walz bus tour through South Georgia and Harris rally in Savannah"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Biden is gracious in Oval Office speech; Trump savages Kamala Harris",
+        "descriptor": "State Senator",
+        "topic": "President Biden's decision to end his reelection bid and reaction"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "mallow, derek j",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.063"
+      },
+      {
+        "matched_name": "mallow, derek",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.536"
+      }
+    ]
+  },
+  {
+    "guest_key": "hogan|samantha|samantha",
+    "display_name": "Samantha Hogan",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Immigration raids, order silences public health messaging, Atlanta police review failures",
+        "descriptor": "AJC investigative reporter",
+        "topic": "Atlanta police citizens review board failures to investigate officer misconduct"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hogan, samantha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.032"
+      },
+      {
+        "matched_name": "hogan, samantha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "solutions analyst",
+        "employer": "sidecar",
+        "cfscore": "-0.848"
+      },
+      {
+        "matched_name": "hogan, samantha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "coastal scapes llc",
+        "cfscore": "0.832"
+      },
+      {
+        "matched_name": "hogan, samantha",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "solution engineer",
+        "employer": "salesforce",
+        "cfscore": "-1.104"
+      }
+    ]
+  },
+  {
+    "guest_key": "hansen|zachary|zachary",
+    "display_name": "Zachary Hansen",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Trump\u2019s Immigration Shakeup, Georgia\u2019s EV Industry, and Doug Collins\u2019 VA Nomination",
+        "descriptor": "AJC's",
+        "topic": "Trump's promise to end Biden's electric vehicle mandate and its effect on Georgia's EV industry"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hansen, zachary j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.096"
+      },
+      {
+        "matched_name": "hansen, zachary j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.096"
+      },
+      {
+        "matched_name": "hansen, zachary j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "general business, vp of sales",
+        "employer": "silver bullet water treatment",
+        "cfscore": "-0.802"
+      },
+      {
+        "matched_name": "hansen, zachary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.142"
+      },
+      {
+        "matched_name": "hansen, zachary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "adminsitrative assistant",
+        "employer": "liccar",
+        "cfscore": "-1.055"
+      },
+      {
+        "matched_name": "hansen, zachary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "landscaper",
+        "employer": "robert hansen landscaping",
+        "cfscore": "0.683"
+      },
+      {
+        "matched_name": "hansen, zachary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "hansen, zachary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "wattel & york, llc",
+        "cfscore": "-1.358"
+      },
+      {
+        "matched_name": "hansen, zachary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "real estate",
+        "employer": "zj hansen inc",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "hansen, zachary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "eyelet apprentice",
+        "employer": "howards engineering",
+        "cfscore": "-0.699"
+      },
+      {
+        "matched_name": "hansen, zachary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "realtor",
+        "employer": "self employed",
+        "cfscore": "-0.895"
+      },
+      {
+        "matched_name": "hansen, zachary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "graduate student",
+        "employer": "university of nebraska omaha",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "hansen, zachary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "0.788"
+      }
+    ]
+  },
+  {
+    "guest_key": "king|bernice|bernice",
+    "display_name": "Dr. Bernice King",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Inauguration Day meets MLK Day: Trump\u2019s return and Georgia\u2019s role",
+        "descriptor": "daughter of Dr. Martin Luther King Jr.",
+        "topic": "the significance of this year's inauguration coinciding with the King holiday and her reflections on her father's legacy in today's political climate"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.119"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "library admin",
+        "employer": "symrise inc",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "hostess",
+        "employer": "chick fil a",
+        "cfscore": "-1.09"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.605"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "minister",
+        "employer": "church",
+        "cfscore": "-1.237"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.069"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "holistic educator",
+        "employer": "self employed",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "king, bernice s",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "1.443"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "Retired",
+        "employer": "",
+        "cfscore": "-0.893"
+      },
+      {
+        "matched_name": "king, bernice k",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "chiropractor",
+        "employer": "self",
+        "cfscore": "-0.047"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.311"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "-0.861"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "hr",
+        "employer": "mercedes benz of sugar land",
+        "cfscore": "-0.959"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.079"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.093"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.093"
+      },
+      {
+        "matched_name": "king, bernice",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.104"
+      }
+    ]
+  },
+  {
+    "guest_key": "jones|harold|harold",
+    "display_name": "Harold Jones",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Under the Gold Dome: Georgia\u2019s legislative session begins",
+        "descriptor": "Senate Minority Leader",
+        "topic": "Democratic priorities this session and how the party plans to recover after November's tough losses"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Senate GOP majority leaders says pocketbook issues will dominate session",
+        "descriptor": "newly-elected Senate Minority Leader",
+        "topic": "Democratic strategy for the upcoming session"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Colleagues erupt in anger as Marjorie Taylor Greene suffers stinging defeat in effort to oust speaker",
+        "descriptor": "Democratic state Sen.",
+        "topic": "Republican-led Senate committee investigation into Fulton County District Attorney Fani Willis"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "jones ii, harold v",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.369"
+      },
+      {
+        "matched_name": "jones, harold r",
+        "source": "recipient",
+        "party": "200",
+        "state": "ID",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.478"
+      },
+      {
+        "matched_name": "jones, harold e",
+        "source": "recipient",
+        "party": "100",
+        "state": "KY",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.322"
+      },
+      {
+        "matched_name": "jones, harold vernon ii",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.503"
+      },
+      {
+        "matched_name": "jones ii, harold v",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.369"
+      },
+      {
+        "matched_name": "jones, david harold",
+        "source": "recipient",
+        "party": "200",
+        "state": "WV",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "2.35"
+      }
+    ]
+  },
+  {
+    "guest_key": "au|michelle|michelle",
+    "display_name": "Michelle Au",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Previewing Georgia\u2019s 40-day legislative session under the Gold Dome",
+        "descriptor": "Democratic state Representative",
+        "topic": "Democratic Party priorities and vision following November's sweeping losses"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "The great divide: Apalachee mass shooting exposes differences between Democrats and GOP on gun safety",
+        "descriptor": "Democratic state Rep.",
+        "topic": "gun safety measures and tax breaks for gun safes"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Discussing women\u2019s reproductive freedom and access to IVF",
+        "descriptor": "state Rep., physician and advocate for women's health issues",
+        "topic": "reproductive freedom for women and access to IVF in the aftermath of the Alabama Supreme Court decision"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "au, michelle",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.88"
+      },
+      {
+        "matched_name": "au, michelle",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.88"
+      }
+    ]
+  },
+  {
+    "guest_key": "mccaffrey|shannon|shannon",
+    "display_name": "Shannon McCaffrey",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Will Fulton County's criminal case against Trump survive now that federal charges have been dropped?",
+        "descriptor": "AJC politics reporter",
+        "topic": "federal criminal charges against President-elect Donald Trump and Fulton County District Attorney Fani Willis' election-conspiracy case"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Judge gives Willis a choice: Dump Wade from the conspiracy case or give up Trump prosecution",
+        "descriptor": "Atlanta Journal-Constitution editor",
+        "topic": "Judge Scott McAfee's ruling on Fani Willis and the election interference case against Donald Trump"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Gun Tax Holiday, Georgia National Guard to southern border, Willis in jeopardy?",
+        "descriptor": "Atlanta Journal-Constitution editor",
+        "topic": "court hearing regarding Fani Willis and the election conspiracy case"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "mccaffrey, shannon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.419"
+      },
+      {
+        "matched_name": "mccaffrey, shannon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "americorps member",
+        "employer": "calserves",
+        "cfscore": "-1.03"
+      },
+      {
+        "matched_name": "mccaffrey, shannon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physical therapist assistant",
+        "employer": "select physical therapy",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "garrett|heath|heath",
+    "display_name": "Heath Garrett",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Georgia Democrats\u2019 vision, political civility, and Pelosi\u2019s lessons after election losses",
+        "descriptor": "political strategist",
+        "topic": "the legacy of his mentor, the late Senator Johnny Isakson, and whether Isakson's philosophy of political civility can thrive in today's polarized climate"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Can Georgia GOP candidates overcome voter anger over abortion restrictions?",
+        "descriptor": "Veteran Republican political consultant",
+        "topic": "GOP strategies to blunt the impact of overturning Roe v. Wade on Democratic voter turnout in key races"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "garrett, heath",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "chief of staff",
+        "employer": "office of senator isakson",
+        "cfscore": "1.102"
+      },
+      {
+        "matched_name": "garrett, heath",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "political adviser",
+        "employer": "johnny isakason campaign",
+        "cfscore": "1.265"
+      },
+      {
+        "matched_name": "garrett, heath",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "self employed",
+        "cfscore": "1.179"
+      },
+      {
+        "matched_name": "garrett, heath",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "partner",
+        "employer": "comm 360 llc",
+        "cfscore": "1.216"
+      }
+    ]
+  },
+  {
+    "guest_key": "holley|hillary|hillary",
+    "display_name": "Hillary Holley",
+    "examples": [
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "Trump\u2019s immigration policies, disillusioned Democrats and post-election organizing",
+        "descriptor": "activist, executive director of Care in Action",
+        "topic": "organizing strategies and rebuilding efforts after the election"
+      },
+      {
+        "show_name": "Politically Georgia",
+        "episode_title": "The 2024 agenda of the left and the right",
+        "descriptor": "Executive Director of Care in Action",
+        "topic": "2024 agenda from the left perspective"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "holley, hillary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "drew charles school",
+        "employer": "teacher",
+        "cfscore": "-0.979"
+      },
+      {
+        "matched_name": "holley, hillary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.869"
+      },
+      {
+        "matched_name": "holley, hillary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "vp of civic engagement",
+        "employer": "national domestic workers alliance",
+        "cfscore": "-0.937"
+      }
+    ]
+  }
+]
