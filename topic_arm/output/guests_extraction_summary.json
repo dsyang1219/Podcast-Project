@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-07-30T01:10:22.305193+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "n_episodes_processed": 100,
+  "n_episodes_total_corpus": 153194,
+  "pct_with_guests": 52.0,
+  "n_unique_guests_raw": 85,
+  "n_unique_guests_canonical": 85,
+  "tier_counts": {
+    "tier2_title": 3520,
+    "tier3_description": 4265,
+    "none": 11299,
+    "error": 1
+  },
+  "hosts_stripped": 254,
+  "evidence_dropped": 40,
+  "api_calls": 154,
+  "input_tokens": 109176,
+  "output_tokens": 7430,
+  "cost_this_run_usd": 0.1463,
+  "est_full_corpus_cost_usd": 251.87,
+  "n_shows_with_approved_tier1_pattern": 0
+}

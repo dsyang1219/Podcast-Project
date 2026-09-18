@@ -1,0 +1,90 @@
+show,extracted_host,match_confidence,is_candidate,candidate_cfscore,is_donor,donor_cfscore,donor_n_donations,donor_occupation_employer,notes
+Fox Across America w/ Jimmy Failla,Jimmy Failla,no_match,False,,False,,,,
+The Conversation with Dasha Burns,Dasha Burns,no_match,False,,False,,,,
+The Buck Sexton Show,Buck Sexton,no_match,False,,False,,,,
+The Michael Berry Show,Michael Berry,ambiguous,True,,True,,,"361 distinct same-name donors, 9 media-flagged","4 same-name candidates in DIME; 361 same-name donors in DIME, none uniquely media-flagged"
+The Pete Quiñones Show,Pete Quiñones,low_no_disambiguation,False,,True,1.282,1,president / metro amb,
+The Remnant with Jonah Goldberg,Jonah Goldberg,ambiguous,False,,True,,,"4 distinct same-name donors, 0 media-flagged","4 same-name donors in DIME, none uniquely media-flagged"
+GZERO World with Ian Bremmer,Ian Bremmer,low_no_disambiguation,False,,True,-0.808,5,president / eurasia group,
+All In with Chris Hayes,Chris Hayes,ambiguous,False,,True,,,"78 distinct same-name donors, 2 media-flagged","78 same-name donors in DIME, none uniquely media-flagged"
+The 11th Hour with Ali Velshi,Ali Velshi,no_match,False,,False,,,,
+The Peter McCormack Show,Peter McCormack,ambiguous,False,,True,,,"11 distinct same-name donors, 0 media-flagged","11 same-name donors in DIME, none uniquely media-flagged"
+The Beat with Ari Melber,Ari Melber,low_no_disambiguation,False,,True,-0.892,0,consultant / Westhill Partners,
+The Lars Larson Show Pacific Northwest Podcast,Lars Larson,high,False,,True,1.425,6,talk show host,
+The Ben Ferguson Podcast,Ben Ferguson,high,True,2.394,True,1.349,1,producer / chase creative,
+Runaway Country with Alex Wagner,Alex Wagner,ambiguous,False,,True,,,"27 distinct same-name donors, 0 media-flagged","27 same-name donors in DIME, none uniquely media-flagged"
+The Damage Report with John Iadarola,John Iadarola,ambiguous,False,,True,,,"4 distinct same-name donors, 0 media-flagged","4 same-name donors in DIME, none uniquely media-flagged"
+The Graham Allen Show,Graham Allen,high,True,1.615,True,,,"24 distinct same-name donors, 2 media-flagged","24 same-name donors in DIME, none uniquely media-flagged"
+The Al Franken Podcast,Al Franken,high,True,-1.114,True,,,"3 distinct same-name donors, 2 media-flagged","3 same-name donors in DIME, none uniquely media-flagged"
+Useful Idiots with Katie Halper and Aaron Maté,Katie Halper,low_no_disambiguation,False,,True,-1.076,4,,
+Useful Idiots with Katie Halper and Aaron Maté,Aaron Maté,low_no_disambiguation,False,,True,-0.939,6,,
+The Mona Charen Show,Mona Charen,high,False,,True,1.432,2,columnist / creators syndicate,
+Politics War Room with James Carville & Al Hunt,James Carville,ambiguous,False,,True,,,"5 distinct same-name donors, 0 media-flagged","5 same-name donors in DIME, none uniquely media-flagged"
+Politics War Room with James Carville & Al Hunt,Al Hunt,ambiguous,False,,True,,,"9 distinct same-name donors, 0 media-flagged","9 same-name donors in DIME, none uniquely media-flagged"
+The Reason Interview With Nick Gillespie,Nick Gillespie,ambiguous,False,,True,,,"3 distinct same-name donors, 0 media-flagged","3 same-name donors in DIME, none uniquely media-flagged"
+Timothy Gordon Rules for Retrogrades Podcast,Timothy Gordon,conflicting_evidence,True,-0.692,True,1.659,1,author / self employed,"candidate cfscore (-0.69) and donor cfscore (+1.66) have opposite signs -- likely two different people, do not use"
+John Solomon Reports,John Solomon,ambiguous,False,,True,,,"81 distinct same-name donors, 3 media-flagged","81 same-name donors in DIME, none uniquely media-flagged"
+Verdict with Ted Cruz,Ted Cruz,high,True,1.52,True,,,"13 distinct same-name donors, 0 media-flagged","13 same-name donors in DIME, none uniquely media-flagged"
+Making the Argument with Nick Freitas,Nick Freitas,high,True,1.451,True,1.665,2,us senate / candidate,
+No Lie with Brian Tyler Cohen,Brian Tyler Cohen,ambiguous,False,,True,,,"138 distinct same-name donors, 3 media-flagged","138 same-name donors in DIME, none uniquely media-flagged"
+The Hugh Hewitt Show: Highly Concentrated,Hugh Hewitt,high,False,,True,1.132,67,underwriter,
+Impolitic with John Heilemann,John Heilemann,high,False,,True,-0.872,2,journalist / john heilemann,
+The Dishcast with Andrew Sullivan,Andrew Sullivan,ambiguous,True,,True,,,"147 distinct same-name donors, 6 media-flagged","2 same-name candidates in DIME; 147 same-name donors in DIME, none uniquely media-flagged"
+Cleanup on Aisle 45 with AG & Harry Dunn,Harry Dunn,high,True,-1.054,True,,,"32 distinct same-name donors, 0 media-flagged","32 same-name donors in DIME, none uniquely media-flagged"
+The Drill Down with Peter Schweizer,Peter Schweizer,high,False,,True,0.849,6,writer,
+MOATS with George Galloway,George Galloway,ambiguous,False,,True,,,"34 distinct same-name donors, 0 media-flagged","34 same-name donors in DIME, none uniquely media-flagged"
+The Victor Davis Hanson Show,Victor Davis Hanson,high,False,,True,1.373,42,birmingham news / birmingham news,
+Firing Line with Margaret Hoover,Margaret Hoover,ambiguous,False,,True,,,"35 distinct same-name donors, 2 media-flagged","35 same-name donors in DIME, none uniquely media-flagged"
+Human Events Daily with Jack Posobiec,Jack Posobiec,no_match,False,,False,,,,
+The Josh Hammer Show,Josh Hammer,ambiguous,False,,True,,,"8 distinct same-name donors, 2 media-flagged","8 same-name donors in DIME, none uniquely media-flagged"
+Mark Kaye Saves The Republic,Mark Kaye,high,True,0.976,True,1.427,1,broadcasting,
+Countdown with Keith Olbermann,Keith Olbermann,low_no_disambiguation,False,,True,-1.014,1,not employed / not employed,
+Antiwar News With Dave DeCamp,Dave DeCamp,ambiguous,False,,True,,,"2 distinct same-name donors, 0 media-flagged","2 same-name donors in DIME, none uniquely media-flagged"
+The Chris Cuomo Project,Chris Cuomo,ambiguous,False,,True,,,"2 distinct same-name donors, 0 media-flagged","2 same-name donors in DIME, none uniquely media-flagged"
+The Coffee Klatch with Robert Reich,Robert Reich,high,True,-0.868,True,,,"61 distinct same-name donors, 0 media-flagged","61 same-name donors in DIME, none uniquely media-flagged"
+Fast Politics with Molly Jong-Fast,Molly Jong-Fast,no_match,False,,False,,,,
+Wendy Bell Radio Podcast,Wendy Bell,ambiguous,False,,True,,,"41 distinct same-name donors, 0 media-flagged","41 same-name donors in DIME, none uniquely media-flagged"
+Stay Free with Russell Brand,Russell Brand,ambiguous,False,,True,,,"7 distinct same-name donors, 0 media-flagged","7 same-name donors in DIME, none uniquely media-flagged"
+The Kyle Seraphin Show,Kyle Seraphin,no_match,False,,False,,,,
+Defending Democracy with Marc Elias,Marc Elias,ambiguous,False,,True,,,"7 distinct same-name donors, 0 media-flagged","7 same-name donors in DIME, none uniquely media-flagged"
+System Update with Glenn Greenwald,Glenn Greenwald,low_no_disambiguation,False,,True,-1.107,1,attorney / greenwald christoph pc,
+Maiden Mother Matriarch with Louise Perry,Louise Perry,ambiguous,False,,True,,,"26 distinct same-name donors, 0 media-flagged","26 same-name donors in DIME, none uniquely media-flagged"
+The Warning with Steve Schmidt,Steve Schmidt,high,True,-0.66,True,,,"117 distinct same-name donors, 0 media-flagged","117 same-name donors in DIME, none uniquely media-flagged"
+The Briefing with Jen Psaki,Jen Psaki,low_no_disambiguation,False,,True,-0.84,6,communications / evergreen consulting llc,
+What Really Matters with Walter Russell Mead,Walter Russell Mead,ambiguous,False,,True,,,"13 distinct same-name donors, 0 media-flagged","13 same-name donors in DIME, none uniquely media-flagged"
+The Source with Kaitlan Collins,Kaitlan Collins,no_match,False,,False,,,,
+The Tony Kinnett Cast,Tony Kinnett,no_match,False,,False,,,,
+The Illegal News with Sarah Longwell,Sarah Longwell,ambiguous,False,,True,,,"2 distinct same-name donors, 0 media-flagged","2 same-name donors in DIME, none uniquely media-flagged"
+THE DAILY BLAST with Greg Sargent,Greg Sargent,ambiguous,False,,True,,,"4 distinct same-name donors, 0 media-flagged","4 same-name donors in DIME, none uniquely media-flagged"
+Raging Moderates with Scott Galloway and Jessica Tarlov,Scott Galloway,ambiguous,False,,True,,,"26 distinct same-name donors, 0 media-flagged","26 same-name donors in DIME, none uniquely media-flagged"
+Raging Moderates with Scott Galloway and Jessica Tarlov,Jessica Tarlov,low_no_disambiguation,False,,True,-0.953,15,strategist / schoen consulting,
+The Mary Trump Podcast,Mary Trump,ambiguous,False,,True,,,"12 distinct same-name donors, 0 media-flagged","12 same-name donors in DIME, none uniquely media-flagged"
+It's A Numbers Game with Ryan Girdusky,Ryan Girdusky,ambiguous,False,,True,,,"3 distinct same-name donors, 0 media-flagged","3 same-name donors in DIME, none uniquely media-flagged"
+The 47 Morning Update with Ben Ferguson,Ben Ferguson,high,True,2.394,True,1.349,1,producer / chase creative,
+The Jim Acosta Show,Jim Acosta,low_no_disambiguation,False,,True,-0.293,2,dir ethics & gov,
+Going Rogue with Lara Logan,Lara Logan,high,False,,True,1.659,1,journalist / self employed,
+The Keith Edwards Show,Keith Edwards,ambiguous,True,,True,,,"101 distinct same-name donors, 3 media-flagged","2 same-name candidates in DIME; 101 same-name donors in DIME, none uniquely media-flagged"
+Next Up with Mark Halperin,Mark Halperin,ambiguous,False,,True,,,"11 distinct same-name donors, 0 media-flagged","11 same-name donors in DIME, none uniquely media-flagged"
+The Joy Reid Show,Joy Reid,ambiguous,False,,True,,,"11 distinct same-name donors, 0 media-flagged","11 same-name donors in DIME, none uniquely media-flagged"
+Glenn Diesen - Greater Eurasia Podcast,Glenn Diesen,no_match,False,,False,,,,
+The Moment with Jorge Ramos and Paola Ramos,Jorge Ramos,ambiguous,False,,True,,,"64 distinct same-name donors, 2 media-flagged","64 same-name donors in DIME, none uniquely media-flagged"
+The Moment with Jorge Ramos and Paola Ramos,Paola Ramos,high,False,,True,-1.015,1,social strategist / horizon media,
+What's The Plan? with Leah Greenberg and Ezra Levin,Leah Greenberg,ambiguous,False,,True,,,"13 distinct same-name donors, 0 media-flagged","13 same-name donors in DIME, none uniquely media-flagged"
+What's The Plan? with Leah Greenberg and Ezra Levin,Ezra Levin,ambiguous,False,,True,,,"7 distinct same-name donors, 0 media-flagged","7 same-name donors in DIME, none uniquely media-flagged"
+The Harry Sisson Show,Harry Sisson,ambiguous,False,,True,,,"3 distinct same-name donors, 0 media-flagged","3 same-name donors in DIME, none uniquely media-flagged"
+Hope For America with Heather Delaney Reese,Heather Delaney Reese,ambiguous,False,,True,,,"11 distinct same-name donors, 0 media-flagged","11 same-name donors in DIME, none uniquely media-flagged"
+Paul Krugman Podcast,Paul Krugman,low_no_disambiguation,False,,True,-0.828,6,,
+The Kyle Kulinski Show,Kyle Kulinski,low_no_disambiguation,False,,True,-0.943,4,self,
+Sidebar with Katie Phang,Katie Phang,ambiguous,False,,True,,,"2 distinct same-name donors, 0 media-flagged","2 same-name donors in DIME, none uniquely media-flagged"
+Brian Tyler Cohen,Brian Tyler Cohen,ambiguous,False,,True,,,"138 distinct same-name donors, 3 media-flagged","138 same-name donors in DIME, none uniquely media-flagged"
+Brian Kilmeade Show,Brian Kilmeade,low_no_disambiguation,False,,True,1.659,2,,
+"The Bob Cesca Show | Politics Podcast, News & Commentary",Bob Cesca,ambiguous,False,,True,,,"2 distinct same-name donors, 0 media-flagged","2 same-name donors in DIME, none uniquely media-flagged"
+The David Pakman Show,David Pakman,ambiguous,False,,True,,,"3 distinct same-name donors, 0 media-flagged","3 same-name donors in DIME, none uniquely media-flagged"
+The Majority Report with Sam Seder,Sam Seder,no_match,False,,False,,,,
+Scott Horton Show - Just the Interviews,Scott Horton,high,False,,True,1.125,4,radio host / self,
+The Tom Woods Show,Tom Woods,ambiguous,True,,True,,,"53 distinct same-name donors, 0 media-flagged","4 same-name candidates in DIME; 53 same-name donors in DIME, none uniquely media-flagged"
+The Brian Lehrer Show,Brian Lehrer,ambiguous,False,,True,,,"4 distinct same-name donors, 0 media-flagged","4 same-name donors in DIME, none uniquely media-flagged"
+NBC Nightly News with Tom Llamas,Tom Llamas,no_match,False,,False,,,,
+Face the Nation with Margaret Brennan,Margaret Brennan,ambiguous,False,,True,,,"89 distinct same-name donors, 2 media-flagged","89 same-name donors in DIME, none uniquely media-flagged"
+This Week with George Stephanopoulos,George Stephanopoulos,ambiguous,False,,True,,,"4 distinct same-name donors, 0 media-flagged","4 same-name donors in DIME, none uniquely media-flagged"
+Conversations with Bill Kristol,Bill Kristol,no_match,False,,False,,,,

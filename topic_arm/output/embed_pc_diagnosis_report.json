@@ -1,0 +1,128 @@
+{
+  "generated_at": "2026-07-31T05:59:59.356761+00:00",
+  "target_words": 500,
+  "n_pcs": 10,
+  "k_topics": 75,
+  "n_folds": 10,
+  "n_matched_chunks": 40242,
+  "per_pc": [
+    {
+      "pc": "PC1",
+      "n": 40242,
+      "var_explained_pct": 9.391108512878418,
+      "register_only_r2": 0.26672887680498447,
+      "topics_only_r2": 0.7469140346086278,
+      "topics_only_perm_r2": -0.0020060769040808335,
+      "register_plus_topics_r2": 0.7768137308239829,
+      "register_plus_topics_perm_r2": -0.0021639491825669044,
+      "between_show_eta2": 0.37165451443002967
+    },
+    {
+      "pc": "PC2",
+      "n": 40242,
+      "var_explained_pct": 7.434131145477295,
+      "register_only_r2": 0.21076403175765224,
+      "topics_only_r2": 0.7346714815430713,
+      "topics_only_perm_r2": -0.0019433054765198854,
+      "register_plus_topics_r2": 0.7682288357148482,
+      "register_plus_topics_perm_r2": -0.0022394672359256074,
+      "between_show_eta2": 0.4147260224037331
+    },
+    {
+      "pc": "PC3",
+      "n": 40242,
+      "var_explained_pct": 6.275928497314453,
+      "register_only_r2": 0.13593309792924035,
+      "topics_only_r2": 0.7167184260462576,
+      "topics_only_perm_r2": -0.0020495385470598038,
+      "register_plus_topics_r2": 0.7333508575474351,
+      "register_plus_topics_perm_r2": -0.0020532212250119475,
+      "between_show_eta2": 0.2714666191994794
+    },
+    {
+      "pc": "PC4",
+      "n": 40242,
+      "var_explained_pct": 4.76068115234375,
+      "register_only_r2": 0.28300421475973936,
+      "topics_only_r2": 0.6790180837010449,
+      "topics_only_perm_r2": -0.002069701106216737,
+      "register_plus_topics_r2": 0.7272097977350718,
+      "register_plus_topics_perm_r2": -0.002217831037434337,
+      "between_show_eta2": 0.30310152870624957
+    },
+    {
+      "pc": "PC5",
+      "n": 40242,
+      "var_explained_pct": 4.394955158233643,
+      "register_only_r2": 0.15158967380792,
+      "topics_only_r2": 0.6578944502966714,
+      "topics_only_perm_r2": -0.002496837990844547,
+      "register_plus_topics_r2": 0.6795221144485625,
+      "register_plus_topics_perm_r2": -0.0027832401325837974,
+      "between_show_eta2": 0.25566345306729316
+    },
+    {
+      "pc": "PC6",
+      "n": 40242,
+      "var_explained_pct": 3.1750009059906006,
+      "register_only_r2": 0.12814812878273907,
+      "topics_only_r2": 0.5596940381640559,
+      "topics_only_perm_r2": -0.0018925136676086751,
+      "register_plus_topics_r2": 0.600823250984247,
+      "register_plus_topics_perm_r2": -0.0021129047273316104,
+      "between_show_eta2": 0.19453355556783403
+    },
+    {
+      "pc": "PC7",
+      "n": 40242,
+      "var_explained_pct": 2.6782236099243164,
+      "register_only_r2": 0.09979307131637238,
+      "topics_only_r2": 0.533567528257957,
+      "topics_only_perm_r2": -0.0021192013665181086,
+      "register_plus_topics_r2": 0.5561628868043413,
+      "register_plus_topics_perm_r2": -0.0022251727153348444,
+      "between_show_eta2": 0.24755591573368835
+    },
+    {
+      "pc": "PC8",
+      "n": 40242,
+      "var_explained_pct": 2.365933895111084,
+      "register_only_r2": 0.18149880659632045,
+      "topics_only_r2": 0.497969662668473,
+      "topics_only_perm_r2": -0.0016812623734325793,
+      "register_plus_topics_r2": 0.560695646066909,
+      "register_plus_topics_perm_r2": -0.0017928580779265069,
+      "between_show_eta2": 0.20522893532198674
+    },
+    {
+      "pc": "PC9",
+      "n": 40242,
+      "var_explained_pct": 2.358466625213623,
+      "register_only_r2": 0.09699793142045143,
+      "topics_only_r2": 0.5225859520193191,
+      "topics_only_perm_r2": -0.002408493076095919,
+      "register_plus_topics_r2": 0.5478674307068568,
+      "register_plus_topics_perm_r2": -0.0026263719332599855,
+      "between_show_eta2": 0.2644917470766732
+    },
+    {
+      "pc": "PC10",
+      "n": 40242,
+      "var_explained_pct": 1.9655470848083496,
+      "register_only_r2": 0.15705694468992892,
+      "topics_only_r2": 0.399555290783175,
+      "topics_only_perm_r2": -0.0022606068269370727,
+      "register_plus_topics_r2": 0.5232838456272082,
+      "register_plus_topics_perm_r2": -0.0024880023060149803,
+      "between_show_eta2": 0.17798200354452
+    }
+  ],
+  "column_averages": {
+    "var_explained_pct": 4.479997658729554,
+    "register_only_r2": 0.1711514777865349,
+    "topics_only_r2": 0.6048588948088652,
+    "register_plus_topics_r2": 0.6473958396459463,
+    "between_show_eta2": 0.27064042950514866
+  },
+  "verdict": "TOPIC: the embedding space is substantially topic-organized -- average topics-only CV R2=0.605 across the top 10 PCs clears the 0.4 bar. This explains why register features failed: the dominant PCs are mostly 'what they talk about,' not 'how they talk.'"
+}

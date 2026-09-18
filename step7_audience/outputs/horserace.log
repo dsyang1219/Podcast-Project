@@ -1,0 +1,24 @@
+1,366,988 passages, 219 shows
+merged 194 shows | game-frame rate per 10k words: median 28.4, IQR [22.4,35.7]
+
+=== A. Is directive register the same thing as horse-race / strategy framing? (show level) ===
+  dir_z vs horse-race subframe    r=+0.090 (p=0.2116)  rho=+0.104
+  dir_z vs strategy subframe      r=-0.261 (p=0.0002)  rho=-0.244
+  dir_z vs combined game frame    r=-0.038 (p=0.5958)  rho=-0.033
+
+=== B. Is game framing partisan? ===
+  game frame   vs DIME r=-0.002  vs LLM side r=-0.088
+  horse race   vs DIME r=+0.101  vs LLM side r=-0.018
+  strategy     vs DIME r=-0.198  vs LLM side r=-0.194
+
+=== C. Does game framing explain the directive -> audience results? (Kettering strict, ideology controls) ===
+  institutional cynicism (n=306):
+    directive alone      b=+0.199 p=0.0001
+    game frame alone     b=-0.130 p=0.0004
+    both: directive      b=+0.164 p=0.0006   game frame b=-0.074 p=0.0203
+  audience exclusivity (n=312):
+    directive alone      b=+0.127 p=0.0030
+    game frame alone     b=-0.133 p=0.0000
+    both: directive      b=+0.077 p=0.0431   game frame b=-0.107 p=0.0002
+
+(analytic clustered p shown for screening; treat as ~1.5x optimistic per the CR2 results)

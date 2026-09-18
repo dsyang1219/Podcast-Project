@@ -1,0 +1,124 @@
+# Sponsor / brand / podcast-meta stoplist
+#
+# Purpose: the contamination dropout probe (nlp/contamination_dropout_probe.py)
+# found that ad-sponsor + podcast-meta + Spanish-ad topics are LOAD-BEARING
+# for the ideology R^2 (dropping them post hoc moved R2 from 0.451 to 0.395),
+# consistent with an advertising-economics confound: which sponsors/networks
+# a show carries correlates with its audience's ideology, independent of the
+# show's actual political content. This list removes the ad-READ content
+# itself (brand names, ad-structural phrases, outro boilerplate) so the
+# refit isn't learning "which ads run on this show" as a proxy for ideology.
+#
+# PRECISION RULE (see nlp/build_sponsor_stoplist.py validation output):
+# brand names and ad-structural phrases ONLY. Product CATEGORIES that are
+# also legitimate political subjects (gold, bitcoin, crypto, insurance,
+# health) are deliberately NOT here -- removing them would strip real
+# content, not just the ad copy wrapped around it.
+#
+# Two kinds of entries:
+#   - lines with no spaces: single tokens, added to the stopword-removal
+#     set during tokenization (same mechanism as spoken_stopwords.txt).
+#   - lines with spaces: multi-word phrases, removed from the RAW TEXT via
+#     case-insensitive substring match BEFORE tokenization (so "use code"
+#     doesn't survive as separate "use" + "code" tokens after stopword
+#     removal drops "use" but leaves "code" clustering with the next brand
+#     name).
+#
+# Every entry below was frequency-validated against the full 40,242-passage
+# corpus before inclusion (see nlp/build_sponsor_stoplist.py) -- included
+# only if its usage was overwhelmingly ad-context, not incidental.
+
+# ---- brand names (single token, validated low-collision) ----
+quince
+shopify
+kalshi
+duracell
+clorox
+seafoam
+groons
+nbc
+
+# ---- brand names (multi-word phrase, single-word form too ambiguous) ----
+mint mobile
+delta air
+
+# ---- ad-structural phrases ----
+.com slash
+dot com slash
+promo code
+use code
+brought to you by
+this episode is sponsored
+sponsored by
+for a limited time
+terms apply
+terms and conditions apply
+free shipping
+percent off
+% off
+
+# ---- podcast-meta / outro phrases ----
+thanks for listening
+rate and review
+leave a review
+new episodes every
+wherever you get your podcasts
+link in the description
+hit subscribe
+today's episode is brought to you
+
+# ============================================================
+# BORDERLINE -- CONSIDERED AND EXCLUDED (documented, not applied)
+# ============================================================
+# Each of these appeared in a hand-flagged ad/meta topic's top-10 words but
+# failed the frequency/collision validation below. Listed here so the
+# exclusion is auditable, not silent.
+#
+#   lincoln       -- 957 hits (2.4% of passages), but "lincoln financial"
+#                    (the actual sponsor phrase) appears only ONCE. The
+#                    overwhelming majority of "lincoln" mentions are almost
+#                    certainly Abraham Lincoln or THE LINCOLN PROJECT (a
+#                    real anti-Trump political organization) -- stoplisting
+#                    this would have been a serious false positive.
+#   delta         -- 314 hits (0.8%) bare vs. 109 for "delta air" specifically;
+#                    most "delta" mentions are not the airline sponsor
+#                    (COVID Delta variant, "delta" as change, etc.). Used
+#                    the phrase "delta air" instead of the bare token.
+#   yorker        -- 912 hits (2.3%) bare vs. 9 for "new yorker magazine".
+#                    "The New Yorker" is a legitimate media outlet that gets
+#                    discussed as CONTENT (its journalism, its writers), not
+#                    just advertised -- too content-adjacent to stoplist.
+#   monarch       -- 461 hits (1.1%) bare vs. 0 for "monarch money" (the
+#                    sponsor's actual name never appears verbatim) --
+#                    whatever "monarch" is being used for in this corpus,
+#                    it isn't reliably the sponsor.
+#   tom           -- 29.5% of passages contain "tom" as a substring --
+#                    absurdly overbroad (common first name incl. real
+#                    political figures, e.g. Sen. Tom Cotton).
+#   atlanta       -- 1.3% of passages; a real US city with real political
+#                    content (elections, state politics). Not stoplisted.
+#   georgia       -- 4.3% of passages; a real US state with heavy genuine
+#                    political content (Senate races, 2020/2024 election
+#                    disputes). Not stoplisted.
+#   armstrong,    -- generic surnames (podcast co-host/guest names on some
+#   getty, buck,     shows) that risk colliding with real political figures
+#   peter            (e.g. "Buck" = Buck Sexton, a real conservative host).
+#                    Left unaddressed by this stoplist; if these persist as
+#                    their own topics after refitting, that's a sign of a
+#                    genuine show-specific-banter topic, not solvable by a
+#                    brand stoplist without over-reach.
+#   go to         -- 31.9% of passages ("go to war", "go to the polls", ...).
+#                    Far too generic despite also appearing in ad reads
+#                    ("go to quince.com").
+#   check out     -- 3.4% of passages, same over-broad problem.
+#   subscribe     -- 7.4% of passages bare; kept only in the anchored phrase
+#                    "hit subscribe" rather than as a standalone token.
+#   according to  -- appears constitutively in news-wire-quote-boilerplate
+#                    topics (e.g. moderate regime's T45) but is also
+#                    extremely common in ordinary substantive reporting
+#                    ("according to the CBO...", "according to the poll...").
+#                    Removing it corpus-wide would strip real content far
+#                    more than it strips boilerplate. T45-style topics are
+#                    expected to persist after cleaning as a known,
+#                    documented limitation -- not solvable by vocabulary
+#                    removal without unacceptable collateral damage.

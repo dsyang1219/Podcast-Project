@@ -1,0 +1,15 @@
+chunked: 447 episodes, 54,671 passages {'beck': 45, 'bongino': 47, 'kelly': 41, 'kirk': 46, 'parnas': 44, 'rogan': 48, 'ryan': 46, 'shapiro': 42, 'thedaily': 44, 'tucker': 44}
+features: 54,439 passages in 69s
+
+=== FINAL holdout show scores (corpus scale) ===
+         show_id  episodes  passages  imper_syn  imper_rx  you_rx  you_declar  dir_z  dir_z_declar  fmt_pos
+ HOLDOUT_bongino        47      5172        109        36     371         256  +2.35         +2.59    +0.02
+    HOLDOUT_beck        45      4816         91        29     310         225  +1.26         +1.60    +0.00
+   HOLDOUT_rogan        48     11384         75        33     318         219  +1.21         +1.46    -0.08
+    HOLDOUT_ryan        46     12085         64        26     325         195  +0.67         +0.63    +0.15
+    HOLDOUT_kirk        46      4827         76        25     291         197  +0.63         +0.84    -0.04
+  HOLDOUT_tucker        44      5745         57        24     286         182  +0.19         +0.29    -0.13
+  HOLDOUT_parnas        44      1099         69        24     198         112  -0.15         -0.14    -0.58
+HOLDOUT_thedaily        44      2096         62        21     220         127  -0.29         -0.27    -0.06
+   HOLDOUT_kelly        41      3505         62        21     187         126  -0.50         -0.28    +0.29
+ HOLDOUT_shapiro        42      3710         57        20     210         151  -0.52         -0.21    +0.02

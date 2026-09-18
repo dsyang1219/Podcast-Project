@@ -1,0 +1,13 @@
+[2026-09-15T18:17:40Z] shard2: adopting running tagger pid=916127
+[2026-09-15T18:17:40Z] shard1: adopting running tagger pid=916125
+[2026-09-15T18:17:40Z] shard3: adopting running tagger pid=916128
+[2026-09-15T18:17:40Z] shard0: adopting running tagger pid=916123
+[2026-09-16T04:08:43Z] shard0: tagger pid=916123 exited
+[2026-09-16T04:08:43Z] shard0: FINISHED (data/output/mfte_corpus/shard0_MFTE/Statistics/counts_raw.csv)
+[2026-09-16T04:09:13Z] shard2: tagger pid=916127 exited
+[2026-09-16T04:09:13Z] shard2: FINISHED (data/output/mfte_corpus/shard2_MFTE/Statistics/counts_raw.csv)
+[2026-09-16T04:09:43Z] shard1: tagger pid=916125 exited
+[2026-09-16T04:09:43Z] shard1: FINISHED (data/output/mfte_corpus/shard1_MFTE/Statistics/counts_raw.csv)
+[2026-09-16T04:10:13Z] shard3: tagger pid=916128 exited
+[2026-09-16T04:10:13Z] shard3: FINISHED (data/output/mfte_corpus/shard3_MFTE/Statistics/counts_raw.csv)
+[2026-09-16T04:11:42Z] all 4 shards finished

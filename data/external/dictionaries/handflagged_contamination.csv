@@ -1,0 +1,19 @@
+topic_id,category,reason
+4,filler,generic discourse (weird/yes/bit/guess) -- words outside the curated filler list
+18,meta_boilerplate,podcast outro/thank-you boilerplate
+19,ad_sponsor,ad-read (Quince sponsor copy)
+23,meta_boilerplate,podcast-meta / show-specific banter
+25,filler,generic narrative/anecdote filler
+32,ad_sponsor,ad-read (supplement/vitamin sponsor)
+35,ad_sponsor,ad-read + podcast-meta mix (Delta sponsor lead)
+37,profanity_register,profanity-dominated (fucking/shit/fuck) -- only 3/10 hit the strict list; under the 50% threshold
+45,meta_boilerplate,news-wire quote boilerplate
+52,ad_sponsor,ad-read (gold/crypto sponsor) mixed with real finance content -- the gold/bitcoin/crypto topic; see special T52 with/without check
+55,ad_sponsor,ad-read (Shopify/Mint Mobile/Monarch sponsors)
+56,filler,generic discourse/hedging -- no topic
+57,meta_boilerplate,podcast outro/intro boilerplate
+61,filler,generic narrative/timeline -- no clear topic
+64,meta_boilerplate,news-show segment intro/meta
+66,spanish_ad,Spanish-language ad copy (Duracell/Clorox)
+67,filler,generic conversational hedging
+71,ad_sponsor,ad-read (Kalshi/mobile promo)

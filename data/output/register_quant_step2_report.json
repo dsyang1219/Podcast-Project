@@ -1,0 +1,170 @@
+{
+  "generated_at": "2026-07-31T05:38:50.088282+00:00",
+  "target_words": 500,
+  "n_pcs": 10,
+  "n_folds": 10,
+  "features": [
+    "citation_density",
+    "abstraction",
+    "present_tense_news_markers",
+    "entity_mix",
+    "sentence_complexity",
+    "first_vs_third_person"
+  ],
+  "register_high_r2_threshold": 0.3,
+  "n_matched_chunks": 40242,
+  "per_pc": [
+    {
+      "pc": "PC1",
+      "n": 40242,
+      "cv_r2": 0.26672887680498447,
+      "permutation_r2": -0.0003686239896965038,
+      "standardized_coefficients": {
+        "citation_density": 0.0169648804434156,
+        "abstraction": 0.021503661137953312,
+        "present_tense_news_markers": 0.01490623221176037,
+        "entity_mix": 0.010636274538019129,
+        "sentence_complexity": 0.031160882841877274,
+        "first_vs_third_person": -0.023513076197245568
+      },
+      "register_explained": false
+    },
+    {
+      "pc": "PC2",
+      "n": 40242,
+      "cv_r2": 0.21076403175765224,
+      "permutation_r2": -0.0001468808910971564,
+      "standardized_coefficients": {
+        "citation_density": -0.027953915525633,
+        "abstraction": 0.0003420129457871202,
+        "present_tense_news_markers": -0.00035228571722633445,
+        "entity_mix": 0.008120631122937998,
+        "sentence_complexity": 0.008523817812978701,
+        "first_vs_third_person": 0.020388315301706306
+      },
+      "register_explained": false
+    },
+    {
+      "pc": "PC3",
+      "n": 40242,
+      "cv_r2": 0.13593309792924035,
+      "permutation_r2": -0.00022302246066541187,
+      "standardized_coefficients": {
+        "citation_density": -0.01237973471747686,
+        "abstraction": 0.01324619370849188,
+        "present_tense_news_markers": -0.0009411482476255618,
+        "entity_mix": 0.006738718302062005,
+        "sentence_complexity": 0.007790303521986305,
+        "first_vs_third_person": 0.01293494745546779
+      },
+      "register_explained": false
+    },
+    {
+      "pc": "PC4",
+      "n": 40242,
+      "cv_r2": 0.28300421475973936,
+      "permutation_r2": -0.00027996010650199743,
+      "standardized_coefficients": {
+        "citation_density": 0.0038476306510364404,
+        "abstraction": 0.028344433777780734,
+        "present_tense_news_markers": -0.008725816556335588,
+        "entity_mix": -0.0152135879799882,
+        "sentence_complexity": 0.007855133394030612,
+        "first_vs_third_person": -0.007539520102154786
+      },
+      "register_explained": false
+    },
+    {
+      "pc": "PC5",
+      "n": 40242,
+      "cv_r2": 0.15158967380792,
+      "permutation_r2": -1.1242560598034856e-05,
+      "standardized_coefficients": {
+        "citation_density": -0.005911874333120152,
+        "abstraction": 0.0035639931648586568,
+        "present_tense_news_markers": -0.009684046803022114,
+        "entity_mix": 0.00883809912745749,
+        "sentence_complexity": 0.015554424195676327,
+        "first_vs_third_person": -0.007328135352155948
+      },
+      "register_explained": false
+    },
+    {
+      "pc": "PC6",
+      "n": 40242,
+      "cv_r2": 0.12814812878273907,
+      "permutation_r2": -3.10779240830783e-05,
+      "standardized_coefficients": {
+        "citation_density": 0.00269275735047601,
+        "abstraction": 0.015174564067941945,
+        "present_tense_news_markers": -0.004366921836384285,
+        "entity_mix": -0.0012858958999976177,
+        "sentence_complexity": 0.004012290229378803,
+        "first_vs_third_person": -0.011174241565457191
+      },
+      "register_explained": false
+    },
+    {
+      "pc": "PC7",
+      "n": 40242,
+      "cv_r2": 0.09979307131637238,
+      "permutation_r2": -0.00020835104821381734,
+      "standardized_coefficients": {
+        "citation_density": 0.015329363230169401,
+        "abstraction": -0.00467867026847006,
+        "present_tense_news_markers": -0.0011607485679279448,
+        "entity_mix": 0.0019342191071505409,
+        "sentence_complexity": 0.0001114248875518842,
+        "first_vs_third_person": 0.0001515680821284993
+      },
+      "register_explained": false
+    },
+    {
+      "pc": "PC8",
+      "n": 40242,
+      "cv_r2": 0.18149880659632045,
+      "permutation_r2": -0.0001782319524503695,
+      "standardized_coefficients": {
+        "citation_density": -0.0012772087457826049,
+        "abstraction": 0.016175415727214773,
+        "present_tense_news_markers": 0.0046067114130331765,
+        "entity_mix": 0.0005180520583742554,
+        "sentence_complexity": -0.0007461682811151291,
+        "first_vs_third_person": 0.012123817223971883
+      },
+      "register_explained": false
+    },
+    {
+      "pc": "PC9",
+      "n": 40242,
+      "cv_r2": 0.09699793142045143,
+      "permutation_r2": -0.0002700107697262144,
+      "standardized_coefficients": {
+        "citation_density": -0.010913364379219725,
+        "abstraction": 0.0009555517431453272,
+        "present_tense_news_markers": 4.876337064151114e-05,
+        "entity_mix": -0.0030780020956919143,
+        "sentence_complexity": -0.01255960944382886,
+        "first_vs_third_person": -0.004416342138195884
+      },
+      "register_explained": false
+    },
+    {
+      "pc": "PC10",
+      "n": 40242,
+      "cv_r2": 0.15705694468992892,
+      "permutation_r2": -0.000358176697333068,
+      "standardized_coefficients": {
+        "citation_density": -0.0032692069109720593,
+        "abstraction": 0.0006491448459252436,
+        "present_tense_news_markers": -0.002702891297843955,
+        "entity_mix": -0.000222082735718702,
+        "sentence_complexity": -0.0037867107988686552,
+        "first_vs_third_person": -0.017730730542796936
+      },
+      "register_explained": false
+    }
+  ],
+  "n_register_explained": 0,
+  "ica_triggered": true
+}

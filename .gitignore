@@ -1,0 +1,104 @@
+# ---------------------------------------------------------------------------
+# What is NOT in this repository, and why (rewritten 18 September 2026)
+# ---------------------------------------------------------------------------
+
+# Local environments, editor state, secrets
+.venv/
+.venv-tlda/
+.vscode/
+.env
+__pycache__/
+*.pyc
+
+# Audio and transcripts: the corpus of record is regenerable from the frozen
+# chart + sampling manifests + step3_transcribe/; too large for git.
+data/audio_queue/
+data/transcripts/
+data/cache/
+
+# Third-party and restricted data (Kettering-Gallup and Pew microdata, the
+# Brookings export, DIME files, Brysbaert norms, podcastindex). Obtain under
+# the relevant agreements; see README "Data availability". Our own word lists
+# under data/external/dictionaries/ ARE committed.
+data/external/*
+!data/external/dictionaries/
+
+# data/output: only the small tables of record are committed (allow-list below).
+data/output/*
+!data/output/corpus.csv
+!data/output/corpus_shows.csv
+!data/output/exclusions.csv
+!data/output/lean_validation.csv
+!data/output/raw_chart_20260713.csv
+!data/output/summary.txt
+!data/output/run_manifest.json
+!data/output/validation_report.json
+!data/output/show_hours.csv
+!data/output/chart_panel.csv
+!data/output/host_lookup.csv
+!data/output/host_dime_lookup.csv
+!data/output/host_dime_lookup_v2.csv
+!data/output/shows_205_host_dime_scores.csv
+!data/output/shows_205_for_manual_host_fill.csv
+!data/output/ideology_targets_204.csv
+!data/output/ideology_sideclass.csv
+!data/output/ideology_cap40.csv
+!data/output/ideology_coding_sheet.csv
+!data/output/ideology_coding_key.csv
+!data/output/ideology_coding_human_2026-08-26.csv
+!data/output/ideology_coding_key_production_2026-09-16.csv
+!data/output/register_quant_step2_report.json
+!data/output/register_features_500_report.json
+!data/output/budget_summary.txt
+!data/output/budget_manifest.json
+!data/output/duration_log.csv
+!data/output/bottleneck_shows.csv
+!data/output/download_failures.csv
+!data/output/mfte_address_run.log
+!data/output/mfte_corpus_run.log
+!data/output/mfte_supervise.log
+!data/output/sample_out/
+data/output/sample_out/*
+!data/output/sample_out/sample_manifest_ladder.csv
+!data/output/sample_out/sample_manifest_band5.csv
+!data/output/sample_out/sample_manifest_band10.csv
+!data/output/sample_out/sample_manifest_band15.csv
+!data/output/sample_out/sample_manifest_holdout.csv
+!data/output/sample_out/sample_manifest_H25.csv
+!data/output/sample_out/per_show_summary.csv
+!data/output/sample_out/excluded_shows.csv
+
+# Transcription run logs
+step3_transcribe/logs/
+
+# step7 inputs: show-level tables are committed; respondent-level survey
+# extracts (restricted microdata) and the 281 MB passage table are not.
+step7_audience/inputs/kett.pkl
+step7_audience/inputs/*.pkl
+step7_audience/inputs/verbatims_long.csv
+step7_audience/inputs/match_strict.csv
+step7_audience/inputs/match_expanded.csv
+step7_audience/inputs/kettering_strict.csv
+step7_audience/inputs/remeasured.csv
+
+# Frozen respondent alias tables of the pre-registrations contain survey
+# respondent IDs and verbatims; their SHA-256 records and patterns are kept.
+handoff/prereg/holdout_alias_table_FROZEN.csv
+handoff/prereg/withinframe_alias_table_FROZEN.csv
+
+# Topic arm: R library and large regenerable intermediates
+topic_arm/r/lib/
+topic_arm/output/chunks_500*.csv
+topic_arm/output/lda_doctopic_*.csv
+topic_arm/output/guests_raw*.jsonl
+topic_arm/output/guests_dime.csv
+topic_arm/output/_dime_guest_stage2_state.pkl
+topic_arm/output/dime_stage3_manual_log.jsonl
+topic_arm/output/dime_stage3_residual.csv
+topic_arm/output/bert_length_report_500.csv
+topic_arm/output/batch_state*.json
+topic_arm/output/batch_watchdog.log
+topic_arm/output/adclf/
+*.npy
+*.rds
+*.pkl

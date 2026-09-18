@@ -1,0 +1,103 @@
+{
+  "generated_at": "2026-08-06T02:35:08.092280+00:00",
+  "target_words": 500,
+  "corpus": "clean",
+  "n_chunks": 37942,
+  "concreteness_lexicon": "Brysbaert, Warriner & Kuperman 2014, 39,954 word lemmas",
+  "concreteness_content_word_match_rate": 0.3480830894520111,
+  "feature_coverage": {
+    "citation_density": {
+      "n_nonnull": 37942,
+      "n_total": 37942,
+      "pct_coverage": 100.0,
+      "mean": 14.465124794224403,
+      "std": 8.632393137900765,
+      "min": 0.0,
+      "p5": 3.00537218327562,
+      "p25": 8.115785251718526,
+      "median": 13.140935072403416,
+      "p75": 19.32367149758454,
+      "p95": 30.425963488843813,
+      "max": 174.1573033707865
+    },
+    "abstraction": {
+      "n_nonnull": 37942,
+      "n_total": 37942,
+      "pct_coverage": 100.0,
+      "mean": 2.161057789255103,
+      "std": 0.11841105276631618,
+      "min": 1.4442444444444447,
+      "p5": 1.957766849280696,
+      "p25": 2.0870054240631166,
+      "median": 2.166695901501096,
+      "p75": 2.2417160558491513,
+      "p95": 2.34518341656263,
+      "max": 2.5737237762237766
+    },
+    "present_tense_news_markers": {
+      "n_nonnull": 37942,
+      "n_total": 37942,
+      "pct_coverage": 100.0,
+      "mean": 1.689893189609201,
+      "std": 1.808060745629933,
+      "min": 0.0,
+      "p5": 0.0,
+      "p25": 0.6775067750677507,
+      "median": 1.3736263736263736,
+      "p75": 2.3961661341853033,
+      "p95": 5.1107325383304945,
+      "max": 21.208907741251327
+    },
+    "entity_mix": {
+      "n_nonnull": 37942,
+      "n_total": 37942,
+      "pct_coverage": 100.0,
+      "mean": 0.8727473636488852,
+      "std": 0.9845708471023334,
+      "min": 0.0,
+      "p5": 0.15384615384615385,
+      "p25": 0.375,
+      "median": 0.631578947368421,
+      "p75": 1.0,
+      "p95": 2.2857142857142856,
+      "max": 34.0
+    },
+    "sentence_complexity": {
+      "n_nonnull": 37942,
+      "n_total": 37942,
+      "pct_coverage": 100.0,
+      "mean": 4.644314966752012e-17,
+      "std": 0.9345009387158901,
+      "min": -2.524733991371849,
+      "p5": -1.348666203154888,
+      "p25": -0.6520258438717823,
+      "median": -0.09545534313415209,
+      "p75": 0.5388342270950992,
+      "p95": 1.6727350091204456,
+      "max": 7.316976221574798
+    },
+    "first_vs_third_person": {
+      "n_nonnull": 37942,
+      "n_total": 37942,
+      "pct_coverage": 100.0,
+      "mean": -0.7862130738913393,
+      "std": 2.222579278597894,
+      "min": -11.373092926490985,
+      "p5": -4.24240043800138,
+      "p25": -2.2689075630252105,
+      "median": -0.8928571428571432,
+      "p75": 0.6211180124223601,
+      "p95": 3.0487578202919563,
+      "max": 8.90227576974565
+    }
+  },
+  "degenerate_features": [],
+  "feature_definitions": {
+    "citation_density": "per-1000-word rate: et al., case cites (X v. Y), study/paper+found/shows, years-in-parens, 2+ consecutive capitalized-word runs",
+    "abstraction": "5 - mean Brysbaert concreteness of content-word lemmas (higher = more abstract)",
+    "present_tense_news_markers": "per-1000-word rate of immediacy/news markers",
+    "entity_mix": "n_ORG / (n_PERSON + 1), spaCy en_core_web_sm NER",
+    "sentence_complexity": "mean of z(mean sentence length) and z(SCONJ per sentence)",
+    "first_vs_third_person": "first-person rate minus third-person rate, per 100 words"
+  }
+}

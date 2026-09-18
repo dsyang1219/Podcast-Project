@@ -1,0 +1,79 @@
+{
+  "generated_at": "2026-07-27T23:30:54.038472+00:00",
+  "lemmatize": false,
+  "min_token_len": 2,
+  "target_words": [
+    300,
+    500,
+    800
+  ],
+  "min_stub_words": 300,
+  "boilerplate_ngram_size": 8,
+  "boilerplate_min_shows": 4,
+  "boilerplate_coverage": 0.5,
+  "boilerplate_loss_flag_threshold": 0.15,
+  "filler_words": [
+    "alright",
+    "erm",
+    "hmm",
+    "huh",
+    "like",
+    "mhm",
+    "mm-hmm",
+    "nah",
+    "ok",
+    "okay",
+    "uh",
+    "uh-huh",
+    "uhh",
+    "um",
+    "umm",
+    "yeah",
+    "yep",
+    "yup"
+  ],
+  "two_char_stoplist": [
+    "eh",
+    "ha",
+    "hm",
+    "oh"
+  ],
+  "stage3_df_no_above": 0.99,
+  "n_episodes": 7626,
+  "n_shows": 204,
+  "n_sentences_after_cleaning": 3822127,
+  "chunks_files": {
+    "300": "chunks_300_nolemma.csv",
+    "500": "chunks_500_nolemma.csv",
+    "800": "chunks_800_nolemma.csv"
+  },
+  "bert_files": {
+    "300": {
+      "path": "chunks_300_bert.csv",
+      "n_rows": 64529,
+      "bert_text_source": "raw_sentences_boilerplate_removed_no_token_filter",
+      "length_report": "bert_length_report_300.csv",
+      "sentences_path": "sentences_300.csv",
+      "n_sentences": 3582795,
+      "note": "chunks_<target>_<lemma>.csv's 'text' column and this file's 'bert_text' column are the same underlying value (Chunk.text == Chunk.bert_text at construction)."
+    },
+    "500": {
+      "path": "chunks_500_bert.csv",
+      "n_rows": 40242,
+      "bert_text_source": "raw_sentences_boilerplate_removed_no_token_filter",
+      "length_report": "bert_length_report_500.csv",
+      "sentences_path": "sentences_500.csv",
+      "n_sentences": 3679311,
+      "note": "chunks_<target>_<lemma>.csv's 'text' column and this file's 'bert_text' column are the same underlying value (Chunk.text == Chunk.bert_text at construction)."
+    },
+    "800": {
+      "path": "chunks_800_bert.csv",
+      "n_rows": 26655,
+      "bert_text_source": "raw_sentences_boilerplate_removed_no_token_filter",
+      "length_report": "bert_length_report_800.csv",
+      "sentences_path": "sentences_800.csv",
+      "n_sentences": 3740404,
+      "note": "chunks_<target>_<lemma>.csv's 'text' column and this file's 'bert_text' column are the same underlying value (Chunk.text == Chunk.bert_text at construction)."
+    }
+  }
+}

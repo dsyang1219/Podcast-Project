@@ -1,0 +1,53 @@
+[
+  {
+    "figure": "fig1_corpus_scope",
+    "sources": [
+      "/home/dsyang/Podcast-Project/political-podcast-corpus/data/output/sample_out/per_show_summary.csv",
+      "/home/dsyang/Podcast-Project/political-podcast-corpus/data/output/chunk_embeddings_500_weighted.meta.json"
+    ],
+    "status": "built"
+  },
+  {
+    "figure": "fig2_topic_prevalence",
+    "sources": [
+      "/home/dsyang/Podcast-Project/political-podcast-corpus/data/output/lda_k75_topic_words.csv"
+    ],
+    "status": "built"
+  },
+  {
+    "figure": "fig3_coverage_extension",
+    "sources": [
+      "/home/dsyang/Podcast-Project/political-podcast-corpus/data/output/ideology_targets_204.csv"
+    ],
+    "status": "built"
+  },
+  {
+    "figure": "fig4_two_arm_comparison",
+    "sources": [
+      "/home/dsyang/Podcast-Project/political-podcast-corpus/data/output/lda_ideology_204_report.json",
+      "/home/dsyang/Podcast-Project/political-podcast-corpus/data/output/embed_ideology_204_report.json"
+    ],
+    "status": "built"
+  },
+  {
+    "figure": "fig5_pc_structure",
+    "sources": [
+      "/home/dsyang/Podcast-Project/political-podcast-corpus/data/output/embed_pc_diagnosis_report.json"
+    ],
+    "status": "built"
+  },
+  {
+    "figure": "fig6_k_sweep",
+    "sources": [
+      "/home/dsyang/Podcast-Project/political-podcast-corpus/data/output/topic_ideology_synthesis_report.json"
+    ],
+    "status": "built"
+  },
+  {
+    "figure": "fig7_diverging_topics",
+    "sources": [
+      "/home/dsyang/Podcast-Project/political-podcast-corpus/data/output/topic_ideology_synthesis_report.json"
+    ],
+    "status": "built"
+  }
+]

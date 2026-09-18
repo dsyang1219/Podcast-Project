@@ -1,0 +1,120 @@
+# Spoken-conversation filler / register stopword list
+#
+# Purpose: extend quanteda's built-in English stopword list to catch the
+# discourse-marker / backchannel / hedge vocabulary that surfaces as
+# filler topics in the K=75 LDA fit on this corpus (T57: "going, know,
+# right, got"; T46: profanity-dominated). These words carry near-zero
+# THEMATIC content in podcast speech but are frequent enough to form their
+# own topics once real content words are diluted around them.
+#
+# Auditability: every line is one token. Comments (#) and blank lines are
+# ignored by r/preprocess.R. Edit by hand; do not generate this
+# programmatically, so additions/removals are reviewable in diffs.
+#
+# BORDERLINE WORDS FLAGGED FOR REVIEW (kept in the list, but each can carry
+# real political content in *some* contexts -- see per-word note). If the
+# aggressive regime turns out to gut political vocabulary, these are the
+# first candidates to drop back out:
+#   - right       -- filler ("right?") AND "the right" (political side).
+#                    nlp/config.py deliberately left this OUT of the
+#                    original FILLER_WORDS for the same reason. Included
+#                    here only because it is the single largest driver of
+#                    T57; flagged, not silently assumed safe.
+#   - left        -- NOT included below (too politically loaded to risk).
+#   - like        -- filler AND a real verb ("I like this bill"). Already
+#                    in nlp/config.py FILLER_WORDS at 93-98% DF; kept here
+#                    too for the R-side list to be self-contained.
+#   - well        -- discourse marker AND adverb; low risk, included.
+#   - just        -- near-universal hedge; low political content, included.
+#   - mean        -- "I mean" filler AND "what does X mean" AND "means"
+#                    (methods). Included as filler sense only; DF-based
+#                    pruning is the real backstop here, same rationale as
+#                    nlp/config.py's note on "mean"/"think".
+#
+# ---- core spoken-conversation fillers (task spec, verbatim) ----
+know
+gonna
+wanna
+gotta
+kinda
+sorta
+yeah
+yep
+nope
+uh
+um
+hmm
+like
+mean
+right
+got
+get
+go
+going
+said
+say
+thing
+things
+stuff
+lot
+really
+actually
+basically
+literally
+okay
+ok
+well
+just
+kind
+sort
+guy
+guys
+folks
+
+# ---- additional backchannel / disfluency tokens (not in quanteda stopwords) ----
+uhh
+umm
+erm
+huh
+mhm
+mm
+mmhmm
+uh-huh
+mm-hmm
+ah
+oh
+whoa
+wow
+gosh
+gee
+
+# ---- additional hedges / vague-reference fillers common in transcribed speech ----
+maybe
+probably
+somehow
+somewhat
+stuff
+bunch
+whatever
+anyway
+anyways
+totally
+definitely
+obviously
+honestly
+frankly
+essentially
+pretty
+quite
+sort-of
+kind-of
+
+# ---- turn-taking / conversational scaffolding ----
+listen
+look
+hey
+hi
+hello
+gotcha
+alright
+anyhow

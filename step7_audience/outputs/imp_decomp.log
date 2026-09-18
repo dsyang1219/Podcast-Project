@@ -1,0 +1,29 @@
+122,444 passages from 219 shows
+  40,000
+  80,000
+  120,000
+
+=== what the imperatives ARE (top 30 verbs, whole sample) ===
+  let 12.8%, look 4.6%, go 4.3%, get 3.5%, make 2.4%, say 2.3%, listen 2.1%, take 2.0%, see 1.9%, tell 1.6%, do 1.6%, remember 1.5%, give 1.4%, visit 1.3%, come 1.2%, try 1.2%, have 1.2%, keep 1.1%, think 1.1%, talk 1.0%, wait 1.0%, use 0.9%, check 0.8%, find 0.8%, stop 0.7%, stay 0.7%, ask 0.7%, put 0.7%, help 0.6%, start 0.6%
+  bucket epistemic  = 6.3% of imperatives
+  bucket attention  = 13.0% of imperatives
+  bucket action     = 45.4% of imperatives
+
+=== top imperatives by side ===
+  L: let 12.9%, look 4.5%, go 4.0%, get 3.3%, make 2.5%, say 2.4%, listen 2.1%, take 2.1%, see 2.0%, tell 1.6%, do 1.4%, give 1.4%, remember 1.4%, try 1.3%, come 1.2%
+  R: let 12.7%, look 4.8%, go 4.5%, get 3.7%, say 2.3%, make 2.3%, listen 2.1%, see 1.9%, do 1.9%, take 1.9%, remember 1.8%, tell 1.6%, visit 1.6%, give 1.5%, think 1.4%
+
+=== what the second-person IS ===
+  you_other 72.4%, you_know 19.1%, you_deontic 7.0%, you_addressive 1.6%
+
+saved show_imp_decomp.csv
+
+=== which SUBTYPE tracks ideology? (show level) ===
+  imp_epistemic_rate     vs DIME r=+0.147 (p=0.122)   vs LLM side r=+0.245   vs dir_z r=+0.449
+  imp_attention_rate     vs DIME r=+0.309 (p=0.001)   vs LLM side r=+0.247   vs dir_z r=+0.809
+  imp_action_rate        vs DIME r=+0.372 (p=0.000)   vs LLM side r=+0.284   vs dir_z r=+0.716
+  imp_other_rate         vs DIME r=+0.192 (p=0.042)   vs LLM side r=+0.181   vs dir_z r=+0.526
+  you_know_rate          vs DIME r=+0.004 (p=0.970)   vs LLM side r=-0.153   vs dir_z r=-0.030
+  you_deontic_rate       vs DIME r=+0.440 (p=0.000)   vs LLM side r=+0.359   vs dir_z r=+0.659
+  you_addressive_rate    vs DIME r=+0.358 (p=0.000)   vs LLM side r=+0.363   vs dir_z r=+0.585
+  you_other_rate         vs DIME r=+0.376 (p=0.000)   vs LLM side r=+0.317   vs dir_z r=+0.832

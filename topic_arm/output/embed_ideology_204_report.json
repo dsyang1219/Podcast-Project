@@ -1,0 +1,72 @@
+{
+  "generated_at": "2026-07-31T04:48:53.475129+00:00",
+  "arm": "embeddings (768d full mean-pooled, weighted pooling, target_words=500)",
+  "note": "Reused existing chunk_embeddings_500_weighted.npy; no re-embedding, no re-pooling.",
+  "results": [
+    {
+      "condition": "host_clean",
+      "n": 84,
+      "target": "avg_host_cfscore",
+      "loso_cv_r2": 0.15753137777897563,
+      "ci_95": [
+        -0.08778041350024553,
+        0.3401933163987196
+      ],
+      "pearson_r": 0.4330971211172891,
+      "pearson_p": 3.8741746192642724e-05,
+      "permutation_r2": -0.06219250876102711
+    },
+    {
+      "condition": "extended_all",
+      "n": 204,
+      "target": "ideology_primary",
+      "loso_cv_r2": 0.34365563194056103,
+      "ci_95": [
+        0.15634416456097394,
+        0.48701985188025554
+      ],
+      "pearson_r": 0.6103446685686688,
+      "pearson_p": 3.289894033500418e-22,
+      "permutation_r2": -0.025814505773537055
+    },
+    {
+      "condition": "well_supported",
+      "n": 188,
+      "target": "ideology_primary",
+      "loso_cv_r2": 0.42669742484288475,
+      "ci_95": [
+        0.28106244025957106,
+        0.5410842753024876
+      ],
+      "pearson_r": 0.6583233718705428,
+      "pearson_p": 1.0014944641311314e-24,
+      "permutation_r2": -0.012057434005704248
+    },
+    {
+      "condition": "guest_uniform",
+      "n": 202,
+      "target": "ideology_guest_only",
+      "loso_cv_r2": 0.4784499687710916,
+      "ci_95": [
+        0.30331595553979435,
+        0.6053748918399828
+      ],
+      "pearson_r": 0.7004447517886302,
+      "pearson_p": 4.048085829300538e-31,
+      "permutation_r2": -0.024035128590477406
+    },
+    {
+      "condition": "extended_weighted",
+      "n": 204,
+      "target": "ideology_primary",
+      "loso_cv_r2": 0.35945163485260057,
+      "ci_95": [
+        0.17739491831465148,
+        0.49826103289718027
+      ],
+      "pearson_r": 0.619428838514958,
+      "pearson_p": 5.283871426937806e-23,
+      "permutation_r2": -0.02864544543100167
+    }
+  ]
+}

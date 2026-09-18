@@ -1,0 +1,6794 @@
+[
+  {
+    "guest_key": "li|tiffany|tiffany c",
+    "display_name": "Tiffany C. Li",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "What Next: TBD | Tech, power, and the future - Is Privacy A Right?",
+        "descriptor": "tech attorney and privacy expert",
+        "topic": "privacy rights, corporate and government surveillance"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "li, tiffany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.687"
+      },
+      {
+        "matched_name": "li, tiffany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "deloitte",
+        "cfscore": "-1.151"
+      },
+      {
+        "matched_name": "li, tiffany g",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.731"
+      },
+      {
+        "matched_name": "li, tiffany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "senior media operations manager",
+        "employer": "accenture",
+        "cfscore": "-1.045"
+      },
+      {
+        "matched_name": "li, tiffany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "claims adjuster",
+        "employer": "brand new day hmo",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "li, tiffany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "deloitte",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "li, tiffany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "data scientist",
+        "employer": "criteo",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "li, tiffany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software engineer",
+        "employer": "carnegie mellon university",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "li, tiffany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.715"
+      },
+      {
+        "matched_name": "li, tiffany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "data scientist",
+        "employer": "criteo",
+        "cfscore": "-1.176"
+      },
+      {
+        "matched_name": "li, tiffany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "li, tiffany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "game designer",
+        "employer": "multiverse",
+        "cfscore": "-1.121"
+      },
+      {
+        "matched_name": "li, tiffany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "doctor",
+        "employer": "self,",
+        "cfscore": "0.763"
+      }
+    ]
+  },
+  {
+    "guest_key": "duke|annie|annie",
+    "display_name": "Annie Duke",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Slate Money - The Dissent Channel Edition",
+        "descriptor": "former professional poker player",
+        "topic": "Thinking in Bets, professional poker player earnings"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "duke, annie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "loudvision",
+        "cfscore": "-0.584"
+      },
+      {
+        "matched_name": "duke, annie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "author",
+        "employer": "self",
+        "cfscore": "-0.239"
+      },
+      {
+        "matched_name": "duke, annie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "senior account manager",
+        "employer": "uncommon logic",
+        "cfscore": "-1.011"
+      },
+      {
+        "matched_name": "duke, annie m",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.659"
+      }
+    ]
+  },
+  {
+    "guest_key": "turner|david|david",
+    "display_name": "David Turner",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "What Next: TBD | Tech, power, and the future - How The Future Of Music Streaming Will Sound",
+        "descriptor": "music and technology writer",
+        "topic": "music streaming economics and culture"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "turner, dave",
+        "source": "recipient",
+        "party": "200",
+        "state": "AZ",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.032"
+      },
+      {
+        "matched_name": "turner, david",
+        "source": "recipient",
+        "party": "328",
+        "state": "TX",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.208"
+      }
+    ]
+  },
+  {
+    "guest_key": "tinker|mary|mary beth",
+    "display_name": "Mary Beth Tinker",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Amicus With Dahlia Lithwick | Law, justice, and the courts - Back to School Protest Special",
+        "descriptor": "activist who took her fight for the right to protest at school to the Supreme Court in 1969",
+        "topic": "student activism and the right to protest at school"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "tinker, nick & mary kay",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.079"
+      },
+      {
+        "matched_name": "tinker, mary beth",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "organizer",
+        "employer": "seiu",
+        "cfscore": "-0.954"
+      },
+      {
+        "matched_name": "tinker, mary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.752"
+      },
+      {
+        "matched_name": "tinker, mary beth",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "rn",
+        "employer": "daniel freeman hsptl",
+        "cfscore": "-1.054"
+      },
+      {
+        "matched_name": "tinker, mary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.024"
+      },
+      {
+        "matched_name": "tinker, mary l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.557"
+      },
+      {
+        "matched_name": "tinker, mary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.969"
+      },
+      {
+        "matched_name": "tinker, mary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.537"
+      },
+      {
+        "matched_name": "tinker, mary kay",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.942"
+      },
+      {
+        "matched_name": "tinker, mary",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.587"
+      },
+      {
+        "matched_name": "tinker, mary kay & nick",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.776"
+      }
+    ]
+  },
+  {
+    "guest_key": "erlich|justin|justin",
+    "display_name": "Justin Erlich",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "What Next: TBD | Tech, power, and the future - Flying Cars Are Only A Few Years Away",
+        "descriptor": "VP of policy at Voyage, self-driving vehicle company in Silicon Valley",
+        "topic": "flying cars and self-driving cars"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "erlich, justin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant at mckinsey",
+        "employer": "mckinsey",
+        "cfscore": "-0.892"
+      },
+      {
+        "matched_name": "erlich, justin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "mckinsey & company",
+        "cfscore": "-0.861"
+      },
+      {
+        "matched_name": "erlich, justin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "policy",
+        "employer": "tiktok",
+        "cfscore": "-0.889"
+      }
+    ]
+  },
+  {
+    "guest_key": "brackeen|brian|brian",
+    "display_name": "Brian Brackeen",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "What Next: TBD | Tech, power, and the future - The Surveillance State's Eyes at the U.S. Border",
+        "descriptor": "CEO of a face recognition company called Kairos",
+        "topic": "face recognition technology and law enforcement"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "brackeen, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "ceo",
+        "employer": "kairoscom",
+        "cfscore": "0.019"
+      },
+      {
+        "matched_name": "brackeen, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "venture capitalist",
+        "employer": "lightship capital",
+        "cfscore": "-1.056"
+      }
+    ]
+  },
+  {
+    "guest_key": "smith|paul|paul",
+    "display_name": "Paul Smith",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Amicus With Dahlia Lithwick | Law, justice, and the courts - Voting: Purging, Packing, Cracking, Standing",
+        "descriptor": "lawyer who argued for the plaintiffs in the Wisconsin political gerrymander case Gill v. Whitford",
+        "topic": "Supreme Court voting rights cases"
+      },
+      {
+        "show_name": "Slate News",
+        "episode_title": "Amicus With Dahlia Lithwick | Law, justice, and the courts - Marriage Arrives",
+        "descriptor": "lawyer",
+        "topic": "constitutionality of same-sex marriage bans"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "smith, paul",
+        "source": "recipient",
+        "party": "200",
+        "state": "CA",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.462"
+      },
+      {
+        "matched_name": "smith, paul e",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.128"
+      },
+      {
+        "matched_name": "smith, paul",
+        "source": "recipient",
+        "party": "200",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.465"
+      },
+      {
+        "matched_name": "smith, paul",
+        "source": "recipient",
+        "party": "200",
+        "state": "HI",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.392"
+      },
+      {
+        "matched_name": "smith, paul c",
+        "source": "recipient",
+        "party": "200",
+        "state": "NH",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.573"
+      },
+      {
+        "matched_name": "smith, paul",
+        "source": "recipient",
+        "party": "200",
+        "state": "UT",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.614"
+      },
+      {
+        "matched_name": "smith, paul a",
+        "source": "recipient",
+        "party": "328",
+        "state": "VA",
+        "seat": "local:council",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.974"
+      },
+      {
+        "matched_name": "smith, paul",
+        "source": "recipient",
+        "party": "200",
+        "state": "KY",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.347"
+      },
+      {
+        "matched_name": "smith, tyler paul",
+        "source": "recipient",
+        "party": "200",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.665"
+      },
+      {
+        "matched_name": "smith, paul",
+        "source": "recipient",
+        "party": "200",
+        "state": "MD",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.142"
+      },
+      {
+        "matched_name": "smith, paul m",
+        "source": "recipient",
+        "party": "200",
+        "state": "MI",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.208"
+      },
+      {
+        "matched_name": "smith, paul w",
+        "source": "recipient",
+        "party": "200",
+        "state": "NC",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.492"
+      }
+    ]
+  },
+  {
+    "guest_key": "ruiz|raul|raul",
+    "display_name": "Raul Ruiz",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "What Next: TBD | Tech, power, and the future - Congress Called. They Want Our Data Back.",
+        "descriptor": "democratic Congressman from California",
+        "topic": "Mark Zuckerberg's testimony to Congress"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ruiz, raul",
+        "source": "recipient",
+        "party": "100",
+        "state": "CA",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.828"
+      },
+      {
+        "matched_name": "ruiz, raul",
+        "source": "recipient",
+        "party": "200",
+        "state": "CA",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.191"
+      },
+      {
+        "matched_name": "ruiz, raul jr",
+        "source": "recipient",
+        "party": "100",
+        "state": "FL",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.235"
+      }
+    ]
+  },
+  {
+    "guest_key": "smith|priscilla|priscilla",
+    "display_name": "Priscilla Smith",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Amicus With Dahlia Lithwick | Law, justice, and the courts - Don\u2019t Call It an Abortion Case",
+        "descriptor": "director of the Program for the Study of Reproductive Justice at Yale Law School",
+        "topic": "oral arguments in NIFLA v Becerra"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "smith, priscilla a wi",
+        "source": "recipient",
+        "party": "200",
+        "state": "NM",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.254"
+      },
+      {
+        "matched_name": "smith, priscilla g",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.965"
+      }
+    ]
+  },
+  {
+    "guest_key": "franklin|david|david",
+    "display_name": "David Franklin",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Amicus With Dahlia Lithwick | Law, justice, and the courts - When Did Corporations Become People?",
+        "descriptor": "Solicitor General of Illinois",
+        "topic": "Public sector union case oral arguments"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "franklin, dave",
+        "source": "recipient",
+        "party": "100",
+        "state": "MI",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.074"
+      },
+      {
+        "matched_name": "franklin, david",
+        "source": "recipient",
+        "party": "200",
+        "state": "UT",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.004"
+      },
+      {
+        "matched_name": "franklin, david c",
+        "source": "recipient",
+        "party": "200",
+        "state": "NY",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.055"
+      }
+    ]
+  },
+  {
+    "guest_key": "albright|jonathan|jonathan",
+    "display_name": "Jonathan Albright",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "What Next: TBD | Tech, power, and the future - How Russian Trolls Went Local",
+        "descriptor": "researcher from the Tow Center for Digital Journalism at Columbia",
+        "topic": "Mueller indictments of Russian nationals and companies, Russian interference in 2016 election, social media manipulation by Russian trolls"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "albright, jonathan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "saunders usa",
+        "cfscore": "-0.952"
+      },
+      {
+        "matched_name": "albright, jon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "realtor",
+        "employer": "jon albright real estate services",
+        "cfscore": "0.687"
+      },
+      {
+        "matched_name": "albright, jonathan w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "finance director",
+        "employer": "chase manhattan bank; na",
+        "cfscore": "-0.191"
+      },
+      {
+        "matched_name": "albright, jonathan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "carpenter",
+        "employer": "self and others",
+        "cfscore": "-1.138"
+      },
+      {
+        "matched_name": "albright, jon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.778"
+      },
+      {
+        "matched_name": "albright, jon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "",
+        "cfscore": "1.201"
+      },
+      {
+        "matched_name": "albright, johnny",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.469"
+      },
+      {
+        "matched_name": "albright, johnny",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.159"
+      },
+      {
+        "matched_name": "albright, johnny",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.034"
+      },
+      {
+        "matched_name": "albright, jonathan & corrie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "it",
+        "employer": "pnc bank",
+        "cfscore": "1.335"
+      },
+      {
+        "matched_name": "albright, jonathan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "pest control tech",
+        "employer": "eliminex pest control",
+        "cfscore": "-1.15"
+      },
+      {
+        "matched_name": "albright, jon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "toolmaker",
+        "employer": "manchester tool die",
+        "cfscore": "1.515"
+      },
+      {
+        "matched_name": "albright, jon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "drug and alcohol counselor certified r",
+        "employer": "adapt",
+        "cfscore": "-0.515"
+      },
+      {
+        "matched_name": "albright, jon & kathryn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.081"
+      },
+      {
+        "matched_name": "albright, johnny",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.157"
+      },
+      {
+        "matched_name": "albright, jon f",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.628"
+      },
+      {
+        "matched_name": "albright, jon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.035"
+      },
+      {
+        "matched_name": "albright, jonathan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "database developer",
+        "employer": "ucsf",
+        "cfscore": "-0.925"
+      }
+    ]
+  },
+  {
+    "guest_key": "bond|heidi|heidi",
+    "display_name": "Heidi Bond",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Amicus With Dahlia Lithwick | Law, justice, and the courts - #MeToo in the Courts",
+        "descriptor": "former clerk to Judge Kozinski, writes romance novels under the name Courtney Milan",
+        "topic": "firsthand experiences with Judge Alex Kozinski and #MeToo in the judiciary"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "bond, heidi",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "author",
+        "employer": "self employed",
+        "cfscore": "-1.01"
+      },
+      {
+        "matched_name": "bond, heidi",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "self employed",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "bond, heidi l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "self-employed",
+        "cfscore": "0.43"
+      },
+      {
+        "matched_name": "bond, heidi",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.421"
+      },
+      {
+        "matched_name": "bond, heidi",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.309"
+      }
+    ]
+  },
+  {
+    "guest_key": "pao|ellen|ellen",
+    "display_name": "Ellen Pao",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "What Next: TBD | Tech, power, and the future - The Ellen Pao Effect",
+        "descriptor": "CEO and founder of Project Include, former interim CEO of Reddit",
+        "topic": "sexism in Silicon Valley, sexual harassment and assault in tech, diversity in tech, hate speech and harassment on platforms"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "pao, ellen k",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "venture capitalist",
+        "employer": "kleiner perkins caufield & byers",
+        "cfscore": "-1.04"
+      },
+      {
+        "matched_name": "pao, ellen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "finance",
+        "employer": "kpcb",
+        "cfscore": "-0.954"
+      },
+      {
+        "matched_name": "pao, ellen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.999"
+      }
+    ]
+  },
+  {
+    "guest_key": "goff|teddy|teddy",
+    "display_name": "Teddy Goff",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Slate Money - The Splendid Food Edition",
+        "descriptor": "of Black Tap",
+        "topic": "Restaurant buzz, Vegetarianism, The cookbook industry"
+      },
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Doing Democracy: The Groundgame. Harris and Trump Have Raised Millions. What Will They Do With It?",
+        "descriptor": "co-founder and managing partner, Precision Strategies",
+        "topic": "2024 presidential election ground game and digital strategy"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "goff, teddy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "new media",
+        "employer": "obama for america",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "goff, teddy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "precision",
+        "cfscore": "-0.956"
+      }
+    ]
+  },
+  {
+    "guest_key": "krebs|brian|brian",
+    "display_name": "Brian Krebs",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "What Next: TBD | Tech, power, and the future - Hack Friday",
+        "descriptor": "expert on cybercrime",
+        "topic": "Black Friday cybersecurity and retail/consumer safety"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "krebs, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "digital director",
+        "employer": "dccc",
+        "cfscore": "-0.93"
+      },
+      {
+        "matched_name": "krebs, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "",
+        "cfscore": "0.014"
+      },
+      {
+        "matched_name": "krebs, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.105"
+      },
+      {
+        "matched_name": "krebs, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.272"
+      },
+      {
+        "matched_name": "krebs, brian l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sr district sales mgr",
+        "employer": "glaxosmithkline",
+        "cfscore": "1.123"
+      },
+      {
+        "matched_name": "krebs, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "digital director",
+        "employer": "udall for colorado",
+        "cfscore": "-0.922"
+      },
+      {
+        "matched_name": "krebs, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "it programmer",
+        "employer": "progressive insurance",
+        "cfscore": "-0.928"
+      },
+      {
+        "matched_name": "krebs, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "self employed",
+        "cfscore": "-1.019"
+      },
+      {
+        "matched_name": "krebs, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "disability",
+        "employer": "disability",
+        "cfscore": "1.551"
+      }
+    ]
+  },
+  {
+    "guest_key": "brown|t|t dalton",
+    "display_name": "T. Dalton Brown",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "What Next: TBD | Tech, power, and the future - Leaving Zen on the Table",
+        "descriptor": "cofounder of Dopamine Labs",
+        "topic": "tech startup that helps companies make apps and platforms more addictive"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "brown, kevin t",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.661"
+      },
+      {
+        "matched_name": "brown, preston t",
+        "source": "recipient",
+        "party": "328",
+        "state": "VA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.45"
+      },
+      {
+        "matched_name": "brown, richard t",
+        "source": "recipient",
+        "party": "328",
+        "state": "NC",
+        "seat": "state:unknown",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.14"
+      },
+      {
+        "matched_name": "brown, edward t",
+        "source": "recipient",
+        "party": "328",
+        "state": "KY",
+        "seat": "local:council",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "2.554"
+      },
+      {
+        "matched_name": "brown, nelson t",
+        "source": "recipient",
+        "party": "328",
+        "state": "GA",
+        "seat": "local:other",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.549"
+      },
+      {
+        "matched_name": "brown, kevin t",
+        "source": "recipient",
+        "party": "100",
+        "state": "GA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.661"
+      },
+      {
+        "matched_name": "brown, william t",
+        "source": "recipient",
+        "party": "100",
+        "state": "SC",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.683"
+      }
+    ]
+  },
+  {
+    "guest_key": "skaggs|adam|adam",
+    "display_name": "Adam Skaggs",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Amicus With Dahlia Lithwick | Law, justice, and the courts - Guns in America and the Travel Ban that Went Unnoticed",
+        "descriptor": "Chief counsel at the Giffords Law Center to Prevent Gun Violence",
+        "topic": "the Second Amendment"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "skaggs, john adam",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "YOUTH SERVICES",
+        "employer": "HUNTER COLLEGE",
+        "cfscore": "-0.737"
+      },
+      {
+        "matched_name": "skaggs, adam",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "paul weiss rifkind wharton & garris",
+        "cfscore": "-0.902"
+      },
+      {
+        "matched_name": "skaggs, adam",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "brannen center",
+        "cfscore": "-1.018"
+      },
+      {
+        "matched_name": "skaggs, adam",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "office manager",
+        "employer": "falls city hospitality group",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "skaggs, adam",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "server",
+        "employer": "island fish co",
+        "cfscore": "-1.156"
+      }
+    ]
+  },
+  {
+    "guest_key": "shin|julia|julia",
+    "display_name": "Julia Shin",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Slate Money - The Only Way Is Ethics Edition",
+        "descriptor": "VP and Managing Director of Impact Investing at Enterprise Community Partners",
+        "topic": "The disbanding of Trump's CEO council, Companies' responsibilities to their shareholders, Impact investing"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "shin, julia e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "homemaker",
+        "employer": "",
+        "cfscore": "-0.011"
+      },
+      {
+        "matched_name": "shin, julia",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "ohio state university",
+        "cfscore": "-1.036"
+      },
+      {
+        "matched_name": "shin, julia",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.742"
+      },
+      {
+        "matched_name": "shin, julia",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "data coordinator",
+        "employer": "ideon",
+        "cfscore": "-1.114"
+      },
+      {
+        "matched_name": "shin, julia",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.766"
+      }
+    ]
+  },
+  {
+    "guest_key": "coben|larry|larry",
+    "display_name": "Larry Coben",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Slate Money - The White Collar Crime Edition",
+        "descriptor": "archeologist",
+        "topic": "The Chickenshit Club, sexual harassment in Silicon Valley, Hobby Lobby's attempted acquisition of ancient artifacts"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "coben, larry e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.6"
+      },
+      {
+        "matched_name": "coben, larry j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "vp",
+        "employer": "alcon, inc",
+        "cfscore": "-0.374"
+      },
+      {
+        "matched_name": "coben, larry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "vice president",
+        "cfscore": "-1.055"
+      },
+      {
+        "matched_name": "coben, larry e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "litum, blumberg matuson & young",
+        "cfscore": "-0.905"
+      },
+      {
+        "matched_name": "coben, larry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "co medical finance corp",
+        "cfscore": "-0.189"
+      },
+      {
+        "matched_name": "coben, larry e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "anapol, schwartz, weiss, cohan, feldman & smalley, p c",
+        "cfscore": "-0.832"
+      }
+    ]
+  },
+  {
+    "guest_key": "sow|aminatou|aminatou",
+    "display_name": "Aminatou Sow",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Slate Money - The Scams Edition",
+        "descriptor": "Call Your Girlfriend podcast host",
+        "topic": "Amanda Chantal Bacon and GOOP Pyramid schemes and Herbalife Email scams"
+      },
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Rebroadcast: Aminatou Sow and Ann Friedman on How to Sustain \u2018Big Friendship\u2019",
+        "descriptor": "co-author",
+        "topic": "Big Friendship"
+      },
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Aminatou Sow and Ann Friedman on How to Sustain \u2018Big Friendship\u2019",
+        "descriptor": "co-author",
+        "topic": "Big Friendship"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "sow, aminatou",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "self",
+        "cfscore": "-1.133"
+      },
+      {
+        "matched_name": "sow, aminatou",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.879"
+      }
+    ]
+  },
+  {
+    "guest_key": "hollman|holly|holly",
+    "display_name": "Holly Hollman",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Amicus With Dahlia Lithwick | Law, justice, and the courts - Playground of Liberty",
+        "descriptor": "general counsel for the Baptist Joint Committee for Religious Liberty",
+        "topic": "BJC's amicus brief in Trinity Lutheran v. Comer case regarding First Amendment's Free Exercise Clause and government funding to churches"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hollman, holly a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "marysville ex vill sd",
+        "cfscore": "-0.995"
+      },
+      {
+        "matched_name": "hollman, holly",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "bjc",
+        "cfscore": "-1.093"
+      }
+    ]
+  },
+  {
+    "guest_key": "dybdahl|thomas|thomas",
+    "display_name": "Thomas Dybdahl",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Amicus With Dahlia Lithwick | Law, justice, and the courts - When Prosecutors Keep Mum",
+        "descriptor": "Former defense lawyer",
+        "topic": "Murder case Turner v. US and Overton v. US"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "dybdahl, thomas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "fdr publications",
+        "cfscore": "-0.661"
+      },
+      {
+        "matched_name": "dybdahl, thomas l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "psychotherpist",
+        "employer": "self",
+        "cfscore": "-1.087"
+      },
+      {
+        "matched_name": "dybdahl, thomas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "a, n",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "robinson|jack|jack",
+    "display_name": "Jack Robinson",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Amicus With Dahlia Lithwick | Law, justice, and the courts - And Then There Were Eight",
+        "descriptor": "lawyer for the special-needs student at the center of Endrew F. v Douglas City School District",
+        "topic": "special education case at the Supreme Court"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "robinson, jack e",
+        "source": "recipient",
+        "party": "200",
+        "state": "MA",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.576"
+      },
+      {
+        "matched_name": "robinson, jack e",
+        "source": "recipient",
+        "party": "200",
+        "state": "MA",
+        "seat": "federal:senate",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.731"
+      },
+      {
+        "matched_name": "robinson iii, jack e",
+        "source": "recipient",
+        "party": "200",
+        "state": "MA",
+        "seat": "state:office",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.484"
+      },
+      {
+        "matched_name": "robinson, jack e",
+        "source": "recipient",
+        "party": "200",
+        "state": "MA",
+        "seat": "state:secofstate",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.576"
+      }
+    ]
+  },
+  {
+    "guest_key": "shapiro|carolyn|carolyn",
+    "display_name": "Carolyn Shapiro",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Amicus With Dahlia Lithwick | Law, justice, and the courts - Where We Draw the Line",
+        "descriptor": "Legal scholar",
+        "topic": "the Hamilton Electors and Electoral College reform"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "shapiro, jerry and carolyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.176"
+      },
+      {
+        "matched_name": "shapiro, carolyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.176"
+      },
+      {
+        "matched_name": "shapiro, carolyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.101"
+      },
+      {
+        "matched_name": "shapiro, carolyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "falmouth university",
+        "cfscore": "-0.893"
+      },
+      {
+        "matched_name": "shapiro, carolyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "lecturer",
+        "employer": "falmouth university",
+        "cfscore": "-0.984"
+      },
+      {
+        "matched_name": "shapiro, carolyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "homemaker",
+        "cfscore": "-0.821"
+      },
+      {
+        "matched_name": "shapiro, carolyn gleimer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.033"
+      },
+      {
+        "matched_name": "shapiro, carolyn g",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "homemaker",
+        "employer": "",
+        "cfscore": "-0.202"
+      },
+      {
+        "matched_name": "shapiro, carolyn m",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "housewife",
+        "employer": "housewife",
+        "cfscore": "-0.6"
+      },
+      {
+        "matched_name": "shapiro, carolyn g",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "oasis program",
+        "cfscore": "0.078"
+      },
+      {
+        "matched_name": "shapiro, carolyn g",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "homemaker",
+        "employer": "homemaker",
+        "cfscore": "-0.271"
+      },
+      {
+        "matched_name": "shapiro, andy & carolyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.832"
+      },
+      {
+        "matched_name": "shapiro, carolyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.991"
+      },
+      {
+        "matched_name": "shapiro, carolyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "miner barnhill & galland",
+        "cfscore": "-0.984"
+      },
+      {
+        "matched_name": "shapiro, carolyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.997"
+      },
+      {
+        "matched_name": "shapiro, carolyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.689"
+      },
+      {
+        "matched_name": "shapiro, carolyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "accounts payable clerk",
+        "employer": "arrowhead products",
+        "cfscore": "1.512"
+      },
+      {
+        "matched_name": "shapiro, carolyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "farmer",
+        "employer": "self",
+        "cfscore": "1.422"
+      },
+      {
+        "matched_name": "shapiro, carolyn",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.025"
+      },
+      {
+        "matched_name": "shapiro, carolyn g",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "not employed",
+        "cfscore": "-0.98"
+      }
+    ]
+  },
+  {
+    "guest_key": "yang|guan|guan",
+    "display_name": "Guan Yang",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Slate Money - The Breaking the Law Edition",
+        "descriptor": "guest",
+        "topic": "battles with the government, Apple versus FBI, Sci-Hub, Argentina"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "yang, guan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.946"
+      },
+      {
+        "matched_name": "yang, cen guan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.035"
+      },
+      {
+        "matched_name": "yang, guan feng",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "google",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "ledbetter|james|jim",
+    "display_name": "Jim Ledbetter",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Slate Money - The Mega-Merger Edition",
+        "descriptor": "host of the podcast Inc. Uncensored",
+        "topic": "The acquisition of Keurig Green Mountain by JAB Holding Co., Yahoo's ongoing struggles, The merger of chemical manufacturing giants Dow Chemical and DuPont"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ledbetter, jim",
+        "source": "recipient",
+        "party": "200",
+        "state": "VA",
+        "seat": "local:sheriff",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.209"
+      },
+      {
+        "matched_name": "ledbetter, james t jr",
+        "source": "recipient",
+        "party": "328",
+        "state": "SC",
+        "seat": "local:supervisor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.526"
+      }
+    ]
+  },
+  {
+    "guest_key": "hirshman|linda|linda",
+    "display_name": "Linda Hirshman",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Amicus With Dahlia Lithwick | Law, justice, and the courts - Sandra and Ruth",
+        "descriptor": "author",
+        "topic": "Sandra Day O'Connor and Ruth Bader Ginsburg's rise to the Supreme Court"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hirshman, linda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "writer",
+        "employer": "self",
+        "cfscore": "-1.044"
+      },
+      {
+        "matched_name": "hirshman, linda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.711"
+      },
+      {
+        "matched_name": "hirshman, linda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "iit chicago kent",
+        "cfscore": "-0.799"
+      },
+      {
+        "matched_name": "hirshman, linda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "writer",
+        "employer": "self employed",
+        "cfscore": "-0.949"
+      },
+      {
+        "matched_name": "hirshman, linda r",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "proffessor",
+        "employer": "brandeise university",
+        "cfscore": "-0.943"
+      },
+      {
+        "matched_name": "hirshman, linda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "-1.055"
+      },
+      {
+        "matched_name": "hirshman, linda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "not employed",
+        "cfscore": "-0.897"
+      },
+      {
+        "matched_name": "hirshman, linda",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.895"
+      }
+    ]
+  },
+  {
+    "guest_key": "yoshino|kenji|kenji",
+    "display_name": "Kenji Yoshino",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Amicus With Dahlia Lithwick | Law, justice, and the courts - The Term in Review",
+        "descriptor": "SCOTUS-watcher",
+        "topic": "Supreme Court term reflection and historical significance"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "yoshino, kenji",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.898"
+      },
+      {
+        "matched_name": "yoshino, kenji",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "yale law school",
+        "cfscore": "-0.989"
+      },
+      {
+        "matched_name": "yoshino, kenji",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "pt",
+        "employer": "acic pt",
+        "cfscore": "-1.019"
+      }
+    ]
+  },
+  {
+    "guest_key": "laycock|douglas|douglas",
+    "display_name": "Douglas Laycock",
+    "examples": [
+      {
+        "show_name": "Slate News",
+        "episode_title": "Amicus With Dahlia Lithwick | Law, justice, and the courts - Amicus with Dahlia Lithwick",
+        "descriptor": "argued the case of a Muslim prisoner who wants to grow a beard",
+        "topic": "Muslim prisoner beard case"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "laycock, douglas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.978"
+      },
+      {
+        "matched_name": "laycock, h douglas & teresa sullivan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.453"
+      },
+      {
+        "matched_name": "laycock, h douglas",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "university of texas",
+        "employer": "university of texas",
+        "cfscore": "-0.844"
+      },
+      {
+        "matched_name": "laycock, douglas or teresa",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.529"
+      }
+    ]
+  },
+  {
+    "guest_key": "diiulio|john|john",
+    "display_name": "John DiIulio",
+    "examples": [
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "John DiIulio: A Second Trump Term and the Civil Service",
+        "descriptor": "expert on civil service and Trump administration",
+        "topic": "A Second Trump Term and the Civil Service"
+      },
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "John J. DiIulio Jr.: Big Government, Then and Now",
+        "descriptor": "political scientist and policy expert",
+        "topic": "Big Government, Then and Now"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "diiulio, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "university of pennsylvania",
+        "cfscore": "-0.895"
+      },
+      {
+        "matched_name": "diiulio, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "staff",
+        "employer": "university of pennsylvania",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "hansen|royal|royal",
+    "display_name": "Royal Hansen",
+    "examples": [
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "Google\u2019s Royal Hansen on AI: Where Are We? Where Are We Going?",
+        "descriptor": "Google",
+        "topic": "AI"
+      },
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "Royal Hansen: Cybersecurity and National Security in the Digital Age",
+        "descriptor": "cybersecurity and national security expert",
+        "topic": "Cybersecurity and National Security in the Digital Age"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hansen, royal",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "vice president",
+        "employer": "atstakecom",
+        "cfscore": "-0.818"
+      },
+      {
+        "matched_name": "hansen, royal",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "Technologist",
+        "employer": "Morgan Stanley",
+        "cfscore": "-0.892"
+      },
+      {
+        "matched_name": "hansen, royal & hamilton, susan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "vice president",
+        "employer": "morgan, stanley",
+        "cfscore": "-0.818"
+      },
+      {
+        "matched_name": "hansen, royal",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "technology",
+        "employer": "google",
+        "cfscore": "-0.296"
+      }
+    ]
+  },
+  {
+    "guest_key": "kagan|donald|donald",
+    "display_name": "Donald Kagan",
+    "examples": [
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "Donald Kagan: War and Human Nature",
+        "descriptor": "scholar of war and human nature",
+        "topic": "War and Human Nature"
+      },
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "Donald Kagan on War and Human Nature",
+        "descriptor": "scholar on war and human nature",
+        "topic": "War and Human Nature"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "kagan, donald",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.201"
+      },
+      {
+        "matched_name": "kagan, donald",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.232"
+      }
+    ]
+  },
+  {
+    "guest_key": "finn|chester|chester",
+    "display_name": "Chester Finn",
+    "examples": [
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "Chester Finn: Education Reform in America",
+        "descriptor": "education reform expert",
+        "topic": "Education Reform in America"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "finn, chester",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.595"
+      },
+      {
+        "matched_name": "finn, chester",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.296"
+      },
+      {
+        "matched_name": "finn, chester e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "vanderbilt univ",
+        "cfscore": "0.778"
+      },
+      {
+        "matched_name": "finn, chester a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.261"
+      },
+      {
+        "matched_name": "finn, chester e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "finn,esterbrook & mcgee",
+        "employer": "finn,esterbrook & mcgee",
+        "cfscore": "-0.32"
+      },
+      {
+        "matched_name": "finn, chester",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.424"
+      }
+    ]
+  },
+  {
+    "guest_key": "melzer|arthur|arthur",
+    "display_name": "Arthur Melzer",
+    "examples": [
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "Arthur Melzer: The Lost History of Esoteric Writing",
+        "descriptor": "scholar of esoteric writing",
+        "topic": "The Lost History of Esoteric Writing"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "melzer, arthur m",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.194"
+      },
+      {
+        "matched_name": "melzer, arthur m",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "m s u",
+        "cfscore": "0.901"
+      },
+      {
+        "matched_name": "melzer, arthur",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "union member",
+        "employer": "plumbers local 467",
+        "cfscore": "-0.299"
+      },
+      {
+        "matched_name": "melzer, arthur j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "plumber",
+        "employer": "local 467 union member",
+        "cfscore": "-0.299"
+      },
+      {
+        "matched_name": "melzer, arthur",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "msu",
+        "cfscore": "0.15"
+      },
+      {
+        "matched_name": "melzer, arthur",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "plumber",
+        "employer": "local 467 union member",
+        "cfscore": "-0.299"
+      },
+      {
+        "matched_name": "melzer, arthur",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "plumber",
+        "employer": "local 467 union member",
+        "cfscore": "-0.299"
+      }
+    ]
+  },
+  {
+    "guest_key": "weiner|gregory|greg",
+    "display_name": "Greg Weiner",
+    "examples": [
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "Greg Weiner: Why Daniel Patrick Moynihan Matters",
+        "descriptor": "author/scholar",
+        "topic": "Daniel Patrick Moynihan"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "weiner, greg",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "president",
+        "employer": "eastern metal works",
+        "cfscore": "0.17"
+      },
+      {
+        "matched_name": "weiner, greg",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "ceo",
+        "employer": "quickscrews international corp",
+        "cfscore": "1.476"
+      },
+      {
+        "matched_name": "weiner, greg",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.896"
+      },
+      {
+        "matched_name": "weiner, gregory",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "technical artist",
+        "employer": "hangar 13 games",
+        "cfscore": "-1.155"
+      },
+      {
+        "matched_name": "weiner, greg",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "dir bus attraction",
+        "employer": "edc space coast",
+        "cfscore": "1.542"
+      },
+      {
+        "matched_name": "weiner, gregory",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.027"
+      },
+      {
+        "matched_name": "weiner, gregory",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "dir business attraction",
+        "employer": "edc",
+        "cfscore": "1.239"
+      },
+      {
+        "matched_name": "weiner, gregory",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.023"
+      },
+      {
+        "matched_name": "weiner, greg",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "weiner, greg",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "edc space coast",
+        "cfscore": "1.095"
+      },
+      {
+        "matched_name": "weiner, gregory",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "management consultant",
+        "employer": "vertix consulting llc",
+        "cfscore": "-1.028"
+      },
+      {
+        "matched_name": "weiner, greg",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.881"
+      },
+      {
+        "matched_name": "weiner, greg",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "0.916"
+      }
+    ]
+  },
+  {
+    "guest_key": "bergner|jeff|jeff",
+    "display_name": "Jeff Bergner",
+    "examples": [
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "Jeff Bergner: The Vanishing Congress",
+        "descriptor": "author/expert on Congress",
+        "topic": "the decline and dysfunction of Congress"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "bergner, susan jeff",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.542"
+      },
+      {
+        "matched_name": "bergner, jeff",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "cpa",
+        "employer": "deloitte",
+        "cfscore": "1.599"
+      },
+      {
+        "matched_name": "bergner, jeff",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "0.251"
+      }
+    ]
+  },
+  {
+    "guest_key": "abraham|spencer|spencer",
+    "display_name": "Spencer Abraham",
+    "examples": [
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "Spencer Abraham and Vin Weber on Congress, Trump, and the Parties",
+        "descriptor": "former member of Congress",
+        "topic": "Congress, Trump, and the Parties"
+      },
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "2016 Post-Election Special: Spencer Abraham and Jay Cost",
+        "descriptor": "former U.S. Senator",
+        "topic": "post-election analysis"
+      },
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "Spencer Abraham and Jay Cost on the 2016 Presidential Race",
+        "descriptor": "former U.S. Senator",
+        "topic": "2016 Presidential Race"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "abraham, edmond spencer",
+        "source": "recipient",
+        "party": "200",
+        "state": "MI",
+        "seat": "federal:senate",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.94"
+      },
+      {
+        "matched_name": "abraham, edmond spencer",
+        "source": "recipient",
+        "party": "200",
+        "state": "MI",
+        "seat": "federal:senate",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.94"
+      },
+      {
+        "matched_name": "fund for american opportunity",
+        "source": "recipient",
+        "party": "200",
+        "state": "DC",
+        "seat": "federal:527",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.279"
+      }
+    ]
+  },
+  {
+    "guest_key": "donnelly|thomas|thomas",
+    "display_name": "Thomas Donnelly",
+    "examples": [
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "Thomas Donnelly on Addressing the Challenges to American Primacy",
+        "descriptor": "expert on American primacy and related challenges",
+        "topic": "Addressing the Challenges to American Primacy"
+      },
+      {
+        "show_name": "Conversations with Bill Kristol",
+        "episode_title": "Thomas Donnelly and Gary Schmitt on the U.S. Military and Foreign Policy",
+        "descriptor": "expert on U.S. Military and Foreign Policy",
+        "topic": "U.S. Military and Foreign Policy"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "donnelly, thomas m",
+        "source": "recipient",
+        "party": "200",
+        "state": "CO",
+        "seat": "local:other",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.008"
+      },
+      {
+        "matched_name": "donnelly, tom",
+        "source": "recipient",
+        "party": "200",
+        "state": "CO",
+        "seat": "local:commissioner",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.163"
+      },
+      {
+        "matched_name": "donnelly, thomas more",
+        "source": "recipient",
+        "party": "100",
+        "state": "IL",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.568"
+      },
+      {
+        "matched_name": "donnelly, tom",
+        "source": "recipient",
+        "party": "328",
+        "state": "NY",
+        "seat": "local:council",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.286"
+      }
+    ]
+  },
+  {
+    "guest_key": "downey|james|jim",
+    "display_name": "Jim Downey",
+    "examples": [
+      {
+        "show_name": "The Al Franken Podcast",
+        "episode_title": "204: BEST OF: SNL's Jim Downey",
+        "descriptor": "SNL writer and producer",
+        "topic": "iconic sketches and political bits from SNL history"
+      },
+      {
+        "show_name": "The Al Franken Podcast",
+        "episode_title": "151: Saturday Night Live Writer & Producer Jim Downey",
+        "descriptor": "Saturday Night Live Writer & Producer",
+        "topic": "His work at Saturday Night Live"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "downey, james iii",
+        "source": "recipient",
+        "party": "328",
+        "state": "PA",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.776"
+      },
+      {
+        "matched_name": "downey jr, james",
+        "source": "recipient",
+        "party": "328",
+        "state": "MI",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.27"
+      }
+    ]
+  },
+  {
+    "guest_key": "robinette|jerry|jerry",
+    "display_name": "Jerry Robinette",
+    "examples": [
+      {
+        "show_name": "The Al Franken Podcast",
+        "episode_title": "117: Our Immigration System: It's Broken!",
+        "descriptor": "former ICE Investigator",
+        "topic": "Southern Border"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "robinette, jerry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "retired",
+        "cfscore": "0.909"
+      },
+      {
+        "matched_name": "robinette, jerry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "drywall",
+        "employer": "canyon state drywall",
+        "cfscore": "1.418"
+      }
+    ]
+  },
+  {
+    "guest_key": "taylor|d|d",
+    "display_name": "D. Taylor",
+    "examples": [
+      {
+        "show_name": "The Al Franken Podcast",
+        "episode_title": "69: THE MIDTERMS - John Anzalone and D. Taylor",
+        "descriptor": "labor leader/political figure",
+        "topic": "midterm elections analysis"
+      },
+      {
+        "show_name": "The Al Franken Podcast",
+        "episode_title": "40: The Ground Game in Georgia!",
+        "descriptor": "President of UNITE HERE",
+        "topic": "canvassing reports and voter feedback"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "taylor, jerry d",
+        "source": "recipient",
+        "party": "100",
+        "state": "VA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.058"
+      },
+      {
+        "matched_name": "taylor, james d",
+        "source": "recipient",
+        "party": "328",
+        "state": "NC",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.688"
+      },
+      {
+        "matched_name": "taylor, angela d",
+        "source": "recipient",
+        "party": "328",
+        "state": "NV",
+        "seat": "local:school-board",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.423"
+      },
+      {
+        "matched_name": "taylor, mollie d",
+        "source": "recipient",
+        "party": "328",
+        "state": "SC",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.673"
+      },
+      {
+        "matched_name": "taylor, charles d",
+        "source": "recipient",
+        "party": "328",
+        "state": "SC",
+        "seat": "local:supervisor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.617"
+      },
+      {
+        "matched_name": "taylor, rod d",
+        "source": "recipient",
+        "party": "328",
+        "state": "CA",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.628"
+      }
+    ]
+  },
+  {
+    "guest_key": "mann|thomas|tom",
+    "display_name": "Tom Mann",
+    "examples": [
+      {
+        "show_name": "The Al Franken Podcast",
+        "episode_title": "65: Norm Ornstein & Tom Mann - Who Called the GOP a Sham Years Ago!",
+        "descriptor": "political analyst",
+        "topic": "GOP criticism"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "mann, tom",
+        "source": "recipient",
+        "party": "100",
+        "state": "MO",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.408"
+      },
+      {
+        "matched_name": "mann, thomas d",
+        "source": "recipient",
+        "party": "328",
+        "state": "WA",
+        "seat": "local:council",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.92"
+      },
+      {
+        "matched_name": "mann, thomas g",
+        "source": "recipient",
+        "party": "200",
+        "state": "NJ",
+        "seat": "local:other",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.987"
+      },
+      {
+        "matched_name": "mann, tommy",
+        "source": "recipient",
+        "party": "200",
+        "state": "SC",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.278"
+      },
+      {
+        "matched_name": "mann, thomas j",
+        "source": "recipient",
+        "party": "328",
+        "state": "SC",
+        "seat": "local:mayor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.737"
+      }
+    ]
+  },
+  {
+    "guest_key": "fineman|howard|howard",
+    "display_name": "Howard Fineman",
+    "examples": [
+      {
+        "show_name": "The Al Franken Podcast",
+        "episode_title": "61: Howard Fineman on Republican Nihilism",
+        "descriptor": "political analyst/journalist",
+        "topic": "Republican Nihilism"
+      },
+      {
+        "show_name": "The Al Franken Podcast",
+        "episode_title": "12: A Conversation With Howard Fineman",
+        "descriptor": "political journalist and commentator",
+        "topic": "conversation"
+      },
+      {
+        "show_name": "Countdown with Keith Olbermann",
+        "episode_title": "GARLAND SHOULD NOW INDICT JIM JORDAN; HOWARD FINEMAN IN MEMORIAM - 6.13.24",
+        "descriptor": "journalist and political analyst",
+        "topic": "in memoriam tribute"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "fineman, howard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "",
+        "cfscore": "-0.275"
+      },
+      {
+        "matched_name": "fineman, howard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.954"
+      },
+      {
+        "matched_name": "fineman, howard",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "educator",
+        "employer": "nycdoe",
+        "cfscore": "-1.048"
+      },
+      {
+        "matched_name": "fineman, howard d",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "furniture retail",
+        "employer": "",
+        "cfscore": "1.427"
+      }
+    ]
+  },
+  {
+    "guest_key": "garcia|lily|lily eskelsen",
+    "display_name": "Lily Eskelsen Garc\u00eda",
+    "examples": [
+      {
+        "show_name": "The Al Franken Podcast",
+        "episode_title": "10: NEA President Lily Eskelsen Garc\u00eda on Teaching During a Pandemic and a DeVos",
+        "descriptor": "NEA President",
+        "topic": "Teaching During a Pandemic and a DeVos"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "garcia, lily eskelsen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.124"
+      },
+      {
+        "matched_name": "garcia, lily",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.986"
+      },
+      {
+        "matched_name": "garcia, lily",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.337"
+      },
+      {
+        "matched_name": "garcia, lily m",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.245"
+      },
+      {
+        "matched_name": "garcia, lily",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "educator",
+        "employer": "",
+        "cfscore": "-0.27"
+      },
+      {
+        "matched_name": "garcia, lily",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "prosthodontist",
+        "employer": "university of texas health & science center",
+        "cfscore": "-1.087"
+      },
+      {
+        "matched_name": "garcia, lily",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "internal auditor",
+        "employer": "uc berkeley",
+        "cfscore": "-1.024"
+      },
+      {
+        "matched_name": "garcia, lily",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.637"
+      },
+      {
+        "matched_name": "garcia, lily",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "esthetician",
+        "employer": "self employed",
+        "cfscore": "-0.973"
+      },
+      {
+        "matched_name": "garcia, lily",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "medical sales",
+        "employer": "xodus medical",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "garcia, lily grace",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "garcia, lily",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "server",
+        "employer": "olive garden",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "garcia, lily",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "garcia, lily",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.028"
+      },
+      {
+        "matched_name": "garcia, lily",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "esthetician",
+        "employer": "self employed",
+        "cfscore": "-1.055"
+      }
+    ]
+  },
+  {
+    "guest_key": "shore|deborah|debbie",
+    "display_name": "Debbie Shore",
+    "examples": [
+      {
+        "show_name": "The Al Franken Podcast",
+        "episode_title": "5: Billy and Debbie Shore, Founders of No Kid Hungry, on Hunger in America During this Pandemic",
+        "descriptor": "Founder of No Kid Hungry",
+        "topic": "Hunger in America During the Pandemic"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "shore, deborah",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.576"
+      },
+      {
+        "matched_name": "shore, deborah",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "director, market segmentation",
+        "employer": "wachovia bank, n a",
+        "cfscore": "0.368"
+      },
+      {
+        "matched_name": "shore, debbie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "social worker",
+        "employer": "sashia bruce",
+        "cfscore": "-0.899"
+      },
+      {
+        "matched_name": "shore, debbie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "administrative assistant",
+        "employer": "snowmass water & sanitation district",
+        "cfscore": "-1.006"
+      },
+      {
+        "matched_name": "shore, deborah",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.001"
+      },
+      {
+        "matched_name": "shore, debbie s",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.71"
+      },
+      {
+        "matched_name": "shore, deb",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "rn",
+        "employer": "university of missouri healthcare",
+        "cfscore": "-1.056"
+      },
+      {
+        "matched_name": "shore, deborah",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.145"
+      },
+      {
+        "matched_name": "shore, deborah",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "program analyst",
+        "employer": "usda",
+        "cfscore": "1.638"
+      },
+      {
+        "matched_name": "shore, debbie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.053"
+      },
+      {
+        "matched_name": "shore, deb",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.984"
+      }
+    ]
+  },
+  {
+    "guest_key": "galbraith|peter|peter",
+    "display_name": "Peter Galbraith",
+    "examples": [
+      {
+        "show_name": "The Al Franken Podcast",
+        "episode_title": "29: Al talks to Ambassador Peter Galbraith About Trump's Tragic Betrayal of the Kurds, and Al weighs in on the Impeachment Hearings.",
+        "descriptor": "Ambassador",
+        "topic": "Trump's Tragic Betrayal of the Kurds"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "galbraith, peter woodard",
+        "source": "recipient",
+        "party": "100",
+        "state": "MA",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.945"
+      },
+      {
+        "matched_name": "galbraith, peter w",
+        "source": "recipient",
+        "party": "100",
+        "state": "VT",
+        "seat": "state:governor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.712"
+      }
+    ]
+  },
+  {
+    "guest_key": "lachman|sherry|sherry",
+    "display_name": "Sherry Lachman",
+    "examples": [
+      {
+        "show_name": "The Al Franken Podcast",
+        "episode_title": "28: Al Talks To Executive Director of Foster America Sherry Lachman About The State of Foster Care And Al Gets Verklempt",
+        "descriptor": "Executive Director of Foster America",
+        "topic": "The State of Foster Care"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "lachman, sherry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "policy advisor",
+        "employer": "department of education",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "lachman, sherry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "policy nonprofit",
+        "employer": "foster america",
+        "cfscore": "-1.014"
+      },
+      {
+        "matched_name": "lachman, sherry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "nonprofit",
+        "employer": "foster america",
+        "cfscore": "-1.003"
+      },
+      {
+        "matched_name": "lachman, sherry",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "policy and budget",
+        "employer": "omb",
+        "cfscore": "-1.003"
+      }
+    ]
+  },
+  {
+    "guest_key": "christofferson|d|d todd",
+    "display_name": "D. Todd Christofferson",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "The Bread of Life. D. Todd Christofferson. ACU Sunday Series.",
+        "descriptor": "speaker",
+        "topic": "The Bread of Life"
+      },
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "\u201cGive Us This Day Our Daily Bread\u201d D. Todd Christofferson. ACU Sunday Series.",
+        "descriptor": "speaker",
+        "topic": "religious/spiritual"
+      },
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "The Most Powerful Thing You Can Do This Sunday \u2013 D. Todd Christofferson and Song- Solomon Ray, Come To Me. ACU Sunday Series",
+        "descriptor": "speaker",
+        "topic": "Sunday message"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "christofferson, d todd",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.814"
+      },
+      {
+        "matched_name": "christofferson, d",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "not employed",
+        "cfscore": "-1.032"
+      },
+      {
+        "matched_name": "christofferson, joan d",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.408"
+      },
+      {
+        "matched_name": "christofferson, joyce d",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.243"
+      }
+    ]
+  },
+  {
+    "guest_key": "williams|walter|walter e",
+    "display_name": "Dr. Walter E. Williams",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Dr. Walter E. Williams. The Legitimate Role of Government.",
+        "descriptor": "economist and social commentator",
+        "topic": "The Legitimate Role of Government"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "williams, walter c",
+        "source": "recipient",
+        "party": "200",
+        "state": "AL",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.041"
+      },
+      {
+        "matched_name": "williams, walter dub",
+        "source": "recipient",
+        "party": "200",
+        "state": "NM",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.859"
+      }
+    ]
+  },
+  {
+    "guest_key": "ventura|jorge|jorge",
+    "display_name": "Jorge Ventura",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "We Are DANGEROUSLY CLOSE To Civil War, Leftist Launch Insurgency Against ICE- Timcast. White Replacement- Steven Crowder",
+        "descriptor": "Guest",
+        "topic": "Civil unrest and political insurgency"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "ventura, jorge",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "ventura, jorge",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "housekeeping department",
+        "employer": "orange coast memorial hospital",
+        "cfscore": "-1.036"
+      },
+      {
+        "matched_name": "ventura, jorge",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "real estate broker",
+        "employer": "more realty services",
+        "cfscore": "-1.091"
+      },
+      {
+        "matched_name": "ventura, jorge",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales manager",
+        "employer": "dish",
+        "cfscore": "-1.093"
+      },
+      {
+        "matched_name": "ventura, jorge",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "carrier",
+        "employer": "rey ventura transport",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "ventura, jorge",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "system engineer",
+        "employer": "curvature inc",
+        "cfscore": "1.564"
+      },
+      {
+        "matched_name": "ventura, jorge",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "soft eng",
+        "employer": "park place tech",
+        "cfscore": "-1.085"
+      }
+    ]
+  },
+  {
+    "guest_key": "festa|brian|brian",
+    "display_name": "Brian Festa",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Steve Deace. It's the END of the Republic (Without Arrests) and MAHA Legal-Medical Update.",
+        "descriptor": "from We the Patriots USA",
+        "topic": "MAHA legal-medical update, cases being pursued, and medical kidnapping story"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "festa, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "festa, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "general manager",
+        "employer": "empire paving",
+        "cfscore": "1.08"
+      },
+      {
+        "matched_name": "festa, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.435"
+      },
+      {
+        "matched_name": "festa, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "new haven bd of ed",
+        "cfscore": "0.805"
+      },
+      {
+        "matched_name": "festa, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.629"
+      },
+      {
+        "matched_name": "festa, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "hr consultant",
+        "employer": "ibm",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "festa, brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "attorney",
+        "employer": "state of ct",
+        "cfscore": "1.336"
+      },
+      {
+        "matched_name": "festa, kristen & brian",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "healthcare",
+        "employer": "healthcare",
+        "cfscore": "1.434"
+      }
+    ]
+  },
+  {
+    "guest_key": "moody|raymond|raymond",
+    "display_name": "Dr. Raymond Moody",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Life After Life. A Documentary about Near Death Experiences. \u00a0Dr. Raymond Moody Investigates.",
+        "descriptor": "Doctor/Researcher",
+        "topic": "Near Death Experiences"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "moody, raymond",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.606"
+      },
+      {
+        "matched_name": "moody, raymond",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.57"
+      },
+      {
+        "matched_name": "moody, raymond e",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.396"
+      },
+      {
+        "matched_name": "moody, raymond",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "retired",
+        "cfscore": "1.178"
+      },
+      {
+        "matched_name": "moody, raymond l jr",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "construction executive",
+        "cfscore": "1.104"
+      },
+      {
+        "matched_name": "moody, raymond j",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "precision healthgate",
+        "cfscore": "1.278"
+      },
+      {
+        "matched_name": "moody, raymond & anita",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.234"
+      },
+      {
+        "matched_name": "moody, raymond",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "psychologist",
+        "employer": "ohio state university",
+        "cfscore": "-0.948"
+      },
+      {
+        "matched_name": "moody, raymond",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "moody, raymond",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "it",
+        "employer": "pg",
+        "cfscore": "1.307"
+      },
+      {
+        "matched_name": "moody, raymond",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "doctor",
+        "employer": "mcg",
+        "cfscore": "-1.058"
+      },
+      {
+        "matched_name": "moody, raymond & jackie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.253"
+      }
+    ]
+  },
+  {
+    "guest_key": "daigle|lauren|lauren",
+    "display_name": "Lauren Daigle",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Christ\u2019s Atonement in Gethsemane, 3 Beautiful Blessings From God and Song from Lauren Daigle - You Say. ACU Sunday Series.",
+        "descriptor": "Music artist",
+        "topic": "Song - You Say"
+      },
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "The Atonement of Jesus Christ and Song Thank God I Do. ACU Sunday Series",
+        "descriptor": "music artist",
+        "topic": "Song Thank God I Do"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "daigle, lauren",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "millville board of education",
+        "cfscore": "-0.939"
+      },
+      {
+        "matched_name": "daigle, lauren t",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "waitress",
+        "employer": "burrows, justin",
+        "cfscore": "1.381"
+      }
+    ]
+  },
+  {
+    "guest_key": "hunter|david|david",
+    "display_name": "David Hunter",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "David Hunter. Historic Melt-up Followed by a Massive Market Correction. Peter Schiff 20X Silver. Buy Gold Now Before its too Late.",
+        "descriptor": "market analyst discussing historic melt-up and market correction",
+        "topic": "Historic Melt-up Followed by a Massive Market Correction"
+      },
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Part 1 of 2. 30% to 50% Rise in Stock Market, $20 Trillion Rescue, End of Ponzi Scheme, Gold, Silver, Miners. David Hunter.",
+        "descriptor": "financial analyst/commentator",
+        "topic": "stock market, economic rescue, precious metals"
+      },
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Part 2 of 2. David Hunter. The 80% Bust in 2nd Half of 2025",
+        "descriptor": "guest",
+        "topic": "economic forecast/market analysis"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hunter, paul david",
+        "source": "recipient",
+        "party": "100",
+        "state": "OK",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.022"
+      },
+      {
+        "matched_name": "hunter, dario david",
+        "source": "recipient",
+        "party": "328",
+        "state": "00",
+        "seat": "federal:president",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.327"
+      }
+    ]
+  },
+  {
+    "guest_key": "christopherson|d|d todd",
+    "display_name": "D Todd Christopherson",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "The Voice of Warning. D Todd Christopherson. ACU Sunday Series.",
+        "descriptor": "speaker",
+        "topic": "religious/spiritual message"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "christopherson, thomas d",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "owner",
+        "employer": "affordablebuttonscom",
+        "cfscore": "1.433"
+      },
+      {
+        "matched_name": "christopherson, d foy",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self",
+        "employer": "self",
+        "cfscore": "-1.044"
+      },
+      {
+        "matched_name": "christopherson, anthony d",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.017"
+      },
+      {
+        "matched_name": "christopherson, myron d",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.443"
+      }
+    ]
+  },
+  {
+    "guest_key": "rae|scott|scott",
+    "display_name": "Scott Rae",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Is Cohabitation Wise? The Data Might Surprise You.",
+        "descriptor": "co-discussant",
+        "topic": "cohabitation and marriage stability"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "rae, scott",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.272"
+      },
+      {
+        "matched_name": "rae, scott",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "avatarfleet",
+        "cfscore": "1.156"
+      },
+      {
+        "matched_name": "rae, scott",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "substitute teacher",
+        "employer": "bisbee sch district",
+        "cfscore": "1.985"
+      },
+      {
+        "matched_name": "rae, scott & cheryl",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.279"
+      },
+      {
+        "matched_name": "rae, scott c & cheryl l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.249"
+      },
+      {
+        "matched_name": "rae, scott",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.515"
+      },
+      {
+        "matched_name": "rae, scott",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "csr",
+        "cfscore": "-1.048"
+      },
+      {
+        "matched_name": "rae, scott",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "teradata",
+        "cfscore": "-0.926"
+      }
+    ]
+  },
+  {
+    "guest_key": "graham|william|billy",
+    "display_name": "Billy Graham",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Billy Graham. Jesus Christ sermons series Part 1. ACU Sunday Series.",
+        "descriptor": "Pastor",
+        "topic": "Jesus Christ sermons series"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "graham, william marc bill",
+        "source": "recipient",
+        "party": "200",
+        "state": "NC",
+        "seat": "state:governor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.151"
+      },
+      {
+        "matched_name": "graham, william",
+        "source": "recipient",
+        "party": "328",
+        "state": "MI",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.299"
+      },
+      {
+        "matched_name": "graham, william g bill",
+        "source": "recipient",
+        "party": "328",
+        "state": "NC",
+        "seat": "state:unknown",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.25"
+      }
+    ]
+  },
+  {
+    "guest_key": "cook|quentin|quentin l",
+    "display_name": "Quentin L. Cook",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Billy Graham- One of the MOST POWERFUL Videos You\u2019ll Ever Watch. Quentin L. Cook, D. Todd Christofferson. ACU Sunday Series.",
+        "descriptor": "Elder",
+        "topic": "Faith Over Fear: Walking the Path of Peace"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "cook, quentin l",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.196"
+      },
+      {
+        "matched_name": "cook, quentin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.278"
+      },
+      {
+        "matched_name": "cook, quentin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "-1.038"
+      },
+      {
+        "matched_name": "cook, quentin",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.871"
+      }
+    ]
+  },
+  {
+    "guest_key": "kelly|payton|payton",
+    "display_name": "Payton Kelly",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Black on White Violence- Let\u2019s Start HONESTLY Discussing the Source of VIOLENCE",
+        "descriptor": "guest discussing a specific incident",
+        "topic": "murder of Austin Metcalf and state of Black America"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "kelly, payton",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "creative direc",
+        "employer": "boulevard brewing co",
+        "cfscore": "-1.047"
+      },
+      {
+        "matched_name": "kelly, payton",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.285"
+      }
+    ]
+  },
+  {
+    "guest_key": "west|john|john",
+    "display_name": "Dr. John West",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "The Bible, Intelligent Design, and the Rise of Modern Science",
+        "descriptor": "Managing Director of the Center for Science and Culture at Discovery Institute",
+        "topic": "The impact of the Bible and the idea of intelligent design on the rise of modern science"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "west, john william bill",
+        "source": "recipient",
+        "party": "100",
+        "state": "MS",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.998"
+      },
+      {
+        "matched_name": "west, john s",
+        "source": "recipient",
+        "party": "328",
+        "state": "SC",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.158"
+      },
+      {
+        "matched_name": "west, john w sr",
+        "source": "recipient",
+        "party": "200",
+        "state": "IL",
+        "seat": "local:supervisor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.339"
+      },
+      {
+        "matched_name": "west, john t iv",
+        "source": "recipient",
+        "party": "328",
+        "state": "SC",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.104"
+      },
+      {
+        "matched_name": "west iv, john taliaferro jay",
+        "source": "recipient",
+        "party": "200",
+        "state": "SC",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.408"
+      }
+    ]
+  },
+  {
+    "guest_key": "abramowicz|steven|steven",
+    "display_name": "Steven Abramowicz",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "ELECTION SECURITY EXECUTIVE ORDER, & WAR WITH VENEZUELA? China is Prepping for War",
+        "descriptor": "guest participant",
+        "topic": "Election security and geopolitical analysis"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "abramowicz, steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.013"
+      },
+      {
+        "matched_name": "abramowicz, steven",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.353"
+      },
+      {
+        "matched_name": "abramowicz, steven",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "investment professional",
+        "employer": "mill creek fncl",
+        "cfscore": "1.616"
+      },
+      {
+        "matched_name": "abramowicz, steven",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "investment professional",
+        "employer": "mill creek fncl",
+        "cfscore": "1.339"
+      }
+    ]
+  },
+  {
+    "guest_key": "martensen|christopher|chris",
+    "display_name": "Dr. Chris Martensen",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Trump Gives Latest Examples of Pure Fraud and When Cheating Becomes a Way of Life: A Survival Guide by Dr. Chris Martensen.",
+        "descriptor": "doctor/expert",
+        "topic": "fraud and cheating as a way of life"
+      },
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "A Deep Dive into DeepSeek. Steven Crowder, Dr. Chris Martensen",
+        "descriptor": "doctor and analyst",
+        "topic": "DeepSeek"
+      },
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Glenn Beck, Dr. Chris Martensen - Trump's Election May Have Averted The Worst Possible Outcome and Deportations in America \u2014 THE FACTS",
+        "descriptor": "doctor/expert",
+        "topic": "Trump's election and deportations in America"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "martensen, chris",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "farmer",
+        "cfscore": "1.37"
+      },
+      {
+        "matched_name": "martensen, chris",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.443"
+      }
+    ]
+  },
+  {
+    "guest_key": "skousen|cleon|cleon",
+    "display_name": "Cleon Skousen",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "The Last Few Days of Jesus the Christ. Cleon Skousen. ACU Sunday",
+        "descriptor": "author/speaker",
+        "topic": "The Last Few Days of Jesus the Christ"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "skousen, w cleon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self-employed",
+        "employer": "self-employed",
+        "cfscore": "0.956"
+      },
+      {
+        "matched_name": "skousen, cleon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "retired",
+        "cfscore": "1.091"
+      }
+    ]
+  },
+  {
+    "guest_key": "hughes|brittany|brittany",
+    "display_name": "Brittany Hughes",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "8 X Clips. Dan Bongino, Adam Carolla, National Guard in L.A., Al-Qaeda plans for numerous attacks on American soil, Covid 'Vaccines' Found in Cancer Tumors. Brittany Hughes.",
+        "descriptor": "show host",
+        "topic": "various topics"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hughes, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.46"
+      },
+      {
+        "matched_name": "hughes, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "hughes, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "preschool teacher",
+        "employer": "a childs place",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "hughes, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "hughes, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "hughes, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "project manager",
+        "employer": "satoree kitchen & bath",
+        "cfscore": "-1.03"
+      },
+      {
+        "matched_name": "hughes, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "community organizer",
+        "employer": "missouri faith voices",
+        "cfscore": "-1.056"
+      },
+      {
+        "matched_name": "hughes, brittany",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "auditor",
+        "employer": "arizona auditor general",
+        "cfscore": "-1.077"
+      }
+    ]
+  },
+  {
+    "guest_key": "phillips|john|john",
+    "display_name": "John Phillips",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "California Communism, Fires & Failed Los Angeles Leadership. I'm Right with Jesse Kelly",
+        "descriptor": "radio host and political commentator",
+        "topic": "California wildfires and Los Angeles leadership"
+      },
+      {
+        "show_name": "It's A Numbers Game with Ryan Girdusky",
+        "episode_title": "It's a Numbers Game: DSA Madness Exposed: Socialist Takeover, Spencer Pratt\u2019s Loss & California\u2019s Political Future",
+        "descriptor": "Los Angeles radio host",
+        "topic": "Spencer Pratt's mayoral campaign, political future of Los Angeles and California, rise of socialist candidates, voter confidence, election integrity, California's governor race, Republican competitiveness in deep-blue cities"
+      },
+      {
+        "show_name": "It's A Numbers Game with Ryan Girdusky",
+        "episode_title": "It's a Numbers Game Podcast: The Numbers Behind California's Political Landscape with John Phillips",
+        "descriptor": "political analyst/commentator on California politics",
+        "topic": "California's Political Landscape"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "phillips, john aristotle",
+        "source": "recipient",
+        "party": "100",
+        "state": "CT",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.577"
+      },
+      {
+        "matched_name": "phillips, john r jr",
+        "source": "recipient",
+        "party": "328",
+        "state": "00",
+        "seat": "federal:president",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.018"
+      },
+      {
+        "matched_name": "phillips, john r",
+        "source": "recipient",
+        "party": "100",
+        "state": "CO",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.799"
+      },
+      {
+        "matched_name": "phillips, john e",
+        "source": "recipient",
+        "party": "200",
+        "state": "MT",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.644"
+      },
+      {
+        "matched_name": "phillips, john",
+        "source": "recipient",
+        "party": "328",
+        "state": "TX",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.304"
+      },
+      {
+        "matched_name": "phillips, john t",
+        "source": "recipient",
+        "party": "200",
+        "state": "IL",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.272"
+      },
+      {
+        "matched_name": "phillips, john l",
+        "source": "recipient",
+        "party": "328",
+        "state": "FL",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-2.481"
+      },
+      {
+        "matched_name": "phillips, john",
+        "source": "recipient",
+        "party": "328",
+        "state": "IL",
+        "seat": "local:mayor",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.969"
+      },
+      {
+        "matched_name": "phillips, john w",
+        "source": "recipient",
+        "party": "328",
+        "state": "SC",
+        "seat": "local:sheriff",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.89"
+      }
+    ]
+  },
+  {
+    "guest_key": "mckinsey|michael|mike",
+    "display_name": "Mike McKinsey",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Man Dies on Operating Table and is Shown City of Heaven. ACU Sunday Series.",
+        "descriptor": "man who died on operating table",
+        "topic": "Near-Death Experience during emergency appendix removal operation"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "mckinsey, michael",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "business owner",
+        "employer": "self employed",
+        "cfscore": "-1.036"
+      },
+      {
+        "matched_name": "mckinsey, michael",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.016"
+      },
+      {
+        "matched_name": "mckinsey, michael",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.12"
+      },
+      {
+        "matched_name": "mckinsey, michael",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.893"
+      }
+    ]
+  },
+  {
+    "guest_key": "madden|thomas|thomas f",
+    "display_name": "Thomas F. Madden",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Dennis Prager Talks to Author of The New Concise History of the Crusades, Professor Thomas F. Madden",
+        "descriptor": "Professor, Author",
+        "topic": "The New Concise History of the Crusades"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "madden, thomas m",
+        "source": "recipient",
+        "party": "200",
+        "state": "RI",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.737"
+      },
+      {
+        "matched_name": "madden, thomas j",
+        "source": "recipient",
+        "party": "100",
+        "state": "CT",
+        "seat": "state:unknown",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.383"
+      }
+    ]
+  },
+  {
+    "guest_key": "morris|simon|simon conway",
+    "display_name": "Simon Conway Morris",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Darwin's Dilemma. A Documentary about The Cambrian Explosion and Intelligent Design.",
+        "descriptor": "evolutionary paleontologist",
+        "topic": "Cambrian Explosion and fossil record"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "morris, simon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "electrician",
+        "employer": "self employed",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "morris, simon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "tech proj mgr",
+        "employer": "abbvie, inc",
+        "cfscore": "-1.032"
+      },
+      {
+        "matched_name": "morris, simon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "electrical engineer",
+        "cfscore": "1.307"
+      },
+      {
+        "matched_name": "morris, simon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "management consulting",
+        "employer": "larke business solutions",
+        "cfscore": "-1.064"
+      },
+      {
+        "matched_name": "morris, simon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales",
+        "employer": "spectrum",
+        "cfscore": "-1.002"
+      },
+      {
+        "matched_name": "morris, simon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "industrial automation programmer",
+        "employer": "brown and caldwell",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "morris, simon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "dentist",
+        "employer": "self employed",
+        "cfscore": "-1.012"
+      }
+    ]
+  },
+  {
+    "guest_key": "chien|paul|paul",
+    "display_name": "Paul Chien",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Darwin's Dilemma. A Documentary about The Cambrian Explosion and Intelligent Design.",
+        "descriptor": "marine biologist",
+        "topic": "Cambrian Explosion and genetic information"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "chien, paul",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.994"
+      },
+      {
+        "matched_name": "chien, paul",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "adjuster",
+        "employer": "geico",
+        "cfscore": "-0.973"
+      },
+      {
+        "matched_name": "chien, paul",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.454"
+      }
+    ]
+  },
+  {
+    "guest_key": "baldwin|steven|steve",
+    "display_name": "Steve Baldwin",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "BREAKING: Battleground States Ordered By Feds To Allow Illegal Aliens plus 5 X/Twitter Clips.",
+        "descriptor": "Election Crime researcher",
+        "topic": "NGOs, illegal aliens, rigged voter rolls, and mail-in ballots in relation to election integrity"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "baldwin, steve",
+        "source": "recipient",
+        "party": "200",
+        "state": "CA",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.059"
+      },
+      {
+        "matched_name": "baldwin, steven c",
+        "source": "recipient",
+        "party": "328",
+        "state": "CA",
+        "seat": "state:other",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.412"
+      }
+    ]
+  },
+  {
+    "guest_key": "folsom|burton|burton w",
+    "display_name": "Burton W. Folsom Jr.",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "New Deal or Raw Deal?: How FDR's Economic Legacy Has Damaged America by Burton W. Folsom Jr.",
+        "descriptor": "Author, economic historian",
+        "topic": "FDR's Economic Legacy and the New Deal"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "folsom, burton",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "",
+        "cfscore": "1.221"
+      },
+      {
+        "matched_name": "folsom, burton w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.959"
+      },
+      {
+        "matched_name": "folsom, burton",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.256"
+      },
+      {
+        "matched_name": "folsom, burton & anita",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.379"
+      },
+      {
+        "matched_name": "folsom, burton",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "hillsdale college",
+        "cfscore": "1.221"
+      }
+    ]
+  },
+  {
+    "guest_key": "beaudoin|john|john",
+    "display_name": "John Beaudoin",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Unexploded Bomb: Where the COVID-19 Vaccine Deaths Are Really Hiding. Epoch Times.",
+        "descriptor": "electrical engineer and author of \"The Real CdC.\"",
+        "topic": "COVID-19 vaccine deaths and CDC data analysis"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "beaudoin, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.95"
+      },
+      {
+        "matched_name": "beaudoin, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retail surveys",
+        "employer": "self employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "beaudoin, john r",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.069"
+      },
+      {
+        "matched_name": "beaudoin, john w",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "-0.671"
+      },
+      {
+        "matched_name": "beaudoin, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "renss codss",
+        "cfscore": "0.553"
+      },
+      {
+        "matched_name": "beaudoin, john paul & sharon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.689"
+      },
+      {
+        "matched_name": "beaudoin, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "medtech publishing co",
+        "cfscore": "-0.72"
+      },
+      {
+        "matched_name": "beaudoin, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manager",
+        "employer": "mercury marine",
+        "cfscore": "1.426"
+      },
+      {
+        "matched_name": "beaudoin, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "business owner",
+        "employer": "",
+        "cfscore": "0.981"
+      },
+      {
+        "matched_name": "beaudoin, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.898"
+      },
+      {
+        "matched_name": "beaudoin, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "beaudoin, john alan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "",
+        "cfscore": "1.601"
+      },
+      {
+        "matched_name": "beaudoin, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.424"
+      },
+      {
+        "matched_name": "beaudoin, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "editorial",
+        "employer": "nielsen",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "beaudoin, john",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.999"
+      }
+    ]
+  },
+  {
+    "guest_key": "wiper|scott|scott",
+    "display_name": "Scott Wiper",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "TOO MANY UNANSWERED QUESTIONS Dinesh D\u2019Souza Podcast",
+        "descriptor": "Movie director",
+        "topic": "new movie based on Michael Flynn's life, \"Flynn.\""
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "wiper, scott",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "screenwriter director",
+        "employer": "self",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "wiper, scott",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "film director",
+        "employer": "self employed",
+        "cfscore": "1.587"
+      },
+      {
+        "matched_name": "wiper, scott",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "movie producer",
+        "employer": "self",
+        "cfscore": "1.328"
+      }
+    ]
+  },
+  {
+    "guest_key": "northrup|christiane|christiane",
+    "display_name": "Christiane Northrup",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "COVID Vax Sperm and Egg Disaster, a Weapon of Mass Depopulation? BREAKING: Naonostructures in COVID-19 Injectables",
+        "descriptor": "Dr.",
+        "topic": "COVID-19 vaccines, infertility, sperm and egg viability"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "northrup, christiane",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.936"
+      },
+      {
+        "matched_name": "northrup, dr christiane",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "other; physician writer",
+        "employer": "illuminate, inc",
+        "cfscore": "1.532"
+      },
+      {
+        "matched_name": "northrup md, christiane",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "other; author",
+        "employer": "self employed",
+        "cfscore": "1.215"
+      }
+    ]
+  },
+  {
+    "guest_key": "martinson|christopher|chris",
+    "display_name": "Dr. Chris Martinson",
+    "examples": [
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "The Unbelievable Security Gap That Allowed Crooks To Get In Position \u2013 Dr. Chris Martinson",
+        "descriptor": "Dr.",
+        "topic": "Security Gap"
+      },
+      {
+        "show_name": "American Conservative University",
+        "episode_title": "Crooks\u2019 Unbelievable Path To The Roof - Dr. Chris Martinson",
+        "descriptor": "Doctor",
+        "topic": "Crooks' Path To The Roof"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "martinson, chris",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.873"
+      },
+      {
+        "matched_name": "martinson, christopher",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "laboratory assistant",
+        "employer": "cayman chemical",
+        "cfscore": "-1.052"
+      },
+      {
+        "matched_name": "martinson, chris",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "pasco school district",
+        "cfscore": "0.17"
+      },
+      {
+        "matched_name": "martinson, chris a",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "fire fighter",
+        "employer": "duluth",
+        "cfscore": "-1.051"
+      },
+      {
+        "matched_name": "martinson, chris",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "owner",
+        "employer": "self employed",
+        "cfscore": "1.326"
+      },
+      {
+        "matched_name": "martinson, christopher",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "wesleyan university",
+        "cfscore": "-0.893"
+      },
+      {
+        "matched_name": "martinson, chris",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "not employed",
+        "cfscore": "-1.029"
+      },
+      {
+        "matched_name": "martinson, christopher",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "investment counselor",
+        "employer": "citibank",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "martinson, christopher",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.312"
+      },
+      {
+        "matched_name": "martinson, chris & ellen",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "wolf river patriots",
+        "cfscore": "1.104"
+      }
+    ]
+  },
+  {
+    "guest_key": "withers|dean|dean",
+    "display_name": "Dean Withers",
+    "examples": [
+      {
+        "show_name": "HasanAbi",
+        "episode_title": "20 MAGA WOMEN VS ONE LIBERAL",
+        "descriptor": "Liberal Man",
+        "topic": "debate with MAGA women"
+      },
+      {
+        "show_name": "Destiny",
+        "episode_title": "Tiktok Debate - More MAGA Brainrot from the Unf*ck America Tour",
+        "descriptor": "debate participant",
+        "topic": "MAGA Brainrot"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "withers, dean",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "not employed",
+        "cfscore": "-0.994"
+      },
+      {
+        "matched_name": "withers, dean",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.193"
+      }
+    ]
+  },
+  {
+    "guest_key": "hale|david|david",
+    "display_name": "David Hale",
+    "examples": [
+      {
+        "show_name": "What the Hell Is Going On",
+        "episode_title": "WTH Is Going On In Lebanon? Ambassador David Hale Explains.",
+        "descriptor": "Ambassador",
+        "topic": "Situation in Lebanon"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hale jr, david jerry",
+        "source": "recipient",
+        "party": "200",
+        "state": "IL",
+        "seat": "federal:house",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.558"
+      },
+      {
+        "matched_name": "hale, david",
+        "source": "recipient",
+        "party": "200",
+        "state": "MD",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.785"
+      },
+      {
+        "matched_name": "hale, brian david",
+        "source": "recipient",
+        "party": "200",
+        "state": "ME",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "2.461"
+      },
+      {
+        "matched_name": "hale, david",
+        "source": "recipient",
+        "party": "200",
+        "state": "KY",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.064"
+      }
+    ]
+  },
+  {
+    "guest_key": "english|charlie|charlie",
+    "display_name": "Charlie English",
+    "examples": [
+      {
+        "show_name": "What the Hell Is Going On",
+        "episode_title": "WTH Should I Read This Summer? \"The CIA Book Club: The Secret Mission to Win the Cold War with Forbidden Literature\" by Charlie English",
+        "descriptor": "London-based non-fiction writer and author",
+        "topic": "The CIA Book Club: The Secret Mission to Win the Cold War with Forbidden Literature"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "english, charlie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.027"
+      },
+      {
+        "matched_name": "english, charlie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "paramedic",
+        "employer": "lafourche ambulance dept",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "english, charlie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "other",
+        "employer": "bravo air",
+        "cfscore": "1.304"
+      }
+    ]
+  },
+  {
+    "guest_key": "cooper|zach|zach",
+    "display_name": "Zach Cooper",
+    "examples": [
+      {
+        "show_name": "What the Hell Is Going On",
+        "episode_title": "WTH Should I Read This Summer? \"Tides of Fortune: The Rise and Decline of Great Militaries\" by Zack Cooper",
+        "descriptor": "senior fellow at the American Enterprise Institute",
+        "topic": "his new book, Tides of Fortune: The Rise and Decline of Great Militaries"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "cooper, zach",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales rep",
+        "employer": "at&t",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "cooper, zach",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "operator",
+        "employer": "roy o martin",
+        "cfscore": "1.676"
+      }
+    ]
+  },
+  {
+    "guest_key": "green|dominic|dominic",
+    "display_name": "Dominic Green",
+    "examples": [
+      {
+        "show_name": "What the Hell Is Going On",
+        "episode_title": "WTH Is Britain Throttling Free Speech? Dominic Green Explains.",
+        "descriptor": "commentator/analyst",
+        "topic": "Britain's free speech policies"
+      },
+      {
+        "show_name": "What the Hell Is Going On",
+        "episode_title": "WTH is Going On With the UK\u2019s \u201cGrooming Gangs\u201d? Dominic Green Explains",
+        "descriptor": "explainer/commentator on UK grooming gangs",
+        "topic": "UK grooming gangs"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "green, dominic",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "admissions supervisor",
+        "employer": "eastfield college",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "green, dominic",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software",
+        "employer": "flatiron",
+        "cfscore": "-1.055"
+      },
+      {
+        "matched_name": "green, dominic",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "product operations",
+        "employer": "flatiron health",
+        "cfscore": "-1.117"
+      },
+      {
+        "matched_name": "green, dominic",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.069"
+      },
+      {
+        "matched_name": "green, dominic",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.046"
+      },
+      {
+        "matched_name": "green, dominic",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.056"
+      }
+    ]
+  },
+  {
+    "guest_key": "cooper|zack|zack",
+    "display_name": "Zack Cooper",
+    "examples": [
+      {
+        "show_name": "What the Hell Is Going On",
+        "episode_title": "WTH Extra! Martial Law in South Korea? Zack Cooper Explains",
+        "descriptor": "expert on South Korea and martial law",
+        "topic": "Martial Law in South Korea"
+      },
+      {
+        "show_name": "War on the Rocks",
+        "episode_title": "A Stroll Through the Indo-Pacific, the Most Important Region in the World",
+        "descriptor": "AEI",
+        "topic": "Indo-Pacific security dynamics"
+      },
+      {
+        "show_name": "War on the Rocks",
+        "episode_title": "From Ukraine and Beyond: Unpacking the Sino-Russian Relationship",
+        "descriptor": "guest on TNSR/Horns of a Dilemma",
+        "topic": "Moscow and Beijing relations during war"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "cooper, t zack sr",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "alliance insurance service",
+        "cfscore": "1.148"
+      },
+      {
+        "matched_name": "cooper, zack",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "yale university",
+        "cfscore": "-1.046"
+      },
+      {
+        "matched_name": "cooper, zack",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "yale university",
+        "cfscore": "-1.011"
+      }
+    ]
+  },
+  {
+    "guest_key": "smith|ryan|ryan",
+    "display_name": "Ryan Smith",
+    "examples": [
+      {
+        "show_name": "Deseret Voices",
+        "episode_title": "Why the Smiths are Betting Big on Utah Sports",
+        "descriptor": "owner of the Utah Jazz and the new Utah Mammoth",
+        "topic": "tech empire, live sports, sports ownership, professional sports franchises management"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "smith, ryan",
+        "source": "recipient",
+        "party": "200",
+        "state": "OH",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.949"
+      },
+      {
+        "matched_name": "smith, ryan",
+        "source": "recipient",
+        "party": "200",
+        "state": "OK",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.16"
+      },
+      {
+        "matched_name": "smith, ryan",
+        "source": "recipient",
+        "party": "200",
+        "state": "OH",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.949"
+      },
+      {
+        "matched_name": "smith, ryan",
+        "source": "recipient",
+        "party": "200",
+        "state": "AK",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "2.47"
+      },
+      {
+        "matched_name": "smith, darrin ryan",
+        "source": "recipient",
+        "party": "100",
+        "state": "MD",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.093"
+      },
+      {
+        "matched_name": "smith, ryan",
+        "source": "recipient",
+        "party": "200",
+        "state": "OH",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.949"
+      },
+      {
+        "matched_name": "smith, ryan",
+        "source": "recipient",
+        "party": "200",
+        "state": "SD",
+        "seat": "state:upper",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.16"
+      }
+    ]
+  },
+  {
+    "guest_key": "smith|ashley|ashley",
+    "display_name": "Ashley Smith",
+    "examples": [
+      {
+        "show_name": "Deseret Voices",
+        "episode_title": "Why the Smiths are Betting Big on Utah Sports",
+        "descriptor": "owner of the Utah Jazz and the new Utah Mammoth",
+        "topic": "live sports, community connection, hockey atmosphere, sports ownership"
+      },
+      {
+        "show_name": "Jacobin Radio",
+        "episode_title": "Jacobin Radio: Iran in the Imperial Crosshairs",
+        "descriptor": "Ukraine Solidarity Network",
+        "topic": "strategic logic of Trump's imperial war"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "smith, ashley m",
+        "source": "recipient",
+        "party": "100",
+        "state": "FL",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.799"
+      },
+      {
+        "matched_name": "smith, ashley",
+        "source": "recipient",
+        "party": "100",
+        "state": "AL",
+        "seat": "state:judicial",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.161"
+      }
+    ]
+  },
+  {
+    "guest_key": "grow|matthew|matt",
+    "display_name": "Matt Grow",
+    "examples": [
+      {
+        "show_name": "Deseret Voices",
+        "episode_title": "The Salt Lake Temple: Opening its Doors to the World",
+        "descriptor": "church historian",
+        "topic": "Salt Lake Temple renovation and preservation"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "grow, matthew p",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.274"
+      },
+      {
+        "matched_name": "grow, matthew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physician",
+        "employer": "uc",
+        "cfscore": "-1.044"
+      },
+      {
+        "matched_name": "grow, matthew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "marketer",
+        "employer": "matthew grow",
+        "cfscore": "-1.04"
+      },
+      {
+        "matched_name": "grow, matthew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "developer",
+        "employer": "servpro, inc",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "grow, matthew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.284"
+      },
+      {
+        "matched_name": "grow, matthew",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "executive",
+        "employer": "matthew grow",
+        "cfscore": "-1.021"
+      }
+    ]
+  },
+  {
+    "guest_key": "gilbert|clark|clark g",
+    "display_name": "Clark G. Gilbert",
+    "examples": [
+      {
+        "show_name": "Deseret Voices",
+        "episode_title": "Elder Clark G. Gilbert on Conviction, Controversy, and Compassion",
+        "descriptor": "Elder",
+        "topic": "Conviction, Controversy, and Compassion"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "gilbert, clark",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.481"
+      },
+      {
+        "matched_name": "gilbert, clark",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "professor",
+        "employer": "harvard business school",
+        "cfscore": "0.063"
+      },
+      {
+        "matched_name": "gilbert, clark",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "0.741"
+      },
+      {
+        "matched_name": "gilbert, clark",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "harvard",
+        "cfscore": "0.782"
+      },
+      {
+        "matched_name": "gilbert, clark",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "ceo",
+        "employer": "deseret news publishing co",
+        "cfscore": "1.012"
+      },
+      {
+        "matched_name": "gilbert, clark",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.043"
+      },
+      {
+        "matched_name": "gilbert, clark",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.637"
+      }
+    ]
+  },
+  {
+    "guest_key": "eubank|sharon|sharon",
+    "display_name": "Sharon Eubank",
+    "examples": [
+      {
+        "show_name": "Deseret Voices",
+        "episode_title": "Small Acts, Big Impact: Sharon Eubank on the Art of Humanitarian Service",
+        "descriptor": "humanitarian service expert",
+        "topic": "the art of humanitarian service"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "eubank, les & sharon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.477"
+      },
+      {
+        "matched_name": "eubank, sharon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "advisory direct",
+        "employer": "plains capitol bank",
+        "cfscore": "1.334"
+      },
+      {
+        "matched_name": "eubank, sharon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "education",
+        "employer": "lubbock independent school district",
+        "cfscore": "1.186"
+      },
+      {
+        "matched_name": "eubank, sharon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.895"
+      },
+      {
+        "matched_name": "eubank, sharon",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "hairstylist",
+        "employer": "sharon eubank",
+        "cfscore": "-1.104"
+      }
+    ]
+  },
+  {
+    "guest_key": "tuminez|astrid|astrid",
+    "display_name": "Astrid Tuminez",
+    "examples": [
+      {
+        "show_name": "Deseret Voices",
+        "episode_title": "Holding Sorrow, Finding Hope: President Astrid Tuminez on Grief, Healing, and the Sacredness of Pain",
+        "descriptor": "President",
+        "topic": "Grief, Healing, and the Sacredness of Pain"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "tuminez, astrid",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "senior rese",
+        "employer": "city university of hong",
+        "cfscore": "-0.954"
+      },
+      {
+        "matched_name": "tuminez, astrid s",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.108"
+      },
+      {
+        "matched_name": "tuminez, mary astrid",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "president",
+        "employer": "uvu",
+        "cfscore": "-1.064"
+      }
+    ]
+  },
+  {
+    "guest_key": "green|john|john",
+    "display_name": "John Green",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "John Green and Daniel Alarc\u00f3n Break Down the 2026 World Cup",
+        "descriptor": "co-participant",
+        "topic": "2026 World Cup"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "green, john",
+        "source": "recipient",
+        "party": "200",
+        "state": "ID",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.495"
+      },
+      {
+        "matched_name": "green, john v",
+        "source": "recipient",
+        "party": "100",
+        "state": "SC",
+        "seat": "state:office",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.433"
+      },
+      {
+        "matched_name": "green, john k",
+        "source": "recipient",
+        "party": "100",
+        "state": "NE",
+        "seat": "state:office",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.381"
+      }
+    ]
+  },
+  {
+    "guest_key": "wilson|emily|emily",
+    "display_name": "Emily Wilson",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Translating \u2018The Odyssey\u2019 for a Modern Audience",
+        "descriptor": "classical studies scholar",
+        "topic": "translating ancient Greek, modern English influence on translation, and the enduring relevance of The Odyssey"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "wilson, emily d",
+        "source": "recipient",
+        "party": "200",
+        "state": "CT",
+        "seat": "state:unknown",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.135"
+      },
+      {
+        "matched_name": "wilson, emily d",
+        "source": "recipient",
+        "party": "200",
+        "state": "CT",
+        "seat": "state:lower",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.11"
+      }
+    ]
+  },
+  {
+    "guest_key": "durant|jennie|jennie",
+    "display_name": "Jennie Durant",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Our Food System Depends on Domesticated Bees. Can They Survive Industrial Agriculture?",
+        "descriptor": "science writer and author",
+        "topic": "bees in California agriculture and industrial agriculture's impact on bee survival"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "durant, jennie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "student",
+        "cfscore": "-1.035"
+      },
+      {
+        "matched_name": "durant, jennie",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.957"
+      }
+    ]
+  },
+  {
+    "guest_key": "kumar|amit|amit",
+    "display_name": "Amit Kumar",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "What\u2019s a Voicemail You\u2019ll Never Delete?",
+        "descriptor": "assistant professor of marketing and psychological and brain sciences",
+        "topic": "voice notes and voicemails"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "kumar, amit",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software",
+        "employer": "the hartford",
+        "cfscore": "1.084"
+      },
+      {
+        "matched_name": "kumar, amit",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "president & ceo",
+        "employer": "combimatrix corp",
+        "cfscore": "-0.715"
+      },
+      {
+        "matched_name": "kumar, amit",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.167"
+      },
+      {
+        "matched_name": "kumar, amit",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.798"
+      }
+    ]
+  },
+  {
+    "guest_key": "govea|miguel|miguel",
+    "display_name": "Miguel Govea",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Forum from the Archives: La Do\u00f1a Presents Her New Album, 'Corrientes'",
+        "descriptor": "accordion, vocals and guitar",
+        "topic": "live performance"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "govea, miguel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "bartender",
+        "employer": "david burke group",
+        "cfscore": "-1.101"
+      },
+      {
+        "matched_name": "govea, miguel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "patient registrar",
+        "employer": "mainegeneral medical center",
+        "cfscore": "-0.893"
+      },
+      {
+        "matched_name": "govea, miguel",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.104"
+      }
+    ]
+  },
+  {
+    "guest_key": "hackel|steven|steven",
+    "display_name": "Steven Hackel",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "As the U.S. Nears 250 Years, What Was Happening in the Bay Area?",
+        "descriptor": "professor of history, UC Riverside; author, \"Junipero Serra: California's Founding Father\"",
+        "topic": "Bay Area history in 1776"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "hackel, steven",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.237"
+      },
+      {
+        "matched_name": "hackel, steven",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-1.09"
+      },
+      {
+        "matched_name": "hackel, steve",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "real estate",
+        "employer": "bh3 managment",
+        "cfscore": "0.151"
+      }
+    ]
+  },
+  {
+    "guest_key": "feinstein|laura|laura",
+    "display_name": "Laura Feinstein",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "As the U.S. Nears 250 Years, What Was Happening in the Bay Area?",
+        "descriptor": "resilient landscapes program director, San Francisco Estuary Institute",
+        "topic": "Bay Area ecosystems and coastline in 1776"
+      },
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Climate Fix: What Does Climate Change Mean for California\u2019s Extreme Weather?",
+        "descriptor": "sustainability and resilience policy director, SPUR, a San Francisco policy and research organization",
+        "topic": "California's extreme weather, wildfire, drought and flooding issues"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "feinstein, laura c",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "engineer",
+        "employer": "puget sound energy",
+        "cfscore": "-0.38"
+      },
+      {
+        "matched_name": "feinstein, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "software engineer",
+        "employer": "boeing",
+        "cfscore": "-0.981"
+      },
+      {
+        "matched_name": "feinstein, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.096"
+      },
+      {
+        "matched_name": "feinstein, laura",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "writer",
+        "employer": "myself",
+        "cfscore": "-0.99"
+      }
+    ]
+  },
+  {
+    "guest_key": "medina|vincent|vincent",
+    "display_name": "Vincent Medina",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "As the U.S. Nears 250 Years, What Was Happening in the Bay Area?",
+        "descriptor": "East Bay Ohlone cultural leader; co-founder, Cafe Ohlone in Berkeley; founder, mak-war\u00e9p Ohlone Land Conservancy",
+        "topic": "indigenous people and Ohlone history in Bay Area"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "broker",
+        "employer": "loyus property services",
+        "cfscore": "-0.228"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "administrator, fowler elementary school district",
+        "employer": "",
+        "cfscore": "-0.447"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.936"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.579"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.41"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "digital print marketing",
+        "employer": "self",
+        "cfscore": "-0.893"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "massage therapist",
+        "employer": "trilogy spa holdings",
+        "cfscore": "-1.067"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "massage therapist",
+        "employer": "self",
+        "cfscore": "-1.081"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.156"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.982"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "work study",
+        "employer": "university",
+        "cfscore": "-1.003"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "park manager",
+        "employer": "new york state parks",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "project manager",
+        "employer": "n3b",
+        "cfscore": "1.581"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "broker",
+        "employer": "lotus property services",
+        "cfscore": "-0.912"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "custodian",
+        "employer": "state of oregon",
+        "cfscore": "-1.177"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "nursing assistant",
+        "employer": "desert springs hospital",
+        "cfscore": "-1.124"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "board member",
+        "employer": "montero medical missions",
+        "cfscore": "1.451"
+      },
+      {
+        "matched_name": "medina, vincent",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "-0.791"
+      }
+    ]
+  },
+  {
+    "guest_key": "schuessler|jennifer|jennifer",
+    "display_name": "Jennifer Schuessler",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "America\u2019s Complicated History at 250",
+        "descriptor": "culture reporter, The New York Times",
+        "topic": "America at 250"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "schuessler, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.241"
+      },
+      {
+        "matched_name": "schuessler, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "sales",
+        "employer": "empower",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "schuessler, jennifer",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "ea",
+        "employer": "ullico",
+        "cfscore": "-0.702"
+      }
+    ]
+  },
+  {
+    "guest_key": "fernandes|andrea|andrea",
+    "display_name": "Andrea Fernandes",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "SF Giants Pride Night Fallout Amplifies",
+        "descriptor": "vice president of marketing",
+        "topic": "San Francisco Giants rainbow uniform protest controversy"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "fernandes, andrea",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.055"
+      },
+      {
+        "matched_name": "fernandes, andrea",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.893"
+      },
+      {
+        "matched_name": "fernandes, andrea",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "business development",
+        "employer": "bozzuto",
+        "cfscore": "-0.095"
+      }
+    ]
+  },
+  {
+    "guest_key": "eyre|alan|alan",
+    "display_name": "Alan Eyre",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "U.S. Lifts Oil Sanctions on Iran as Fragile Peace Deal Terms Negotiated",
+        "descriptor": "distinguished diplomatic fellow, Middle East Institute",
+        "topic": "the deal with Iran and its implications"
+      },
+      {
+        "show_name": "Useful Idiots with Katie Halper and Aaron Mat\u00e9",
+        "episode_title": "\u201cNo one is willing to trade lower gas prices for Iran becoming a nuclear state.\u201d",
+        "descriptor": "former State Dept Official",
+        "topic": "State Department and related policy matters"
+      },
+      {
+        "show_name": "Useful Idiots with Katie Halper and Aaron Mat\u00e9",
+        "episode_title": "America\u2019s \u201cStrategic WEAKNESS\u201d in Iran w/ Ex-State Dept Official Alan Eyre and Iranian Journalist S\u00e9amus Malekafzali",
+        "descriptor": "Ex-State Dept Official",
+        "topic": "America's Strategic Weakness in Iran"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "eyre, alan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "government employee",
+        "employer": "us state department",
+        "cfscore": "-0.947"
+      },
+      {
+        "matched_name": "eyre, alan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "government",
+        "employer": "state department",
+        "cfscore": "-1.03"
+      },
+      {
+        "matched_name": "eyre, alan",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "diplomat",
+        "employer": "us government",
+        "cfscore": "-1.015"
+      }
+    ]
+  },
+  {
+    "guest_key": "smith|britt|britt",
+    "display_name": "Britt Smith",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "Bay Area Communities Resist Data Center Boom",
+        "descriptor": "Gilroy resident; activist and co-founder, Stop Gilroy Data Center",
+        "topic": "data center opposition in Gilroy"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "smith, britt",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.195"
+      },
+      {
+        "matched_name": "smith, britt",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "student",
+        "employer": "",
+        "cfscore": "-1.016"
+      },
+      {
+        "matched_name": "smith, britt david",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "underwriter",
+        "employer": "axis us insurance",
+        "cfscore": "1.353"
+      },
+      {
+        "matched_name": "smith, sam britt",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "smith & pickel const inc",
+        "cfscore": "1.278"
+      },
+      {
+        "matched_name": "smith, britt",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "self employed",
+        "employer": "no mans land",
+        "cfscore": "1.659"
+      },
+      {
+        "matched_name": "smith, britt & dean",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "",
+        "cfscore": "1.279"
+      },
+      {
+        "matched_name": "smith, britt",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "financial executiv",
+        "employer": "picasso software",
+        "cfscore": "1.527"
+      },
+      {
+        "matched_name": "smith, britt",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "consultant",
+        "employer": "real time systems consulting",
+        "cfscore": "1.56"
+      },
+      {
+        "matched_name": "smith, britt",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "insurance underwriter",
+        "employer": "rsui group, inc",
+        "cfscore": "1.434"
+      },
+      {
+        "matched_name": "smith, britt t destefano",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.635"
+      },
+      {
+        "matched_name": "smith, britt",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "manufacturing",
+        "employer": "self employed",
+        "cfscore": "1.581"
+      },
+      {
+        "matched_name": "smith, britt",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "why?",
+        "cfscore": "-1.015"
+      },
+      {
+        "matched_name": "smith, britt",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-1.03"
+      },
+      {
+        "matched_name": "smith, britt",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "physical therapist",
+        "employer": "keep it moving physical therapy & well",
+        "cfscore": "-1.076"
+      },
+      {
+        "matched_name": "smith, christine britt",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "",
+        "employer": "triangle day schools",
+        "cfscore": "-0.935"
+      },
+      {
+        "matched_name": "smith, britt",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "retired",
+        "employer": "retired",
+        "cfscore": "1.396"
+      },
+      {
+        "matched_name": "smith, britt ann",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "not employed",
+        "employer": "not employed",
+        "cfscore": "-0.924"
+      }
+    ]
+  },
+  {
+    "guest_key": "breed|catherine|catherine",
+    "display_name": "Catherine Breed",
+    "examples": [
+      {
+        "show_name": "KQED's Forum",
+        "episode_title": "A 900-Mile Swim Along California\u2019s Coast",
+        "descriptor": "ultra-endurance athlete and swimmer; president and founder, Sea Dreamers",
+        "topic": "swimming the entire coastline of California, a 900-mile journey, preparation for avoiding sharks and fatigue, and conquering the currents of the Pacific Ocean"
+      }
+    ],
+    "candidates": [
+      {
+        "matched_name": "breed, mary catherine",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "teacher",
+        "employer": "hisd",
+        "cfscore": "-1.046"
+      },
+      {
+        "matched_name": "breed, catherine",
+        "source": "contributor",
+        "party": "",
+        "state": "",
+        "seat": "",
+        "occupation": "med tech",
+        "employer": "bd",
+        "cfscore": "-0.219"
+      }
+    ]
+  }
+]

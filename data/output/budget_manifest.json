@@ -1,0 +1,25 @@
+{
+  "as_of": "2026-07-13",
+  "n_shows": 220,
+  "windows_months": [
+    12,
+    18,
+    24,
+    36
+  ],
+  "H_grid": [
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    40,
+    50
+  ],
+  "focus_window": 24,
+  "density_floor_hours": 25,
+  "retention_target": 0.9,
+  "h_at_90pct_retention_24mo": 30,
+  "seed": 42
+}

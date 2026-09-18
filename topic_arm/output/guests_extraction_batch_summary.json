@@ -1,0 +1,16 @@
+{
+  "model": "claude-haiku-4-5-20251001",
+  "batch_discount_applied": 0.5,
+  "n_episodes_total_corpus": 153194,
+  "n_done_total": 153183,
+  "n_new_this_run": 13018,
+  "n_failed_excluded": 11,
+  "tier_counts": {
+    "tier2_title": 32109,
+    "none": 77277,
+    "tier3_description": 43797
+  },
+  "input_tokens_this_run": 18945285,
+  "output_tokens_this_run": 1132046,
+  "cost_this_run_usd": 12.3028
+}

@@ -1,0 +1,240 @@
+show,extracted_host,host_source,match_confidence,publisher,notes
+Pod Save America,,PUBLISHER_ONLY,none,Pod Save America,publisher-only fields: Audioboom
+The MeidasTouch Podcast,,PUBLISHER_ONLY,none,MeidasTouch Network,publisher-only fields: MeidasTouch Network
+Bulwark Takes,,PUBLISHER_ONLY,none,The Bulwark,"publisher-only fields: Audioboom, The Bulwark"
+The Bulwark Podcast,,PUBLISHER_ONLY,none,The Bulwark,publisher-only fields: The Bulwark
+Letters from an American,Heather Cox Richardson,ITUNES_AUTHOR,high,Heather Cox Richardson,
+Candace,Candace Owens,ITUNES_AUTHOR,high,Candace Owens,
+The President's Daily Brief,,UNKNOWN,none,The First TV,
+The New Yorker Radio Hour,,PUBLISHER_ONLY,none,WNYC Studios and The New Yorker,publisher-only fields: WNYC Studios
+The NPR Politics Podcast,NPR Politics,PARSED_FROM_TITLE,low,NPR,
+Real Baron Podcast,Baron Coleman,ITUNES_AUTHOR,high,Baron Coleman,
+Verdict with Ted Cruz,Ted Cruz,PARSED_FROM_TITLE,medium,Premiere Networks,
+Fast Politics with Molly Jong-Fast,Molly Jong-Fast,PARSED_FROM_TITLE,medium,iHeartPodcasts,
+The Necessary Conversation,,UNKNOWN,none,The Necessary Conversation,
+The Next Level,,PUBLISHER_ONLY,none,The Bulwark,publisher-only fields: The Bulwark
+Radio Atlantic,,PUBLISHER_ONLY,none,The Atlantic,publisher-only fields: The Atlantic
+The Political Scene | The New Yorker,,PUBLISHER_ONLY,none,The New Yorker,publisher-only fields: The New Yorker
+Ruthless Podcast,Josh Holmes,ITUNES_AUTHOR,high,"Josh Holmes, Comfortably Smug, Michael Duncan and John Ashbrook",
+Ruthless Podcast,Comfortably Smug,ITUNES_AUTHOR,high,"Josh Holmes, Comfortably Smug, Michael Duncan and John Ashbrook",
+Ruthless Podcast,Michael Duncan,ITUNES_AUTHOR,high,"Josh Holmes, Comfortably Smug, Michael Duncan and John Ashbrook",
+Ruthless Podcast,John Ashbrook,ITUNES_AUTHOR,high,"Josh Holmes, Comfortably Smug, Michael Duncan and John Ashbrook",
+Runaway Country with Alex Wagner,Alex Wagner,PARSED_FROM_TITLE,medium,Runaway Country with Alex Wagner,
+Raging Moderates with Scott Galloway and Jessica Tarlov,Scott Galloway,PARSED_FROM_TITLE,medium,Vox Media Podcast Network,
+Raging Moderates with Scott Galloway and Jessica Tarlov,Jessica Tarlov,PARSED_FROM_TITLE,medium,Vox Media Podcast Network,
+Breaking Points with Krystal and Saagar,Krystal,PARSED_FROM_TITLE,medium,iHeartPodcasts,
+Breaking Points with Krystal and Saagar,Saagar,PARSED_FROM_TITLE,medium,iHeartPodcasts,
+UnJustified,,PUBLISHER_ONLY,none,MSW Media,publisher-only fields: MSW Media
+On the Media,,PUBLISHER_ONLY,none,WNYC Studios,publisher-only fields: WNYC Studios
+Pod Save the World,,PUBLISHER_ONLY,none,Pod Save the World,publisher-only fields: Audioboom
+The Briefing with Jen Psaki,Jen Psaki,ITUNES_AUTHOR,high,"MS NOW, Jen Psaki",
+#SistersInLaw,,PUBLISHER_ONLY,none,Politicon,publisher-only fields: Politicon
+Bannon's War Room,,PUBLISHER_ONLY,none,WarRoom.org,publisher-only fields: WarRoom.org
+X22 Report,,PUBLISHER_ONLY,none,X22 Report,publisher-only fields: X22 Report
+All In with Chris Hayes,Chris Hayes,ITUNES_AUTHOR,high,"MS NOW, Chris Hayes",
+The Jim Acosta Show,Jim Acosta,ITUNES_AUTHOR,high,Jim Acosta,
+Deadline: White House,Nicolle Wallace,ITUNES_AUTHOR,high,"Nicolle Wallace, MS NOW",
+NBC Nightly News with Tom Llamas,Tom Llamas,PARSED_FROM_TITLE,medium,NBC News,
+The Wright Report,Bryan Dean Wright,ITUNES_AUTHOR,high,Bryan Dean Wright,
+Talking Feds,Harry Litman,ITUNES_AUTHOR,high,Harry Litman,
+Breaking News from Pod Save America,,PUBLISHER_ONLY,none,Crooked Media,publisher-only fields: Crooked Media
+The Lincoln Project,,PUBLISHER_ONLY,none,The Lincoln Project,publisher-only fields: Audioboom
+Political Gabfest,,PUBLISHER_ONLY,none,Slate Podcasts,publisher-only fields: Slate Podcasts
+The Fox News Rundown,,PUBLISHER_ONLY,none,FOX News Podcasts,publisher-only fields: FOX News Podcasts
+The Rest Is Politics: US,Goalhanger,ITUNES_AUTHOR,high,Goalhanger,
+Advisory Opinions,,PUBLISHER_ONLY,none,The Dispatch,publisher-only fields: The Dispatch
+The Focus Group Podcast,Focus Group,PARSED_FROM_TITLE,low,The Bulwark,
+This Week with George Stephanopoulos,George Stephanopoulos,PARSED_FROM_TITLE,medium,ABC News,
+Impolitic with John Heilemann,Audacy | Puck,ITUNES_AUTHOR,high,Audacy | Puck,
+It's That Part,Jesse Lee Hammonds,ITUNES_AUTHOR,high,Jesse Lee Hammonds,
+No Lie with Brian Tyler Cohen,Brian Tyler Cohen,ITUNES_AUTHOR,high,Brian Tyler Cohen,
+The Playbook Podcast,,PUBLISHER_ONLY,none,POLITICO,publisher-only fields: POLITICO
+John Solomon Reports,John Solomon,ITUNES_AUTHOR,high,John Solomon,
+The Daily Punch,,PUBLISHER_ONLY,none,Punchbowl News,publisher-only fields: Punchbowl News
+The Remnant with Jonah Goldberg,Jonah Goldberg,PARSED_FROM_TITLE,medium,The Dispatch,
+The Illegal News with Sarah Longwell,Sarah Longwell,PARSED_FROM_TITLE,medium,The Bulwark,
+Next Up with Mark Halperin,Mark Halperin,PARSED_FROM_TITLE,medium,MK Media,
+Face the Nation with Margaret Brennan,Margaret Brennan,PARSED_FROM_TITLE,medium,CBS News,
+The Young Turks,,PUBLISHER_ONLY,none,TYT Network,publisher-only fields: TYT Network
+The 11th Hour with Ali Velshi,Ali Velshi,ITUNES_AUTHOR,high,"MS NOW, Ali Velshi",
+Talkin' Politics & Religion Without Killin' Each Other,,PUBLISHER_ONLY,none,"Scan Media, LLC",publisher-only fields: Scan Media
+Louder with Crowder,Crowder,PARSED_FROM_TITLE,medium,Louder with Crowder,
+The Ben Ferguson Podcast,Ben Ferguson,PARSED_FROM_TITLE,low,iHeartPodcasts,
+Pod Force One,,PUBLISHER_ONLY,none,New York Post,publisher-only fields: New York Post
+The David Pakman Show,David Pakman,ITUNES_AUTHOR,high,David Pakman,
+Brian Kilmeade Show,Brian Kilmeade,PARSED_FROM_TITLE,low,FOX News Podcasts,
+Stay Tuned with Preet,Preet Bharara,ITUNES_AUTHOR,high,Preet Bharara,
+TRUE ANON TRUTH FEED,,PUBLISHER_ONLY,none,TrueAnon,publisher-only fields: TrueAnon
+Making the Argument with Nick Freitas,Nick Freitas,ITUNES_AUTHOR,high,Nick Freitas,
+The Warning with Steve Schmidt,Steve Schmidt,PARSED_FROM_TITLE,medium,iHeartPodcasts,
+Politics Chat,Heather Cox Richardson,ITUNES_AUTHOR,high,Heather Cox Richardson,
+Main Justice,Andrew Weissmann,ITUNES_AUTHOR,high,"MS NOW, Andrew Weissmann, Mary McCord",
+Main Justice,Mary McCord,ITUNES_AUTHOR,high,"MS NOW, Andrew Weissmann, Mary McCord",
+Liberty Lockdown,Clint Russell,ITUNES_AUTHOR,high,Clint Russell,
+The Majority Report with Sam Seder,Sam Seder,ITUNES_AUTHOR,high,Sam Seder,
+The Beat with Ari Melber,Ari Melber,ITUNES_AUTHOR,high,"Ari Melber, MS NOW",
+Renegade Talk Radio,,PUBLISHER_ONLY,none,Renegade Talk Radio,publisher-only fields: Renegade Talk Radio
+The PoliticsGirl Podcast,Leigh McGowan,ITUNES_AUTHOR,high,"Meidas Media Network, Leigh McGowan",
+Hacks On Tap,David Axelrod,ITUNES_OWNER,high,Vox Media,
+Hacks On Tap,Mike Murphy,ITUNES_OWNER,high,Vox Media,
+THE DAILY BLAST with Greg Sargent,Greg Sargent,ITUNES_AUTHOR,high,Greg Sargent,
+Politics War Room with James Carville & Al Hunt,James Carville,PARSED_FROM_TITLE,medium,Politicon,
+Politics War Room with James Carville & Al Hunt,Al Hunt,PARSED_FROM_TITLE,medium,Politicon,
+Newt's World,,UNKNOWN,none,Gingrich 360,
+The 47 Morning Update with Ben Ferguson,Ben Ferguson,PARSED_FROM_TITLE,medium,Premiere Networks,
+Know Your Enemy,Matthew Sitman,ITUNES_AUTHOR,high,Matthew Sitman,
+Sidebar with Katie Phang,Katie Phang,ITUNES_AUTHOR,high,Katie Phang,
+The Benny Show,Benny Johnson,ITUNES_AUTHOR,high,Benny Johnson,
+The Hugh Hewitt Show: Highly Concentrated,Marcus Brown,ITUNES_OWNER,medium,Salem Podcast Network,"owner value 'Marcus Brown' repeats across 2 shows in corpus -- likely a shared feed admin/producer contact, not verified as this show's host"
+Straight White American Jesus,Bradley Onishi,ITUNES_AUTHOR,high,Bradley Onishi + Daniel Miller,
+Straight White American Jesus,Daniel Miller,ITUNES_AUTHOR,high,Bradley Onishi + Daniel Miller,
+The Intercept Briefing,,UNKNOWN,none,The Intercept,
+The Loren Piretra Show,Loren Piretra,ITUNES_AUTHOR,high,Loren Piretra,
+Tangle,Isaac Saul,ITUNES_AUTHOR,high,Isaac Saul,
+GZERO World with Ian Bremmer,Ian Bremmer,PARSED_FROM_TITLE,medium,GZERO Media,
+Human Events Daily with Jack Posobiec,Jack Posobiec,PARSED_FROM_TITLE,medium,Human Events with Jack Posobiec,
+The Michael Berry Show,Michael Berry,PARSED_FROM_TITLE,low,KTRH (KTRH-AM),
+The Chris Cuomo Project,Chris Cuomo,ITUNES_AUTHOR,high,Chris Cuomo,
+The Skepticrat,,PUBLISHER_ONLY,none,"Puzzle in a Thunderstorm, LLC","publisher-only fields: Audioboom, LLC"
+The Foreign Affairs Interview,,PUBLISHER_ONLY,none,Foreign Affairs Magazine,publisher-only fields: Foreign Affairs Magazine
+The Brian Lehrer Show,Brian Lehrer,PARSED_FROM_TITLE,low,WNYC,
+Glenn Diesen - Greater Eurasia Podcast,Glenn Diesen,ITUNES_AUTHOR,high,Glenn Diesen,
+Fox Across America w/ Jimmy Failla,Jimmy Failla,PARSED_FROM_TITLE,medium,FOX News Podcasts,
+Rev Left Radio,Breht O'Shea,ITUNES_OWNER,high,Revolutionary Left Radio,
+The Graham Allen Show,Graham Allen,ITUNES_AUTHOR,high,Graham Allen,
+Going Rogue with Lara Logan,Lara Logan,ITUNES_AUTHOR,high,Lara Logan,
+RealClearPolitics Podcast,Carl Cannon,ITUNES_AUTHOR,high,"RealClearPolitics, Carl Cannon, Tom Bevan",
+RealClearPolitics Podcast,Tom Bevan,ITUNES_AUTHOR,high,"RealClearPolitics, Carl Cannon, Tom Bevan",
+The Tom Woods Show,Tom Woods,ITUNES_AUTHOR,high,Tom Woods,
+The Joy Reid Show,Joy-Ann Reid,ITUNES_AUTHOR,high,Joy-Ann Reid,
+Nobody Knows Anything,,PUBLISHER_ONLY,none,Narrowcast Media,publisher-only fields: Narrowcast Media
+The Smerconish Podcast,,PUBLISHER_ONLY,none,SiriusXM,publisher-only fields: SiriusXM
+The Source with Kaitlan Collins,Kaitlan Collins,PARSED_FROM_TITLE,medium,CNN Podcasts,
+American Prestige,Daniel Bessner,ITUNES_AUTHOR,high,Daniel Bessner & Derek Davison,
+American Prestige,Derek Davison,ITUNES_AUTHOR,high,Daniel Bessner & Derek Davison,
+System Update with Glenn Greenwald,Glenn Greenwald,PARSED_FROM_TITLE,medium,Rumble,
+Volts,David Roberts,ITUNES_AUTHOR,high,David Roberts,
+Wendy Bell Radio Podcast,Wendy Bell,ITUNES_AUTHOR,high,Wendy Bell,
+Uncommon Knowledge,,PUBLISHER_ONLY,none,Hoover Institution,publisher-only fields: Hoover Institution
+Brian Tyler Cohen,,PUBLISHER_ONLY,none,Brian Tyler Cohen Network,publisher-only fields: Brian Tyler Cohen Network
+Checks and Balance from The Economist,,PUBLISHER_ONLY,none,The Economist,publisher-only fields: The Economist
+Trump's Terms,,PUBLISHER_ONLY,none,NPR,publisher-only fields: NPR
+The Mel K Show,Mel K,ITUNES_AUTHOR,high,Mel K,
+Defending Democracy with Marc Elias,Marc Elias,PARSED_FROM_TITLE,medium,Democracy Docket,
+The Coffee Klatch with Robert Reich,Robert Reich,ITUNES_AUTHOR,high,Robert Reich,
+The Breakdown,Alberto fo sho,ITUNES_AUTHOR,high,Alberto fo sho,
+Lectures in History,,PUBLISHER_ONLY,none,C-SPAN,publisher-only fields: C-SPAN
+Opening Arguments,,PUBLISHER_ONLY,none,Opening Arguments Media LLC,publisher-only fields: Opening Arguments Media LLC
+What Really Matters with Walter Russell Mead,Walter Russell Mead,PARSED_FROM_TITLE,medium,Tablet Magazine,
+The Pete Quiñones Show,Peter R Quiñones,ITUNES_AUTHOR,high,Peter R Quiñones,
+Mission Implausible,Jonathan Stern,ITUNES_OWNER,high,iHeartPodcasts,
+Dad Saves America,John Papola,ITUNES_AUTHOR,high,John Papola,
+10 Minute Drill,Matt Whitlock,ITUNES_AUTHOR,high,Matt Whitlock,
+American Thought Leaders,,PUBLISHER_ONLY,none,The Epoch Times,publisher-only fields: The Epoch Times
+The Tony Kinnett Cast,,PUBLISHER_ONLY,none,The Daily Signal,publisher-only fields: The Daily Signal
+Head in the Office,,PUBLISHER_ONLY,none,HITO Media LLC,publisher-only fields: HITO Media LLC
+Slate News,,PUBLISHER_ONLY,none,Slate Podcasts,publisher-only fields: Slate Podcasts
+Conversations with Bill Kristol,Bill Kristol,ITUNES_AUTHOR,high,Bill Kristol,
+The Al Franken Podcast,Al Franken,PARSED_FROM_TITLE,low,The Al Franken Podcast,
+American Conservative University,,PUBLISHER_ONLY,none,American Conservative University,publisher-only fields: American Conservative University
+HasanAbi,,UNKNOWN,none,HasanAbi,
+What the Hell Is Going On,,PUBLISHER_ONLY,none,AEI Podcasts,publisher-only fields: AEI Podcasts
+Paul Krugman Podcast,Paul Krugman,ITUNES_AUTHOR,high,Paul Krugman,
+Deseret Voices,,PUBLISHER_ONLY,none,Deseret News,publisher-only fields: Deseret News
+UNGOVERNED,Shawn Farash,ITUNES_AUTHOR,high,Shawn Farash,
+KQED's Forum,,UNKNOWN,none,KQED,
+The Mary Trump Podcast,Mary Trump,PARSED_FROM_TITLE,low,Mary Trump Media,
+The Damage Report with John Iadarola,John Iadarola,PARSED_FROM_TITLE,medium,TYT Network,
+Wired In,,PUBLISHER_ONLY,none,The Daily Wire,publisher-only fields: The Daily Wire
+Jacobin Radio,,PUBLISHER_ONLY,none,Jacobin,publisher-only fields: Jacobin
+Owen Report,Owen Shroyer,ITUNES_AUTHOR,high,Owen Shroyer,
+Bad Faith,Briahna Joy Gray,ITUNES_AUTHOR,high,Briahna Joy Gray,
+Perino on Politics,,PUBLISHER_ONLY,none,FOX News Podcasts,publisher-only fields: FOX News Podcasts
+MOATS with George Galloway,George Galloway,PARSED_FROM_TITLE,medium,Molucca Media Ltd,
+"The Bob Cesca Show | Politics Podcast, News & Commentary",Bob Cesca,ITUNES_AUTHOR,high,Bob Cesca,
+The President's Inbox,,PUBLISHER_ONLY,none,Council on Foreign Relations,publisher-only fields: Council on Foreign Relations
+The Dig,Daniel Denvir,ITUNES_AUTHOR,high,Daniel Denvir,
+Unf*cking The Republic,,PUBLISHER_ONLY,none,UNFTR Media,publisher-only fields: UNFTR Media
+Washington Today,,PUBLISHER_ONLY,none,C-SPAN,"publisher-only fields: C-SPAN, Radio"
+War on the Rocks,Ryan Evans,ITUNES_AUTHOR,high,Ryan Evans,
+Federalist Radio Hour,,PUBLISHER_ONLY,none,Radio America,publisher-only fields: Radio America
+The Conversation with Dasha Burns,Dasha Burns,PARSED_FROM_TITLE,medium,POLITICO,
+Useful Idiots with Katie Halper and Aaron Maté,Katie Halper,PARSED_FROM_TITLE,medium,"Useful Idiots, LLC",
+Useful Idiots with Katie Halper and Aaron Maté,Aaron Maté,PARSED_FROM_TITLE,medium,"Useful Idiots, LLC",
+Amarica's Constitution,Akhil Reed Amar,ITUNES_AUTHOR,high,Akhil Reed Amar,
+ChinaTalk,Jordan Schneider,ITUNES_AUTHOR,high,Jordan Schneider,
+The Victor Davis Hanson Show,Victor Davis Hanson,ITUNES_AUTHOR,high,Victor Davis Hanson and Jack Fowler,
+The Victor Davis Hanson Show,Jack Fowler,ITUNES_AUTHOR,high,Victor Davis Hanson and Jack Fowler,
+Politically Georgia,,PUBLISHER_ONLY,none,The Atlanta Journal-Constitution,publisher-only fields: The Atlanta Journal-Constitution
+Hawk Podcasts,Hawk,ITUNES_AUTHOR,high,Hawk,
+Bad Hasbara - The World's Most Moral Podcast,Matt Lieb,ITUNES_AUTHOR,high,Matt Lieb,
+The Political Orphanage,Andrew Heaton,ITUNES_AUTHOR,high,Andrew Heaton,
+Maiden Mother Matriarch with Louise Perry,Louise Perry,ITUNES_AUTHOR,high,Louise Perry,
+SGT Report's The Propaganda Antidote,,PUBLISHER_ONLY,none,SGT Report,publisher-only fields: SGT Report
+Make It Make Sense,,PUBLISHER_ONLY,none,The Washington Post,publisher-only fields: The Washington Post
+Mark Kaye Saves The Republic,,PUBLISHER_ONLY,none,Kayetriot Media,publisher-only fields: Kayetriot Media
+Scott Horton Show - Just the Interviews,Scott Horton,ITUNES_AUTHOR,high,Scott Horton,
+The Peter McCormack Show,Peter McCormack,ITUNES_AUTHOR,high,Peter McCormack,
+Firing Line with Margaret Hoover,Margaret Hoover,PARSED_FROM_TITLE,medium,Firing Line With Margaret Hoover,
+"Life, Liberty & Levin Podcast",,PUBLISHER_ONLY,none,FOX News Podcasts,publisher-only fields: FOX News Podcasts
+Antiwar News With Dave DeCamp,Dave DeCamp,ITUNES_AUTHOR,high,Dave DeCamp,
+The Globalist,,PUBLISHER_ONLY,none,Monocle,"publisher-only fields: Monocle, Winkontent Ltd. 759286"
+The Harry Sisson Show,Harry Sisson,ITUNES_AUTHOR,high,Harry Sisson,
+It's A Numbers Game with Ryan Girdusky,Ryan Girdusky,PARSED_FROM_TITLE,medium,iHeartPodcasts,
+The Kyle Seraphin Show,Kyle Seraphin,ITUNES_AUTHOR,high,Kyle Seraphin,
+POLITICO Energy,,PUBLISHER_ONLY,none,POLITICO,publisher-only fields: POLITICO
+Autocracy in America,,PUBLISHER_ONLY,none,The Atlantic,publisher-only fields: The Atlantic
+Stay Free with Russell Brand,Russell Brand,ITUNES_OWNER,high,Stay Free with Russell Brand,
+THE WEEKEND SHOW,,PUBLISHER_ONLY,none,Evergreen Podcasts,"publisher-only fields: Evergreen Podcasts, Five Minute News"
+The Kyle Kulinski Show,Kyle Kulinski,ITUNES_AUTHOR,high,Kyle Kulinski,
+The Dishcast with Andrew Sullivan,Andrew Sullivan,ITUNES_AUTHOR,high,Andrew Sullivan,
+Majority 54,,UNKNOWN,none,Majority 54,
+Timcast News,,PUBLISHER_ONLY,none,Timcast Media,publisher-only fields: Timcast Media
+Hope For America with Heather Delaney Reese,Heather Delaney Reese,ITUNES_AUTHOR,high,Heather Delaney Reese,
+"Best of the Left - Leftist Perspectives on Progressive Politics, News, Culture, Economics and Democracy",Culture,ITUNES_AUTHOR,high,"Best of the Left: Perspectives on Politics, Culture, and Economics",
+"Best of the Left - Leftist Perspectives on Progressive Politics, News, Culture, Economics and Democracy",Economics,ITUNES_AUTHOR,high,"Best of the Left: Perspectives on Politics, Culture, and Economics",
+The Inside Story Podcast,Inside Story,PARSED_FROM_TITLE,low,Al Jazeera,
+The Great America Show,John Fawcett,ITUNES_OWNER,high,Fawcett Strategies,
+No Gods No Mayors,,UNKNOWN,none,The Office of the Mayor,
+Cleanup on Aisle 45 with AG & Harry Dunn,Harry Dunn,PARSED_FROM_TITLE,medium,MSW Media,
+Rational Security,,PUBLISHER_ONLY,none,The Lawfare Institute,publisher-only fields: The Lawfare Institute
+The Arena,Father Josiah Trenham,ITUNES_AUTHOR,high,Father Josiah Trenham,
+The Reason Roundtable,,UNKNOWN,none,The Reason Roundtable,
+Batya!,Batya,ITUNES_AUTHOR,high,Batya,
+The Breitbart News Daily Podcast,Breitbart News Daily,PARSED_FROM_TITLE,low,SiriusXM,
+The Keith Edwards Show,Keith Edwards,ITUNES_AUTHOR,high,Keith Edwards,
+The Nation Podcasts,,PUBLISHER_ONLY,none,The Nation Magazine,publisher-only fields: The Nation Magazine
+Week In Review,Information,ITUNES_AUTHOR,high,KUOW News and Information,
+Hood Politics with Prop,Prop,PARSED_FROM_TITLE,medium,Cool Zone Media and iHeartPodcasts,
+Timothy Gordon Rules for Retrogrades Podcast,Timothy Gordon,ITUNES_AUTHOR,high,Timothy Gordon,
+The Drill Down with Peter Schweizer,Peter Schweizer,PARSED_FROM_TITLE,medium,Government Accountability Institute,
+What's The Plan? with Leah Greenberg and Ezra Levin,Leah Greenberg,PARSED_FROM_TITLE,medium,Indivisible,
+What's The Plan? with Leah Greenberg and Ezra Levin,Ezra Levin,PARSED_FROM_TITLE,medium,Indivisible,
+Extremely American,,PUBLISHER_ONLY,none,NPR,publisher-only fields: NPR
+Week In Review,,PUBLISHER_ONLY,none,FITSNews,publisher-only fields: FITSNews
+Brad vs Everyone,,PUBLISHER_ONLY,none,iHeartPodcasts,publisher-only fields: iHeartPodcasts
+Essential Minnesota,,PUBLISHER_ONLY,none,Minnesota Star Tribune,"publisher-only fields: Minnesota Star Tribune, The Minnesota Star Tribune"
+Seattle Nice,David Hyde,ITUNES_AUTHOR,high,"David Hyde, Erica Barnett, and Sandeep Kaushik",
+Seattle Nice,Erica Barnett,ITUNES_AUTHOR,high,"David Hyde, Erica Barnett, and Sandeep Kaushik",
+Seattle Nice,Sandeep Kaushik,ITUNES_AUTHOR,high,"David Hyde, Erica Barnett, and Sandeep Kaushik",
+The Lars Larson Show Pacific Northwest Podcast,Lars Larson,ITUNES_AUTHOR,high,Lars Larson,
+Destiny,,UNKNOWN,none,Destiny,
+The Nerd Reich,,UNKNOWN,none,nerdreich,
+The Buck Sexton Show,Buck Sexton,PARSED_FROM_TITLE,low,Premiere Networks,
+The Reason Interview With Nick Gillespie,Nick Gillespie,PARSED_FROM_TITLE,medium,The Reason Interview With Nick Gillespie,
+Get Angry,Bryan Andrews,ITUNES_AUTHOR,high,"Bryan Andrews, ItsLuke",
+Get Angry,ItsLuke,ITUNES_AUTHOR,high,"Bryan Andrews, ItsLuke",
+The Josh Hammer Show,Marcus Brown,ITUNES_OWNER,medium,The Josh Hammer Show,"owner value 'Marcus Brown' repeats across 2 shows in corpus -- likely a shared feed admin/producer contact, not verified as this show's host"
+Mea Culpa,,PUBLISHER_ONLY,none,Michael Cohen,publisher-only fields: Podcast WABCRadio
+The Moment with Jorge Ramos and Paola Ramos,Jorge Ramos,PARSED_FROM_TITLE,medium,iHeartPodcasts,
+The Moment with Jorge Ramos and Paola Ramos,Paola Ramos,PARSED_FROM_TITLE,medium,iHeartPodcasts,
+"Mueller, She Wrote - When the Facts Were Fresh",Allison Gill,ITUNES_OWNER,high,MSW Media,
+I Don't Speak German,,UNKNOWN,none,IDSG,
+Candace Owens,,PUBLISHER_ONLY,none,The Daily Wire,publisher-only fields: The Daily Wire
+Countdown with Keith Olbermann,Keith Olbermann,PARSED_FROM_TITLE,medium,iHeartPodcasts,
+The Mona Charen Show,Mona Charen,PARSED_FROM_TITLE,low,The Bulwark,
+Russian Roulette,International Studies,ITUNES_AUTHOR,high,Center for Strategic and International Studies,
+Uncertain with DL Hughley,DL Hughley,ITUNES_AUTHOR,high,DL Hughley,
+Politix,,UNKNOWN,none,Politix,
+The TPM Show with Josh and Kate,Josh,PARSED_FROM_TITLE,medium,Talking Points Memo,
+The TPM Show with Josh and Kate,Kate,PARSED_FROM_TITLE,medium,Talking Points Memo,

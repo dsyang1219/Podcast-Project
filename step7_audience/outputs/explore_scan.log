@@ -1,0 +1,163 @@
+pooled: 1284 respondents, 64 shows | feature coverage (shows): dir_z:64, populist_rate:64, antimedia_rate:64, game_rate:64, share_political:63, D4_biber:49, you_deontic_rate:53, avg_host_cfscore:34
+
+=== SCAN B: each show feature (z across shows) -> outcome; respondent-level; controls party/attn/age/edu/rw_plat/show-lean; CR2 + wild; all shows as clusters; BH across features ===
+
+--- outcome cyn8 ---
+              feat      b    p2    pw  q_wild     df  G    N
+             inten  0.201 0.002 0.003   0.039  5.398 53  507
+           rp_rate  0.195 0.001 0.003   0.039  9.436 64 1275
+    mediacrit_rate  0.205 0.012 0.018   0.156  9.112 64 1275
+imp_epistemic_rate  0.196 0.088 0.047   0.286  2.587 53  507
+       people_rate  0.228 0.041 0.061   0.286  5.581 64 1275
+imp_attention_rate  0.132 0.065 0.067   0.286 11.963 53  507
+   share_political  0.166 0.039 0.081   0.286  9.925 63 1248
+             dir_z  0.106 0.152 0.088   0.286  6.828 64 1275
+   imp_action_rate  0.126 0.072 0.120   0.347  9.133 53  507
+     populist_rate  0.250 0.073 0.152   0.395  2.583 64 1275
+        elite_rate  0.243 0.142 0.199   0.403  1.804 64 1275
+        strat_rate  0.112 0.188 0.205   0.403  8.340 64 1275
+         game_rate  0.097 0.220 0.211   0.403  7.421 64 1275
+         interview -0.039 0.265 0.217   0.403  4.455 64 1275
+        horse_rate  0.087 0.265 0.279   0.468  8.145 64 1275
+          imper_rx  0.095 0.258 0.288   0.468 11.906 64 1275
+  you_deontic_rate  0.127 0.194 0.306   0.468  6.932 53  507
+         imper_syn  0.076 0.322 0.374   0.534  8.976 64 1275
+    antimedia_rate  0.048 0.492 0.390   0.534  3.001 64 1275
+            you_rx  0.066 0.461 0.492   0.640 11.191 64 1275
+  avg_host_cfscore -0.055 0.623 0.570   0.706  7.863 34  368
+             right -0.078 0.622 0.694   0.820  6.543 64 1275
+            ep_len -0.030 0.730 0.790   0.892  6.302 53  507
+     you_know_rate  0.013 0.852 0.837   0.892  7.797 53  507
+          D4_biber -0.013 0.878 0.858   0.892  5.439 49  500
+             multi -0.001 0.981 0.985   0.985  9.974 64 1275
+
+--- outcome q33e_rev ---
+              feat      b    p2    pw  q_wild     df  G    N
+           rp_rate  0.179 0.000 0.000   0.003  9.438 64 1275
+    mediacrit_rate  0.184 0.006 0.007   0.084  9.113 64 1275
+       people_rate  0.220 0.014 0.011   0.084  5.584 64 1275
+             inten  0.193 0.037 0.013   0.084  5.398 53  507
+   imp_action_rate  0.134 0.011 0.024   0.125  9.133 53  507
+imp_attention_rate  0.138 0.017 0.031   0.134 11.963 53  507
+imp_epistemic_rate  0.141 0.077 0.056   0.176  2.587 53  507
+   share_political  0.126 0.043 0.058   0.176  9.926 63 1248
+             right  0.168 0.044 0.061   0.176  6.588 64 1275
+     populist_rate  0.234 0.066 0.077   0.200  2.585 64 1275
+         interview -0.039 0.215 0.161   0.381  4.441 64 1275
+        horse_rate  0.074 0.262 0.203   0.396  8.137 64 1275
+        elite_rate  0.220 0.152 0.211   0.396  1.806 64 1275
+    antimedia_rate  0.083 0.379 0.229   0.396  3.002 64 1275
+         game_rate  0.068 0.278 0.242   0.396  7.414 64 1275
+             dir_z  0.055 0.381 0.244   0.396  6.830 64 1275
+          D4_biber -0.038 0.480 0.375   0.574  5.439 49  500
+             multi -0.036 0.455 0.401   0.579  9.961 64 1275
+  you_deontic_rate  0.063 0.454 0.435   0.581  6.932 53  507
+        strat_rate  0.046 0.492 0.447   0.581  8.342 64 1275
+          imper_rx  0.048 0.500 0.501   0.606 11.904 64 1275
+  avg_host_cfscore -0.074 0.581 0.534   0.606  7.863 34  368
+         imper_syn  0.042 0.506 0.536   0.606  8.974 64 1275
+            ep_len -0.024 0.713 0.710   0.769  6.302 53  507
+     you_know_rate -0.024 0.751 0.765   0.785  7.797 53  507
+            you_rx  0.017 0.816 0.785   0.785 11.190 64 1275
+
+--- outcome excl ---
+              feat      b    p2    pw  q_wild     df  G    N
+             dir_z  0.060 0.077 0.001   0.009  6.880 64 1283
+           rp_rate  0.072 0.029 0.001   0.009  9.446 64 1283
+    mediacrit_rate  0.096 0.013 0.001   0.009  9.122 64 1283
+             inten  0.173 0.004 0.003   0.020  5.404 53  508
+       people_rate  0.087 0.045 0.011   0.057  5.610 64 1283
+imp_attention_rate  0.108 0.030 0.014   0.061 11.938 53  508
+  you_deontic_rate  0.123 0.031 0.021   0.078  6.924 53  508
+imp_epistemic_rate  0.093 0.271 0.064   0.208  2.588 53  508
+          imper_rx  0.040 0.116 0.104   0.300 11.925 64 1283
+     populist_rate  0.087 0.146 0.126   0.312  2.593 64 1283
+   share_political  0.059 0.122 0.132   0.312  9.937 63 1256
+             right  0.077 0.112 0.168   0.350  6.662 64 1283
+        elite_rate  0.074 0.259 0.175   0.350  1.807 64 1283
+    antimedia_rate  0.011 0.423 0.318   0.591  3.015 64 1283
+         imper_syn  0.023 0.377 0.390   0.676  8.981 64 1283
+             multi  0.017 0.472 0.513   0.747 10.013 64 1283
+   imp_action_rate  0.033 0.503 0.517   0.747  9.101 53  508
+            ep_len  0.044 0.544 0.517   0.747  6.301 53  508
+        strat_rate  0.042 0.405 0.555   0.759  8.374 64 1283
+            you_rx  0.016 0.585 0.622   0.809 11.192 64 1283
+          D4_biber  0.060 0.405 0.732   0.875  5.319 49  501
+        horse_rate -0.008 0.747 0.743   0.875  8.179 64 1283
+         game_rate  0.007 0.827 0.807   0.875  7.450 64 1283
+     you_know_rate  0.012 0.816 0.808   0.875  7.816 53  508
+         interview  0.000 0.960 0.937   0.974  4.470 64 1283
+  avg_host_cfscore -0.001 0.991 0.991   0.991  7.863 34  368
+
+=== SCAN A: show-level, party-adjusted audience means (shows >=5 resp), n-weighted correlation, permutation p ===
+
+--- audience r_cyn ---
+              feat  shows    r_w  p_perm     q
+             inten     18  0.692   0.001 0.009
+imp_epistemic_rate     18  0.711   0.001 0.009
+           rp_rate     29  0.665   0.001 0.009
+     populist_rate     29  0.578   0.001 0.009
+       people_rate     29  0.587   0.002 0.009
+        elite_rate     29  0.483   0.003 0.012
+    mediacrit_rate     29  0.522   0.011 0.042
+  you_deontic_rate     18  0.459   0.091 0.296
+   share_political     28  0.401   0.125 0.329
+imp_attention_rate     18  0.422   0.127 0.329
+   imp_action_rate     18  0.358   0.226 0.499
+        strat_rate     29  0.311   0.242 0.499
+         game_rate     29  0.303   0.252 0.499
+        horse_rate     29  0.282   0.280 0.499
+          imper_rx     29  0.293   0.294 0.499
+         interview     29 -0.266   0.307 0.499
+         imper_syn     29  0.260   0.345 0.528
+            you_rx     29  0.213   0.455 0.658
+             dir_z     29  0.171   0.539 0.738
+    antimedia_rate     29  0.158   0.576 0.749
+             right     29 -0.134   0.649 0.762
+  avg_host_cfscore     11 -0.166   0.668 0.762
+          D4_biber     18  0.138   0.674 0.762
+            ep_len     18  0.125   0.713 0.772
+             multi     29 -0.040   0.905 0.942
+     you_know_rate     18 -0.019   0.960 0.960
+
+--- audience r_excl ---
+              feat  shows    r_w  p_perm     q
+             inten     18  0.819   0.001 0.035
+  you_deontic_rate     18  0.653   0.042 0.249
+    mediacrit_rate     29  0.463   0.043 0.249
+             dir_z     29  0.457   0.046 0.249
+     populist_rate     29  0.390   0.056 0.249
+imp_epistemic_rate     18  0.460   0.067 0.249
+        elite_rate     29  0.342   0.069 0.249
+       people_rate     29  0.381   0.082 0.249
+           rp_rate     29  0.404   0.086 0.249
+imp_attention_rate     18  0.561   0.125 0.325
+          D4_biber     18  0.421   0.261 0.618
+             multi     29  0.253   0.323 0.655
+             right     29  0.247   0.327 0.655
+         interview     29  0.168   0.423 0.785
+            ep_len     18  0.285   0.470 0.785
+        horse_rate     29 -0.169   0.483 0.785
+   imp_action_rate     18  0.210   0.653 0.942
+         game_rate     29 -0.104   0.669 0.942
+    antimedia_rate     29 -0.083   0.726 0.942
+     you_know_rate     18  0.115   0.755 0.942
+          imper_rx     29  0.082   0.761 0.942
+            you_rx     29 -0.063   0.811 0.952
+   share_political     28  0.040   0.883 0.952
+        strat_rate     29  0.036   0.889 0.952
+  avg_host_cfscore     11  0.046   0.915 0.952
+         imper_syn     29 -0.007   0.978 0.978
+
+=== SCAN D: heterogeneity of dir_z -> cyn8 (interactions; z-scored moderators), all shows ===
+  dir_z x isR              interaction b=+0.066  CR2 p=0.177 wild p=0.063 | dir_z main at mean moderator b=+0.092 p=0.246  (G=64 N=1275)
+  dir_z x isD              interaction b=-0.053  CR2 p=0.431 wild p=0.318 | dir_z main at mean moderator b=+0.098 p=0.301  (G=64 N=1275)
+  dir_z x attn             interaction b=+0.028  CR2 p=0.894 wild p=0.687 | dir_z main at mean moderator b=+0.104 p=0.471  (G=64 N=1275)
+  dir_z x age              interaction b=+0.037  CR2 p=0.762 wild p=0.468 | dir_z main at mean moderator b=+0.102 p=0.231  (G=64 N=1275)
+  dir_z x edu              interaction b=+0.053  CR2 p=0.453 wild p=0.513 | dir_z main at mean moderator b=+0.104 p=0.182  (G=64 N=1275)
+  dir_z x excl             interaction b=+0.014  CR2 p=0.711 wild p=0.685 | dir_z main at mean moderator b=+0.090 p=0.197  (G=64 N=1275)
+  dir_z x rw_plat          interaction b=+0.042  CR2 p=0.698 wild p=0.697 | dir_z main at mean moderator b=+0.104 p=0.085  (G=64 N=1275)
+  dir_z x fresh            interaction b=-0.119  CR2 p=0.096 wild p=0.050 | dir_z main at mean moderator b=+0.105 p=0.128  (G=64 N=1275)
+  dir_z x right            interaction b=-0.075  CR2 p=0.334 wild p=0.350 | dir_z main at mean moderator b=+0.120 p=0.077  (G=64 N=1275)
+  dir_z x share_political  interaction b=+0.038  CR2 p=0.462 wild p=0.263 | dir_z main at mean moderator b=+0.154 p=0.017  (G=63 N=1248)
+  dir_z x multi            interaction b=-0.157  CR2 p=0.155 wild p=0.077 | dir_z main at mean moderator b=+0.058 p=0.564  (G=64 N=1275)

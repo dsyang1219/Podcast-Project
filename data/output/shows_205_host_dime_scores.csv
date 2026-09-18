@@ -1,0 +1,205 @@
+show_id,show,publisher,hours,host,n_hosts,n_hosts_scored,coverage,avg_host_cfscore,host_cfscore_detail
+1551206847,#SistersInLaw,Politicon,25.22,"Joyce Vance, Jill Wine-Banks, Barb McQuade and Kimberly Atkins Stohr",4.0,3.0,partial,0.0056666666666666,Joyce Vance=1.543; Jill Wine-Banks=-0.582; Barb McQuade=-0.944; Kimberly Atkins Stohr=NA
+1798460240,10 Minute Drill,Matt Whitlock,25.11,Matt Whitlock,1.0,1.0,full,-1.156,Matt Whitlock=-1.156
+1490993194,Advisory Opinions,The Dispatch,25.11,Sara Isgur and David French,2.0,1.0,partial,1.0775,Sara Isgur=1.077; David French=NA
+1314170606,All In with Chris Hayes,"MS NOW, Chris Hayes",25.03,Chris Hayes,1.0,0.0,none,,Chris Hayes=NA
+1549624070,Amarica's Constitution,Akhil Reed Amar,25.47,Akhil Reed Amar and Andy Lipka,2.0,1.0,partial,-0.686,Akhil Reed Amar=-0.686; Andy Lipka=NA
+1576614213,American Conservative University,American Conservative University,25.19,,0.0,0.0,no_host_listed,,
+1574741668,American Prestige,Daniel Bessner & Derek Davison,25.42,Daniel Bessner and Derek Davison,2.0,1.0,partial,-1.159,Daniel Bessner=-1.159; Derek Davison=NA
+1471411980,American Thought Leaders,The Epoch Times,25.09,Jan Jekielek,1.0,0.0,none,,Jan Jekielek=NA
+1634341981,Antiwar News With Dave DeCamp,Dave DeCamp,25.38,Dave DeCamp,1.0,1.0,full,-0.616,Dave DeCamp=-0.616
+1531192509,Bad Faith,Briahna Joy Gray,25.22,Briahna Joy Gray,1.0,0.0,none,,Briahna Joy Gray=NA
+1721813926,Bad Hasbara - The World's Most Moral Podcast,Matt Lieb,26.69,Matt Lieb and Daniel Maté,2.0,1.0,partial,-1.147,Matt Lieb=-1.147; Daniel Maté=NA
+1485351658,Bannon`s War Room,WarRoom.org,25.49,Steve Bannon and Natalie Winters,2.0,1.0,partial,0.348,Steve Bannon=0.348; Natalie Winters=NA
+1868807558,Batya!,Batya,25.31,Batya Ungar-Sargon,1.0,0.0,none,,Batya Ungar-Sargon=NA
+124960485,"Best of the Left - Leftist Perspectives on Progressive Politics, News, Culture, Economics and Democracy","Best of the Left: Perspectives on Politics, Culture, and Economics",25.58,Jay Tomlinson,1.0,1.0,full,-1.331,Jay Tomlinson=-1.331
+1751785203,Brad vs Everyone,iHeartPodcasts,25.3,Brad Polumbo,1.0,1.0,full,-0.688,Brad Polumbo=-0.688
+1876034889,Breaking News from Pod Save America,Crooked Media,25.09,"Jon Favreau, Jon Lovett, Dan Pfeiffer, and Tommy Vietor",4.0,4.0,full,-0.975875,Jon Favreau=-0.898; Jon Lovett=-1.032; Dan Pfeiffer=-1.085; Tommy Vietor=-0.889
+1570045623,Breaking Points with Krystal and Saagar,iHeartPodcasts,25.26,Krystal Ball and Saagar Enjeti,2.0,1.0,partial,-0.9107,Krystal Ball=-0.911; Saagar Enjeti=NA
+219258773,Brian Kilmeade Show,FOX News Podcasts,25.19,Brian Kilmeade,1.0,1.0,full,1.659,Brian Kilmeade=1.659
+1896576050,Brian Tyler Cohen,Brian Tyler Cohen Network,25.02,Brian Tyler Cohen,1.0,1.0,full,-1.072,Brian Tyler Cohen=-1.072
+1794450472,Bulwark Takes,The Bulwark,25.68,"Tim Miller, Sarah Longwell, and Bill Kristol",3.0,2.0,partial,-0.16375,Tim Miller=-0.990; Sarah Longwell=0.662; Bill Kristol=NA
+1750591415,Candace,Candace Owens,25.55,Candace Owens,1.0,0.0,none,,Candace Owens=NA
+1289062927,ChinaTalk,Jordan Schneider,26.14,Jordan Schneider,1.0,0.0,none,,Jordan Schneider=NA
+1549502623,Cleanup on Aisle 45 with AG & Harry Dunn,MSW Media,25.75,AG Dunn and Harry Dunn,2.0,0.0,none,,AG Dunn=NA; Harry Dunn=NA
+925428680,Conversations with Bill Kristol,Bill Kristol,25.57,Bill Kristol,1.0,0.0,none,,Bill Kristol=NA
+1633301179,Countdown with Keith Olbermann,iHeartPodcasts,25.06,Keith Olbermann,1.0,1.0,full,-1.014,Keith Olbermann=-1.014
+1636762428,Dad Saves America,John Papola,25.22,John Papola,1.0,1.0,full,1.2865,John Papola=1.286
+1367201919,Deadline: White House,"Nicolle Wallace, MS NOW",25.32,Nicolle Wallace,1.0,0.0,none,,Nicolle Wallace=NA
+1660317917,Defending Democracy with Marc Elias,Democracy Docket,25.08,Marc Elias and Paige Moskowitz,2.0,1.0,partial,-0.926,Marc Elias=NA; Paige Moskowitz=-0.926
+1800671132,Destiny,Destiny,26.14,Steven Bonnell II,1.0,0.0,none,,Steven Bonnell II=NA
+78911087,Face the Nation with Margaret Brennan,CBS News,25.48,Margaret Brennan,1.0,0.0,none,,Margaret Brennan=NA
+1645614328,Fast Politics with Molly Jong-Fast,iHeartPodcasts,25.32,Molly Jong-Fast,1.0,0.0,none,,Molly Jong-Fast=NA
+983782306,Federalist Radio Hour,Radio America,25.24,Matt Kittle,1.0,0.0,none,,Matt Kittle=NA
+1570432345,Firing Line with Margaret Hoover,Firing Line With Margaret Hoover,25.0,Margaret Hoover,1.0,1.0,full,0.595,Margaret Hoover=0.595
+1072469956,Fox Across America w/ Jimmy Failla,FOX News Podcasts,25.16,Jimmy Failla,1.0,1.0,full,1.057,Jimmy Failla=1.057
+1822142909,Glenn Diesen - Greater Eurasia Podcast,Glenn Diesen,25.68,Glemm Diesen,1.0,0.0,none,,Glemm Diesen=NA
+1805186512,Going Rogue with Lara Logan,Lara Logan,25.08,Lara Logan and Luke Coffee,2.0,1.0,partial,1.659,Lara Logan=1.659; Luke Coffee=NA
+1294461271,GZERO World with Ian Bremmer,GZERO Media,25.31,Ian Bremmer,1.0,1.0,full,-0.808,Ian Bremmer=-0.808
+1467297559,Hacks On Tap,Vox Media,25.74,"David Axelrod, Mike Murphy, and John Heilemann",3.0,3.0,full,-0.425,David Axelrod=-1.000; Mike Murphy=0.597; John Heilemann=-0.872
+1725442221,Hawk Podcasts,Hawk,25.42,Matthew Hawk,1.0,1.0,full,-1.032,Matthew Hawk=-1.032
+1579061364,Head in the Office,HITO Media LLC,25.3,Jeremy Johnson,1.0,1.0,full,-0.997,Jeremy Johnson=-0.997
+1493858530,Hood Politics with Prop,Cool Zone Media and iHeartPodcasts,25.74,Jason Petty,1.0,0.0,none,,Jason Petty=NA
+1874174561,Hope For America with Heather Delaney Reese,Heather Delaney Reese,25.25,Heather Delaney Reese,1.0,0.0,none,,Heather Delaney Reese=NA
+1585243541,Human Events Daily with Jack Posobiec,Human Events with Jack Posobiec,25.12,Jack Posobiec,1.0,0.0,none,,Jack Posobiec=NA
+1449848509,I Don't Speak German,IDSG,26.68,Daniel Harper and Jack Graham,2.0,1.0,partial,1.559,Daniel Harper=1.559; Jack Graham=NA
+1529346075,Impolitic with John Heilemann,Audacy | Puck,25.87,John Heilemann,1.0,1.0,full,-0.872,John Heilemann=-0.872
+1788891712,It's A Numbers Game with Ryan Girdusky,iHeartPodcasts,25.22,Ryan Girdusky,1.0,1.0,full,1.2223333333333333,Ryan Girdusky=1.222
+791564318,Jacobin Radio,Jacobin,26.55,"Suzi Weissman, Alan Minsky, and Meleiza Figueroa",3.0,3.0,full,-1.0566666666666666,Suzi Weissman=-0.994; Alan Minsky=-1.020; Meleiza Figueroa=-1.156
+1495251160,John Solomon Reports,John Solomon,25.73,John Solomon,1.0,0.0,none,,John Solomon=NA
+1462703434,Know Your Enemy,Matthew Sitman,25.74,Matthew Sitman and Sam Adler-Bell,2.0,2.0,full,-1.0765,Matthew Sitman=-1.108; Sam Adler-Bell=-1.045
+73329719,KQED's Forum,KQED,25.89,Mina Kim and Alexis Madrigal,2.0,1.0,partial,-1.056,Mina Kim=NA; Alexis Madrigal=-1.056
+506779862,Lectures in History,C-SPAN,25.36,,0.0,0.0,no_host_listed,,
+1730358737,Letters from an American,Heather Cox Richardson,25.15,Heather Cox Richardson,1.0,1.0,full,-1.058,Heather Cox Richardson=-1.058
+1138657182,Liberty Lockdown,Clint Russell,25.58,Clint Russell,1.0,0.0,none,,Clint Russell=NA
+1818658022,"Life, Liberty & Levin Podcast",FOX News Podcasts,25.14,Mark Levin,1.0,1.0,full,-0.904,Mark Levin=-0.904
+929121341,Louder with Crowder,Louder with Crowder,25.79,Steven Crowder,1.0,1.0,full,0.904,Steven Crowder=0.904
+1671451793,Maiden Mother Matriarch with Louise Perry,Louise Perry,26.44,Louise Perry,1.0,0.0,none,,Louise Perry=NA
+1679657705,Main Justice,"MS NOW, Andrew Weissmann, Mary McCord",25.04,Andrew Weissmann and Mary McCord,2.0,2.0,full,-0.8458333333333333,Andrew Weissmann=-0.721; Mary McCord=-0.971
+1309354521,Majority 54,Majority 54,25.26,Jason Kander and Ravi Gupta,2.0,1.0,partial,-0.65,Jason Kander=-0.650; Ravi Gupta=NA
+1506127536,Making the Argument with Nick Freitas,Nick Freitas,27.54,Nick Freitas,1.0,1.0,full,1.665,Nick Freitas=1.665
+1607829807,Mark Kaye Saves The Republic,Kayetriot Media,25.25,Mark Kaye,1.0,1.0,full,0.976,Mark Kaye=0.976
+1714009198,Mea Culpa,Michael Cohen,25.55,Michael Cohen,1.0,0.0,none,,Michael Cohen=NA
+1728340033,Mission Implausible,iHeartPodcasts,25.66,John Sipher and Jerry O'She,2.0,1.0,partial,-1.011,John Sipher=-1.011; Jerry O'She=NA
+1568505052,MOATS with George Galloway,Molucca Media Ltd,26.08,George Galloway,1.0,0.0,none,,George Galloway=NA
+75462585,NBC Nightly News with Tom Llamas,NBC News,25.14,Tom Llamas,1.0,0.0,none,,Tom Llamas=NA
+1452065072,Newt's World,Gingrich 360,25.01,Newt Gingrich,1.0,1.0,full,1.3655,Newt Gingrich=1.365
+1810218232,Next Up with Mark Halperin,MK Media,25.48,Mark Halperin,1.0,0.0,none,,Mark Halperin=NA
+1767877239,No Gods No Mayors,The Office of the Mayor,25.23,"Mattie Lubchansky, Riley Quinn, and November Kelly",3.0,1.0,partial,-1.137,Mattie Lubchansky=NA; Riley Quinn=-1.137; November Kelly=NA
+1515399733,No Lie with Brian Tyler Cohen,Brian Tyler Cohen,25.46,Brian Tyler Cohen,1.0,1.0,full,-1.072,Brian Tyler Cohen=-1.072
+1889705401,Nobody Knows Anything,Narrowcast Media,25.82,Franklin Leonard,1.0,0.0,none,,Franklin Leonard=NA
+73330715,On the Media,WNYC Studios,25.39,Brooke Gladstone and Micah Loewinger,2.0,1.0,partial,-1.032,Brooke Gladstone=-1.032; Micah Loewinger=NA
+1147092464,Opening Arguments,Opening Arguments Media LLC,25.38,Thomas Smith and Matt Cameron,2.0,1.0,partial,-1.015,Thomas Smith=-1.015; Matt Cameron=NA
+1843478428,Owen Report,Owen Shroyer,25.41,Owen Shroyer,1.0,0.0,none,,Owen Shroyer=NA
+1877144831,Paul Krugman Podcast,Paul Krugman,25.25,Paul Krugman,1.0,0.0,none,,Paul Krugman=NA
+1702202187,Perino on Politics,FOX News Podcasts,25.35,Dana Perino,1.0,1.0,full,1.3355,Dana Perino=1.335
+1818418128,Pod Force One,New York Post,26.12,Miranda Devine,1.0,0.0,none,,Miranda Devine=NA
+1192761536,Pod Save America,Pod Save America,26.04,"Jon Favreau, Tommy Vietor, Jon Lovett, and Dan Pfeiffer",4.0,4.0,full,-0.975875,Jon Favreau=-0.898; Tommy Vietor=-0.889; Jon Lovett=-1.032; Dan Pfeiffer=-1.085
+1200016351,Pod Save the World,Pod Save the World,26.28,Tommy Vietor and Ben Rhodes,2.0,2.0,full,-0.9536,Tommy Vietor=-0.889; Ben Rhodes=-1.018
+158004641,Political Gabfest,Slate Podcasts,25.33,"Emily Bazelon, John Dickerson, and David Plotz",3.0,3.0,full,-0.9198333333333334,Emily Bazelon=-0.858; John Dickerson=-0.765; David Plotz=-1.137
+1356662668,Politically Georgia,The Atlanta Journal-Constitution,25.82,"Greg Bluestein, Tia Mitchell, and Patricia Murphy",3.0,2.0,partial,-0.947,Greg Bluestein=NA; Tia Mitchell=-1.070; Patricia Murphy=-0.824
+1480605295,POLITICO Energy,POLITICO,25.0,"Josh Siegel, Manuel Quiñones, Zack Colman, and Nirmal Mulaikal",4.0,0.0,none,,Josh Siegel=NA; Manuel Quiñones=NA; Zack Colman=NA; Nirmal Mulaikal=NA
+1873028393,Politics Chat,Heather Cox Richardson,25.51,Heather Cox Richardson,1.0,1.0,full,-1.058,Heather Cox Richardson=-1.058
+1484862164,Politics War Room with James Carville & Al Hunt,Politicon,26.13,James Carville and Al Hunt,2.0,1.0,partial,-0.4995,James Carville=-0.499; Al Hunt=NA
+1721969693,Politix,Politix,25.31,Brian Beutler and Matthew Yglesias,2.0,2.0,full,-0.1139999999999999,Brian Beutler=0.769; Matthew Yglesias=-0.997
+1258635512,Radio Atlantic,The Atlantic,25.17,Hanna Rosin and Adam Harris,2.0,0.0,none,,Hanna Rosin=NA; Adam Harris=NA
+1774505095,Raging Moderates with Scott Galloway and Jessica Tarlov,Vox Media Podcast Network,26.01,Scott Galloway and Jessica Tarlov,2.0,1.0,partial,-0.953,Scott Galloway=NA; Jessica Tarlov=-0.953
+956270301,Rational Security,The Lawfare Institute,25.35,Scott R. Anderson,1.0,1.0,full,1.743,Scott R. Anderson=1.743
+1865794721,Real Baron Podcast,Baron Coleman,26.63,Baron Coleman,1.0,1.0,full,1.659,Baron Coleman=1.659
+1509826894,RealClearPolitics Podcast,"RealClearPolitics, Carl Cannon, Tom Bevan",25.5,"Andrew Walworth, Carl Cannon, and Tom Bevan",3.0,2.0,partial,0.1149999999999999,Andrew Walworth=0.875; Carl Cannon=-0.645; Tom Bevan=NA
+354628391,Renegade Talk Radio,Renegade Talk Radio,26.2,,0.0,0.0,no_host_listed,,
+1218054701,Rev Left Radio,Revolutionary Left Radio,25.83,Breht O'Shea,1.0,0.0,none,,Breht O'Shea=NA
+1408796715,Runaway Country with Alex Wagner,Runaway Country with Alex Wagner,25.59,Alex Wagner,1.0,1.0,full,-0.466,Alex Wagner=-0.466
+1112258664,Russian Roulette,Center for Strategic and International Studies,25.25,Max Bergmann and Dr. Maria Snegovaya,2.0,1.0,partial,-1.108,Max Bergmann=-1.108; Dr. Maria Snegovaya=NA
+1535384390,Ruthless Podcast,"Josh Holmes, Comfortably Smug, Michael Duncan and John Ashbrook",25.81,"Josh Holmes, Shashank Tripathi, Michael Duncan, and John Ashbrook",4.0,2.0,partial,0.015,Josh Holmes=-1.051; Shashank Tripathi=1.081; Michael Duncan=NA; John Ashbrook=NA
+545045867,Scott Horton Show - Just the Interviews,Scott Horton,25.24,Scott Horton,1.0,1.0,full,1.125,Scott Horton=1.125
+1599891719,Seattle Nice,"David Hyde, Erica Barnett, and Sandeep Kaushik",25.65,"Erica C. Barnett, David Hyde, and Sandeep Kaushik",3.0,3.0,full,-1.034,Erica C. Barnett=-0.983; David Hyde=-1.310; Sandeep Kaushik=-0.809
+1502568407,SGT Report’s The Propaganda Antidote,SGT Report,25.69,Sean Turnbull,1.0,1.0,full,1.659,Sean Turnbull=1.659
+1886801652,Sidebar with Katie Phang,Katie Phang,25.17,Katie Phang,1.0,1.0,full,-0.5535,Katie Phang=-0.553
+1093260018,Slate News,Slate Podcasts,25.54,,0.0,0.0,no_host_listed,,
+1648125917,Stay Free with Russell Brand,Stay Free with Russell Brand,25.26,Russell Brand,1.0,0.0,none,,Russell Brand=NA
+1265845136,Stay Tuned with Preet,Preet Bharara,25.03,Preet Bharara,1.0,1.0,full,-0.842667,Preet Bharara=-0.843
+1441649707,Straight White American Jesus,Bradley Onishi + Daniel Miller,25.3,Bradley Onishi and Daniel Miller,2.0,1.0,partial,-1.02,Bradley Onishi=-1.020; Daniel Miller=NA
+1669610956,System Update with Glenn Greenwald,Rumble,25.61,Glenn Greenwald,1.0,1.0,full,-1.107,Glenn Greenwald=-1.107
+1456045551,Talking Feds,Harry Litman,25.87,Harry Litman,1.0,0.0,none,,Harry Litman=NA
+1536169792,Talkin‘ Politics & Religion Without Killin‘ Each Other,"Scan Media, LLC",25.57,Corey Nathan,1.0,0.0,none,,Corey Nathan=NA
+1538788132,Tangle,Isaac Saul,25.13,Isaac Saul,1.0,0.0,none,,Isaac Saul=NA
+1314368109,The 11th Hour with Ali Velshi,"MS NOW, Ali Velshi",25.65,Ali Velshi,1.0,0.0,none,,Ali Velshi=NA
+1790957194,The 47 Morning Update with Ben Ferguson,Premiere Networks,25.06,Ben Ferguson,1.0,1.0,full,2.394,Ben Ferguson=2.394
+1462195742,The Al Franken Podcast,The Al Franken Podcast,25.09,The Al Franken Podcast,1.0,0.0,none,,The Al Franken Podcast=NA
+1548086514,The Arena,Father Josiah Trenham,25.31,Josiah Trenham,1.0,0.0,none,,Josiah Trenham=NA
+1364113251,The Beat with Ari Melber,"Ari Melber, MS NOW",25.21,Ari Melber,1.0,1.0,full,-0.892,Ari Melber=-0.892
+1386375601,The Ben Ferguson Podcast,iHeartPodcasts,25.17,Ben Ferguson,1.0,1.0,full,2.394,Ben Ferguson=2.394
+1584730781,The Benny Show,Benny Johnson,26.64,Benny Johnson,1.0,1.0,full,0.865,Benny Johnson=0.865
+380996798,"The Bob Cesca Show | Politics Podcast, News & Commentary",Bob Cesca,25.29,Bob Cesca,1.0,0.0,none,,Bob Cesca=NA
+1722246285,The Breakdown,Alberto fo sho,25.22,Rick Wilson and Maya May,2.0,1.0,partial,-1.015,Rick Wilson=NA; Maya May=-1.015
+1592116227,The Breitbart News Daily Podcast,SiriusXM,25.72,Mike Slater,1.0,0.0,none,,Mike Slater=NA
+73331636,The Brian Lehrer Show,WNYC,25.25,Brian Lehrer,1.0,0.0,none,,Brian Lehrer=NA
+1692806415,The Briefing with Jen Psaki,"MS NOW, Jen Psaki",25.25,Jen Psaki,1.0,1.0,full,-0.8715,Jen Psaki=-0.872
+1208232103,The Buck Sexton Show,Premiere Networks,25.14,Buck Sexton,1.0,0.0,none,,Buck Sexton=NA
+1447684472,The Bulwark Podcast,The Bulwark,25.28,Tim Miller,1.0,1.0,full,-0.99,Tim Miller=-0.990
+1635418897,The Chris Cuomo Project,Chris Cuomo,25.18,Chris Cuomo,1.0,0.0,none,,Chris Cuomo=NA
+1635446643,The Coffee Klatch with Robert Reich,Robert Reich,25.34,Robert Reich,1.0,1.0,full,-0.868,Robert Reich=-0.868
+1111319839,The Conversation with Dasha Burns,POLITICO,25.09,Dasha Burns,1.0,0.0,none,,Dasha Burns=NA
+1728152109,THE DAILY BLAST with Greg Sargent,Greg Sargent,25.05,Greg Sargent,1.0,0.0,none,,Greg Sargent=NA
+1549272440,The Daily Punch,Punchbowl News,25.02,Anna Palmer and Jake Sherman,2.0,0.0,none,,Anna Palmer=NA; Jake Sherman=NA
+1432118523,The Damage Report with John Iadarola,TYT Network,25.61,John Iadarola,1.0,1.0,full,-1.017,John Iadarola=-1.017
+402050558,The David Pakman Show,David Pakman,25.74,David Pakman,1.0,0.0,none,,David Pakman=NA
+1043245989,The Dig,Daniel Denvir,27.44,Daniel Denvir,1.0,1.0,full,-1.026,Daniel Denvir=-1.026
+1536984072,The Dishcast with Andrew Sullivan,Andrew Sullivan,25.02,Andrew Sullivan,1.0,1.0,full,-0.977,Andrew Sullivan=-0.977
+1567204040,The Drill Down with Peter Schweizer,Government Accountability Institute,25.3,Peter Schweizer,1.0,1.0,full,0.849,Peter Schweizer=0.849
+1586423406,The Focus Group Podcast,The Bulwark,25.54,Sarah Longwell,1.0,1.0,full,0.6625,Sarah Longwell=0.662
+1623855270,The Foreign Affairs Interview,Foreign Affairs Magazine,25.65,Daniel Kurtz-Phelan,1.0,1.0,full,-0.998,Daniel Kurtz-Phelan=-0.998
+1303660358,The Fox News Rundown,FOX News Podcasts,25.49,,0.0,0.0,no_host_listed,,
+474763182,The Globalist,Monocle,25.69,Emma Nelson and Andrew Mueller,2.0,2.0,full,-1.04,Emma Nelson=-1.015; Andrew Mueller=-1.065
+1456850698,The Graham Allen Show,Graham Allen,28.2,Graham Allen,1.0,1.0,full,1.664,Graham Allen=1.664
+1594728054,The Great America Show,Fawcett Strategies,25.6,Lou Dobbs,1.0,0.0,none,,Lou Dobbs=NA
+1871628261,The Harry Sisson Show,Harry Sisson,25.05,Harry Sisson,1.0,1.0,full,-1.008,Harry Sisson=-1.008
+1517313007,The Hugh Hewitt Show: Highly Concentrated,Salem Podcast Network,25.01,Hugh Hewitt,1.0,1.0,full,1.132,Hugh Hewitt=1.132
+1725387804,The Illegal News with Sarah Longwell,The Bulwark,25.38,Sarah Longwell,1.0,1.0,full,0.6625,Sarah Longwell=0.662
+1587936366,The Inside Story Podcast,Al Jazeera,25.37,Malika Bila,1.0,0.0,none,,Malika Bila=NA
+1195206601,The Intercept Briefing,The Intercept,25.42,"Jordan Uhl, Jessica Washington, and Akela Lacy",3.0,2.0,partial,-1.137,Jordan Uhl=-1.118; Jessica Washington=NA; Akela Lacy=-1.156
+1795032531,The Jim Acosta Show,Jim Acosta,25.04,Jim Acosta,1.0,0.0,none,,Jim Acosta=NA
+1606834013,The Josh Hammer Show,The Josh Hammer Show,25.23,Josh Hammer,1.0,1.0,full,1.2273,Josh Hammer=1.227
+1820648828,The Joy Reid Show,Joy-Ann Reid,25.42,Joy Reid,1.0,1.0,full,-0.572,Joy Reid=-0.572
+1809246826,The Keith Edwards Show,Keith Edwards,25.01,Keith Edward,1.0,0.0,none,,Keith Edward=NA
+1880163995,The Kyle Kulinski Show,Kyle Kulinski,26.19,Kyle Kulinski,1.0,1.0,full,-0.943,Kyle Kulinski=-0.943
+1654162813,The Kyle Seraphin Show,Kyle Seraphin,26.94,Kyle Seraphin,1.0,0.0,none,,Kyle Seraphin=NA
+1368074498,The Lars Larson Show Pacific Northwest Podcast,Lars Larson,25.58,Lars Larson,1.0,1.0,full,1.425,Lars Larson=1.425
+1551582052,The Lincoln Project,The Lincoln Project,25.3,Rick Wilson,1.0,0.0,none,,Rick Wilson=NA
+402306412,The Majority Report with Sam Seder,Sam Seder,26.34,Sam Seder,1.0,1.0,full,-0.999,Sam Seder=-0.999
+1785081636,The Mary Trump Podcast,Mary Trump Media,25.43,Mary Trump,1.0,0.0,none,,Mary Trump=NA
+1510240831,The MeidasTouch Podcast,MeidasTouch Network,25.26,"Ben Meiselas, Brett Meiselas, and Jordan Meiselas",3.0,2.0,partial,-0.995,Ben Meiselas=-0.934; Brett Meiselas=-1.056; Jordan Meiselas=NA
+1587492577,The Mel K Show,Mel K,25.74,Melody Krell,1.0,1.0,full,0.537,Melody Krell=0.537
+1253076699,The Michael Berry Show,KTRH (KTRH-AM),25.45,Michael Berry,1.0,1.0,full,0.405,Michael Berry=0.405
+1839861250,The Moment with Jorge Ramos and Paola Ramos,iHeartPodcasts,25.46,Jorge Ramos and Paola Ramos,2.0,1.0,partial,-1.021,Jorge Ramos=-1.021; Paola Ramos=NA
+1482179882,The Mona Charen Show,The Bulwark,25.43,Mona Charen,1.0,1.0,full,1.432,Mona Charen=1.432
+1060110806,The Nation Podcasts,The Nation Magazine,25.15,"Jon Wiener, Dave Zirin, and Jeet Heer",3.0,0.0,none,,Jon Wiener=NA; Dave Zirin=NA; Jeet Heer=NA
+1640311112,The Necessary Conversation,The Necessary Conversation,25.01,"Chad Kultgen, Haley Popp, Mary Lou Kultgen, Bob Kultgen",4.0,3.0,partial,-0.0776666666666666,Chad Kultgen=-1.011; Haley Popp=-0.881; Mary Lou Kultgen=1.659; Bob Kultgen=NA
+1050430296,The New Yorker Radio Hour,WNYC Studios and The New Yorker,25.17,David Remnick,1.0,0.0,none,,David Remnick=NA
+1647085571,The Next Level,The Bulwark,25.66,"Emmett Golden, Jerod Cherry, and Nick Paulus",3.0,0.0,none,,Emmett Golden=NA; Jerod Cherry=NA; Nick Paulus=NA
+1057255460,The NPR Politics Podcast,NPR,25.05,Tamara Keith and Miles Parks,2.0,0.0,none,,Tamara Keith=NA; Miles Parks=NA
+1263295815,The Pete Quiñones Show,Peter R Quiñones,25.43,Pete Quiñones,1.0,0.0,none,,Pete Quiñones=NA
+1317356120,The Peter McCormack Show,Peter McCormack,26.21,The Peter McCormack,1.0,0.0,none,,The Peter McCormack=NA
+1169056746,The Playbook Podcast,POLITICO,25.04,Jack Blanchard and Dasha Burns,2.0,1.0,partial,-1.088,Jack Blanchard=-1.088; Dasha Burns=NA
+1439837349,The Political Orphanage,Andrew Heaton,25.08,Andrew Heaton,1.0,1.0,full,1.226,Andrew Heaton=1.226
+268213039,The Political Scene | The New Yorker,The New Yorker,25.13,"David Remnick, Tyler Foggatt, Susan B. Glasser, Jane Mayer, and Evan Osnos",5.0,1.0,partial,-1.154,David Remnick=NA; Tyler Foggatt=NA; Susan B. Glasser=-1.154; Jane Mayer=NA; Evan Osnos=NA
+1595408601,The PoliticsGirl Podcast,"Meidas Media Network, Leigh McGowan",25.37,Leigh McGowan,1.0,1.0,full,-1.008,Leigh McGowan=-1.008
+1617887885,The President's Daily Brief,The First TV,25.06,Mike Baker,1.0,1.0,full,0.871,Mike Baker=0.871
+1172546141,The President’s Inbox,Council on Foreign Relations,25.44,James M. Lindsay,1.0,0.0,none,,James M. Lindsay=NA
+1485021241,The Reason Interview With Nick Gillespie,The Reason Interview With Nick Gillespie,25.78,Nick Gillespie,1.0,0.0,none,,Nick Gillespie=NA
+1155629323,The Reason Roundtable,The Reason Roundtable,25.03,"Nick Gillespie, Katherine Mangu-Ward, Peter Suderman, and Matt Welch",4.0,1.0,partial,-1.019,Nick Gillespie=NA; Katherine Mangu-Ward=NA; Peter Suderman=NA; Matt Welch=-1.019
+1291144720,The Remnant with Jonah Goldberg,The Dispatch,25.38,Jonah Goldberg,1.0,0.0,none,,Jonah Goldberg=NA
+1743030473,The Rest Is Politics: US,Goalhanger,25.57,Kathy Kay and Anthony Scaramucci,2.0,1.0,partial,0.6405,Kathy Kay=NA; Anthony Scaramucci=0.640
+969924303,The Skepticrat,"Puzzle in a Thunderstorm, LLC",25.52,"Noah Lugeons, Heath Enwright, and Eli Bosnick",3.0,1.0,partial,-1.393,Noah Lugeons=NA; Heath Enwright=NA; Eli Bosnick=-1.393
+1573813504,The Smerconish Podcast,SiriusXM,25.66,Micael Smerconish,1.0,0.0,none,,Micael Smerconish=NA
+1696974077,The Source with Kaitlan Collins,CNN Podcasts,25.76,Kaitlan Collins,1.0,1.0,full,-1.096,Kaitlan Collins=-1.096
+716825890,The Tom Woods Show,Tom Woods,25.51,Tom Woods,1.0,0.0,none,,Tom Woods=NA
+1714879044,The Tony Kinnett Cast,The Daily Signal,25.6,Tony Kinnett,1.0,0.0,none,,Tony Kinnett=NA
+1351411911,The TPM Show with Josh and Kate,Talking Points Memo,25.12,Josh Marshall and Kate Riga,2.0,0.0,none,,Josh Marshall=NA; Kate Riga=NA
+1570380458,The Victor Davis Hanson Show,Victor Davis Hanson and Jack Fowler,25.68,Victor Davis Hanson,1.0,1.0,full,1.373,Victor Davis Hanson=1.373
+1681586867,The Warning with Steve Schmidt,iHeartPodcasts,25.12,Steve Schmidt,1.0,0.0,none,,Steve Schmidt=NA
+1612691018,THE WEEKEND SHOW,Evergreen Podcasts,25.87,"Jonathan Capehart, Eugene Daniels, and Jacqueline Alemany",3.0,2.0,partial,-0.573,Jonathan Capehart=-0.516; Eugene Daniels=NA; Jacqueline Alemany=-0.630
+1674095262,The Wright Report,Bryan Dean Wright,25.16,Bryan Dean Wright,1.0,0.0,none,,Bryan Dean Wright=NA
+597919007,The Young Turks,TYT Network,25.09,Cenk Uygur and Ana Kasparian,2.0,2.0,full,-1.0779999999999998,Cenk Uygur=-1.047; Ana Kasparian=-1.109
+91959525,This Week with George Stephanopoulos,ABC News,25.34,George Stephanopoulos,1.0,0.0,none,,George Stephanopoulos=NA
+1362265400,Timcast News,Timcast Media,25.85,Timothy Daniel Pool,1.0,1.0,full,1.00725,Timothy Daniel Pool=1.007
+1485186805,Timothy Gordon Rules for Retrogrades Podcast,Timothy Gordon,26.48,Timothy Gord,1.0,1.0,full,0.952,Timothy Gord=0.952
+1474001390,TRUE ANON TRUTH FEED,TrueAnon,25.82,"Hosted by Brace Belden, Liz Francis, and Steven Goldberg",3.0,1.0,partial,-1.007,Hosted by Brace Belden=NA; Liz Francis=NA; Steven Goldberg=-1.007
+1715894000,Trump's Terms,NPR,25.01,Scott Detrow,1.0,0.0,none,,Scott Detrow=NA
+1378389941,Uncommon Knowledge,Hoover Institution,26.03,Peter Robinson,1.0,1.0,full,-1.0605,Peter Robinson=-1.060
+1535255041,Unf*cking The Republic,UNFTR Media,25.6,Manny Faces,1.0,0.0,none,,Manny Faces=NA
+1709994511,UNGOVERNED,Shawn Farash,25.51,Shawn Farash,1.0,1.0,full,1.659,Shawn Farash=1.659
+1317481380,UnJustified,MSW Media,25.61,Allison Gill,1.0,1.0,full,-0.998,Allison Gill=-0.998
+1476110521,Useful Idiots with Katie Halper and Aaron Maté,"Useful Idiots, LLC",25.06,Katie Halper and Aaron Maté,2.0,2.0,full,-1.0075,Katie Halper=-1.076; Aaron Maté=-0.939
+1495601614,Verdict with Ted Cruz,Premiere Networks,25.35,Ted Cruz,1.0,1.0,full,1.52,Ted Cruz=1.520
+1548554104,Volts,David Roberts,25.43,David Roberts,1.0,0.0,none,,David Roberts=NA
+682478916,War on the Rocks,Ryan Evans,25.16,Ryan Evans,1.0,1.0,full,-1.021,Ryan Evans=-1.021
+387042247,Washington Today,C-SPAN,25.55,,0.0,0.0,no_host_listed,,
+702998658,Week In Review,KUOW News and Information,25.56,Bill Radke,1.0,0.0,none,,Bill Radke=NA
+1614844654,Week In Review,FITSNews,25.79,Will Folks,1.0,0.0,none,,Will Folks=NA
+1647025876,Wendy Bell Radio Podcast,Wendy Bell,25.32,Wendy Bell,1.0,1.0,full,-0.979,Wendy Bell=-0.979
+1695205478,What Really Matters with Walter Russell Mead,Tablet Magazine,25.34,Walter Russell Mead,1.0,0.0,none,,Walter Russell Mead=NA
+1467993804,What the Hell Is Going On,AEI Podcasts,25.25,Danielle Pletka and Marc Thiessen,2.0,2.0,full,1.2265,Danielle Pletka=1.254; Marc Thiessen=1.199
+1869456664,What's The Plan? with Leah Greenberg and Ezra Levin,Indivisible,25.76,Leah Greenberg and Ezra Levin,2.0,0.0,none,,Leah Greenberg=NA; Ezra Levin=NA
+1507444393,X22 Report,X22 Report,25.7,,0.0,0.0,no_host_listed,,

@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-07-31T06:18:10.243264+00:00",
+  "n_shows": 204,
+  "filler_5_topics": [
+    "T12",
+    "T39",
+    "T46",
+    "T57",
+    "T61"
+  ],
+  "substantive_only_extra_drops": {
+    "T28": "generic-filler-pattern (got/know/right/going/guy) -- same character as the named filler-5, not in original list",
+    "T60": "podcast outro/thank-you boilerplate (thank/podcast/week/great/thanks)",
+    "T9": "ad-read/promo-code content (slash/code/free/promo/plus)",
+    "T16": "ad-read/podcast-meta mix (news/slash/delta/podcast/app)",
+    "T32": "ad-read, sponsor product (chicken/sugar/lincoln/groons)",
+    "T48": "Spanish-language ad copy (de/la/en/el/seafoam/duracell/clorox)",
+    "T7": "ad-read, insurance/SiriusXM sponsor content"
+  },
+  "conditions": [
+    {
+      "condition": "full_75",
+      "n_topics": 75,
+      "n_shows": 204,
+      "loso_cv_r2": 0.4300581484593332,
+      "ci_95": [
+        0.2973250860397658,
+        0.5367701823354548
+      ],
+      "permutation_r2": -0.012166752704261485
+    },
+    {
+      "condition": "drop_T57_T46",
+      "n_topics": 73,
+      "n_shows": 204,
+      "loso_cv_r2": 0.3945530296808706,
+      "ci_95": [
+        0.2604097594483321,
+        0.4972474943864746
+      ],
+      "permutation_r2": -0.012581754340317941
+    },
+    {
+      "condition": "drop_all_filler",
+      "n_topics": 70,
+      "n_shows": 204,
+      "loso_cv_r2": 0.3973464155974711,
+      "ci_95": [
+        0.2673432496461317,
+        0.49730769822566345
+      ],
+      "permutation_r2": -0.01230449080410212
+    },
+    {
+      "condition": "substantive_only",
+      "n_topics": 63,
+      "n_shows": 204,
+      "loso_cv_r2": 0.40577957417966415,
+      "ci_95": [
+        0.2812835593583341,
+        0.5048685312231683
+      ],
+      "permutation_r2": -0.012269933757508289
+    }
+  ],
+  "verdict": "HOLDS: dropping the filler/register cluster barely moves CV R2 (0.430 -> 0.397, delta=-0.033). The ideology signal lives in substantive content; the register confound was NOT driving it. This STRENGTHENS the 'ideology is thematic' claim.",
+  "register_only_companion": {
+    "n_shows": 204,
+    "loso_cv_r2": 0.04675095050342981,
+    "ci_95": [
+      -0.020789186416859996,
+      0.10570397519682692
+    ],
+    "permutation_r2": -0.010822433664099185
+  },
+  "note": "This task does NOT revive 'register organizes the embedding space' -- that question was tested directly and separately (nlp/register_pc_regression.py, negative result). This task only tests whether the IDEOLOGY finding is confound-robust."
+}
