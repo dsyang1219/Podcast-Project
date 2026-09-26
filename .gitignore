@@ -16,7 +16,7 @@ data/audio_queue/
 data/transcripts/
 data/cache/
 
-# Third-party and restricted data (Kettering-Gallup and Pew microdata, the
+# Third-party and restricted data (Kettering-Gallup Year 1 and Year 2 and Pew ATP microdata, the
 # Brookings export, DIME files, Brysbaert norms, podcastindex). Obtain under
 # the relevant agreements; see README "Data availability". Our own word lists
 # under data/external/dictionaries/ ARE committed.
@@ -57,6 +57,13 @@ data/output/*
 !data/output/mfte_address_run.log
 !data/output/mfte_corpus_run.log
 !data/output/mfte_supervise.log
+!data/output/dirz_reference_scale.csv
+!data/output/mfte_imperative_classes.log
+!data/output/pew_w165_source_audiences.csv
+!data/output/reviews_coded_pilot300.csv
+!data/output/apple_reviews_summary.csv
+!data/output/show_level_outcomes.csv
+!data/output/outrage_llm_show_rates.csv
 !data/output/sample_out/
 data/output/sample_out/*
 !data/output/sample_out/sample_manifest_ladder.csv
@@ -67,6 +74,9 @@ data/output/sample_out/*
 !data/output/sample_out/sample_manifest_H25.csv
 !data/output/sample_out/per_show_summary.csv
 !data/output/sample_out/excluded_shows.csv
+
+# Paper record (drafts, slides, pre-registration alias tables) is held by the authors, not in git
+handoff/
 
 # Transcription run logs
 step3_transcribe/logs/
@@ -85,6 +95,7 @@ step7_audience/inputs/remeasured.csv
 # respondent IDs and verbatims; their SHA-256 records and patterns are kept.
 handoff/prereg/holdout_alias_table_FROZEN.csv
 handoff/prereg/withinframe_alias_table_FROZEN.csv
+handoff/prereg/prereg_y2_alias_FROZEN.csv
 
 # Topic arm: R library and large regenerable intermediates
 topic_arm/r/lib/

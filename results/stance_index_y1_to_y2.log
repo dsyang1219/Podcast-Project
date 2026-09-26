@@ -1,0 +1,54 @@
+=== 3. GUIDE-vs-PEER STANCE INDEX, built on YEAR 1 only, frozen, tested on YEAR 2 ===
+  Year-1 weights (education per SD): vimp -0.100, pp2 -0.033, you know +0.249
+  r(stance_simple, address) = +0.67; r(stance_fit, address) = +0.53; r(simple, fit) = +0.97
+
+  exposure                              Y1 (fit sample for b)       Y2 (out of sample)                   pooled
+  address composite (vimp+pp2)             -0.107 (0.14/0.15)       -0.316 (0.00/0.00)       -0.212 (0.00/0.00)
+  doing commands minus you know            -0.181 (0.00/0.01)       -0.253 (0.00/0.00)       -0.217 (0.00/0.00)
+  Y1-fitted index (vimp,pp2,you know)       -0.182 (0.00/0.01)       -0.228 (0.01/0.01)       -0.204 (0.00/0.00)
+  doing commands only                      -0.149 (0.03/0.03)       -0.307 (0.00/0.00)       -0.228 (0.00/0.01)
+  thinking/communication commands          -0.077 (0.38/0.38)       -0.270 (0.02/0.01)       -0.182 (0.04/0.07)
+  you know only                            +0.236 (0.03/0.09)       +0.189 (0.24/0.33)       +0.207 (0.05/0.07)
+
+  out-of-sample fit on Year 2 (adjusted R2 of education model with controls + one-sidedness + exposure):
+    controls only            adj R2 0.063
+    address composite        adj R2 0.102
+Traceback (most recent call last):
+  File "/home/dsyang/political-podcast-corpus/.venv/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 3641, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pandas/_libs/index.pyx", line 168, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 197, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7668, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7676, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'stance_simple'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/tmp/claude-1001/-home-dsyang-political-podcast-corpus/de67abcc-c83b-4bc7-b6b8-051ebbfd5cf6/scratchpad/stance_index.py", line 29, in <module>
+    d=R2.copy(); cols=[c] if c else []; m=sm.OLS(d.edu_z.values,design(d,cols).values).fit(); print(f"    {lab:<24} adj R2 {m.rsquared_adj:.3f}")
+                                                                ^^^^^^^^^^^^^^
+  File "/tmp/claude-1001/-home-dsyang-political-podcast-corpus/de67abcc-c83b-4bc7-b6b8-051ebbfd5cf6/scratchpad/stance_index.py", line 12, in design
+    for c in cols: Xm[c]=d[c]
+                         ~^^^
+  File "/home/dsyang/political-podcast-corpus/.venv/lib/python3.12/site-packages/pandas/core/frame.py", line 4378, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dsyang/political-podcast-corpus/.venv/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 3648, in get_loc
+    raise KeyError(key) from err
+KeyError: 'stance_simple'
+  out-of-sample fit on Year 2 (adjusted R2 of education model with controls + one-sidedness + exposure):
+    controls only            adj R2 0.063
+    address composite        adj R2 0.102
+    doing minus you know     adj R2 0.114
+    Y1-fitted index          adj R2 0.105
+
+  Y2 head-to-head: education ~ stance_simple + address composite + one-sidedness:
+    stance -0.253 (0.00/0.01) | address alongside -0.148 (0.14/0.10)
+
+  stance index vs other Y2 outcomes (should be null if it is composition-specific):
+    election distrust    +0.129 (0.02/0.02)
+    cynicism             +0.057 (0.32/0.45)
+    life ladder          -0.064 (0.13/0.16)
+    attention            -0.058 (0.16/0.15)

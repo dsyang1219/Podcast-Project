@@ -1,0 +1,93 @@
+show level (194): r with address, with DIME, right-left gap (SD), r with one-sidedness
+  VIMP_ACT_z       r(address) +0.72 | r(DIME) +0.32 | R−L gap +0.45 | r(one-sided) +0.34 | mean rate/10k 6.4
+  VIMP_COMM_z      r(address) +0.55 | r(DIME) +0.24 | R−L gap +0.41 | r(one-sided) +0.22 | mean rate/10k 2.0
+  VIMP_MENTAL_z    r(address) +0.57 | r(DIME) +0.32 | R−L gap +0.42 | r(one-sided) +0.26 | mean rate/10k 4.4
+  VIMP_CAUSE_z     r(address) +0.56 | r(DIME) +0.18 | R−L gap +0.36 | r(one-sided) +0.21 | mean rate/10k 9.0
+  VIMP_OCCUR_z     r(address) +0.23 | r(DIME) +0.08 | R−L gap +0.37 | r(one-sided) +0.16 | mean rate/10k 0.1
+  VIMP_EXIST_z     r(address) +0.19 | r(DIME) +0.10 | R−L gap +0.28 | r(one-sided) +0.10 | mean rate/10k 0.4
+  VIMP_ASPECT_z    r(address) +0.48 | r(DIME) +0.02 | R−L gap +0.14 | r(one-sided) +0.32 | mean rate/10k 0.7
+  VIMP_DOAUX_z     r(address) +0.71 | r(DIME) +0.38 | R−L gap +0.65 | r(one-sided) +0.46 | mean rate/10k 1.4
+  VIMP_NONE_z      r(address) +0.77 | r(DIME) +0.36 | R−L gap +0.48 | r(one-sided) +0.33 | mean rate/10k 8.8
+  youknow_z        r(address) +0.03 | r(DIME) -0.03 | R−L gap -0.32 | r(one-sided) -0.21 | mean rate/10k 41.4
+  lets_z           r(address) +0.57 | r(DIME) +0.18 | R−L gap +0.36 | r(one-sided) +0.21 | mean rate/10k 8.8
+
+pooled 1200 / 63 shows. EDUCATION ~ command class (z), net of one-sidedness; then + ad-free... (b, CR2 p / wild p)
+exposure                           pooled                 Year 1                 Year 2   pooled + address total
+x                      -0.212 (0.00/0.00)     -0.107 (0.14/0.16)     -0.316 (0.00/0.01)                       
+VIMP_ACT_z             -0.184 (0.01/0.02)     -0.089 (0.12/0.15)     -0.263 (0.02/0.00)     -0.184 (0.01/0.01)
+VIMP_COMM_z            -0.103 (0.09/0.12)     -0.036 (0.57/0.59)     -0.158 (0.07/0.03)     -0.103 (0.09/0.11)
+VIMP_MENTAL_z          -0.125 (0.42/0.23)     -0.096 (0.48/0.30)     -0.150 (0.41/0.32)     -0.125 (0.42/0.26)
+VIMP_CAUSE_z           -0.141 (0.01/0.01)     -0.137 (0.00/0.01)     -0.153 (0.04/0.02)     -0.141 (0.01/0.01)
+VIMP_OCCUR_z           -0.057 (0.33/0.24)     -0.041 (0.44/0.38)     -0.076 (0.30/0.22)     -0.057 (0.33/0.24)
+VIMP_EXIST_z           -0.017 (0.80/0.78)     +0.076 (0.42/0.42)     -0.103 (0.27/0.17)     -0.017 (0.80/0.74)
+VIMP_ASPECT_z          -0.304 (0.01/0.00)     -0.140 (0.19/0.17)     -0.444 (0.00/0.00)     -0.304 (0.01/0.00)
+VIMP_DOAUX_z           -0.199 (0.00/0.01)     -0.132 (0.04/0.02)     -0.255 (0.00/0.00)     -0.199 (0.00/0.01)
+VIMP_NONE_z            -0.150 (0.02/0.05)     -0.083 (0.17/0.17)     -0.235 (0.00/0.01)     -0.150 (0.02/0.04)
+youknow_z              +0.214 (0.04/0.07)     +0.249 (0.02/0.06)     +0.192 (0.24/0.29)     +0.214 (0.04/0.07)
+lets_z                 -0.141 (0.01/0.01)     -0.138 (0.00/0.02)     -0.153 (0.04/0.02)     -0.141 (0.01/0.01)
+
+ELECTION DISTRUST ~ command class, net of one-sidedness (pooled):
+  x                  +0.054 (0.41/0.41)
+  VIMP_ACT_z         +0.060 (0.20/0.24)
+  VIMP_COMM_z        +0.045 (0.31/0.36)
+  VIMP_MENTAL_z      +0.032 (0.59/0.49)
+  VIMP_CAUSE_z       +0.062 (0.06/0.04)
+  VIMP_OCCUR_z       +0.031 (0.38/0.34)
+  VIMP_EXIST_z       -0.088 (0.20/0.19)
+  VIMP_ASPECT_z      +0.095 (0.32/0.29)
+  VIMP_DOAUX_z       +0.064 (0.16/0.19)
+  VIMP_NONE_z        +0.056 (0.25/0.27)
+  youknow_z          -0.148 (0.06/0.11)
+  lets_z             +0.061 (0.07/0.01)
+
+HS-or-less share (points per SD) ~ class, net of one-sidedness, pooled:
+  x                  +6.2 (0.01/0.01)
+  VIMP_ACT_z         +5.2 (0.06/0.02)
+  VIMP_COMM_z        +2.8 (0.24/0.10)
+  VIMP_MENTAL_z      +3.1 (0.53/0.50)
+  VIMP_CAUSE_z       +3.4 (0.03/0.02)
+  VIMP_OCCUR_z       +0.9 (0.59/0.54)
+  VIMP_EXIST_z       +0.6 (0.77/0.74)
+  VIMP_ASPECT_z      +10.2 (0.00/0.00)
+  VIMP_DOAUX_z       +5.9 (0.01/0.01)
+  VIMP_NONE_z        +3.8 (0.03/0.03)
+  youknow_z          -5.6 (0.02/0.04)
+  lets_z             +3.4 (0.03/0.03)
+FIXED head-to-head: EDUCATION ~ class + total address (as 'addr') + one-sidedness, pooled
+  VIMP_ACT_z       class -0.207 (0.08/0.10) | address total alongside +0.034 (p 0.80)
+  VIMP_COMM_z      class -0.025 (0.75/0.76) | address total alongside -0.176 (p 0.10)
+  VIMP_MENTAL_z    class -0.043 (0.69/0.59) | address total alongside -0.198 (p 0.01)
+  VIMP_CAUSE_z     class -0.097 (0.11/0.10) | address total alongside -0.113 (p 0.14)
+  VIMP_OCCUR_z     class -0.008 (0.83/0.81) | address total alongside -0.206 (p 0.00)
+  VIMP_EXIST_z     class +0.010 (0.88/0.86) | address total alongside -0.213 (p 0.00)
+  VIMP_ASPECT_z    class -0.207 (0.24/0.25) | address total alongside -0.091 (p 0.46)
+  VIMP_DOAUX_z     class -0.154 (0.17/0.15) | address total alongside -0.061 (p 0.61)
+  VIMP_NONE_z      class -0.047 (0.67/0.72) | address total alongside -0.166 (p 0.18)
+  youknow_z        class +0.271 (0.00/0.02) | address total alongside -0.250 (p 0.00)
+  lets_z           class -0.097 (0.11/0.09) | address total alongside -0.113 (p 0.14)
+
+all classes together (ACT, COMM, MENTAL, CAUSE, ASPECT, DOAUX, NONE, youknow), education, pooled — CR2 p per term:
+  VIMP_ACT_z       -0.121 (0.44/0.51)
+  VIMP_COMM_z      -0.033 (0.72/0.69)
+  VIMP_MENTAL_z    +0.004 (0.93/0.91)
+  VIMP_CAUSE_z     -0.073 (0.17/0.21)
+  VIMP_ASPECT_z    -0.156 (0.17/0.14)
+  VIMP_DOAUX_z     +0.042 (0.69/0.66)
+  VIMP_NONE_z      +0.079 (0.43/0.38)
+  youknow_z        +0.205 (0.02/0.04)
+
+show-level correlations among the classes (194):
+               VIMP_ACT_z  VIMP_COMM_z  VIMP_MENTAL_z  VIMP_CAUSE_z  VIMP_ASPECT_z  VIMP_DOAUX_z  VIMP_NONE_z  youknow_z
+VIMP_ACT_z           1.00         0.62           0.59          0.40           0.45          0.68         0.82      -0.36
+VIMP_COMM_z          0.62         1.00           0.38          0.30           0.35          0.52         0.62      -0.22
+VIMP_MENTAL_z        0.59         0.38           1.00          0.21           0.33          0.55         0.58      -0.35
+VIMP_CAUSE_z         0.40         0.30           0.21          1.00           0.28          0.37         0.45      -0.14
+VIMP_ASPECT_z        0.45         0.35           0.33          0.28           1.00          0.55         0.51      -0.21
+VIMP_DOAUX_z         0.68         0.52           0.55          0.37           0.55          1.00         0.69      -0.28
+VIMP_NONE_z          0.82         0.62           0.58          0.45           0.51          0.69         1.00      -0.27
+youknow_z           -0.36        -0.22          -0.35         -0.14          -0.21         -0.28        -0.27       1.00
+
+'you know' by year, education, net of one-sidedness AND address:
+  pooled  +0.271 (0.00/0.01)
+  Y1      +0.297 (0.01/0.02)
+  Y2      +0.247 (0.06/0.05)

@@ -1,0 +1,99 @@
+Y2 RUN 2026-09-23T17:10:02.212322+00:00 | prereg 7740fb3adb52a284 | alias cd68cf35ab95dd41 | mfte c186df5b032008e6
+survey n=23,683 | elec sd 1.00 | cyn4 alpha-proxy mean inter-item r 0.32
+
+PRIMARY FRAME: 722 respondents, 26 shows | intensity from distilled classifier for ['The Majority Report with Sam Seder']
+                                           n  address  intensity  aud_lean
+show                                                                      
+The MeidasTouch Podcast                  192     1.47       0.91     -0.92
+Candace                                   79     0.46       0.17      0.43
+Letters from an American                  70    -2.90       0.15     -0.93
+Pod Save America                          63    -0.18       0.17     -0.90
+The Bulwark Podcast                       51     0.10       0.15     -0.98
+The Young Turks                           39     0.36       1.08     -0.56
+The Breitbart News Daily Podcast          39    -0.17       1.24      0.92
+Breaking Points with Krystal and Saagar   38     0.28      -0.15     -0.50
+The Benny Show                            37     0.92       1.67      0.89
+The Kyle Kulinski Show                    34     0.63       1.38     -0.88
+Timcast News                              33     0.61       0.52      0.85
+The Majority Report with Sam Seder        30    -0.19       0.14     -0.87
+No Lie with Brian Tyler Cohen             16    -0.52       1.34     -0.94
+Louder with Crowder                       16     2.18       0.79      0.94
+Tangle                                    13    -0.79      -0.86     -0.08
+The David Pakman Show                      8     0.20       0.72     -0.88
+Destiny                                    7     0.74       0.02     -1.00
+The Coffee Klatch with Robert Reich        6     0.00       1.09     -1.00
+Making the Argument with Nick Freitas      5     0.31       1.22      1.00
+The Victor Davis Hanson Show               5    -0.27       1.03      1.00
+The Joy Reid Show                          5     0.84       1.21     -1.00
+X22 Report                                 4     1.25       1.93      1.00
+The Chris Cuomo Project                    4     1.76       0.04     -0.50
+The Jim Acosta Show                        3     0.16       1.02     -1.00
+Owen Report                                3     1.18       0.59      0.33
+All In with Chris Hayes                    3    -0.33       0.70     -1.00
+
+== (i) address alone ==
+  (i) address                                  elec   b=+0.097 se=0.041 df=1.8  one-sided CR2 p=0.077 wild p=0.161  (two-sided 0.154/0.322)  G=26 N=720
+  (i) address                                  cyn4   b=-0.001 se=0.021 df=1.8  one-sided CR2 p=0.509 wild p=0.514  (two-sided 0.983/0.971)  G=26 N=722
+  (i) address                                  edu_z  b=-0.160 se=0.106 df=1.8  one-sided CR2 p=0.857 wild p=0.838  (two-sided 0.286/0.324)  G=26 N=722
+== (ii) address + intensity ==
+  (ii) address | intensity                     elec   b=+0.058 se=0.055 df=2.4  one-sided CR2 p=0.195 wild p=0.267  (two-sided 0.390/0.533)  G=26 N=720
+  (ii) address | intensity                     cyn4   b=-0.002 se=0.029 df=2.4  one-sided CR2 p=0.526 wild p=0.534  (two-sided 0.947/0.931)  G=26 N=722
+  (ii) address | intensity                     edu_z  b=-0.141 se=0.110 df=2.4  one-sided CR2 p=0.845 wild p=0.885  (two-sided 0.311/0.231)  G=26 N=722
+== (iii) intensity alone ==
+  (iii) intensity                              elec   b=+0.264 se=0.100 df=9.4  one-sided CR2 p=0.013 wild p=0.006  (two-sided 0.026/0.012)  G=26 N=720
+  (iii) intensity                              cyn4   b=+0.006 se=0.113 df=9.4  one-sided CR2 p=0.480 wild p=0.485  (two-sided 0.959/0.971)  G=26 N=722
+  (iii) intensity                              edu_z  b=-0.252 se=0.133 df=9.3  one-sided CR2 p=0.955 wild p=0.978  (two-sided 0.091/0.044)  G=26 N=722
+== (ii') intensity | address ==
+  (ii') intensity | address                    elec   b=+0.264 se=0.100 df=9.4  one-sided CR2 p=0.013 wild p=0.007  (two-sided 0.026/0.014)  G=26 N=720
+  (ii') intensity | address                    cyn4   b=+0.006 se=0.113 df=9.4  one-sided CR2 p=0.480 wild p=0.485  (two-sided 0.959/0.970)  G=26 N=722
+  (ii') intensity | address                    edu_z  b=-0.252 se=0.133 df=9.3  one-sided CR2 p=0.955 wild p=0.980  (two-sided 0.091/0.041)  G=26 N=722
+
+== VERDICT (one-sided .05 on BOTH p-values, primary outcome = election distrust) ==
+  H1: FAIL   (b=+0.097, one-sided CR2 p=0.077, wild p=0.161)
+  H2: FAIL   (b=+0.058, one-sided CR2 p=0.195, wild p=0.267)
+  H3: FAIL   (b=-0.141, one-sided CR2 p=0.155, wild p=0.115)
+
+== robustness (reported regardless) ==
+  outlet strings (Bulwark/Breitbart/Reic (i)   elec   b=+0.106 se=0.032 df=1.7  one-sided CR2 p=0.050 wild p=0.131  (two-sided 0.101/0.263)  G=24 N=649
+  outlet strings (Bulwark/Breitbart/Reic (ii)  elec   b=+0.078 se=0.047 df=2.3  one-sided CR2 p=0.112 wild p=0.154  (two-sided 0.223/0.307)  G=24 N=649
+  outlet strings (Bulwark/Breitbart/Reic (i)   cyn4   b=+0.003 se=0.022 df=1.7  one-sided CR2 p=0.459 wild p=0.419  (two-sided 0.918/0.838)  G=24 N=651
+  outlet strings (Bulwark/Breitbart/Reic (ii)  cyn4   b=+0.011 se=0.031 df=2.3  one-sided CR2 p=0.377 wild p=0.327  (two-sided 0.755/0.654)  G=24 N=651
+  outlet strings (Bulwark/Breitbart/Reic (i)   edu_z  b=-0.151 se=0.070 df=1.7  one-sided CR2 p=0.907 wild p=0.874  (two-sided 0.187/0.253)  G=24 N=651
+  outlet strings (Bulwark/Breitbart/Reic (ii)  edu_z  b=-0.135 se=0.072 df=2.3  one-sided CR2 p=0.908 wild p=0.939  (two-sided 0.185/0.121)  G=24 N=651
+  Clay & Buck included (i)                     elec   b=+0.099 se=0.039 df=1.8  one-sided CR2 p=0.070 wild p=0.146  (two-sided 0.141/0.291)  G=27 N=739
+  Clay & Buck included (ii)                    elec   b=+0.061 se=0.052 df=2.4  one-sided CR2 p=0.173 wild p=0.250  (two-sided 0.346/0.500)  G=27 N=739
+  Clay & Buck included (i)                     cyn4   b=+0.001 se=0.021 df=1.8  one-sided CR2 p=0.481 wild p=0.470  (two-sided 0.962/0.940)  G=27 N=741
+  Clay & Buck included (ii)                    cyn4   b=+0.000 se=0.027 df=2.4  one-sided CR2 p=0.495 wild p=0.491  (two-sided 0.990/0.981)  G=27 N=741
+  Clay & Buck included (i)                     edu_z  b=-0.161 se=0.109 df=1.8  one-sided CR2 p=0.853 wild p=0.814  (two-sided 0.294/0.371)  G=27 N=741
+  Clay & Buck included (ii)                    edu_z  b=-0.146 se=0.113 df=2.4  one-sided CR2 p=0.845 wild p=0.893  (two-sided 0.310/0.214)  G=27 N=741
+  MeidasTouch dropped (i)                      elec   b=+0.081 se=0.087 df=2.5  one-sided CR2 p=0.217 wild p=0.262  (two-sided 0.435/0.524)  G=25 N=551
+  MeidasTouch dropped (ii)                     elec   b=+0.050 se=0.095 df=2.6  one-sided CR2 p=0.322 wild p=0.321  (two-sided 0.644/0.641)  G=25 N=551
+  MeidasTouch dropped (i)                      cyn4   b=-0.021 se=0.059 df=2.5  one-sided CR2 p=0.624 wild p=0.694  (two-sided 0.753/0.611)  G=25 N=553
+  MeidasTouch dropped (ii)                     cyn4   b=-0.020 se=0.063 df=2.6  one-sided CR2 p=0.614 wild p=0.676  (two-sided 0.772/0.649)  G=25 N=553
+  MeidasTouch dropped (i)                      edu_z  b=-0.097 se=0.118 df=2.6  one-sided CR2 p=0.759 wild p=0.919  (two-sided 0.483/0.161)  G=25 N=553
+  MeidasTouch dropped (ii)                     edu_z  b=-0.077 se=0.117 df=2.7  one-sided CR2 p=0.719 wild p=0.879  (two-sided 0.561/0.241)  G=25 N=553
+  survey-weighted (i)                          elec   b=+0.099 se=0.044 df=1.9  one-sided CR2 p=0.080 wild p=0.181  (two-sided 0.159/0.362)  G=26 N=720
+  survey-weighted (i)                          cyn4   b=+0.001 se=0.024 df=1.9  one-sided CR2 p=0.481 wild p=0.465  (two-sided 0.962/0.930)  G=26 N=722
+  survey-weighted (i)                          edu_z  b=-0.164 se=0.119 df=1.9  one-sided CR2 p=0.846 wild p=0.820  (two-sided 0.308/0.360)  G=26 N=722
+
+== leave-one-show-out, primary frame ==
+  (i) address                elec   b in [+0.030, +0.118]  one-sided CR2 p<.05 in 2/26 drops
+  (i) address                cyn4   b in [-0.024, +0.010]  one-sided CR2 p<.05 in 0/26 drops
+  (i) address                edu_z  b in [-0.361, -0.092]  one-sided CR2 p<.05 in 0/26 drops
+  (ii) address | intensity   elec   b in [-0.040, +0.081]  one-sided CR2 p<.05 in 1/26 drops
+  (ii) address | intensity   cyn4   b in [-0.027, +0.010]  one-sided CR2 p<.05 in 0/26 drops
+  (ii) address | intensity   edu_z  b in [-0.351, -0.077]  one-sided CR2 p<.05 in 0/26 drops
+
+== secondary: pooled with out-of-frame shows ==
+  1443 respondents, 36 shows
+  pooled (i) address                           elec   b=+0.100 se=0.052 df=3.5  one-sided CR2 p=0.068 wild p=0.136  (two-sided 0.137/0.271)  G=36 N=1437
+  pooled (ii) address | intensity              elec   b=+0.080 se=0.064 df=4.0  one-sided CR2 p=0.140 wild p=0.190  (two-sided 0.279/0.380)  G=36 N=1437
+  pooled (i) address                           cyn4   b=+0.009 se=0.050 df=3.5  one-sided CR2 p=0.435 wild p=0.421  (two-sided 0.870/0.842)  G=36 N=1441
+  pooled (ii) address | intensity              cyn4   b=-0.030 se=0.065 df=4.0  one-sided CR2 p=0.667 wild p=0.680  (two-sided 0.666/0.639)  G=36 N=1441
+  pooled (i) address                           edu_z  b=-0.149 se=0.067 df=3.5  one-sided CR2 p=0.949 wild p=0.930  (two-sided 0.101/0.139)  G=36 N=1441
+  pooled (ii) address | intensity              edu_z  b=-0.125 se=0.067 df=4.0  one-sided CR2 p=0.933 wild p=0.953  (two-sided 0.133/0.094)  G=36 N=1441
+  pooled, Rogan excl. (ii)                     elec   b=+0.108 se=0.048 df=3.7  one-sided CR2 p=0.047 wild p=0.090  (two-sided 0.093/0.181)  G=35 N=1104
+  pooled, Rogan excl. (ii)                     cyn4   b=+0.033 se=0.049 df=3.7  one-sided CR2 p=0.267 wild p=0.226  (two-sided 0.535/0.452)  G=35 N=1106
+  pooled, Rogan excl. (ii)                     edu_z  b=-0.106 se=0.065 df=3.7  one-sided CR2 p=0.908 wild p=0.938  (two-sided 0.183/0.124)  G=35 N=1106
+
+written: /home/dsyang/political-podcast-corpus/step7_audience/outputs/y2_test_results.csv

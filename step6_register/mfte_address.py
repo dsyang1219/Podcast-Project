@@ -30,7 +30,7 @@ from scipy import stats
 ROOT = Path(__file__).resolve().parents[1]
 MFTE_DIR = ROOT / "data/output/mfte_corpus"
 INPUTS = ROOT / "step7_audience/inputs"
-REF = ROOT / "handoff/prereg/dirz_reference_scale.csv"
+REF = ROOT / "data/output/dirz_reference_scale.csv"
 
 # ---------------------------------------------------------------- episode rates
 frames = []

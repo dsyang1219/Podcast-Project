@@ -1,0 +1,43 @@
+pooled 1200 listeners. Share naming each source type: corpus listeners vs full survey (Y1/Y2):
+  radio        listeners 9% | survey 12% / 9%
+  cable_tv     listeners 21% | survey 39% / 29%
+  network_tv   listeners 12% | survey 31% / 23%
+  newspaper    listeners 11% | survey 12% / 10%
+  youtube      listeners 8% | survey 11% / 11%
+  social       listeners 11% | survey 24% / 28%
+  podcast_word listeners 6% | survey 2% / 2%
+
+P(also names source type) ~ address, net of one-sidedness (+ controls), pooled | Y1 | Y2  (points per SD, CR2 p / wild p)
+  radio         -2.1 (0.27/0.26) |  -3.8 (0.17/0.20) |  -0.2 (0.94/0.94)
+  cable_tv      +1.9 (0.45/0.57) |  +0.5 (0.87/0.86) |  +3.8 (0.27/0.32)
+  network_tv    +3.9 (0.08/0.14) |  +2.2 (0.36/0.35) |  +5.7 (0.07/0.08)
+  newspaper     -6.8 (0.04/0.04) |  -7.3 (0.05/0.09) |  -6.1 (0.08/0.02)
+  youtube       +2.6 (0.11/0.10) |  +2.6 (0.30/0.39) |  +2.6 (0.06/0.03)
+  social        -0.6 (0.63/0.61) |  -1.3 (0.41/0.33) |  +0.2 (0.91/0.92)
+  podcast_word  -0.4 (0.81/0.83) |  +0.2 (0.92/0.92) |  -1.1 (0.47/0.47)
+
+same for ONE-SIDEDNESS net of address, pooled:
+  radio         -3.4 (0.19/0.22)
+  cable_tv      +2.8 (0.22/0.20)
+  network_tv    -0.6 (0.74/0.73)
+  newspaper     -8.8 (0.03/0.01)
+  youtube       +4.5 (0.01/0.01)
+  social        -2.8 (0.18/0.16)
+  podcast_word  -0.9 (0.57/0.57)
+
+age (years per SD of address, net one-sidedness): pooled/Y1/Y2
+  +1.62 (0.52/0.52)  +0.65 (0.78/0.76)  +2.45 (0.37/0.38)
+
+is the education link explained by ALSO listening to radio? education ~ address | one-sided + radio flag + age:
+  baseline                                   -0.212 (0.00/0.01)
+  + names radio                              -0.207 (0.00/0.00)
+  + names radio + cable + youtube + social   -0.196 (0.00/0.01)
+  within listeners who name NO radio source (1096): -0.207 (0.00/0.00)
+by show-address tercile (pooled): share naming a newspaper / network TV / YouTube; and share HS-or-less
+        n  newspaper  network_tv  youtube  radio     hs
+terc                                                   
+low   443      0.208       0.115    0.050  0.129  0.124
+mid   373      0.038       0.064    0.080  0.043  0.292
+high  384      0.065       0.169    0.102  0.081  0.253
+full survey newspaper share: Y1 12.3% Y2 10.4%
+newspaper ~ address | one-sided + EDUCATION: -6.2 pts (0.05/0.06)  [is it just education?]

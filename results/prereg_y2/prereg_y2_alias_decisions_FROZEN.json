@@ -1,0 +1,53 @@
+{
+ "rule3_additions": {
+  "heather cox richardson": "Letters from an American",
+  "breaking points": "Breaking Points with Krystal and Saagar",
+  "medias touch": "The MeidasTouch Podcast",
+  "brian tyler cohen": "No Lie with Brian Tyler Cohen",
+  "steven crowder": "Louder with Crowder",
+  "david pakman": "The David Pakman Show",
+  "victor davis hanson": "The Victor Davis Hanson Show",
+  "joy reid": "The Joy Reid Show",
+  "nick freitas": "Making the Argument with Nick Freitas",
+  "chris cuomo": "The Chris Cuomo Project",
+  "jim acosta": "The Jim Acosta Show",
+  "harry sisson": "The Harry Sisson Show",
+  "steve bannon": "Bannon`s War Room",
+  "owen shroyer": "Owen Report",
+  "sam seder": "The Majority Report with Sam Seder",
+  "russell brand": "Stay Free with Russell Brand",
+  "tom llamas": "NBC Nightly News with Tom Llamas",
+  "ari melber": "The Beat with Ari Melber",
+  "nicolle wallace": "Deadline: White House",
+  "lars larson": "The Lars Larson Show Pacific Northwest Podcast",
+  "katie phang": "Sidebar with Katie Phang",
+  "baron coleman": "Real Baron Podcast",
+  "jonah goldberg": "The Remnant with Jonah Goldberg",
+  "john solomon": "John Solomon Reports",
+  "hugh hewitt": "The Hugh Hewitt Show: Highly Concentrated",
+  "dana perino": "Perino on Politics",
+  "kaitlan collins": "The Source with Kaitlan Collins",
+  "robert reich": "The Coffee Klatch with Robert Reich",
+  "the bulwark": "The Bulwark Podcast",
+  "bulwark": "The Bulwark Podcast",
+  "breitbart": "The Breitbart News Daily Podcast",
+  "breitbart news": "The Breitbart News Daily Podcast"
+ },
+ "outlet_strings_flagged": [
+  "breitbart",
+  "breitbart news",
+  "bulwark",
+  "robert reich",
+  "the bulwark"
+ ],
+ "excluded_strings": {
+  "mark levin": "radio/TV host; corpus feed is the Fox show podcast, string ambiguous",
+  "joyce vance": "multi-host show, string names one host",
+  "rick wilson": "two corpus shows",
+  "jorge ramos": "multi-host",
+  "scott galloway": "multi-host"
+ },
+ "holdout_addition": "^(megan|meghan) kelly( show)?$ -> HOLDOUT_kelly",
+ "clay_and_buck": "excluded from primary as in Y1",
+ "min_resp_per_show": 3
+}

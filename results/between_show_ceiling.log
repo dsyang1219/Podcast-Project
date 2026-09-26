@@ -1,0 +1,27 @@
+=== 1. CEILING: how much of each outcome varies BETWEEN shows at all, net of party/attention/age/education/year? (pooled 1,200 / 63) ===
+outcome                    between-show var % explained by one-sided  by address  by both by all 9 address factors
+education                                9.7%                   2.8%        4.5%     4.9%                     7.0%
+election distrust                        4.4%                   2.9%        1.1%     2.9%                     3.6%
+cynicism                                 2.2%                   0.8%        0.3%     0.7%                     1.2%
+life ladder                              1.0%                   2.2%        0.4%     2.2%                     1.9%
+income difficulty                        3.4%                   2.4%        0.9%     2.4%                     2.7%
+social media time                        1.7%                   1.0%        0.5%     1.0%                     1.1%
+attention                                0.7%                   0.0%        0.0%     0.0%                     0.4%
+people like me valued                    2.0%                   1.1%        0.4%     1.1%                     0.6%
+democracy doing well                     7.2%                   0.1%        0.0%     0.0%                     3.0%
+trust media                              2.8%                   0.5%        0.2%     0.4%                     1.7%
+leaders accountable                      0.0%                   0.0%        0.1%     0.0%                     0.0%
+age                                     17.5%                   2.7%        1.6%     2.9%                    12.0%
+  (between-show var % = adjusted R2 of show fixed effects on the residual after controls; a show-level measure cannot exceed it)
+
+=== 2. TIME-MATCHED ADDRESS: address from episodes aired in the 12 months before each wave (Y1 fielded 2025; Y2 Apr-May 2026) ===
+  Y1: window 2024-04-01..2025-06-30: 178 shows with >=5 dated episodes; r(time-matched, all-time address) = 0.94
+  Y2: window 2025-04-01..2026-05-31: 199 shows with >=5 dated episodes; r(time-matched, all-time address) = 0.96
+  listeners with time-matched exposure: 1196 / 1200 in 61 shows
+  education            all-time address -0.213 (0.00/0.00) | time-matched -0.200 (0.01/0.01)  same 1196 listeners
+  election distrust    all-time address +0.058 (0.38/0.41) | time-matched +0.063 (0.28/0.27)  same 1196 listeners
+  cynicism             all-time address +0.036 (0.46/0.44) | time-matched +0.063 (0.10/0.08)  same 1196 listeners
+  life ladder          all-time address -0.023 (0.71/0.69) | time-matched -0.026 (0.67/0.65)  same 1196 listeners
+  income difficulty    all-time address +0.079 (0.21/0.15) | time-matched +0.097 (0.09/0.04)  same 1196 listeners
+  social media         all-time address +0.051 (0.45/0.41) | time-matched +0.061 (0.32/0.27)  same 1196 listeners
+  attention            all-time address -0.016 (0.58/0.58) | time-matched -0.020 (0.52/0.52)  same 1196 listeners
