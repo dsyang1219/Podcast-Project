@@ -41,7 +41,7 @@ show_id,chart_rank,show_name,show_label,publisher,excluded_reason
 1586423406,41,The Focus Group Podcast,The Focus Group Podcast,The Bulwark,
 91959525,42,This Week with George Stephanopoulos,This Week with George Stephanopoulos,ABC News,
 1529346075,43,Impolitic with John Heilemann,Impolitic with John Heilemann,Audacy | Puck,
-1788738240,44,It’s That Part,It’s That Part,Jesse Lee Hammonds,not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1788738240,44,It’s That Part,It’s That Part,Jesse Lee Hammonds,
 1515399733,46,No Lie with Brian Tyler Cohen,No Lie with Brian Tyler Cohen,Brian Tyler Cohen,
 1169056746,47,The Playbook Podcast,The Playbook Podcast,POLITICO,
 1495251160,48,John Solomon Reports,John Solomon Reports,John Solomon,
@@ -80,7 +80,7 @@ show_id,chart_rank,show_name,show_label,publisher,excluded_reason
 1517313007,88,The Hugh Hewitt Show: Highly Concentrated,The Hugh Hewitt Show: Highly Concentrated,Salem Podcast Network,
 1441649707,89,Straight White American Jesus,Straight White American Jesus,Bradley Onishi + Daniel Miller,
 1195206601,90,The Intercept Briefing,The Intercept Briefing,The Intercept,
-1889550138,91,The Loren Piretra Show,The Loren Piretra Show,Loren Piretra,not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1889550138,91,The Loren Piretra Show,The Loren Piretra Show,Loren Piretra,
 1538788132,92,Tangle,Tangle,Isaac Saul,
 1294461271,93,GZERO World with Ian Bremmer,GZERO World with Ian Bremmer,GZERO Media,
 1585243541,94,Human Events Daily with Jack Posobiec,Human Events Daily with Jack Posobiec,Human Events with Jack Posobiec,
@@ -106,7 +106,7 @@ show_id,chart_rank,show_name,show_label,publisher,excluded_reason
 1647025876,118,Wendy Bell Radio Podcast,Wendy Bell Radio Podcast,Wendy Bell,
 1378389941,119,Uncommon Knowledge,Uncommon Knowledge,Hoover Institution,
 1896576050,120,Brian Tyler Cohen,Brian Tyler Cohen,Brian Tyler Cohen Network,
-1494037881,121,Checks and Balance from The Economist,Checks and Balance from The Economist,The Economist,not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1494037881,121,Checks and Balance from The Economist,Checks and Balance from The Economist,The Economist,
 1715894000,123,Trump's Terms,Trump's Terms,NPR,
 1587492577,124,The Mel K Show,The Mel K Show,Mel K,
 1660317917,125,Defending Democracy with Marc Elias,Defending Democracy with Marc Elias,Democracy Docket,
@@ -126,15 +126,15 @@ show_id,chart_rank,show_name,show_label,publisher,excluded_reason
 925428680,142,Conversations with Bill Kristol,Conversations with Bill Kristol,Bill Kristol,
 1462195742,143,The Al Franken Podcast,The Al Franken Podcast,The Al Franken Podcast,
 1576614213,144,American Conservative University,American Conservative University,American Conservative University,
-1696250206,145,HasanAbi,HasanAbi,HasanAbi,not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1696250206,145,HasanAbi,HasanAbi,HasanAbi,
 1467993804,146,What the Hell Is Going On,What the Hell Is Going On,AEI Podcasts,
 1877144831,147,Paul Krugman Podcast,Paul Krugman Podcast,Paul Krugman,
-1849994842,148,Deseret Voices,Deseret Voices,Deseret News,not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1849994842,148,Deseret Voices,Deseret Voices,Deseret News,
 1709994511,149,UNGOVERNED,UNGOVERNED,Shawn Farash,
 73329719,150,KQED's Forum,KQED's Forum,KQED,
 1785081636,151,The Mary Trump Podcast,The Mary Trump Podcast,Mary Trump Media,
 1432118523,152,The Damage Report with John Iadarola,The Damage Report with John Iadarola,TYT Network,
-1896897095,153,Wired In,Wired In,The Daily Wire,not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1896897095,153,Wired In,Wired In,The Daily Wire,
 791564318,155,Jacobin Radio,Jacobin Radio,Jacobin,
 1843478428,156,Owen Report,Owen Report,Owen Shroyer,
 1531192509,157,Bad Faith,Bad Faith,Briahna Joy Gray,
@@ -158,7 +158,7 @@ show_id,chart_rank,show_name,show_label,publisher,excluded_reason
 1439837349,177,The Political Orphanage,The Political Orphanage,Andrew Heaton,
 1671451793,178,Maiden Mother Matriarch with Louise Perry,Maiden Mother Matriarch with Louise Perry,Louise Perry,
 1502568407,179,SGT Report’s The Propaganda Antidote,SGT Report’s The Propaganda Antidote,SGT Report,
-1875402719,180,Make It Make Sense,Make It Make Sense,The Washington Post,not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1875402719,180,Make It Make Sense,Make It Make Sense,The Washington Post,
 1607829807,181,Mark Kaye Saves The Republic,Mark Kaye Saves The Republic,Kayetriot Media,
 545045867,182,Scott Horton Show - Just the Interviews,Scott Horton Show - Just the Interviews,Scott Horton,
 1317356120,183,The Peter McCormack Show,The Peter McCormack Show,Peter McCormack,
@@ -170,7 +170,7 @@ show_id,chart_rank,show_name,show_label,publisher,excluded_reason
 1788891712,189,It's A Numbers Game with Ryan Girdusky,It's A Numbers Game with Ryan Girdusky,iHeartPodcasts,
 1654162813,190,The Kyle Seraphin Show,The Kyle Seraphin Show,Kyle Seraphin,
 1480605295,191,POLITICO Energy,POLITICO Energy,POLITICO,
-1763234285,192,Autocracy in America,Autocracy in America,The Atlantic,not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1763234285,192,Autocracy in America,Autocracy in America,The Atlantic,
 1648125917,193,Stay Free with Russell Brand,Stay Free with Russell Brand,Stay Free with Russell Brand,
 1612691018,194,THE WEEKEND SHOW,THE WEEKEND SHOW,Evergreen Podcasts,
 1880163995,195,The Kyle Kulinski Show,The Kyle Kulinski Show,Kyle Kulinski,
@@ -195,26 +195,26 @@ show_id,chart_rank,show_name,show_label,publisher,excluded_reason
 1485186805,219,Timothy Gordon Rules for Retrogrades Podcast,Timothy Gordon Rules for Retrogrades Podcast,Timothy Gordon,
 1567204040,221,The Drill Down with Peter Schweizer,The Drill Down with Peter Schweizer,Government Accountability Institute,
 1869456664,222,What's The Plan? with Leah Greenberg and Ezra Levin,What's The Plan? with Leah Greenberg and Ezra Levin,Indivisible,
-1599294971,223,Extremely American,Extremely American,NPR,not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1599294971,223,Extremely American,Extremely American,NPR,
 1614844654,224,Week In Review,Week In Review (FITSNews),FITSNews,
 1751785203,225,Brad vs Everyone,Brad vs Everyone,iHeartPodcasts,
-1871930209,226,Essential Minnesota,Essential Minnesota,Minnesota Star Tribune,not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1871930209,226,Essential Minnesota,Essential Minnesota,Minnesota Star Tribune,
 1599891719,229,Seattle Nice,Seattle Nice,"David Hyde, Erica Barnett, and Sandeep Kaushik",
 1368074498,230,The Lars Larson Show Pacific Northwest Podcast,The Lars Larson Show Pacific Northwest Podcast,Lars Larson,
 1800671132,231,Destiny,Destiny,Destiny,
-1801103648,232,The Nerd Reich,The Nerd Reich,nerdreich,not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1801103648,232,The Nerd Reich,The Nerd Reich,nerdreich,
 1208232103,233,The Buck Sexton Show,The Buck Sexton Show,Premiere Networks,
 1485021241,234,The Reason Interview With Nick Gillespie,The Reason Interview With Nick Gillespie,The Reason Interview With Nick Gillespie,
-1884144340,235,Get Angry,Get Angry,"Bryan Andrews, ItsLuke",not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1884144340,235,Get Angry,Get Angry,"Bryan Andrews, ItsLuke",
 1606834013,236,The Josh Hammer Show,The Josh Hammer Show,The Josh Hammer Show,
 1714009198,237,Mea Culpa,Mea Culpa,Michael Cohen,
 1839861250,238,The Moment with Jorge Ramos and Paola Ramos,The Moment with Jorge Ramos and Paola Ramos,iHeartPodcasts,
-1659250199,240,"Mueller, She Wrote - When the Facts Were Fresh","Mueller, She Wrote - When the Facts Were Fresh",MSW Media,not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1659250199,240,"Mueller, She Wrote - When the Facts Were Fresh","Mueller, She Wrote - When the Facts Were Fresh",MSW Media,
 1449848509,241,I Don't Speak German,I Don't Speak German,IDSG,
-1556687660,242,Candace Owens,Candace Owens,The Daily Wire,not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1556687660,242,Candace Owens,Candace Owens,The Daily Wire,
 1633301179,244,Countdown with Keith Olbermann,Countdown with Keith Olbermann,iHeartPodcasts,
 1482179882,245,The Mona Charen Show,The Mona Charen Show,The Bulwark,
 1112258664,246,Russian Roulette,Russian Roulette,Center for Strategic and International Studies,
-1871531782,248,Uncertain with DL Hughley,Uncertain with DL Hughley,DL Hughley,not in H25 transcript set; kept out of corpus by decision 2026-08-14
+1871531782,248,Uncertain with DL Hughley,Uncertain with DL Hughley,DL Hughley,
 1721969693,249,Politix,Politix,Politix,
 1351411911,250,The TPM Show with Josh and Kate,The TPM Show with Josh and Kate,Talking Points Memo,
