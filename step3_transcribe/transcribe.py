@@ -42,7 +42,7 @@ ARCHIVE_DIR = PROJECT_ROOT / "data/audio_archive"
 # comfortably — encoding runs ~100x realtime (~27s per episode) against a
 # consumption rate of roughly one episode per 25s.
 ARCHIVE_WORKERS = 1
-ARCHIVE_BITRATE = "24k"   # 16 kHz mono speech; keeps speaker embeddings intact
+ARCHIVE_BITRATE = "24k"   # 16 kHz mono speech (downmixed + resampled below); keeps speaker embeddings intact
 STATUS_CSV = PROJECT_ROOT / "data/output/transcribe_status.csv"
 STATUS_FIELDS = ["episode_id", "show_id", "engine", "model", "language",
                   "n_segments", "n_words", "realtime_factor", "wall_seconds"]
@@ -232,7 +232,8 @@ def archive_compress(path: Path) -> None:
     try:
         proc = subprocess.run(
             ["nice", "-n", "15", "ffmpeg", "-nostdin", "-y", "-v", "error",
-             "-i", str(path), "-c:a", "libopus", "-b:a", ARCHIVE_BITRATE,
+             "-i", str(path), "-vn", "-ac", "1", "-ar", "16000",
+             "-c:a", "libopus", "-b:a", ARCHIVE_BITRATE,
              "-application", "voip", "-f", "opus", str(out)],
             capture_output=True, timeout=1800)
     except (subprocess.TimeoutExpired, OSError) as e:

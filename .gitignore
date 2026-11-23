@@ -113,3 +113,30 @@ topic_arm/output/adclf/
 *.npy
 *.rds
 *.pkl
+
+# exploration slice built by step2_sample/build_sandbox.py (5+ GB); README.md is kept
+sandbox/*
+!sandbox/README.md
+!sandbox/stats.json
+!sandbox/figures/
+
+# Step 4 bulk data (audio archive, speaker layer, re-aligned and host-only transcripts) and logs stay local
+data/audio_archive/
+data/diarization/
+data/transcripts_v2/
+data/transcripts_host/
+step4_diarize/logs/
+# Step 4 tables of record (small) are committed; episode_speakers.csv (45 MB) and the labelling kit (audio) are not
+!data/output/corpus_show_list.csv
+!data/output/corpus_episode_table.csv
+!data/output/archive_failures.csv
+!data/output/diarization/
+data/output/diarization/*
+!data/output/diarization/show_hosts.csv
+!data/output/diarization/episode_hosts.csv
+!data/output/diarization/pilot_episodes.txt
+!data/output/diarization/handlabel_episodes.txt
+!data/output/diarization/priority_shows.txt
+!data/output/diarization/handlabel_*.csv
+!data/output/sample_out/sample_manifest_ladder_k30.csv
+!data/output/sample_out/sample_manifest_retry_deferred.csv

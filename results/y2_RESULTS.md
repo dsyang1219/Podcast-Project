@@ -505,3 +505,57 @@ p .21/.16; address alone −0.143 (df 1.8); Letters winsorised to −2.27: −0.
 (.00/.00). Ladder at freeze (18 Sept): census and bands 1–5 complete (98%), bands 6–10 and 11–15 each about half (53%,
 51%). The 15 shows dropped 219 -> 204 were not in the H25 transcript sample; decision recorded 14 Aug 2026
 (data/output/corpus_shows.csv, excluded_reason).
+
+## Distrust realm, final checks (8 Oct 2026)
+Cynicism scale: with items held fixed across waves (Q31, Q33E, Q33H; the reworded Q34B dropped), address alone Y1 +0.118
+(.08/.14), net of one-sidedness +0.018; Y2 +0.002; one-sidedness Y1 +0.31 (.00/.01), Y2 +0.01. Eight-item Y1 scale: address
+alone +0.152 (.03/.05), net +0.086 (.13/.13). The Y1 strength came from the composite and from one-sidedness, not the scale.
+Targeted battery (41 tests: address x one-sidedness, within one-sided / even-handed shows, top third, components, stance
+index, party, education, year, single items) for election distrust and cynicism: 2 raw p<.05 (Dem listeners -> election
+distrust +0.145 .03/.08; stance index -> election distrust +0.146 .007/.008), 0 at BH q<.10.
+Pew W165 media trust (3,201 respondents using exactly one of 9 matched sources; cluster = source): address alone predicts
+less trust in national news (−0.40, .08/.06) and more mainstream outlets distrusted (+0.65, .06/.07), but net of the
+source's side (audience Republican share) address is −0.15 (.76) and +0.03 (.95); within right-leaning sources no pattern
+(Fox 0.28 vs Rogan 0.97 vs Tucker 1.65 on residual share distrusted); within left n.s. Trust in social media +0.27 net
+one-sided (.02/.05) but +0.23 (.32) net of side. Media distrust follows the side of the source, not address.
+
+## Stance index -> election distrust, full test (8 Oct 2026)
+Chart corpus (1,200/63): stance (doing commands − "you know") net one-sidedness +0.146 (.01/.01); Y1 +0.117 (.14), Y2
++0.193 (.02/.04); LOSO 63/63; Dem listeners +0.153 (.01/.02), Rep +0.06, Ind +0.20 n.s.; neither half significant alone
+(doing +0.08 .08, −you know +0.14 .07). Adding the 64th show (distilled one-sidedness) -> +0.086 (.06/.08).
+FULL POOL with the ten out-of-frame big shows (2,693 / 74; Rogan 693): stance net one-sidedness +0.075 (.23/.23); Y1
++0.016 (.80); Y2 +0.115 (.13/.16); Rogan excluded +0.049 (.44); big shows only +0.030 (.78); LOSO CR2 p<.05 in 1/74.
+Address composite +0.044 (.57). One-sidedness net stance +0.124 (.15/.12) on the full pool (net address it was +0.24).
+Big-show residual distrust does not order by stance (Bongino 2.96 -> +0.50, Beck 1.34 -> +0.28, Shapiro 0.69 -> −0.13,
+Rogan 0.18 -> +0.01, Tucker −0.30 -> +0.32). Verdict: the stance lead is a chart-corpus artefact; it does not survive the
+shows where address is strongest. Future Work only.
+
+## Behavioural items in the Pew waves (8 Oct 2026)
+W118 (206 main-podcast listeners of 10 scored shows): followed on social media, paid subscription, merchandise, joined
+a group, watched/bought/donated because of a podcast, discussion frequency, listening frequency, number of podcasts — all
+null for address (|b| <= .05). One exception: "made a change in your life because of a podcast" (50% of these listeners;
+18% of all main-podcast namers): address net one-sided +0.122 (.05/.12); doing commands +0.069 (.04/.06); one-sidedness
+net address −0.248 (.00/.01); political-topic namers only +0.081 (.04/.02, N 119); Rogan excluded +0.069 (.92/.03, p-values
+disagree). Rogan's audience (84, 63% "made a change", mostly non-political main topic) drives it. Lead only.
+W165 (3,201 exactly-one users, 9 sources, cluster by source): pays for news, community meeting, donated, fixed a local
+problem, gave blood — null for address net of source side. "Intentionally seeks out news" −0.26 per SD net of source side
+(p .01, t(8)); within right −0.16 (.08), within left −0.29 (.18). Consistent with the newspaper result (address audiences
+are less active news-seekers) but 9 clusters; lead only. Kettering attention (Q19) is null for address within the corpus.
+
+## Institutional trust, closing checks (8 Oct 2026)
+8-item Q33 confidence block (identical wording both years; higher = less confidence), address net of one-sidedness: pooled
++0.010 (.88); within left shows +0.001, within right −0.013; Y1 +0.025, Y2 +0.004; alone +0.052 (.44); by education HS
++0.089 (.23), some college −0.015, BA+ −0.026. One-sidedness net address +0.122 (.16/.14). Q31 accountability: pooled
++0.054 (.15/.11), Y1 −0.003, Y2 +0.102 (.13/.07) — the Y2 "more trusting" signal of 24 Sept does not hold on this frame.
+Pew W165 generalized social trust (most people / change in trust / neighbors): address net of source side −0.09, −0.09,
+−0.06, all n.s.; within right and within left n.s. Institutional and social trust: nothing for address, any cut, any source.
+
+## The Year 1 cynicism result for address, full treatment on the consistent frame (8 Oct 2026)
+Discovery composite (Q35E press, Q35C courts, Q34B, Q33H), Y1 maximal frame (540 / 51): address alone +0.171 (.01/.03);
+net one-sidedness +0.099 (.05/.04); dir_z (discovery measure) net one-sidedness +0.146 (.02/.02); one-sidedness net address
++0.277 (.00/.00). Items net one-sided: Q35C courts +0.107 (.05/.07), Q34B +0.120 (.08/.11), Q35E press +0.051 n.s., Q33H media
++0.007. LOSO b in [+0.057, +0.112], p<.05 in 30/51 drops; permutation p .09; Dem +0.13 (.20), Rep +0.21 (.17/.03), Ind −0.08;
+within left shows +0.126 (.08), within right +0.113 (.34). The two items that carry it (Q35C, Q34B) were not asked
+identically in Year 2 (Q35 absent; Q34B reworded), so it cannot be replicated. Status: a borderline Year 1 result that
+survives the one-sidedness control at p ≈ .05 but not leave-one-show-out, permutation, or any subgroup, and is untestable
+in Year 2. Report as unreplicated if at all.
