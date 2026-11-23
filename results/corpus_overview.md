@@ -2,11 +2,11 @@
 
 **Code, tables of record and this document:** https://github.com/dsyang1219/Podcast-Project (branch `main`). Bulk data (audio, transcripts, speaker-layer files) stays on the lab machine; the tables and scripts that produce every number here are in the repository.
 
-*State of the data on 23 November 2026. Numbers come from the files named in each section; the episode-level table behind most of them is `data/output/corpus_episode_table.csv`, rebuilt from the transcripts on this date. The corpus described here is the 204-show frame only; the ten out-of-frame shows that were transcribed for a separate generalization test (section 4) are not counted anywhere in this document.*
+*State of the data on 23 November 2026. Numbers come from the files named in each section; the episode-level table behind most of them is `data/output/corpus_episode_table.csv`, rebuilt from the transcripts on this date. The frame is 219 shows; 204 are transcribed at the time of writing and the fifteen reinstated on 23 November 2026 are being transcribed, so every count below covers the 204 unless it says otherwise. The ten out-of-frame shows that were transcribed for a separate generalization test (section 4) are not counted anywhere in this document.*
 
 ## 1. What it is, in one paragraph
 
-A transcribed and speaker-labelled archive of the US political podcast chart. It starts from the 250 shows on the Apple Podcasts US Politics chart on 13 July 2026, keeps the 204 with a working feed, US political content and a usable catalogue, and samples their back catalogues by a fixed rule: every episode published before 2018 and up to 30 episodes per show per quarter after that. The result is 84,355 transcribed episodes, 74,600 hours of audio, 745 million words, covering March 2006 to July 2026, with 2026 alone contributing 11,930 episodes in six and a half months. Every episode with retrievable audio (81,381, 96.5%) also carries speaker turns, per-speaker voice embeddings and a host label. Alongside the text sit show-level measures (listener-directed address, one-sidedness, outrage, register), host identities and donations, Brookings partisan labels, two waves of a national survey matched to the shows by respondents' own answers, Pew microdata and 16,434 Apple reviews.
+A transcribed and speaker-labelled archive of the US political podcast chart. It starts from the 250 shows on the Apple Podcasts US Politics chart on 13 July 2026, keeps the 219 with a working feed, US political content and a usable catalogue (204 transcribed so far, 15 reinstated on 23 November and in progress), and samples their back catalogues by a fixed rule: every episode published before 2018 and up to 30 episodes per show per quarter after that. The result is 84,355 transcribed episodes, 74,600 hours of audio, 745 million words, covering March 2006 to July 2026, with 2026 alone contributing 11,930 episodes in six and a half months. Every episode with retrievable audio (81,381, 96.5%) also carries speaker turns, per-speaker voice embeddings and a host label. Alongside the text sit show-level measures (listener-directed address, one-sidedness, outrage, register), host identities and donations, Brookings partisan labels, two waves of a national survey matched to the shows by respondents' own answers, Pew microdata and 16,434 Apple reviews.
 
 ## 2. The frame: which shows
 
@@ -24,7 +24,7 @@ A transcribed and speaker-labelled archive of the US political podcast chart. It
 | R5 not US politics | 14 | The Rest Is Politics (UK), Americast (BBC), TRIGGERnometry (UK), NARITAS (French), El hilo (Spanish) |
 | R6 under 10 hours of audio in the catalogue | 12 | The Five, Fox News Sunday Audio, PBS News Hour Brooks and Capehart, The Economist's Tocqueville Road Trip: clip feeds |
 
-That leaves 219 shows. Fifteen of them were set aside by a recorded decision on 14 August 2026, because they were not in the first transcript set when the measures were built and the frame was fixed (Candace Owens, HasanAbi, Autocracy in America, Checks and Balance from The Economist, Deseret Voices, Essential Minnesota, Extremely American, Get Angry, It's That Part, Make It Make Sense, Mueller She Wrote, The Loren Piretra Show, The Nerd Reich, Uncertain with DL Hughley, Wired In). The corpus described in this document is those **204 shows**, listed in Appendix A. **Update, 23 November 2026:** the fifteen were reinstated for the rebuild of the analysis on the finished corpus, so the frame is now exactly the 219 rule-passing shows (`data/output/frame_decisions.md`). Fourteen of the fifteen are at the catalogue floor (10–55 hours); the fifteenth is the Daily Wire-era *Candace Owens* feed (302 hours), a second feed of a host whose current show *Candace* was already in. Their 750 ladder episodes (425 hours) are queued for transcription behind the re-transcription run; every count in this document predates them and will be refreshed when they land. `corpus.csv` carries each show's chart rank, publisher, feed URL, Apple genre fields, feed author and owner, feed episode count (153,102 episodes listed across the 219 feeds, median 416 per show) and hours available (132,163). Publishers are fragmented: iHeartPodcasts (9 shows), The Bulwark (6), Fox News Podcasts (5), NPR, Premiere Networks and MSW Media (3 each) are the largest. Brookings' partisan labels were joined afterwards to validate the one-sidedness measure and never used to select shows.
+That leaves 219 shows. Fifteen of them were set aside by a recorded decision on 14 August 2026, because they were not in the first transcript set when the measures were built and the frame was fixed (Candace Owens, HasanAbi, Autocracy in America, Checks and Balance from The Economist, Deseret Voices, Essential Minnesota, Extremely American, Get Angry, It's That Part, Make It Make Sense, Mueller She Wrote, The Loren Piretra Show, The Nerd Reich, Uncertain with DL Hughley, Wired In). On 23 November 2026 they were reinstated for the rebuild of the analysis on the finished corpus, so the frame is exactly the **219 rule-passing shows**, listed in Appendix A (`data/output/frame_decisions.md`). Fourteen of the fifteen are at the catalogue floor (10–55 hours); the fifteenth is the Daily Wire-era *Candace Owens* feed (302 hours), a second feed of a host whose current show *Candace* was already in. Their 750 ladder episodes (425 hours) are being transcribed now; the counts in this document cover the 204 shows transcribed to date and will be refreshed when they land. `corpus.csv` carries each show's chart rank, publisher, feed URL, Apple genre fields, feed author and owner, feed episode count (153,102 episodes listed across the 219 feeds, median 416 per show) and hours available (132,163). Publishers are fragmented: iHeartPodcasts (9 shows), The Bulwark (6), Fox News Podcasts (5), NPR, Premiere Networks and MSW Media (3 each) are the largest. Brookings' partisan labels were joined afterwards to validate the one-sidedness measure and never used to select shows.
 
 **The analysis set.** The paper's models use **194 of the 204** (`show_level_outcomes.csv`): the frame frozen on 18 September 2026 as a table of 31,191 episodes (census and bands 1–5 complete, bands 6–15 partial at the freeze), with the 204 → 194 step recorded in `results/mfte_measure.md`. The 194 hold 83,689 of the 84,355 episodes (73,958 hours, 738 million words); 125 lean left and 69 right by the one-sidedness measure. The full corpus described here is the superset that finished transcribing on 6 November 2026; the paper's frozen table does not change.
 
@@ -74,7 +74,7 @@ Rogan talks about politics in about one passage in thirty, Shawn Ryan in one in 
 
 | | |
 |---|---|
-| shows | 204 |
+| shows | 204 transcribed (of 219; 15 in progress) |
 | episodes | 84,355 |
 | audio hours | 74,600 |
 | words | 744.8 million |
@@ -224,7 +224,7 @@ Identifiers: `show_id` is the Apple collection id; `episode_id` is a 16-hex-char
 
 ## 12. Known limits
 
-- **Not all of the chart.** 31 of 250 chart shows were excluded by rule and 15 more by decision; the 194 analysis shows are the chart's US political core, not its entirety, and the large cross-genre talk shows are outside it by construction (section 4).
+- **Not all of the chart.** 31 of 250 chart shows are excluded by rule; the 194 analysis shows used in the paper are a frozen subset of the 219-show frame; and the large cross-genre talk shows are outside it by construction (section 4).
 - **Sampling, not census, after 2017.** Prolific shows are capped at 30 episodes per quarter, so episode counts across shows are not proportional to output.
 - **Audio gaps.** 3.5% of episodes have no audio and therefore no speaker layer; six shows account for most of it.
 - **Timestamp alignment.** 48% of transcripts are being re-aligned to the archived audio; until that finishes, segment-level speaker labels for those episodes are flagged `aligned: false` and excluded from host-only text.
@@ -253,9 +253,9 @@ Identifiers: `show_id` is the Apple collection id; `episode_id` is a 16-hex-char
 
 The per-show maximum is the census: a show with a large pre-2018 catalogue contributes all of it, while post-2018 contributions are capped at five per quarter. `sandbox/README.md` documents the files and the distributions; `--bands 1` or `--bands 15` rebuild the slice at other depths.
 
-## Appendix A. The 204 shows in the corpus
+## Appendix A. The 219 shows in the frame
 
-Chart rank on 13 July 2026; episodes and hours transcribed; lean from the one-sidedness measure (L/R, the 194 analysis shows only); fixed host = a voice recurs in ≥ 70% of diarized episodes; political density = political passages per 10,000 words (median 157 across the frame). The ten shows in the corpus but not in the 194-show analysis set are marked with an asterisk.
+Chart rank on 13 July 2026; episodes and hours transcribed; lean from the one-sidedness measure (L/R, the 194 analysis shows only); fixed host = a voice recurs in ≥ 70% of diarized episodes; political density = political passages per 10,000 words (median 157 across the frame). Shows in the corpus but outside the 194-show analysis set are starred. The fifteen reinstated on 23 November 2026 show their feed size in place of transcribed counts and are marked †.
 
 | rank | show | publisher | episodes | hours | years | lean | fixed host | pol./10k |
 |---|---|---|---|---|---|---|---|---|
@@ -301,6 +301,7 @@ Chart rank on 13 July 2026; episodes and hours transcribed; lean from the one-si
 | 41 | The Focus Group Podcast | The Bulwark | 162 | 149 | 2022–2026 | L | yes | 243 |
 | 42 | This Week with George Stephanopoulos | ABC News | 60 | 50 | 2025–2026 | R | yes | 275 |
 | 43 | Impolitic with John Heilemann | Audacy / Puck | 382 | 472 | 2020–2026 | L | yes | 146 |
+| 44 | It’s That Part† | Jesse Lee Hammonds | 28 in feed | 12 in feed | 2025–2026 |  |  |  |
 | 46 | No Lie with Brian Tyler Cohen | Brian Tyler Cohen | 353 | 256 | 2020–2026 | L | yes | 262 |
 | 47 | The Playbook Podcast | POLITICO | 1,318 | 163 | 2016–2026 | L | no | 349 |
 | 48 | John Solomon Reports | John Solomon | 811 | 640 | 2020–2026 | R | yes | 189 |
@@ -339,6 +340,7 @@ Chart rank on 13 July 2026; episodes and hours transcribed; lean from the one-si
 | 88 | The Hugh Hewitt Show: Highly Concentrated | Salem Podcast Network | 73 | 86 | 2026–2026 | R | yes | 138 |
 | 89 | Straight White American Jesus | Bradley Onishi + Daniel Mill | 777 | 367 | 2018–2026 | L | yes | 96 |
 | 90 | The Intercept Briefing | The Intercept | 404 | 381 | 2017–2026 | L | no | 152 |
+| 91 | The Loren Piretra Show† | Loren Piretra | 103 in feed | 23 in feed | 2026–2026 |  |  |  |
 | 92 | Tangle | Isaac Saul | 637 | 400 | 2020–2026 | L | yes | 211 |
 | 93 | GZERO World with Ian Bremmer | GZERO Media | 437 | 199 | 2017–2026 | L | yes | 143 |
 | 94 | Human Events Daily with Jack Posobiec | Human Events with Jack Posob | 336 | 246 | 2021–2026 | R | no | 125 |
@@ -364,6 +366,7 @@ Chart rank on 13 July 2026; episodes and hours transcribed; lean from the one-si
 | 118 | Wendy Bell Radio Podcast | Wendy Bell | 109 | 69 | 2026–2026 | R | yes | 192 |
 | 119 | Uncommon Knowledge | Hoover Institution | 100 | 104 | 2022–2026 | R | yes | 101 |
 | 120 | Brian Tyler Cohen* | Brian Tyler Cohen Network | 123 | 27 | 2026–2026 |  | yes | 283 |
+| 121 | Checks and Balance from The Economist† | The Economist | 19 in feed | 10 in feed | 2020–2026 |  |  |  |
 | 123 | Trump's Terms | NPR | 384 | 58 | 2023–2026 | L | yes | 350 |
 | 124 | The Mel K Show* | Mel K | 62 | 90 | 2026–2026 |  | yes | 149 |
 | 125 | Defending Democracy with Marc Elias | Democracy Docket | 240 | 153 | 2022–2026 | L | yes | 298 |
@@ -383,12 +386,15 @@ Chart rank on 13 July 2026; episodes and hours transcribed; lean from the one-si
 | 142 | Conversations with Bill Kristol | Bill Kristol | 322 | 387 | 2014–2026 | L | yes | 179 |
 | 143 | The Al Franken Podcast | The Al Franken Podcast | 391 | 354 | 2019–2026 | L | yes | 159 |
 | 144 | American Conservative University | American Conservative Univer | 275 | 214 | 2024–2026 | R | no | 113 |
+| 145 | HasanAbi† | HasanAbi | 42 in feed | 24 in feed | 2026–2026 |  |  |  |
 | 146 | What the Hell Is Going On | AEI Podcasts | 200 | 180 | 2023–2026 | R | yes | 190 |
 | 147 | Paul Krugman Podcast | Paul Krugman | 76 | 31 | 2025–2026 | L | yes | 133 |
+| 148 | Deseret Voices† | Deseret News | 41 in feed | 24 in feed | 2025–2026 |  |  |  |
 | 149 | UNGOVERNED | Shawn Farash | 76 | 78 | 2026–2026 | R | yes | 153 |
 | 150 | KQED's Forum | KQED | 795 | 658 | 2020–2026 | L | no | 89 |
 | 151 | The Mary Trump Podcast | Mary Trump Media | 94 | 30 | 2024–2026 | L | no | 166 |
 | 152 | The Damage Report with John Iadarola | TYT Network | 985 | 877 | 2018–2026 | L | yes | 152 |
+| 153 | Wired In† | The Daily Wire | 18 in feed | 19 in feed | 2026–2026 |  |  |  |
 | 155 | Jacobin Radio | Jacobin | 1,182 | 1,349 | 2017–2026 | L | no | 111 |
 | 156 | Owen Report | Owen Shroyer | 103 | 319 | 2025–2026 | R | yes | 164 |
 | 157 | Bad Faith | Briahna Joy Gray | 100 | 87 | 2025–2026 | L | yes | 111 |
@@ -412,6 +418,7 @@ Chart rank on 13 July 2026; episodes and hours transcribed; lean from the one-si
 | 177 | The Political Orphanage | Andrew Heaton | 580 | 588 | 2018–2026 | R | yes | 89 |
 | 178 | Maiden Mother Matriarch with Louise Perry | Louise Perry | 270 | 226 | 2023–2026 | R | yes | 34 |
 | 179 | SGT Report’s The Propaganda Antidote* | SGT Report | 77 | 71 | 2026–2026 |  | yes | 111 |
+| 180 | Make It Make Sense† | The Washington Post | 42 in feed | 24 in feed | 2026–2026 |  |  |  |
 | 181 | Mark Kaye Saves The Republic | Kayetriot Media | 265 | 302 | 2024–2026 | R | yes | 242 |
 | 182 | Scott Horton Show - Just the Interviews | Scott Horton | 509 | 367 | 2021–2026 | L | yes | 113 |
 | 183 | The Peter McCormack Show | Peter McCormack | 944 | 1,355 | 2017–2026 | R | yes | 44 |
@@ -423,6 +430,7 @@ Chart rank on 13 July 2026; episodes and hours transcribed; lean from the one-si
 | 189 | It's A Numbers Game with Ryan Girdusky | iHeartPodcasts | 162 | 124 | 2025–2026 | R | yes | 215 |
 | 190 | The Kyle Seraphin Show | Kyle Seraphin | 449 | 610 | 2022–2026 | R | yes | 120 |
 | 191 | POLITICO Energy | POLITICO | 868 | 138 | 2019–2026 | L | no | 167 |
+| 192 | Autocracy in America† | The Atlantic | 29 in feed | 15 in feed | 2024–2026 |  |  |  |
 | 193 | Stay Free with Russell Brand | Stay Free with Russell Brand | 436 | 433 | 2022–2026 | R | yes | 88 |
 | 194 | THE WEEKEND SHOW | Evergreen Podcasts | 233 | 270 | 2022–2026 | L | yes | 181 |
 | 195 | The Kyle Kulinski Show | Kyle Kulinski | 263 | 362 | 2022–2026 | L | no | 207 |
@@ -447,20 +455,27 @@ Chart rank on 13 July 2026; episodes and hours transcribed; lean from the one-si
 | 219 | Timothy Gordon Rules for Retrogrades Podcast | Timothy Gordon | 416 | 467 | 2019–2026 | R | no | 31 |
 | 221 | The Drill Down with Peter Schweizer | Government Accountability In | 267 | 119 | 2021–2026 | R | yes | 197 |
 | 222 | What's The Plan? with Leah Greenberg and Ezra Levin | Indivisible | 26 | 26 | 2026–2026 | L | yes | 188 |
+| 223 | Extremely American† | NPR | 27 in feed | 13 in feed | 2021–2026 |  |  |  |
 | 224 | Week In Review | FITSNews | 215 | 172 | 2022–2026 | R | no | 103 |
 | 225 | Brad vs Everyone | iHeartPodcasts | 295 | 178 | 2024–2026 | R | yes | 114 |
+| 226 | Essential Minnesota† | Minnesota Star Tribune | 30 in feed | 11 in feed | 2026–2026 |  |  |  |
 | 229 | Seattle Nice | David Hyde, Erica Barnett, a | 198 | 118 | 2021–2026 | L | no | 81 |
 | 230 | The Lars Larson Show Pacific Northwest Podcast* | Lars Larson | 44 | 72 | 2026–2026 |  | yes | 156 |
 | 231 | Destiny | Destiny | 191 | 298 | 2025–2026 | L | yes | 141 |
+| 232 | The Nerd Reich† | nerdreich | 20 in feed | 16 in feed | 2025–2026 |  |  |  |
 | 233 | The Buck Sexton Show | Premiere Networks | 1,249 | 1,400 | 2017–2026 | R | yes | 160 |
 | 234 | The Reason Interview With Nick Gillespie | The Reason Interview With Ni | 99 | 95 | 2024–2026 | R | yes | 101 |
+| 235 | Get Angry† | Bryan Andrews, ItsLuke | 18 in feed | 11 in feed | 2026–2026 |  |  |  |
 | 236 | The Josh Hammer Show | The Josh Hammer Show | 76 | 57 | 2026–2026 | R | yes | 163 |
 | 237 | Mea Culpa | Michael Cohen | 272 | 343 | 2020–2026 | L | yes | 202 |
 | 238 | The Moment with Jorge Ramos and Paola Ramos | iHeartPodcasts | 43 | 43 | 2025–2026 | L | yes | 106 |
+| 240 | Mueller, She Wrote - When the Facts Were Fresh† | MSW Media | 51 in feed | 55 in feed | 2017–2026 |  |  |  |
 | 241 | I Don't Speak German | IDSG | 238 | 290 | 2019–2026 | L | yes | 50 |
+| 242 | Candace Owens† | The Daily Wire | 574 in feed | 302 in feed | 2021–2026 |  |  |  |
 | 244 | Countdown with Keith Olbermann | iHeartPodcasts | 457 | 433 | 2022–2026 | L | yes | 152 |
 | 245 | The Mona Charen Show | The Bulwark | 287 | 280 | 2019–2026 | L | yes | 205 |
 | 246 | Russian Roulette | Center for Strategic and Int | 163 | 120 | 2018–2026 | L | no | 110 |
+| 248 | Uncertain with DL Hughley† | DL Hughley | 26 in feed | 19 in feed | 2026–2026 |  |  |  |
 | 249 | Politix | Politix | 134 | 87 | 2023–2026 | L | yes | 292 |
 | 250 | The TPM Show with Josh and Kate | Talking Points Memo | 473 | 433 | 2018–2026 | L | yes | 169 |
 
@@ -502,6 +517,4 @@ Chart rank on 13 July 2026; episodes and hours transcribed; lean from the one-si
 | 243 | RONZHEIMER. | R5_non_us_politics | rss_language='de' (non-English feed) |
 | 247 | Azad / آزاد | R5_non_us_politics | rss_language='fa' (non-English feed) |
 
-**Dropped by decision on 14 August 2026** (15 shows: not in the first transcript set when the design was fixed, kept out so the frame is the one the measures were built on):
-
-Autocracy in America, Candace Owens, Checks and Balance from The Economist, Deseret Voices, Essential Minnesota, Extremely American, Get Angry, HasanAbi, It’s That Part, Make It Make Sense, Mueller, She Wrote - When the Facts Were Fresh, The Loren Piretra Show, The Nerd Reich, Uncertain with DL Hughley, Wired In
+The fifteen shows set aside by decision on 14 August 2026 were reinstated on 23 November 2026 (Appendix A, †; `data/output/frame_decisions.md`).
