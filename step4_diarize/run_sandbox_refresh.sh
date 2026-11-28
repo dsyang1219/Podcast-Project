@@ -12,7 +12,7 @@ for l in open('$LIST'):
     if not os.path.exists(f'data/transcripts_v2/{s}/{e}.json'): n+=1
 print(n)"; }
 echo "[$(date -u +%FT%TZ)] waiting; sandbox episodes without v2: $(remaining)"
-while [ "$(remaining)" != "0" ]; do sleep 1800; done
+while [ "$(remaining)" != "0" ]; do sleep 300; done
 echo "[$(date -u +%FT%TZ)] all sandbox episodes re-transcribed; relabelling and rebuilding"
 ../whisperx-env/bin/python step4_diarize/diarize.py --reassign-only 2>&1 | grep -E "^\[" | cut -c1-120
 .venv/bin/python step4_diarize/identify_hosts.py 2>&1 | tail -3

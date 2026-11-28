@@ -1,27 +1,27 @@
 {
- "shows": 204,
- "episodes": 24711,
- "hours": 21913,
- "words_M": 214.7,
+ "shows": 219,
+ "episodes": 24961,
+ "hours": 22058,
+ "words_M": 216.2,
  "census": 6207,
- "ladder": 18504,
- "length_median_min": 51.0,
- "length_p10": 18.4,
- "length_p90": 87.8,
- "per_show_median": 85,
+ "ladder": 18754,
+ "length_median_min": 50.9,
+ "length_p10": 18.3,
+ "length_p90": 87.6,
+ "per_show_median": 84,
  "per_show_min": 6,
  "per_show_max": 1591,
- "diarized": 23646,
+ "diarized": 23896,
  "speakers_median": 5.0,
  "host_status": {
-  "host_found": 20796,
-  "no_fixed_host": 2416,
-  "host_absent": 434
+  "host_found": 21032,
+  "no_fixed_host": 2425,
+  "host_absent": 439
  },
- "aligned_share": 0.419,
+ "aligned_share": 1.0,
  "transcript_source": {
-  "original": 20866,
-  "archive": 3845
+  "archive": 13749,
+  "original": 11212
  },
  "years": {
   "2006": [
@@ -73,8 +73,8 @@
    2144
   ],
   "2018": [
-   760,
-   661
+   769,
+   672
   ],
   "2019": [
    963,
@@ -85,32 +85,32 @@
    1166
   ],
   "2021": [
-   1683,
-   1482
+   1704,
+   1490
   ],
   "2022": [
-   2118,
-   1899
+   2143,
+   1910
   ],
   "2023": [
-   2476,
-   2215
+   2497,
+   2228
   ],
   "2024": [
-   2959,
-   2599
+   2991,
+   2618
   ],
   "2025": [
-   3511,
-   3226
+   3556,
+   3252
   ],
   "2026": [
-   2751,
-   2547
+   2848,
+   2603
   ]
  },
  "files": {
-  "transcripts": 24711,
-  "diarization": 23647
+  "transcripts": 24961,
+  "diarization": 23897
  }
 }
