@@ -140,3 +140,6 @@ data/output/diarization/*
 !data/output/diarization/handlabel_*.csv
 !data/output/sample_out/sample_manifest_ladder_k30.csv
 !data/output/sample_out/sample_manifest_retry_deferred.csv
+
+# ideology scaling run logs
+step4_ideology/logs/
